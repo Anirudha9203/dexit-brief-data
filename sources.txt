@@ -1,0 +1,22 @@
+# name | url
+ET Education News | https://education.economictimes.indiatimes.com/news
+ET Government Policies | https://education.economictimes.indiatimes.com/news/government-policies
+ET Edutech | https://education.economictimes.indiatimes.com/news/edutech
+ET Industry | https://education.economictimes.indiatimes.com/news/industry
+ET Partnerships | https://education.economictimes.indiatimes.com/news/partnerships-and-collaborations
+ET International | https://education.economictimes.indiatimes.com/news/international
+ET Emerging Tech | https://education.economictimes.indiatimes.com/news/emerging-technologies
+HT Education | https://www.hindustantimes.com/education
+HT Competitive Exams | https://www.hindustantimes.com/education/competitive-exams
+HT Employment News | https://www.hindustantimes.com/education/employment-news
+HT Board Exams | https://www.hindustantimes.com/education/board-exams
+HT Exam Results | https://www.hindustantimes.com/education/exam-results
+Indian Express Education | https://indianexpress.com/section/education/
+Inshorts Education | https://inshorts.com/en/read/education
+Careers360 Exam News | https://news.careers360.com/exam-news
+Free Press Journal Education | https://www.freepressjournal.in/education
+Medical Dialogues Admissions | https://medicaldialogues.in/news/education/medical-admissions
+TenderDetail CBT Delhi | https://www.tenderdetail.com/State-tenders/delhi-tenders/cbt-tenders
+TenderDetail End-to-end Exam | https://www.tenderdetail.com/Indian-tender/end-to-end-examination-tenders
+TenderDetail On-screen Marking | https://www.tenderdetail.com/Indian-tender/onscreen-marking-tenders
+NTA Tenders | https://www.nta.ac.in/tender
