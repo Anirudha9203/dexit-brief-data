@@ -1,0 +1,2500 @@
+{
+ "scraped_at": "2026-10-24T11:11:28.309930+05:30",
+ "sources": [
+  {
+   "name": "ET Education News",
+   "url": "https://education.economictimes.indiatimes.com/news",
+   "status": 200,
+   "error": null,
+   "items": [
+    {
+     "title": "India’s Education leaders meet in Goa today: ETEducation Chancellors’ Conclave 2026 begins",
+     "url": "https://education.economictimes.indiatimes.com/news/higher-education/indias-education-leaders-meet-in-goa-today-eteducation-chancellors-conclave-2026-begins/135114399?utm_source=top_story&utm_medium=latestNews",
+     "summary": ""
+    },
+    {
+     "title": "Choosing the right degree: Why informed decisions matter more than following the crowd",
+     "url": "https://education.economictimes.indiatimes.com/news/industry/choosing-the-right-degree-why-informed-decisions-matter-more-than-following-the-crowd/135139134?utm_source=top_story&utm_medium=latestNews",
+     "summary": ""
+    },
+    {
+     "title": "Indian students in US: Rising headcount masks a shift in enrolment as costs mount",
+     "url": "https://education.economictimes.indiatimes.com/news/international/indian-students-in-us-rising-headcount-masks-a-shift-in-enrolment-as-costs-mount/135073565?utm_source=top_story&utm_medium=latestNews",
+     "summary": ""
+    },
+    {
+     "title": "How Lighthouse Learning’s Prajodh Rajan manages quality across EuroSchool, Billabong and Heritage Xperiential",
+     "url": "https://education.economictimes.indiatimes.com/news/school-education/how-lighthouse-learnings-prajodh-rajan-manages-quality-across-euroschool-billabong-and-heritage-xperiential/135023330?utm_source=top_story&utm_medium=latestNews",
+     "summary": ""
+    },
+    {
+     "title": "Schools must teach children to ask better questions, not memorise answers: Macro Vision Academy founder",
+     "url": "https://education.economictimes.indiatimes.com/news/school-education/schools-must-teach-children-to-ask-better-questions-not-memorise-answers-macro-vision-academy-founder/134998542?utm_source=top_story&utm_medium=latestNews",
+     "summary": ""
+    },
+    {
+     "title": "World Students’ Day 2026 special: One big reset, five higher education leaders and the skills students need for life",
+     "url": "https://education.economictimes.indiatimes.com/news/higher-education/world-students-day-2026-special-one-big-reset-five-higher-education-leaders-and-the-skills-students-need-for-life/134961855?utm_source=top_story&utm_medium=latestNews",
+     "summary": ""
+    },
+    {
+     "title": "World Students’ Day 2026 special: Little questions, big insights on learning, life and student survival",
+     "url": "https://education.economictimes.indiatimes.com/news/school-education/world-students-day-2026-special-little-questions-big-insights-on-learning-life-and-student-survival/134949302?utm_source=top_story&utm_medium=latestNews",
+     "summary": ""
+    },
+    {
+     "title": "What higher education must prepare students for in the next 5–10 years: Amrita Pro VC on why jobs aren't enough",
+     "url": "https://education.economictimes.indiatimes.com/news/higher-education/what-higher-education-must-prepare-students-for-in-the-next-510-years-amrita-pro-vc-on-why-jobs-arent-enough/134895741?utm_source=top_story&utm_medium=latestNews",
+     "summary": ""
+    },
+    {
+     "title": "The Founder’s Circle - Pradeep Gupta: The untold story behind building Sharda University",
+     "url": "https://education.economictimes.indiatimes.com/videos/the-founders-circle-pradeep-gupta-the-untold-story-behind-building-sharda-university/134894725?utm_source=top_story&utm_medium=latestNews",
+     "summary": ""
+    },
+    {
+     "title": "Download ETEducation App for Realtime updates",
+     "url": "https://education.economictimes.indiatimes.com/app",
+     "summary": "Seamless reading experience. Save your favourite."
+    },
+    {
+     "title": "NMC withdraws medical education standards regulations, retains annual disclosure requirement",
+     "url": "https://education.economictimes.indiatimes.com/news/higher-education/nmc-withdraws-medical-education-standards-regulations-retains-annual-disclosure-requirement/135017393?utm_source=most_read&utm_medium=latestNews",
+     "summary": ""
+    },
+    {
+     "title": "JEE Advanced attempt rules may come up for review as IIT Council begins discussions",
+     "url": "https://education.economictimes.indiatimes.com/news/higher-education/jee-advanced-attempt-rules-may-come-up-for-review-as-iit-council-begins-discussions/134946375?utm_source=most_read&utm_medium=latestNews",
+     "summary": ""
+    },
+    {
+     "title": "Georgia's statement on medical degrees: What Indian students need to know",
+     "url": "https://education.economictimes.indiatimes.com/news/higher-education/georgias-statement-on-medical-degrees-what-indian-students-need-to-know/135087902?utm_source=most_read&utm_medium=latestNews",
+     "summary": ""
+    },
+    {
+     "title": "Schools must teach children to ask better questions, not memorise answers: Macro Vision Academy founder",
+     "url": "https://education.economictimes.indiatimes.com/news/school-education/schools-must-teach-children-to-ask-better-questions-not-memorise-answers-macro-vision-academy-founder/134998542?utm_source=most_read&utm_medium=latestNews",
+     "summary": ""
+    },
+    {
+     "title": "How Lighthouse Learning’s Prajodh Rajan manages quality across EuroSchool, Billabong and Heritage Xperiential",
+     "url": "https://education.economictimes.indiatimes.com/news/school-education/how-lighthouse-learnings-prajodh-rajan-manages-quality-across-euroschool-billabong-and-heritage-xperiential/135023330?utm_source=most_read&utm_medium=latestNews",
+     "summary": ""
+    },
+    {
+     "title": "UGC seeks governors’ intervention over fee refunds by 82 Tamil Nadu institutions",
+     "url": "https://education.economictimes.indiatimes.com/news/government-policies/ugc-seeks-governors-intervention-over-fee-refunds-by-82-tamil-nadu-institutions/135043696?utm_source=most_read&utm_medium=latestNews",
+     "summary": ""
+    },
+    {
+     "title": "IIM Udaipur launches one-year MBA in investment, wealth management",
+     "url": "https://education.economictimes.indiatimes.com/news/higher-education/iim-udaipur-launches-one-year-mba-in-investment-wealth-management/135111554?utm_source=most_read&utm_medium=latestNews",
+     "summary": ""
+    },
+    {
+     "title": "J&K school body calls for action against dummy schools, urges regular attendance",
+     "url": "https://education.economictimes.indiatimes.com/news/school-education/jk-school-body-calls-for-action-against-dummy-schools-urges-regular-attendance/135028532?utm_source=most_read&utm_medium=latestNews",
+     "summary": ""
+    },
+    {
+     "title": "Maharashtra cancels December CET, moves both attempts after class 12 boards",
+     "url": "https://education.economictimes.indiatimes.com/news/higher-education/maharashtra-cancels-december-cet-moves-both-attempts-after-class-12-boards/135063636?utm_source=most_read&utm_medium=latestNews",
+     "summary": ""
+    },
+    {
+     "title": "Universities, colleges must move beyond being degree-granting institutions: Former UGC Chairperson",
+     "url": "https://education.economictimes.indiatimes.com/news/higher-education/universities-colleges-must-move-beyond-being-degree-granting-institutions-former-ugc-chairperson/135144732?utm_source=newslisting&utm_medium=latestNews",
+     "summary": "Addressing an ICMAI student convention, M Jagadesh Kumar highlights the role of Gen Z, skill-based education and innovation in achieving Viksit Bharat 2047. He suggested that institutions build academic capabilities beyond failure and that graduating students must accomplish a future-ready portfolio"
+    },
+    {
+     "title": "IIIT-Bangalore and Poland’s AGH University sign MoU for academic and research collaboration",
+     "url": "https://education.economictimes.indiatimes.com/news/partnerships-and-collaborations/iiit-bangalore-and-polands-agh-university-sign-mou-for-academic-and-research-collaboration/135143860?utm_source=newslisting&utm_medium=latestNews",
+     "summary": "IIIT-Bangalore and AGH University of Krakow sign an MoU to strengthen India-Poland academic ties through joint research, faculty exchanges and student mobility."
+    },
+    {
+     "title": "AI-led universities must rethink teaching, assessment and faculty roles without losing human touch: Education leaders",
+     "url": "https://education.economictimes.indiatimes.com/news/higher-education/ai-led-universities-must-rethink-teaching-assessment-and-faculty-roles-without-losing-human-touch-education-leaders/135143708?utm_source=newslisting&utm_medium=latestNews",
+     "summary": "At the ETEducation Chancellors’ Conclave 2026, university leaders and education technology experts called for institution-wide AI integration, redesigned assessment models, faculty reskilling and human-centred learning to prepare graduates for an increasingly AI-driven workforce."
+    },
+    {
+     "title": "Universities must focus on research, innovation and job creation to build lasting value: Dr H Purushotham",
+     "url": "https://education.economictimes.indiatimes.com/news/higher-education/universities-must-focus-on-research-innovation-and-job-creation-to-build-lasting-value-dr-h-purushotham/135143172?utm_source=newslisting&utm_medium=latestNews",
+     "summary": "Speaking at the ETEducation Chancellors’ Conclave 2026, Dr H Purushotham, Secretary, Department of Science, Technology & Innovation, Government of Andhra Pradesh, called for stronger research ecosystems, equitable R&D funding and entrepreneurship-driven education to develop India's next generation o"
+    },
+    {
+     "title": "Goa unveils AI Policy proposing AI fundamentals for Classs 6 to 12, targets 25% women",
+     "url": "https://education.economictimes.indiatimes.com/news/school-education/goa-unveils-ai-policy-proposing-ai-fundamentals-for-classs-6-to-12-targets-25-women/135142323?utm_source=newslisting&utm_medium=latestNews",
+     "summary": "Goa has launched its AI Policy 2026, proposing AI fundamentals for Classes VI–XII from 2027–28, AI labs in up to 50 government schools and training for 500 teachers to strengthen AI education."
+    },
+    {
+     "title": "Gujarat Govt directs schools to act as students' guardians under ‘in loco parentis’ principle",
+     "url": "https://education.economictimes.indiatimes.com/news/school-education/gujarat-govt-directs-schools-to-act-as-students-guardians-under-in-loco-parentis-principle/135142039?utm_source=newslisting&utm_medium=latestNews",
+     "summary": "The Gujarat government has directed schools to ensure students’ safety and well-being under the ‘in loco parentis’ principle, stressing preventive measures, staff vigilance and effective child protection mechanisms."
+    },
+    {
+     "title": "Education should serve humanity, students must drive research and innovation: Governor Anandiben Patel",
+     "url": "https://education.economictimes.indiatimes.com/news/higher-education/education-should-serve-humanity-students-must-drive-research-and-innovation-governor-anandiben-patel/135141281?utm_source=newslisting&utm_medium=latestNews",
+     "summary": "Maharishi University of Information Technology, Lucknow, awarded degrees and diplomas to 2,279 students at its 7th Convocation Ceremony, where Uttar Pradesh Governor Anandiben Patel emphasised research, innovation and opportunities in space exploration."
+    },
+    {
+     "title": "Research must reach every student, not remain confined to select institutions: Prof Savio P. Falleiro",
+     "url": "https://education.economictimes.indiatimes.com/news/higher-education/research-must-reach-every-student-not-remain-confined-to-select-institutions-prof-savio-p-falleiro/135141149?utm_source=newslisting&utm_medium=latestNews",
+     "summary": "Speaking at the ETEducation Chancellors’ Conclave 2026, Prof Savio P. Falleiro, Managing Director, Goa State Research Foundation, Government of Goa, highlighted how inclusive research funding, interdisciplinary collaboration and institutional mentoring can strengthen scientific inquiry and innovatio"
+    },
+    {
+     "title": "Goa strengthens higher education through faculty training, leadership development and AI skilling",
+     "url": "https://education.economictimes.indiatimes.com/news/higher-education/goa-strengthens-higher-education-through-faculty-training-leadership-development-and-ai-skilling/135140971?utm_source=newslisting&utm_medium=latestNews",
+     "summary": "Speaking at the ETEducation Chancellors’ Conclave 2026, Shri Bhushan K. Savoikar, Director, Directorate of Higher Education & Technical Education, Government of Goa, outlined the state's initiatives to strengthen academic leadership, faculty capabilities, industry readiness and AI adoption across ed"
+    },
+    {
+     "title": "World-class universities need research investment, not just rankings and infrastructure: Prof Vithal Tilvi",
+     "url": "https://education.economictimes.indiatimes.com/news/higher-education/world-class-universities-need-research-investment-not-just-rankings-and-infrastructure-prof-vithal-tilvi/135140605?utm_source=newslisting&utm_medium=latestNews",
+     "summary": "Speaking at the ETEducation Chancellors’ Conclave 2026, Prof Vithal Tilvi, Distinguished Astronomer and Professor, Centre for Research, Development & Innovation, Goa State Higher Education Council, emphasised that sustained research funding, advanced scientific facilities and meaningful student expe"
+    },
+    {
+     "title": "AI must move from a support function to core university infrastructure: Google Cloud's Vaibhav Srivastava",
+     "url": "https://education.economictimes.indiatimes.com/news/industry/ai-must-move-from-a-support-function-to-core-university-infrastructure-google-clouds-vaibhav-srivastava/135140446?utm_source=newslisting&utm_medium=latestNews",
+     "summary": "Speaking at the ETEducation Chancellors’ Conclave 2026, Vaibhav Kumar Srivastava, Head – Education & Edtechs, India & SAARC, Google Cloud, outlined how AI-powered learning, curriculum integration and digital campus solutions can improve student outcomes, faculty productivity and institutional effici"
+    },
+    {
+     "title": "ETEducation Chancellors’ Conclave 2026: Universities urged to adapt AI, curriculum reforms, research-led innovation",
+     "url": "https://education.economictimes.indiatimes.com/news/higher-education/eteducation-chancellors-conclave-2026-universities-urged-to-adapt-ai-curriculum-reforms-research-led-innovation/135138504?utm_source=newslisting&utm_medium=latestNews",
+     "summary": "On the inaugural day of ETEducation Chancellors’ Conclave 2026, the education leaders and industry experts called on universities to go beyond degree-focused education, embed AI into all disciplines, enhance students' lifelong employability, and establish research-led institutions to position India "
+    },
+    {
+     "title": "India must overhaul research, policy and industry collaboration to become global education hub by 2047: Experts",
+     "url": "https://education.economictimes.indiatimes.com/news/higher-education/india-must-overhaul-research-policy-and-industry-collaboration-to-become-global-education-hub-by-2047-experts/135137327?utm_source=newslisting&utm_medium=latestNews",
+     "summary": "At the ETEducation Chancellors’ Conclave 2026, university leaders and industry experts called for greater institutional autonomy, sustained research funding, globally relevant skills and stronger industry-academia partnerships to position India as a leading destination for education and innovation b"
+    },
+    {
+     "title": "Indian universities must rethink curricula, assessments and AI adoption to stay globally competitive: Education leaders",
+     "url": "https://education.economictimes.indiatimes.com/news/higher-education/indian-universities-must-rethink-curricula-assessments-and-ai-adoption-to-stay-globally-competitive-education-leaders/135137178?utm_source=newslisting&utm_medium=latestNews",
+     "summary": "At the ETEducation Chancellors’ Conclave 2026, university leaders and education technology experts discussed how AI-driven learning, industry collaboration, digital infrastructure and flexible academic models can help Indian higher education institutions respond to evolving workforce demands."
+    },
+    {
+     "title": "Universities must evolve from centres of learning to engines of research and innovation: Dr H Purushotham",
+     "url": "https://education.economictimes.indiatimes.com/news/higher-education/universities-must-evolve-from-centres-of-learning-to-engines-of-research-and-innovation-dr-h-purushotham/135136729?utm_source=newslisting&utm_medium=latestNews",
+     "summary": "Speaking at the ETEducation Chancellors’ Conclave 2026, Dr H Purushotham, Secretary, Department of Science, Technology & Innovation, Government of Andhra Pradesh, called for stronger research investment, industry-academia collaboration and entrepreneurship-led education to strengthen India's global "
+    },
+    {
+     "title": "Universities must shift from placement readiness to lifelong employability in AI era: Navisha Prabhakar",
+     "url": "https://education.economictimes.indiatimes.com/news/industry/universities-must-shift-from-placement-readiness-to-lifelong-employability-in-ai-era-navisha-prabhakar/135136105?utm_source=newslisting&utm_medium=latestNews",
+     "summary": "Speaking at the ETEducation Chancellors’ Conclave 2026, Navisha Prabhakar, Regional Head Education-South & West, Google Cloud, emphasised the need for AI-integrated education, industry-academia collaboration and continuous skill development to prepare students for an evolving workforce. Highlighting"
+    },
+    {
+     "title": "Universities must move beyond degrees to stay relevant in AI era: Dr Chenraj Roychand",
+     "url": "https://education.economictimes.indiatimes.com/news/higher-education/universities-must-move-beyond-degrees-to-stay-relevant-in-ai-era-dr-chenraj-roychand/135135566?utm_source=newslisting&utm_medium=latestNews",
+     "summary": "Speaking at the ETEducation Chancellors’ Conclave 2026, Dr Chenraj Roychand, Chancellor of JAIN (Deemed-to-be University) and Founder Chairman of JAIN Group, called for a fundamental shift towards personalised, skill-based and innovation-driven education as AI challenges traditional university model"
+    },
+    {
+     "title": "Union Minister Pralhad Joshi meets Canadian officials to discuss university partnerships, student mobility",
+     "url": "https://education.economictimes.indiatimes.com/news/government-policies/union-minister-pralhad-joshi-meets-canadian-officials-to-discuss-university-partnerships-student-mobility/135117183?utm_source=newslisting&utm_medium=latestNews",
+     "summary": "Union Minister Pralhad Joshi held talks with Canadian High Commissioner Christopher Cooter and Trade Commissioner Amy Antonini on strengthening India–Canada cooperation in education, research and innovation."
+    },
+    {
+     "title": "PM-DAKSH scheme trained 1.87 lakh candidates, 96,162 received job offers: Union Ministry",
+     "url": "https://education.economictimes.indiatimes.com/news/industry/pm-daksh-scheme-trained-1-87-lakh-candidates-96162-received-job-offers-union-ministry/135115412?utm_source=newslisting&utm_medium=latestNews",
+     "summary": "The PM-DAKSH scheme trained over 1.87 lakh candidates from 2020-21 to 2023-24, with 96,162 receiving job offers, according to factsheet issued by the Ministry of Social Justice and Empowerment. The scheme intends to provide skill training to SC, OBC, EWS, De-notified Tribes (DNTs)."
+    }
+   ]
+  },
+  {
+   "name": "ET Government Policies",
+   "url": "https://education.economictimes.indiatimes.com/news/government-policies",
+   "status": 200,
+   "error": null,
+   "items": [
+    {
+     "title": "Union Minister Pralhad Joshi meets Canadian officials to discuss university partnerships, student mobility",
+     "url": "https://education.economictimes.indiatimes.com/news/government-policies/union-minister-pralhad-joshi-meets-canadian-officials-to-discuss-university-partnerships-student-mobility/135117183?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "Jammu & Kashmir approves stipend hike for MBBS, BDS interns, including FMGs",
+     "url": "https://education.economictimes.indiatimes.com/news/government-policies/jammu-kashmir-approves-stipend-hike-for-mbbs-bds-interns-including-fmgs/135111933?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "Jharkhand schools to adopt new SOP for gender equality, inclusive learning",
+     "url": "https://education.economictimes.indiatimes.com/news/government-policies/jharkhand-schools-to-adopt-new-sop-for-gender-equality-inclusive-learning/135108878?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "Madhya Pradesh announces 20,000 education jobs, distributes 954 appointment letters",
+     "url": "https://education.economictimes.indiatimes.com/news/government-policies/madhya-pradesh-announces-20000-education-jobs-distributes-954-appointment-letters/135089788?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "Gujarat drafts AI mission to train 5 lakh students and 5,000 teachers",
+     "url": "https://education.economictimes.indiatimes.com/news/government-policies/gujarat-drafts-ai-mission-to-train-5-lakh-students-and-5000-teachers/135084152?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "Gujarat assigns additional charge of skill development, education posts ahead of VGGS 2027",
+     "url": "https://education.economictimes.indiatimes.com/news/government-policies/gujarat-assigns-additional-charge-of-skill-development-education-posts-ahead-of-vggs-2027/135070962?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "Maharashtra bars contract staff from sensitive university exam duties after paper leaks",
+     "url": "https://education.economictimes.indiatimes.com/news/government-policies/maharashtra-bars-contract-staff-from-sensitive-university-exam-duties-after-paper-leaks/135070835?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "PM-SETU: UP ITIs to get modern labs, industry training and placement links",
+     "url": "https://education.economictimes.indiatimes.com/news/government-policies/pm-setu-up-itis-to-get-modern-labs-industry-training-and-placement-links/135066824?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "Telangana to implement 25% RTE quota for EWS and disadvantaged children",
+     "url": "https://education.economictimes.indiatimes.com/news/government-policies/telangana-to-implement-25-rte-quota-for-ews-and-disadvantaged-children/135062691?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "Download ETEducation App for Realtime updates",
+     "url": "https://education.economictimes.indiatimes.com/app",
+     "summary": "Seamless reading experience. Save your favourite."
+    },
+    {
+     "title": "Aadhaar verification required for PM CARES children’s scholarships, benefits cannot be denied",
+     "url": "https://education.economictimes.indiatimes.com/news/government-policies/aadhaar-verification-required-for-pm-cares-childrens-scholarships-benefits-cannot-be-denied/135050980?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "The Centre has mandated Aadhaar authentication or proof of possession for beneficiaries of the PM CARES for Children scholarship scheme, while allowing alternative identity verification for children without Aadhaar or those facing authentication failures."
+    },
+    {
+     "title": "UGC seeks governors’ intervention over fee refunds by 82 Tamil Nadu institutions",
+     "url": "https://education.economictimes.indiatimes.com/news/government-policies/ugc-seeks-governors-intervention-over-fee-refunds-by-82-tamil-nadu-institutions/135043696?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "The UGC has flagged 150 complaints involving admissions cancelled between 2021–22 and 2025–26, with fees paid ranging from ₹2,535 to ₹4 lakh, and urged governors’ offices to enforce its refund policy."
+    },
+    {
+     "title": "UP government issues LoI for Sai Global University in Aligarh",
+     "url": "https://education.economictimes.indiatimes.com/news/government-policies/up-government-issues-loi-for-sai-global-university-in-aligarh/135041746?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "The proposed university is expected to expand higher and professional education opportunities in the region, with the sponsoring organisation given two years to fulfil the mandatory conditions under the UP Private Universities Act, 2019."
+    },
+    {
+     "title": "Delhi notifies DITI as education and public policy advisory body",
+     "url": "https://education.economictimes.indiatimes.com/news/government-policies/delhi-notifies-diti-as-education-and-public-policy-advisory-body/135023512?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "DITI will advise the Delhi government on education policy, development strategy and institutional reforms, according to an official notification."
+    },
+    {
+     "title": "Kerala plans skill development centres in schools from upper primary level",
+     "url": "https://education.economictimes.indiatimes.com/news/government-policies/kerala-plans-skill-development-centres-in-schools-from-upper-primary-level/135022613?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "General Education Minister N Samsudheen said the government also plans to upgrade single-teacher schools to lower primary level and has sanctioned 60 additional Plus One batches in Malappuram district."
+    },
+    {
+     "title": "Bihar prioritises affordable medical education in proposed PPP medical colleges",
+     "url": "https://education.economictimes.indiatimes.com/news/government-policies/bihar-prioritises-affordable-medical-education-in-proposed-ppp-medical-colleges/135015061?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "Chief Minister Samrat Choudhary said Bihar-based investors and doctors would get preference in brownfield medical college projects, with the government seeking to expand capacity while protecting public interest and patient rights."
+    },
+    {
+     "title": "Karnataka offers land, financial support for NLSIU Bengaluru campus expansion",
+     "url": "https://education.economictimes.indiatimes.com/news/government-policies/karnataka-offers-land-financial-support-for-nlsiu-bengaluru-campus-expansion/135014776?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "Chief Minister D.K. Shivakumar said the government would meet the university’s infrastructure needs as NLSIU laid the foundation stone for a new South Block, auditorium and student centre."
+    },
+    {
+     "title": "Kerala begins steps to appoint permanent vice-chancellors across state universities",
+     "url": "https://education.economictimes.indiatimes.com/news/government-policies/kerala-begins-steps-to-appoint-permanent-vice-chancellors-across-state-universities/134990936?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "Higher Education Minister Roji M John told the Assembly that the government is working to fill the vacancies and aims to develop the state into a leading higher education hub."
+    },
+    {
+     "title": "Maharashtra to make six years minimum age for Class 1 admission from 2030-31",
+     "url": "https://education.economictimes.indiatimes.com/news/government-policies/maharashtra-to-make-six-years-minimum-age-for-class-1-admission-from-2030-31/134989839?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "Revised age criteria for nursery, junior KG and senior KG will be phased in from 2027-28, with children required to meet the prescribed age by June 30 of the relevant academic year."
+    },
+    {
+     "title": "Assam to expand Nijut Moina, Nijut Babu schemes to more universities, nursing students",
+     "url": "https://education.economictimes.indiatimes.com/news/government-policies/assam-to-expand-nijut-moina-nijut-babu-schemes-to-more-universities-nursing-students/134989623?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "Chief Minister Himanta Biswa Sarma said the schemes currently cover 5.42 lakh students, with the government also considering an increase in monthly financial assistance."
+    },
+    {
+     "title": "Bihar orders scrutiny of education staff salaries after irregularities flagged",
+     "url": "https://education.economictimes.indiatimes.com/news/government-policies/bihar-orders-scrutiny-of-education-staff-salaries-after-irregularities-flagged/134989516?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "The department has a workforce of over six lakh teachers and other staff across the state."
+    }
+   ]
+  },
+  {
+   "name": "ET Edutech",
+   "url": "https://education.economictimes.indiatimes.com/news/edutech",
+   "status": 200,
+   "error": null,
+   "items": [
+    {
+     "title": "'Built for parents, not students': Ankur Warikoo's take on why most Indian EdTech companies struggled",
+     "url": "https://education.economictimes.indiatimes.com/news/edutech/built-for-parents-not-students-ankur-warikoos-take-on-why-most-indian-edtech-companies-struggled/132115448?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "Byju’s tablets, laptops gather dust in warehouse as insolvency drags on",
+     "url": "https://education.economictimes.indiatimes.com/news/edutech/byjus-tablets-laptops-gather-dust-in-warehouse-as-insolvency-drags-on/132115324?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "Coempt breaks silence on CBSE-OSM controversy, says its records open for scrutiny",
+     "url": "https://education.economictimes.indiatimes.com/news/edutech/coempt-eduteck-addresses-cbse-on-screen-marking-controversy/131841750?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "IITM Pravartak Announces Batch 03 of Applied Artificial Intelligence and Deep Learning Programme",
+     "url": "https://education.economictimes.indiatimes.com/news/edutech/iitm-pravartak-launches-batch-03-for-advanced-artificial-intelligence-and-deep-learning-training/131806975?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "IIT Kharagpur to use AI to monitor signs of academic stress in students",
+     "url": "https://education.economictimes.indiatimes.com/news/edutech/iit-kharagpur-implements-ai-to-combat-student-academic-stress-and-ensure-mental-well-being/131799256?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "Edtech Major UNIVO Appoints Nitin Golani as Chief Executive Officer",
+     "url": "https://education.economictimes.indiatimes.com/news/edutech/univo-elevates-nitin-golani-to-ceo-amid-online-education-expansion/131757876?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "How global AI forums are redefining university credibility",
+     "url": "https://education.economictimes.indiatimes.com/news/edutech/how-global-ai-forums-are-redefining-university-credibility/131588062?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "PhysicsWallah surges on scrapping direct lending for student financing",
+     "url": "https://education.economictimes.indiatimes.com/news/edutech/physicswallah-surges-on-scrapping-direct-lending-for-student-financing/131507265?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "CCPA fines PhysicsWallah Rs 5 lakh for dark pattern practices, McAfee penalised Rs 1 lakh",
+     "url": "https://education.economictimes.indiatimes.com/news/edutech/ccpa-fines-physicswallah-rs-5-lakh-for-dark-pattern-practices-mcafee-penalised-rs-1-lakh/131484702?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "Download ETEducation App for Realtime updates",
+     "url": "https://education.economictimes.indiatimes.com/app",
+     "summary": "Seamless reading experience. Save your favourite."
+    },
+    {
+     "title": "PhysicsWallah dials down schools push after investor unease",
+     "url": "https://education.economictimes.indiatimes.com/news/edutech/physicswallah-dials-down-schools-push-after-investor-unease/131484477?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "PhysicsWallah is shifting its K-12 expansion strategy to an asset-light, online-led model, moving away from capital-intensive school operations. This pivot aims to reassure investors by focusing on school partnerships and online platforms, while limiting K-12 revenue contribution to less than 1%."
+    },
+    {
+     "title": "CERT-In warned CBSE over flaws in online evaluation portal in February and May",
+     "url": "https://education.economictimes.indiatimes.com/news/edutech/cert-in-warned-cbse-over-flaws-in-online-evaluation-portal-in-february-and-may/131474446?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "India's cyber security watchdog, CERT-In, has detected critical vulnerabilities in the online assessment system of CBSE. Despite numerous alerts about these shortcomings, one portal was flagged as not fit for live operations. The IT ministry has since informed a parliamentary committee of the situat"
+    },
+    {
+     "title": "Schools reopen in Karnataka; AI attendance system debuts in pre-university colleges",
+     "url": "https://education.economictimes.indiatimes.com/news/edutech/schools-reopen-in-karnataka-ai-attendance-system-debuts-in-pre-university-colleges/131463114?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "​Under the initiative named ‘Nirantara,’ instead of a roll call, lecturers just take a quick group photo of the classroom on their mobile phones to mark attendance. The daily attendance data captured through the system will be integrated and recorded automatically into the Student Achievement Tracki"
+    },
+    {
+     "title": "As AI-ML takes education throne, Gujarat colleges add 1,500 seats",
+     "url": "https://education.economictimes.indiatimes.com/news/edutech/as-ai-ml-takes-education-throne-gujarat-colleges-add-1500-seats/131457211?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "​As all tech — from phones to productivity tools — takes the AI-powered capability leap, the next race to capitalise on this power is playing out at educational institutes. Several institutes have been introducing specialised courses, course modules, and electives to their programmes since 2025."
+    },
+    {
+     "title": "PhysicsWallah aims to grow revenue by over 30% this fiscal, leverage AI to cut cost",
+     "url": "https://education.economictimes.indiatimes.com/news/edutech/physicswallah-aims-to-grow-revenue-by-over-30-pc-this-fiscal-leverage-ai-to-cut-cost/131433154?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "The company recently reported narrowing of consolidated loss to Rs 69.14 crore in the fourth quarter ended March 31, 2026 due to increase in enrolments and average revenue per person from a loss of Rs 289.27 crore in the same period a year ago.="
+    },
+    {
+     "title": "India's student founders are betting on deep tech, and it's reshaping the country's startup map",
+     "url": "https://education.economictimes.indiatimes.com/news/edutech/indias-student-entrepreneurs-driving-the-deep-tech-revolution/131271512?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "The finding marks a dramatic reversal: deep tech was not even in the top five categories four years ago. It now accounts for 16.87% of the student startup funnel — a 13.5 percentage point swing — in a dataset that has grown to more than 7,300 startups evaluated through 2025, a 52% jump over the prev"
+    },
+    {
+     "title": "Unacademy cofounder Sumit Jain exits ahead of upGrad deal",
+     "url": "https://education.economictimes.indiatimes.com/news/edutech/unacademy-cofounder-sumit-jain-exits-ahead-of-upgrad-deal/131224255?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "The move was announced through LinkedIn posts by Jain and Unacademy CEO Gaurav Munjal on Monday. Munjal said Jain had helped build creator platform Graphy and played a key role in making the company’s offline business profitable. “Sumit joined us as co-founder in 2020 and since then helped us build "
+    },
+    {
+     "title": "Physicswallah shares fall 5% as IPO lock-in expiry frees up Rs 2,949 crore worth of shares",
+     "url": "https://education.economictimes.indiatimes.com/news/edutech/physicswallah-shares-plunge-5-as-lock-in-expiry-triggers-sell-off-worth-rs-2949-crore/131172726?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "Physicswallah shares had made a healthy market debut in November last year, listing with a premium of 33% over the IPO price at Rs 145 apiece on NSE. This came after the Rs 3,481 crore IPO was subscribed nearly 2 times its offer size, primarily driven by strong interest from the qualified institutio"
+    },
+    {
+     "title": "CBSE says on screen marking improved accuracy and transparency",
+     "url": "https://education.economictimes.indiatimes.com/news/edutech/cbse-says-on-screen-marking-improved-accuracy-and-transparency/131093862?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "​This year, Central Board of Secondary Education introduced the on-screen marking (OSM) system for evaluating Class XII answer sheets, replacing the traditional physical checking process with a digital assessment platform."
+    },
+    {
+     "title": "Adapt or perish: AI skills now needed in all engineering disciplines",
+     "url": "https://education.economictimes.indiatimes.com/news/edutech/adapt-or-perish-ai-skills-now-needed-in-all-engineering-disciplines/131066331?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "Remain AI agnostic at your own peril, warn experts. As artificial intelligence blurs lines between engineering branches, students must get used to handling AI tools and learn cross-discipline skills"
+    },
+    {
+     "title": "Google-backed Adda247 cuts 20% workforce amid slowing revenue",
+     "url": "https://education.economictimes.indiatimes.com/news/edutech/google-backed-adda247-cuts-20-workforce-amid-slowing-revenue/131062035?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "Edtech platform Adda247 has reduced its workforce by 20%. This move comes as the company experiences slowing revenue growth. Adda247 is preparing for a planned initial public offering. The company aims to cut costs and streamline operations. Employees in product and content verticals were affected. "
+    }
+   ]
+  },
+  {
+   "name": "ET Industry",
+   "url": "https://education.economictimes.indiatimes.com/news/industry",
+   "status": 200,
+   "error": null,
+   "items": [
+    {
+     "title": "AI must move from a support function to core university infrastructure: Google Cloud's Vaibhav Srivastava",
+     "url": "https://education.economictimes.indiatimes.com/news/industry/ai-must-move-from-a-support-function-to-core-university-infrastructure-google-clouds-vaibhav-srivastava/135140446?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "Choosing the right degree: Why informed decisions matter more than following the crowd",
+     "url": "https://education.economictimes.indiatimes.com/news/industry/choosing-the-right-degree-why-informed-decisions-matter-more-than-following-the-crowd/135139134?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "Universities must shift from placement readiness to lifelong employability in AI era: Navisha Prabhakar",
+     "url": "https://education.economictimes.indiatimes.com/news/industry/universities-must-shift-from-placement-readiness-to-lifelong-employability-in-ai-era-navisha-prabhakar/135136105?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "PM-DAKSH scheme trained 1.87 lakh candidates, 96,162 received job offers: Union Ministry",
+     "url": "https://education.economictimes.indiatimes.com/news/industry/pm-daksh-scheme-trained-1-87-lakh-candidates-96162-received-job-offers-union-ministry/135115412?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "NMC issues strict directions to Rajasthan medical colleges on ragging, student safety",
+     "url": "https://education.economictimes.indiatimes.com/news/industry/nmc-issues-strict-directions-to-rajasthan-medical-colleges-on-ragging-student-safety/135114407?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "IIT Madras launches UDYOG finishing school to prepare graduates for biotech industry",
+     "url": "https://education.economictimes.indiatimes.com/news/industry/iit-madras-launches-udyog-finishing-school-to-prepare-graduates-for-biotech-industry/135093397?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "AIIMS Madurai set to start 150-bed services in January 2027, MP confirms",
+     "url": "https://education.economictimes.indiatimes.com/news/industry/aiims-madurai-set-to-start-150-bed-services-in-january-2027-mp-confirms/135090960?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "IIT-K invites young innovators for Youth Entrepreneurs Challenge",
+     "url": "https://education.economictimes.indiatimes.com/news/industry/iit-k-invites-young-innovators-for-youth-entrepreneurs-challenge/135072041?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "Court upholds HTET/STET requirement for PGT posts, dismisses petitions",
+     "url": "https://education.economictimes.indiatimes.com/news/industry/court-upholds-htet/stet-requirement-for-pgt-posts-dismisses-petitions/135070602?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "Download ETEducation App for Realtime updates",
+     "url": "https://education.economictimes.indiatimes.com/app",
+     "summary": "Seamless reading experience. Save your favourite."
+    },
+    {
+     "title": "Allahabad HC orders verification of appointment records of UP government school teachers",
+     "url": "https://education.economictimes.indiatimes.com/news/industry/allahabad-hc-orders-verification-of-appointment-records-of-up-government-school-teachers/135070561?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "The court directed teachers in Classes 1–8 to submit academic certificates and appointment letters within a week of formal notification, following alleged misuse of a single certificate to appoint 10 teachers."
+    },
+    {
+     "title": "Delhi guest teachers' salary hike proposed: PGTs to get Rs 76,160 monthly under new structure",
+     "url": "https://education.economictimes.indiatimes.com/news/industry/delhi-guest-teachers-salary-hike-proposed-pgts-to-get-rs-76160-monthly-under-new-structure/135050024?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "The proposed structure covers postgraduate teachers (PGTs), including educational and vocational guidance counsellors (EVGCs), trained graduate teachers (TGTs), miscellaneous teachers and primary teachers (PRTs)."
+    },
+    {
+     "title": "NIOS reopens registration for six-month BEd bridge course from October 21",
+     "url": "https://education.economictimes.indiatimes.com/news/industry/nios-reopens-registration-for-six-month-bed-bridge-course-from-october-21/135049884?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "Eligible primary teachers appointed with BEd qualifications between June 28, 2018, and August 11, 2023, can apply online until October 28 through the official NIOS portal."
+    },
+    {
+     "title": "Rajasthan teachers seek uniform digital ID cards with updated service details",
+     "url": "https://education.economictimes.indiatimes.com/news/industry/rajasthan-teachers-seek-uniform-digital-id-cards-with-updated-service-details/135042643?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "The Primary Teachers’ Association (Level 1) has urged the state education department to introduce digitally signed identity cards through the Shala Darpan portal, citing inconsistencies in the existing system."
+    },
+    {
+     "title": "Rajasthan University vice-chancellor appointed nodal officer for Education to Employment initiative",
+     "url": "https://education.economictimes.indiatimes.com/news/industry/rajasthan-university-vice-chancellor-appointed-nodal-officer-for-education-to-employment-initiative/135040124?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "Prof Bhagwati Prasad Saraswat has been designated as the nodal officer for the Standing Committee on Education to Employment and Enterprises."
+    },
+    {
+     "title": "HC stays reappointment of PGIMS Rohtak director, seeks Haryana government’s explanation",
+     "url": "https://education.economictimes.indiatimes.com/news/industry/hc-stays-reappointment-of-pgims-rohtak-director-seeks-haryana-governments-explanation/135029962?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "The Punjab and Haryana High Court directed the state to assign charge to an eligible person below 65 and explain the legal basis for reappointing Dr Suresh Kumar Singhal for another three-year term."
+    },
+    {
+     "title": "Thapar Institute appoints Sachin Gulati to lead alumni, corporate engagement",
+     "url": "https://education.economictimes.indiatimes.com/news/industry/thapar-institute-appoints-sachin-gulati-to-lead-alumni-corporate-engagement/135028670?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "Gulati announced his appointment as Chief Alumni Engagement Officer and Head of Corporate Engagement at the Patiala-based institution, which recently received the FICCI Higher Education Award for ‘University of the Year’."
+    },
+    {
+     "title": "Andhra Pradesh directs 80,000 government teachers to complete AI course by October-end",
+     "url": "https://education.economictimes.indiatimes.com/news/industry/andhra-pradesh-directs-80000-government-teachers-to-complete-ai-course-by-october-end/135024820?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "The programme for Classes 6-8 teachers covers AI fundamentals, responsible use, lesson planning and student assessment, with completion monitored weekly by education officials."
+    },
+    {
+     "title": "Rs 475 crore Central grant under PM-SETU to help upgrade key ITI clusters in J-K: Omar Abdullah",
+     "url": "https://education.economictimes.indiatimes.com/news/industry/rs-475-crore-central-grant-under-pm-setu-to-help-upgrade-key-iti-clusters-in-j-k-omar-abdullah/135022620?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "PM-SETU, or Pradhan Mantri Skilling and Employability Transformation through Upgraded ITIs, is a flagship scheme of the Ministry of Skill Development and Entrepreneurship to modernise Industrial Training Institutes (ITI) and align vocational education with needs of the modern industry."
+    },
+    {
+     "title": "Maharashtra CM Devendra Fadnavis receives honorary D.Litt. from Adani University",
+     "url": "https://education.economictimes.indiatimes.com/news/industry/maharashtra-cm-devendra-fadnavis-receives-honorary-d-litt-from-adani-university/135017249?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "The Wardha-based university awarded 2,320 degrees, including 123 PhDs, at its 17th convocation, the first since its renaming from Datta Meghe Institute of Higher Education and Research."
+    },
+    {
+     "title": "Gauhati HC directs Assam varsity VC to vacate post over alleged UGC norm violations",
+     "url": "https://education.economictimes.indiatimes.com/news/industry/gauhati-hc-directs-assam-varsity-vc-to-vacate-post-over-alleged-ugc-norm-violations/135014966?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "The court's intervention has raised questions over the appointment process for the top administrative position at the central university, with the reported violations relating to the eligibility criteria and prescribed procedures under the UGC regulations."
+    }
+   ]
+  },
+  {
+   "name": "ET Partnerships",
+   "url": "https://education.economictimes.indiatimes.com/news/partnerships-and-collaborations",
+   "status": 200,
+   "error": null,
+   "items": [
+    {
+     "title": "IIIT-Bangalore and Poland’s AGH University sign MoU for academic and research collaboration",
+     "url": "https://education.economictimes.indiatimes.com/news/partnerships-and-collaborations/iiit-bangalore-and-polands-agh-university-sign-mou-for-academic-and-research-collaboration/135143860?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "IICA and Association of ARCs join hands to promote insolvency research and industry exposure",
+     "url": "https://education.economictimes.indiatimes.com/news/partnerships-and-collaborations/iica-and-association-of-arcs-join-hands-to-promote-insolvency-research-and-industry-exposure/135093752?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "BITSoM, Durham University sign three-year agreement to boost India-UK academic collaboration",
+     "url": "https://education.economictimes.indiatimes.com/news/partnerships-and-collaborations/bitsom-durham-university-sign-three-year-agreement-to-boost-india-uk-academic-collaboration/135085895?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "IIM Jammu collaborates with University of Alabama to transform healthcare AI, management",
+     "url": "https://education.economictimes.indiatimes.com/news/partnerships-and-collaborations/iim-jammu-collaborates-with-university-of-alabama-to-transform-healthcare-ai-management/135045822?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "MoES, AcSIR join hands to offer PhD programmes across 10 earth science institutes",
+     "url": "https://education.economictimes.indiatimes.com/news/partnerships-and-collaborations/moes-acsir-join-hands-to-offer-phd-programmes-across-10-earth-science-institutes/135043606?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "IIT Kanpur, Gates Foundation partner to advance affordable diagnostic technologies",
+     "url": "https://education.economictimes.indiatimes.com/news/partnerships-and-collaborations/iit-kanpur-gates-foundation-partner-to-advance-affordable-diagnostic-technologies/134995942?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "Woxsen University partners XPO for student internships, live projects and recruitment",
+     "url": "https://education.economictimes.indiatimes.com/news/partnerships-and-collaborations/woxsen-university-partners-xpo-for-student-internships-live-projects-and-recruitment/134995073?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "K'taka: IIT Madras, IIT Dharwad partner for education, research, entrepreneurship",
+     "url": "https://education.economictimes.indiatimes.com/news/partnerships-and-collaborations/ktaka-iit-madras-iit-dharwad-partner-for-education-research-entrepreneurship/134808839?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "NIIT University launches AI Centre of Excellence with NVIDIA-powered infrastructure",
+     "url": "https://education.economictimes.indiatimes.com/news/partnerships-and-collaborations/niit-university-launches-ai-centre-of-excellence-with-nvidia-powered-infrastructure/134766620?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "Download ETEducation App for Realtime updates",
+     "url": "https://education.economictimes.indiatimes.com/app",
+     "summary": "Seamless reading experience. Save your favourite."
+    },
+    {
+     "title": "India, Switzerland launch new framework to deepen research and university collaboration",
+     "url": "https://education.economictimes.indiatimes.com/news/partnerships-and-collaborations/india-switzerland-launch-new-framework-to-deepen-research-and-university-collaboration/134755792?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "New framework to strengthen researcher mobility, research networks and academia-industry linkages; new initiatives to support joint projects and innovation"
+    },
+    {
+     "title": "BITS Pilani, Rane Group sign MoU for automotive R&D, student projects and skilling",
+     "url": "https://education.economictimes.indiatimes.com/news/partnerships-and-collaborations/bits-pilani-rane-group-sign-mou-for-automotive-rd-student-projects-and-skilling/134564929?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "The partnership will cover collaborative research, IPR commercialisation, internships, deep-tech talent development and placement opportunities, with a focus on AI, advanced electronics and smart manufacturing."
+    },
+    {
+     "title": "COEP Tech, JSW Projects to set up battery R&D centre with over Rs 800 crore investment",
+     "url": "https://education.economictimes.indiatimes.com/news/partnerships-and-collaborations/coep-tech-jsw-projects-to-set-up-battery-rd-centre-with-over-rs-800-crore-investment/134538218?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "The two-phase facility at COEP Tech’s Chikhali Research Park will focus on indigenous lithium-ion and other advanced battery chemistries, including sodium-ion, with plans to scale up to cell validation and pilot production."
+    },
+    {
+     "title": "IIM Jammu to establish Leh campus in Ladakh, launch BBA (Hons) programme",
+     "url": "https://education.economictimes.indiatimes.com/news/partnerships-and-collaborations/iim-jammu-to-establish-leh-campus-in-ladakh-launch-bba-hons-programme/134496782?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "MoU with Ladakh administration provides for a four-year BBA (Hons) programme with an initial intake of 60 students in 2026-27, alongside plans for entrepreneurship, innovation, research and skill development."
+    },
+    {
+     "title": "Chevron ENGINE, IIT Madras launch energy technology incubation programme",
+     "url": "https://education.economictimes.indiatimes.com/news/partnerships-and-collaborations/chevron-engine-iit-madras-launch-energy-technology-incubation-programme/134482386?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "The programme will focus on areas including energy technology, energy infrastructure, carbon utilisation and circular economy and resource-efficiency solutions for the energy sector."
+    },
+    {
+     "title": "IIEST, Shibpur partners with TCS to launch state-of-the-art centre of excellence in AI",
+     "url": "https://education.economictimes.indiatimes.com/news/partnerships-and-collaborations/iiest-shibpur-partners-with-tcs-to-launch-state-of-the-art-centre-of-excellence-in-ai/134459249?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "Under this strategic collaboration, the on-campus high-performance Computing Lab of the Electrical Engineering Department has been designated as the physical venue for the Centre of Excellence (CoE) in Artificial Intelligence (AI)."
+    },
+    {
+     "title": "IIT (BHU) Varanasi, University of Michigan sign MoU to advance electric vehicle research",
+     "url": "https://education.economictimes.indiatimes.com/news/partnerships-and-collaborations/iit-bhu-varanasi-university-of-michigan-sign-mou-to-advance-electric-vehicle-research/134332829?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "The MoU marks a significant step in IIT (BHU)'s efforts to expand its international research partnerships and advance cutting-edge work in electric vehicles and sustainable mobility. The collaboration is expected to create new opportunities for joint research, faculty and student engagement, and inn"
+    },
+    {
+     "title": "Arunachal: RGU, Indian Army sign MoU for academic collaboration",
+     "url": "https://education.economictimes.indiatimes.com/news/partnerships-and-collaborations/arunachal-rgu-indian-army-sign-mou-for-academic-collaboration/134305640?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "The MoU was signed between RGU and Headquarters 4 Corps (Gajraj Corps) at Tezpur in Assam. Similar agreements were simultaneously signed by Gauhati University and Tezpur University with the Gajraj Corps."
+    },
+    {
+     "title": "Gorakhpur University to launch UP's first dual MBA programme with Malaysian univ tie-up",
+     "url": "https://education.economictimes.indiatimes.com/news/partnerships-and-collaborations/gorakhpur-university-to-launch-ups-first-dual-mba-programme-with-malaysian-univ-tie-up/132151001?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "The proposal received final approval from the university's Executive Council, making the university the first state-run institution in Uttar Pradesh to offer such a programme, they said."
+    },
+    {
+     "title": "Holkar college inks MoU with Taiwan’s university for student exchange programme",
+     "url": "https://education.economictimes.indiatimes.com/news/partnerships-and-collaborations/holkar-college-inks-mou-with-taiwans-university-for-student-exchange-programme/132112716?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "The collaboration is expected to create avenues for student exchange programmes, short-term academic courses, research partnerships and international seminars, allowing students to acquire global skills and strengthen their career prospects."
+    },
+    {
+     "title": "IIT Bombay, New York University announce collaboration in engineering education, research",
+     "url": "https://education.economictimes.indiatimes.com/news/partnerships-and-collaborations/iit-bombay-new-york-university-announce-collaboration-in-engineering-education-research/132082355?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "The Indian Institute of Technology, Bombay (IIT Bombay) and the State University of New York Old Westbury announced Friday that they will partner in the development of new educational and research opportunities that would be offered on the Long Island, New York campus."
+    }
+   ]
+  },
+  {
+   "name": "ET International",
+   "url": "https://education.economictimes.indiatimes.com/news/international",
+   "status": 200,
+   "error": null,
+   "items": [
+    {
+     "title": "Canada study permit wait for Indian students rises to 7 Weeks",
+     "url": "https://education.economictimes.indiatimes.com/news/international/canada-study-permit-wait-for-indian-students-rises-to-7-weeks/135087917?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "Indian students in US: Rising headcount masks a shift in enrolment as costs mount",
+     "url": "https://education.economictimes.indiatimes.com/news/international/indian-students-in-us-rising-headcount-masks-a-shift-in-enrolment-as-costs-mount/135073565?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "University of North Carolina settles federal probes by Trump administration",
+     "url": "https://education.economictimes.indiatimes.com/news/international/university-of-north-carolina-settles-federal-probes-by-trump-administration/135072307?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "UK study visa applications hit five-year low in September 2026, fall 10.3%",
+     "url": "https://education.economictimes.indiatimes.com/news/international/uk-study-visa-applications-hit-five-year-low-in-september-2026-fall-10-3/135050504?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "California student data breach exposes records of millions, including disability status",
+     "url": "https://education.economictimes.indiatimes.com/news/international/california-student-data-breach-exposes-records-of-millions-including-disability-status/135014760?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "Albanian students protest over education, jobs, clash with police",
+     "url": "https://education.economictimes.indiatimes.com/news/international/albanian-students-protest-over-education-jobs-clash-with-police/134932932?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "Peru plan to ban short skirts, nail polish in schools draws backlash",
+     "url": "https://education.economictimes.indiatimes.com/news/international/peru-plan-to-ban-short-skirts-nail-polish-in-schools-draws-backlash/134932821?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "US universities challenge new CPT restrictions for international students",
+     "url": "https://education.economictimes.indiatimes.com/news/international/us-universities-challenge-new-cpt-restrictions-for-international-students/134788842?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "New Zealand student visa approval rate for Indians at 49.3%, far below China’s 94.9%",
+     "url": "https://education.economictimes.indiatimes.com/news/international/new-zealand-student-visa-approval-rate-for-indians-at-49-3-far-below-chinas-94-9/134786176?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "Download ETEducation App for Realtime updates",
+     "url": "https://education.economictimes.indiatimes.com/app",
+     "summary": "Seamless reading experience. Save your favourite."
+    },
+    {
+     "title": "Trump administration proposes a $70,000 fee for international students to work in the US",
+     "url": "https://education.economictimes.indiatimes.com/news/international/trump-administration-proposes-a-70000-fee-for-international-students-to-work-in-the-us/134782705?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "Schools would be required to pay the $70,000 for each new student's initial application to the program, and a $30,000 fee for each renewal."
+    },
+    {
+     "title": "Grappling with 'homework scams,' US universities shun AI detectors",
+     "url": "https://education.economictimes.indiatimes.com/news/international/grappling-with-homework-scams-us-universities-shun-ai-detectors/134742103?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "AI chatbots have made large-scale cheating among students -- what some educators call \"homework scams\" -- easier than ever, allowing them to generate credible solutions to almost any written assignment within seconds."
+    },
+    {
+     "title": "China revamps higher education with three-tier university system amid jobs slowdown, ageing population",
+     "url": "https://education.economictimes.indiatimes.com/news/international/china-revamps-higher-education-with-three-tier-university-system-amid-jobs-slowdown-ageing-population/134723541?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "China is initiating a significant overhaul of its higher education system to align with national and strategic goals. The new guidelines introduce a three-tier classification for universities to enhance educational efficiency and workforce readiness."
+    },
+    {
+     "title": "Australia tightens student visa rules for international students, Indians",
+     "url": "https://education.economictimes.indiatimes.com/news/international/australia-tightens-student-visa-rules-for-international-students-indians/134699548?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "New rules restrict onshore visa applications, provider changes and dependent family visas; students must generally stay with their principal provider for 12 months before transferring until June 2027."
+    },
+    {
+     "title": "French school protests escalate as Macron warns politicians against ‘legitimising violence’",
+     "url": "https://education.economictimes.indiatimes.com/news/international/french-school-protests-escalate-as-macron-warns-politicians-against-legitimising-violence/134616660?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "More than 400 people, mostly minors, arrested after clashes with police as students protest over class sizes, teacher shortages and school conditions"
+    },
+    {
+     "title": "Russia to cut welfare, education funding in 2027 as war spending soars",
+     "url": "https://education.economictimes.indiatimes.com/news/international/russia-to-cut-welfare-education-funding-in-2027-as-war-spending-soars/134581435?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "Russia will cut funding for welfare, education and healthcare in next year's state budget, in addition to previously announced tax hikes, to help cover"
+    },
+    {
+     "title": "US Senate passes bill setting federal rules for college athlete NIL, revenue sharing",
+     "url": "https://education.economictimes.indiatimes.com/news/international/us-senate-passes-bill-setting-federal-rules-for-college-athlete-nil-revenue-sharing/134565097?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "The Protect College Sports Act would set federal rules for athlete NIL rights, transfers and revenue sharing, while giving colleges limited antitrust protection; the bill now goes to the House."
+    },
+    {
+     "title": "Cornell University unveils five-point roadmap to reshape the future of the American university",
+     "url": "https://education.economictimes.indiatimes.com/news/international/cornell-university-unveils-five-point-roadmap-to-reshape-the-future-of-the-american-university/134532867?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "Cornell University has unveiled a vision for the future of American higher education, calling for stronger public engagement, research innovation, connected campus communities and greater coordination across learning."
+    },
+    {
+     "title": "Trump administration rolls back US schools’ use of race-based discrimination data",
+     "url": "https://education.economictimes.indiatimes.com/news/international/trump-administration-rolls-back-us-schools-use-of-race-based-discrimination-data/134477810?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "Education Department drops disparate-impact approach as Justice Department moves to close decades-old school desegregation cases"
+    },
+    {
+     "title": "Mexico classrooms go phone-free under new school rules",
+     "url": "https://education.economictimes.indiatimes.com/news/international/mexico-classrooms-go-phone-free-under-new-school-rules/134442028?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "Mexico's President Claudia Sheinbaum has announced that state education officials had reached a consensus on the measure."
+    },
+    {
+     "title": "India and Bangladesh discuss deepening cooperation in education, technology, innovation",
+     "url": "https://education.economictimes.indiatimes.com/news/international/india-and-bangladesh-discuss-deepening-cooperation-in-education-technology-innovation/134326073?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "According to the Indian High Commission, the meeting highlighted the importance of strengthening bilateral engagement for achieving the shared aspirations of the peoples of the two neighbouring countries."
+    }
+   ]
+  },
+  {
+   "name": "ET Emerging Tech",
+   "url": "https://education.economictimes.indiatimes.com/news/emerging-technologies",
+   "status": 200,
+   "error": null,
+   "items": [
+    {
+     "title": "India's FDE opportunity: Growing enterprise demand, emerging career pathways",
+     "url": "https://education.economictimes.indiatimes.com/news/emerging-technologies/indias-fde-opportunity-growing-enterprise-demand-emerging-career-pathways/135110364?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "US Pentagon says 30 universities addressed foreign research-security concerns",
+     "url": "https://education.economictimes.indiatimes.com/news/emerging-technologies/us-pentagon-says-30-universities-addressed-foreign-research-security-concerns/135062875?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "Oracle to train 3 lakh students, professionals across Uttar Pradesh in AI, cloud, cybersecurity",
+     "url": "https://education.economictimes.indiatimes.com/news/emerging-technologies/oracle-launches-massive-ai-and-cloud-training-initiative-for-300000-in-uttar-pradesh/131749860?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "Samsung Launches Unique Community-Led Programme “Galaxy Empowered” To Upskill 20,000 Teachers by 2025",
+     "url": "https://education.economictimes.indiatimes.com/news/emerging-technologies/samsung-launches-unique-community-led-programme-galaxy-empowered-to-upskill-20000-teachers-by-2025/118203262?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "Can AI and Data Analytics Create More Personalised Educational Journeys?",
+     "url": "https://education.economictimes.indiatimes.com/news/news/higher-education/can-ai-and-data-analytics-create-more-personalised-educational-journeys/111288905?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "One year of ChatGPT in education: Key lessons and the way forward",
+     "url": "https://education.economictimes.indiatimes.com/news/emerging-technologies/one-year-of-chatgpt-in-education-key-lessons-and-the-way-forward/105896373?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "IIM Kashipur conducts HR conclave 'Samanvaya 2023'",
+     "url": "https://education.economictimes.indiatimes.com/news/emerging-technologies/iim-kashipur-conducts-hr-conclave-samanvaya-2023/104277091?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "Using technology to promote joyful learning in K-12 education",
+     "url": "https://education.economictimes.indiatimes.com/news/emerging-technologies/using-technology-to-promote-joyful-learning-in-k-12-education/102835906?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "NEP's Transformational Vision: Embracing Digital Technology for Holistic Education",
+     "url": "https://education.economictimes.indiatimes.com/news/emerging-technologies/neps-transformational-vision-embracing-digital-technology-for-holistic-education/102499453?utm_source=top_news&utm_medium=sectionListing",
+     "summary": ""
+    },
+    {
+     "title": "Download ETEducation App for Realtime updates",
+     "url": "https://education.economictimes.indiatimes.com/app",
+     "summary": "Seamless reading experience. Save your favourite."
+    },
+    {
+     "title": "How is AI used in education? Real-world examples from today!",
+     "url": "https://education.economictimes.indiatimes.com/news/emerging-technologies/how-is-ai-used-in-education-real-world-examples-from-today/102282714?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "The integration of Artificial Intelligence in education has demonstrated numerous benefits that significantly enhance the learning experience."
+    },
+    {
+     "title": "Andhra Pradesh CM stresses need to incorporate AI in education curricula",
+     "url": "https://education.economictimes.indiatimes.com/news/emerging-technologies/andhra-pradesh-cm-stresses-need-to-incorporate-ai-in-education-curricula/101753421?utm_source=category_listing&utm_medium=sectionListing",
+     "summary": "​​\"From the steam engine to electricity to computers we remained followers without having a say in their creation,\" said Reddy in a press note. He pointed out that the world was now witnessing the fourth revolution in the form of AI. Reddy advised the Vice Chancellors to play a key role in higher ed"
+    }
+   ]
+  },
+  {
+   "name": "HT Education",
+   "url": "https://www.hindustantimes.com/education",
+   "status": 200,
+   "error": null,
+   "items": [
+    {
+     "title": "NMAT Exam 2026: Registration ends on October 25 at mba.com, direct link to apply here",
+     "url": "https://www.hindustantimes.com/education/competitive-exams/nmat-exam-2026-registration-ends-on-october-25-at-mba-com-direct-link-to-apply-here-101792754910391.html",
+     "summary": ""
+    },
+    {
+     "title": "ISRO Success Story: Village boy overcomes challenges to secure scientist job while working at IMD",
+     "url": "https://www.hindustantimes.com/education/success-stories/isro-success-story-bihar-village-boy-overcomes-challenges-to-secure-scientist-job-while-working-at-imd-know-his-journey-101792751864188.html",
+     "summary": ""
+    },
+    {
+     "title": "NICL Assistant Mains Admit Card 2026 released, direct link to download here",
+     "url": "https://www.hindustantimes.com/education/competitive-exams/nicl-assistant-mains-admit-card-2026-released-at-nationalinsurance-nic-co-in-direct-link-to-download-here-101792745773042.html",
+     "summary": ""
+    },
+    {
+     "title": "DTU Assistant Professor Recruitment 2026: Apply for 219 posts at dtu.ac.in, check details here",
+     "url": "https://www.hindustantimes.com/education/employment-news/dtu-assistant-professor-recruitment-2026-apply-for-219-posts-at-dtu-ac-in-check-details-here-101792743858698.html",
+     "summary": ""
+    },
+    {
+     "title": "NEET PG Seat Allotment Result 2026 for Round 1 releasing tomorrow at mcc.nic.in, here’s how to check",
+     "url": "https://www.hindustantimes.com/education/admissions/neet-pg-seat-allotment-result-2026-for-round-1-releasing-on-october-24-at-mcc-nic-in-here-s-how-to-check-101792737211134.html",
+     "summary": ""
+    },
+    {
+     "title": "UGC NET December 2026 Exam: NTA shares process to upload photograph for registration, steps here",
+     "url": "https://www.hindustantimes.com/education/competitive-exams/ugc-net-december-2026-exam-nta-shares-process-to-upload-photograph-for-registration-check-steps-here-101792732349654.html",
+     "summary": ""
+    },
+    {
+     "title": "CBSE 10th, 12th Date Sheet 2027 LIVE: Where, how to check Class 10, 12 schedule",
+     "url": "https://www.hindustantimes.com/education/board-exams/cbse-class-10th-12th-date-sheet-live-news-2027-board-exam-schedule-direct-link-to-check-how-to-check-cbse-gov-in-101792642928832.html",
+     "summary": ""
+    },
+    {
+     "title": "AP Inter Exam 2027 Datesheet: BIEAP 1st, 2nd year timetable released, check exam dates here",
+     "url": "https://www.hindustantimes.com/education/board-exams/ap-inter-exam-2027-datesheet-bieap-1st-2nd-year-timetable-released-check-exam-dates-here-101792729314220.html",
+     "summary": ""
+    },
+    {
+     "title": "UP Board Exam 2027 Datesheet: UPMSP Class 10, 12 timetable released, check dates here",
+     "url": "https://www.hindustantimes.com/education/board-exams/up-board-exam-2027-datesheet-upmsp-class-10-12-timetable-released-check-dates-here-101791864679873.html",
+     "summary": ""
+    },
+    {
+     "title": "CBSE Datesheet 2027: Special exam timetable for West Asian countries out, Class 12 admit card today",
+     "url": "https://www.hindustantimes.com/education/board-exams/cbse-datesheet-2027-special-exam-timetable-for-west-asian-countries-out-class-12-admit-card-releasing-today-101791778442604.html",
+     "summary": ""
+    },
+    {
+     "title": "CBSE Board Exam 2027: Class 10, 12 form submission for private candidates to begin today",
+     "url": "https://www.hindustantimes.com/education/board-exams/cbse-board-exam-2027-class-10-12-form-submission-for-private-candidates-to-begin-on-october-8-at-cbse-gov-in-check-details-101791438215916.html",
+     "summary": ""
+    },
+    {
+     "title": "CBSE Datesheet News LIVE: When, where to check Class 10, 12 timetable when out",
+     "url": "https://www.hindustantimes.com/education/board-exams/cbse-datesheet-2027-news-live-updates-when-will-class-10th-12th-exam-date-sheet-release-what-we-know-at-cbse-gov-in-101791175711847.html",
+     "summary": ""
+    },
+    {
+     "title": "JEE Mains 2027 Registration Date LIVE: When will application process begin?",
+     "url": "https://www.hindustantimes.com/education/competitive-exams/jee-mains-2027-session-1-registration-date-live-news-jee-exam-application-form-guidelines-documents-jeemain-nta-nic-in-101792645285206.html",
+     "summary": ""
+    },
+    {
+     "title": "IBPS SO Mains Admit Card 2026 released at ibps.in, download link here",
+     "url": "https://www.hindustantimes.com/education/competitive-exams/ibps-so-mains-admit-card-2026-released-at-ibps-in-download-link-here-101792665386285.html",
+     "summary": ""
+    },
+    {
+     "title": "UPSSSC PET Exam City Slip 2026 released at upsssc.gov.in, direct link to download here",
+     "url": "https://www.hindustantimes.com/education/competitive-exams/upsssc-pet-exam-city-slip-2026-released-at-upsssc-gov-in-direct-link-to-download-here-101791868673126.html",
+     "summary": ""
+    },
+    {
+     "title": "ICAI CA Inter Result 2026 declared at caresults.icai.org, direct link to check results here",
+     "url": "https://www.hindustantimes.com/education/exam-results/icai-ca-inter-result-2026-declared-at-caresults-icai-org-direct-link-to-check-results-here-101792647855974.html",
+     "summary": ""
+    },
+    {
+     "title": "ICAI CA September Result 2026 for intermediate course released, here’s how to check",
+     "url": "https://www.hindustantimes.com/education/exam-results/icai-ca-september-result-2026-for-intermediate-course-release-today-at-caresults-icai-org-here-s-how-to-check-101792642341689.html",
+     "summary": ""
+    },
+    {
+     "title": "TNTET Result 2026 for working teachers released at trb.tn.gov.in, direct link to check results here",
+     "url": "https://www.hindustantimes.com/education/exam-results/tntet-result-2026-for-working-teachers-released-at-trb-tn-gov-in-direct-link-to-check-results-here-101791890137704.html",
+     "summary": ""
+    },
+    {
+     "title": "SSC GD Constable Result 2026 declared at ssc.gov.in, check roll numbers here",
+     "url": "https://www.hindustantimes.com/education/exam-results/ssc-gd-constable-result-2026-declared-at-ssc-gov-in-check-roll-numbers-here-101791864371426.html",
+     "summary": ""
+    },
+    {
+     "title": "BTE UP Re-evaluation Result 2026 for June exam declared, direct link to check results here",
+     "url": "https://www.hindustantimes.com/education/exam-results/bte-up-re-evaluation-result-2026-for-june-exam-declared-at-bteup-ac-in-direct-link-to-check-results-here-101791862820128.html",
+     "summary": ""
+    },
+    {
+     "title": "India Post GDS Merit List 2026 released at indiapost.gov.in, direct link to check results",
+     "url": "https://www.hindustantimes.com/education/exam-results/india-post-gds-merit-list-2026-released-at-indiapost-gov-in-direct-link-to-check-results-101791861065341.html",
+     "summary": ""
+    },
+    {
+     "title": "Rethinking the MBA: Why domain expertise and practical learning matter more than ever",
+     "url": "https://www.hindustantimes.com/education/features/rethinking-the-mba-why-domain-expertise-and-practical-learning-matter-more-than-ever-101792667395746.html",
+     "summary": ""
+    },
+    {
+     "title": "Coaching as Compensation: What the Red Fort scheme reveals about school education",
+     "url": "https://www.hindustantimes.com/education/features/coaching-as-compensation-what-the-red-fort-scheme-reveals-about-school-education-101791871208469.html",
+     "summary": ""
+    },
+    {
+     "title": "A New Vision for Higher Education: From academic knowledge to lifelong capability",
+     "url": "https://www.hindustantimes.com/education/features/a-new-vision-for-higher-education-from-academic-knowledge-to-lifelong-capability-101791800717086.html",
+     "summary": ""
+    },
+    {
+     "title": "India’s Youth Dividend: The missing link between demographics and governance",
+     "url": "https://www.hindustantimes.com/education/features/indias-youth-dividend-the-missing-link-between-demographics-and-governance-101791544056583.html",
+     "summary": ""
+    },
+    {
+     "title": "How should students navigate an AI-driven job market? VIT’s Assistant VP answers",
+     "url": "https://www.hindustantimes.com/education/features/how-should-students-navigate-an-ai-driven-job-market-vit-bhopal-s-assistant-vp-kadhambari-s-viswanathan-answers-101791525816327.html",
+     "summary": ""
+    },
+    {
+     "title": "The AI Paradox: Why 'Soft Skills' are the future of work in India",
+     "url": "https://www.hindustantimes.com/education/features/the-ai-paradox-why-soft-skills-are-the-future-of-work-in-india-101791447967078.html",
+     "summary": ""
+    },
+    {
+     "title": "Is accommodation becoming a deciding factor in study-abroad plans?",
+     "url": "https://www.hindustantimes.com/education/when-housing-costs-influence-choice-of-country-is-accommodation-becoming-a-deciding-factor-in-study-abroad-plans-101792565937517.html",
+     "summary": ""
+    },
+    {
+     "title": "Personal Loan for Higher Education Expenses",
+     "url": "https://www.hindustantimes.com/genesis/personal-loan-for-higher-education-expenses-101792063688923.html",
+     "summary": ""
+    },
+    {
+     "title": "Woman shares emotional moment as parents pack her bags for abroad",
+     "url": "https://www.hindustantimes.com/trending/the-suitcase-got-bigger-woman-shares-emotional-moment-as-parents-pack-her-bags-for-abroad-101789802928576.html",
+     "summary": ""
+    },
+    {
+     "title": "68 students selected for minority overseas education scholarship",
+     "url": "https://www.hindustantimes.com/cities/pune-news/68-students-selected-for-minority-overseas-education-scholarship-101789414389562.html",
+     "summary": ""
+    },
+    {
+     "title": "The Outsider: Building global opportunities from Gurugram",
+     "url": "https://www.hindustantimes.com/cities/gurugram-news/the-outsider-building-global-opportunities-from-gurugram-101789148837993.html",
+     "summary": ""
+    },
+    {
+     "title": "Canada’s international student policy changes: Why it matters for Indians",
+     "url": "https://www.hindustantimes.com/nri/canadas-international-student-policy-changes-graduate-students-get-21-of-new-permits-why-it-matters-for-indians-101788941644564.html",
+     "summary": ""
+    },
+    {
+     "title": "Supreme Court to hear case on race in middle school admissions",
+     "url": "https://www.hindustantimes.com/education/admissions/supreme-court-to-hear-case-on-race-in-middle-school-admissions-101792442055570.html",
+     "summary": ""
+    },
+    {
+     "title": "NISM launches two certification courses on cyber security and cyber resilience for GIFT IFSC",
+     "url": "https://www.hindustantimes.com/education/admissions/nism-launches-two-certification-courses-on-cyber-security-and-cyber-resilience-for-gift-ifsc-101791794313778.html",
+     "summary": ""
+    },
+    {
+     "title": "IIM Lucknow launches MBA in Family Business course for next-gen business leaders",
+     "url": "https://www.hindustantimes.com/education/admissions/iim-lucknow-launches-mba-in-family-business-course-for-next-gen-business-leaders-101791789021917.html",
+     "summary": ""
+    },
+    {
+     "title": "NEET PG Counselling 2026: Round 1 registration begins today at mcc.nic.in, here’s how to apply",
+     "url": "https://www.hindustantimes.com/education/admissions/neet-pg-counselling-2026-round-1-registration-begins-today-at-mcc-nic-in-here-s-how-to-apply-101791787040367.html",
+     "summary": ""
+    },
+    {
+     "title": "MCC NEET UG Counselling 2026: Stray vacancy round registration, choice filling begins today",
+     "url": "https://www.hindustantimes.com/education/admissions/mcc-neet-ug-counselling-2026-stray-vacancy-round-registration-choice-filling-begins-on-october-12-at-mccnicin-101791781609421.html",
+     "summary": ""
+    },
+    {
+     "title": "LIC HFL Apprentice Recruitment 2026: Apply for 232 posts at lichousing.com, check details here",
+     "url": "https://www.hindustantimes.com/education/employment-news/lic-hfl-apprentice-recruitment-2026-apply-for-232-posts-at-lichousing-com-check-details-here-101792659334665.html",
+     "summary": ""
+    },
+    {
+     "title": "RRB NTPC Graduate Recruitment 2026: Apply for 3548 posts at rrbapply.gov.in, direct link here",
+     "url": "https://www.hindustantimes.com/education/employment-news/rrb-ntpc-graduate-recruitment-2026-apply-for-3548-posts-at-rrbapply-gov-in-direct-link-here-101791800192383.html",
+     "summary": ""
+    },
+    {
+     "title": "TNPSC Group 4 Recruitment 2026: Registration begins for CCSE, direct link to apply for 6574 posts",
+     "url": "https://www.hindustantimes.com/education/employment-news/tnpsc-group-4-recruitment-2026-registration-begins-for-ccse-at-tnpsc-gov-in-direct-link-here-to-apply-for-6574-posts-101791522204722.html",
+     "summary": ""
+    },
+    {
+     "title": "NICL AO Recruitment 2026: Apply for 321 posts at nationalinsurance.nic.co.in, direct link here",
+     "url": "https://www.hindustantimes.com/education/employment-news/nicl-ao-recruitment-2026-apply-for-321-posts-at-nationalinsurance-nic-co-in-direct-link-to-apply-here-101791445180662.html",
+     "summary": ""
+    },
+    {
+     "title": "BPSC TRE 4.0: Vacancies increased to 33,320, apply till October 26 at bpsc.bih.nic.in",
+     "url": "https://www.hindustantimes.com/education/employment-news/bpsc-tre-4-0-vacancies-increased-to-33-320-apply-till-october-26-at-bpscbihnicin-101791349262532.html",
+     "summary": ""
+    },
+    {
+     "title": "4 tips for booking flights to study abroad",
+     "url": "https://www.hindustantimes.com/web-stories/lifestyle/4-tips-for-booking-flights-to-study-abroad-101692686097466.html",
+     "summary": ""
+    },
+    {
+     "title": "6 universities offering Taylor Swift courses",
+     "url": "https://www.hindustantimes.com/web-stories/entertainment/6-universities-offering-taylor-swift-courses-101692282211935.html",
+     "summary": ""
+    },
+    {
+     "title": "How to manage money while studying abroad",
+     "url": "https://www.hindustantimes.com/web-stories/lifestyle/how-to-manage-money-while-studying-abroad-101691404739792.html",
+     "summary": ""
+    },
+    {
+     "title": "4 Cooking Hacks For Students Living Alone",
+     "url": "https://www.hindustantimes.com/web-stories/lifestyle/4-cooking-hacks-for-students-living-alone-101690624275585.html",
+     "summary": ""
+    },
+    {
+     "title": "Countries That Allow Work On Student Visas",
+     "url": "https://www.hindustantimes.com/web-stories/lifestyle/countries-that-allow-work-on-student-visas-101689229595347.html",
+     "summary": ""
+    },
+    {
+     "title": "How To Network While Studying Abroad",
+     "url": "https://www.hindustantimes.com/web-stories/lifestyle/how-to-network-while-studying-abroad-101688717467478.html",
+     "summary": ""
+    },
+    {
+     "title": "Top World University Rankings For Art And Design",
+     "url": "https://www.hindustantimes.com/web-stories/in-focus/top-world-university-rankings-for-art-and-design-101687429703749.html",
+     "summary": ""
+    },
+    {
+     "title": "Tips To Save Money While Studying Abroad",
+     "url": "https://www.hindustantimes.com/web-stories/lifestyle/tips-to-save-money-while-studying-abroad-101687326848780.html",
+     "summary": ""
+    },
+    {
+     "title": "What To Look For In Student Accommodation",
+     "url": "https://www.hindustantimes.com/web-stories/lifestyle/what-to-look-for-in-student-accommodation-101686045195943.html",
+     "summary": ""
+    },
+    {
+     "title": "NIRF 2023 Rankings: Top 10 Institutes",
+     "url": "https://www.hindustantimes.com/web-stories/in-focus/nirf-2023-rankings-top-10-institutes-101685966558832.html",
+     "summary": ""
+    },
+    {
+     "title": "Arts Select the right career option after 12th Arts",
+     "url": "https://www.hindustantimes.com/education/arts-career-options-after-12th",
+     "summary": "Select the right career option after 12th Arts"
+    },
+    {
+     "title": "Commerce Select the right career option after 12th Commerce",
+     "url": "https://www.hindustantimes.com/education/commerce-career-options-after-12th",
+     "summary": "Select the right career option after 12th Commerce"
+    },
+    {
+     "title": "Science Select the right career option after 12th Science",
+     "url": "https://www.hindustantimes.com/education/science-career-options-after-12th",
+     "summary": "Select the right career option after 12th Science"
+    },
+    {
+     "title": "JEE Advanced aspirants seek increase in number of attempts from 2 to 3",
+     "url": "https://www.hindustantimes.com/cities/mumbai-news/increase-no-of-attempts-for-jee-advanced-from-2-to-3-iit-aspirants-101791917084744.html",
+     "summary": ""
+    },
+    {
+     "title": "JEE (Advanced) 2026: How IITs’ women-only seats scheme is bridging gender gap",
+     "url": "https://www.hindustantimes.com/india-news/jee-advanced-2026-how-iits-women-only-seats-scheme-is-bridging-gender-gap-101791430137945.html",
+     "summary": ""
+    },
+    {
+     "title": "JEE Advanced 2026: More qualifiers despite slower seat growth; CSE dominates",
+     "url": "https://www.hindustantimes.com/india-news/jee-advanced-2026-more-qualifiers-despite-slower-seat-growth-cse-dominates-101791342451032.html",
+     "summary": ""
+    },
+    {
+     "title": "JEE Advanced 2026: SC, ST qualification rates jump; highest for women in 6 years",
+     "url": "https://www.hindustantimes.com/india-news/jee-advanced-2026-sc-st-qualification-rates-jump-highest-for-women-in-6-years-101791170119277.html",
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "name": "HT Competitive Exams",
+   "url": "https://www.hindustantimes.com/education/competitive-exams",
+   "status": 200,
+   "error": null,
+   "items": [
+    {
+     "title": "NMAT Exam 2026: Registration ends on October 25 at mba.com, direct link to apply here",
+     "url": "https://www.hindustantimes.com/education/competitive-exams/nmat-exam-2026-registration-ends-on-october-25-at-mba-com-direct-link-to-apply-here-101792754910391.html",
+     "summary": ""
+    },
+    {
+     "title": "NICL Assistant Mains Admit Card 2026 released, direct link to download here",
+     "url": "https://www.hindustantimes.com/education/competitive-exams/nicl-assistant-mains-admit-card-2026-released-at-nationalinsurance-nic-co-in-direct-link-to-download-here-101792745773042.html",
+     "summary": ""
+    },
+    {
+     "title": "UGC NET December 2026 Exam: NTA shares process to upload photograph for registration, steps here",
+     "url": "https://www.hindustantimes.com/education/competitive-exams/ugc-net-december-2026-exam-nta-shares-process-to-upload-photograph-for-registration-check-steps-here-101792732349654.html",
+     "summary": ""
+    },
+    {
+     "title": "IBPS SO Mains Admit Card 2026 released at ibps.in, download link here",
+     "url": "https://www.hindustantimes.com/education/competitive-exams/ibps-so-mains-admit-card-2026-released-at-ibps-in-download-link-here-101792665386285.html",
+     "summary": ""
+    },
+    {
+     "title": "JEE Mains 2027 Registration Date LIVE: When will application process begin?",
+     "url": "https://www.hindustantimes.com/education/competitive-exams/jee-mains-2027-session-1-registration-date-live-news-jee-exam-application-form-guidelines-documents-jeemain-nta-nic-in-101792645285206.html",
+     "summary": ""
+    },
+    {
+     "title": "UPSSSC PET Exam City Slip 2026 released at upsssc.gov.in, direct link to download here",
+     "url": "https://www.hindustantimes.com/education/competitive-exams/upsssc-pet-exam-city-slip-2026-released-at-upsssc-gov-in-direct-link-to-download-here-101791868673126.html",
+     "summary": ""
+    },
+    {
+     "title": "NTA SWAYAM July 2026: Registration begins at exams.nta.nic.in/swayam/, direct link to apply here",
+     "url": "https://www.hindustantimes.com/education/competitive-exams/nta-swayam-july-2026-registration-begins-at-exams-nta-nic-in-swayam-direct-link-to-apply-here-101791532973891.html",
+     "summary": ""
+    },
+    {
+     "title": "SSC JE Exam 2026: Tentative vacancy list released, nearly 50 posts reduced",
+     "url": "https://www.hindustantimes.com/education/competitive-exams/ssc-je-exam-2026-tentative-vacancy-list-released-nearly-50-posts-reduced-101791524031612.html",
+     "summary": ""
+    },
+    {
+     "title": "UGC NET December 2026: Registration begins at ugcnet.nta.nic.in, direct link to apply here",
+     "url": "https://www.hindustantimes.com/education/competitive-exams/ugc-net-december-2026-registration-begins-at-ugcnet-nta-nic-in-direct-link-to-apply-here-101791519349831.html",
+     "summary": ""
+    },
+    {
+     "title": "BSEB Simultala Class 6 Prelims Admit Card 2026 releasing tomorrow, here’s how to download",
+     "url": "https://www.hindustantimes.com/education/competitive-exams/bseb-simultala-class-6-prelims-admit-card-2026-releasing-on-october-9-at-biharsimultala-com-here-s-how-to-download-101791453048600.html",
+     "summary": ""
+    },
+    {
+     "title": "Joint CSIR UGC NET December 2026: Registration begins at csirnet.nta.nic.in, direct link here",
+     "url": "https://www.hindustantimes.com/education/competitive-exams/joint-csir-ugc-net-december-2026-registration-begins-at-csirnet-nta-nic-in-direct-link-to-apply-here-101791433664037.html",
+     "summary": ""
+    },
+    {
+     "title": "UPSC ESE 2026: Last date to apply today for 480 posts, check exam dates and direct link here",
+     "url": "https://www.hindustantimes.com/education/competitive-exams/upsc-ese-2026-last-date-to-apply-today-for-480-posts-at-upsc-gov-in-check-exam-dates-and-direct-link-here-101791262235846.html",
+     "summary": ""
+    },
+    {
+     "title": "UTET Answer Key 2026 released at ubse.uk.gov.in, direct link to download here",
+     "url": "https://www.hindustantimes.com/education/competitive-exams/utet-answer-key-2026-released-at-ubse-uk-gov-in-direct-link-to-download-here-101791260623720.html",
+     "summary": ""
+    },
+    {
+     "title": "AP Special TET Hall Ticket 2026 released at tet2dsc.apcfss.in, download link here",
+     "url": "https://www.hindustantimes.com/education/competitive-exams/ap-special-tet-hall-ticket-2026-released-at-tet2dsc-apcfss-in-download-link-here-101791200705874.html",
+     "summary": ""
+    },
+    {
+     "title": "JEE Main Exam 2027 to be held in January, when will registration process begin? Check past trends",
+     "url": "https://www.hindustantimes.com/education/competitive-exams/jee-main-exam-2027-session-1-to-be-held-in-january-when-will-registration-process-begin-check-past-trends-101791198877817.html",
+     "summary": ""
+    },
+    {
+     "title": "IIM CAT 2026: Correction window opens at iimcat.ac.in, here’s how to make modifications",
+     "url": "https://www.hindustantimes.com/education/competitive-exams/iim-cat-2026-correction-window-opens-at-iimcat-ac-in-here-s-how-to-make-modifications-101791183462555.html",
+     "summary": ""
+    },
+    {
+     "title": "IIT GATE 2027 extended registration window closes today, apply at gate2027.iitm.ac.in",
+     "url": "https://www.hindustantimes.com/education/competitive-exams/iit-gate-2027-extended-registration-window-closes-today-apply-at-gate2027iitmacin-101791181328059.html",
+     "summary": ""
+    },
+    {
+     "title": "RRB Technician City Intimation Slip 2026 released, direct link to download here",
+     "url": "https://www.hindustantimes.com/education/competitive-exams/rrb-technician-city-intimation-slip-2026-released-direct-link-to-download-here-101790922557191.html",
+     "summary": ""
+    },
+    {
+     "title": "IBPS Clerk Prelims Admit Card 2026 released at ibps.in, download link here",
+     "url": "https://www.hindustantimes.com/education/competitive-exams/ibps-clerk-prelims-admit-card-2026-released-at-ibps-in-download-link-here-101790918042542.html",
+     "summary": ""
+    },
+    {
+     "title": "BSEB School Librarian Eligibility Test 2026: Registration begins, direct link to apply here",
+     "url": "https://www.hindustantimes.com/education/competitive-exams/bseb-school-librarian-eligibility-test-2026-registration-begins-at-sletregistration-cbrt-co-in-direct-link-to-apply-here-101790830436699.html",
+     "summary": ""
+    },
+    {
+     "title": "NEET PG 2026 answer key, scorecard expected to release today, check notice",
+     "url": "https://www.hindustantimes.com/education/competitive-exams/neet-pg-2026-answer-key-scorecard-expected-to-release-today-at-natboard-edu-in-check-notice-101790827899151.html",
+     "summary": ""
+    },
+    {
+     "title": "IIM CAT 2026: Correction window to open on October 5, here’s how to make changes",
+     "url": "https://www.hindustantimes.com/education/competitive-exams/iim-cat-2026-correction-window-to-open-on-october-5-at-iimcat-ac-in-here-s-how-to-make-changes-101790670788711.html",
+     "summary": ""
+    },
+    {
+     "title": "BSEB School Librarian Eligibility Test 2026: Registration begins on October 1",
+     "url": "https://www.hindustantimes.com/education/competitive-exams/bseb-school-librarian-eligibility-test-2026-registration-begins-on-october-1-check-exam-pattern-and-eligibility-101790658744786.html",
+     "summary": ""
+    },
+    {
+     "title": "IBPS Clerk Exam 2026: CSA PET link activated, here’s how to appear",
+     "url": "https://www.hindustantimes.com/education/competitive-exams/ibps-clerk-exam-2026-customer-service-associate-pet-link-activated-at-ibps-in-here-s-how-to-appear-101790655855097.html",
+     "summary": ""
+    },
+    {
+     "title": "BSEB STET Dummy Admit Card 2026 out, download link here",
+     "url": "https://www.hindustantimes.com/education/competitive-exams/bseb-stet-dummy-admit-card-2026-out-at-stetregistration-cbrt-co-in-download-link-here-101790577536579.html",
+     "summary": ""
+    },
+    {
+     "title": "SSC CGL Admit Card 2026 LIVE: When, where to check Tier I hall ticket link",
+     "url": "https://www.hindustantimes.com/education/competitive-exams/ssc-cgl-tier-1-admit-card-2026-live-updates-ssc-gov-in-hall-ticket-download-link-cbt-exam-dates-how-to-download-101790572528017.html",
+     "summary": ""
+    },
+    {
+     "title": "IIT GATE 2027 registration date extended, apply till October 5",
+     "url": "https://www.hindustantimes.com/education/competitive-exams/iit-gate-2027-registration-date-extended-apply-till-october-5-at-gate2027iitmacin-101790570596212.html",
+     "summary": ""
+    },
+    {
+     "title": "IBPS PO Mains Admit Card 2026 released at ibps.in, direct link to download here",
+     "url": "https://www.hindustantimes.com/education/competitive-exams/ibps-po-mains-admit-card-2026-released-at-ibps-in-direct-link-to-download-here-101790310353840.html",
+     "summary": ""
+    },
+    {
+     "title": "NEET PG Answer Key 2026 release date announced, to be out next month",
+     "url": "https://www.hindustantimes.com/education/competitive-exams/neet-pg-answer-key-2026-release-date-announced-to-be-out-next-month-at-natboardeduin-101790241815945.html",
+     "summary": ""
+    },
+    {
+     "title": "RMS CET 2026: Registration begins, direct link to apply here",
+     "url": "https://www.hindustantimes.com/education/competitive-exams/rms-cet-2026-registration-begins-at-exams-nta-nic-in-rmscet-direct-link-to-apply-here-101790235283147.html",
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "name": "HT Employment News",
+   "url": "https://www.hindustantimes.com/education/employment-news",
+   "status": 200,
+   "error": null,
+   "items": [
+    {
+     "title": "DTU Assistant Professor Recruitment 2026: Apply for 219 posts at dtu.ac.in, check details here",
+     "url": "https://www.hindustantimes.com/education/employment-news/dtu-assistant-professor-recruitment-2026-apply-for-219-posts-at-dtu-ac-in-check-details-here-101792743858698.html",
+     "summary": ""
+    },
+    {
+     "title": "LIC HFL Apprentice Recruitment 2026: Apply for 232 posts at lichousing.com, check details here",
+     "url": "https://www.hindustantimes.com/education/employment-news/lic-hfl-apprentice-recruitment-2026-apply-for-232-posts-at-lichousing-com-check-details-here-101792659334665.html",
+     "summary": ""
+    },
+    {
+     "title": "RRB NTPC Graduate Recruitment 2026: Apply for 3548 posts at rrbapply.gov.in, direct link here",
+     "url": "https://www.hindustantimes.com/education/employment-news/rrb-ntpc-graduate-recruitment-2026-apply-for-3548-posts-at-rrbapply-gov-in-direct-link-here-101791800192383.html",
+     "summary": ""
+    },
+    {
+     "title": "TNPSC Group 4 Recruitment 2026: Registration begins for CCSE, direct link to apply for 6574 posts",
+     "url": "https://www.hindustantimes.com/education/employment-news/tnpsc-group-4-recruitment-2026-registration-begins-for-ccse-at-tnpsc-gov-in-direct-link-here-to-apply-for-6574-posts-101791522204722.html",
+     "summary": ""
+    },
+    {
+     "title": "NICL AO Recruitment 2026: Apply for 321 posts at nationalinsurance.nic.co.in, direct link here",
+     "url": "https://www.hindustantimes.com/education/employment-news/nicl-ao-recruitment-2026-apply-for-321-posts-at-nationalinsurance-nic-co-in-direct-link-to-apply-here-101791445180662.html",
+     "summary": ""
+    },
+    {
+     "title": "BPSC TRE 4.0: Vacancies increased to 33,320, apply till October 26 at bpsc.bih.nic.in",
+     "url": "https://www.hindustantimes.com/education/employment-news/bpsc-tre-4-0-vacancies-increased-to-33-320-apply-till-october-26-at-bpscbihnicin-101791349262532.html",
+     "summary": ""
+    },
+    {
+     "title": "SSC CHSL Exam 2026: Last date today to apply for 2536 posts at ssc.gov.in, check eligibility here",
+     "url": "https://www.hindustantimes.com/education/employment-news/ssc-chsl-exam-2026-last-date-today-to-apply-for-2536-posts-at-ssc-gov-in-check-eligibility-here-101791346837819.html",
+     "summary": ""
+    },
+    {
+     "title": "IOCL Apprentice Recruitment 2026: Apply for 335 posts at iocl.com, details here",
+     "url": "https://www.hindustantimes.com/education/employment-news/iocl-apprentice-recruitment-2026-apply-for-335-posts-at-iocl-com-details-here-101791270435358.html",
+     "summary": ""
+    },
+    {
+     "title": "DRDO Apprentice Recruitment 2026: Apply for 195 posts at drdo.gov.in, check details here",
+     "url": "https://www.hindustantimes.com/education/employment-news/drdo-apprentice-recruitment-2026-apply-for-195-posts-at-drdo-gov-in-check-details-here-101791193184880.html",
+     "summary": ""
+    },
+    {
+     "title": "NWR Apprentice Recruitment 2026: Apply for 2008 posts at rrcjaipur.in, details here",
+     "url": "https://www.hindustantimes.com/education/employment-news/nwr-apprentice-recruitment-2026-apply-for-2008-posts-at-rrcjaipur-in-details-here-101790929575687.html",
+     "summary": ""
+    },
+    {
+     "title": "SSC Exam Calendar 2026: JE, SCO and CHSL exams to be held in November, check dates here",
+     "url": "https://www.hindustantimes.com/education/employment-news/ssc-exam-calendar-2026-je-sco-and-chsl-exams-to-be-held-in-november-check-dates-here-101790924585572.html",
+     "summary": ""
+    },
+    {
+     "title": "Supreme Court to recruit for 250 Junior Court Assistant posts, registration begins on October 7",
+     "url": "https://www.hindustantimes.com/education/employment-news/supreme-court-to-recruit-for-250-junior-court-assistant-posts-registration-begins-on-october-7-at-scigovin-101790838012282.html",
+     "summary": ""
+    },
+    {
+     "title": "Canara Bank Apprentice Recruitment 2026: Registration for 3500 posts begins, direct link here",
+     "url": "https://www.hindustantimes.com/education/employment-news/canara-bank-apprentice-recruitment-2026-registration-for-3500-posts-begins-at-canarabank-bank-in-direct-link-here-101790829104434.html",
+     "summary": ""
+    },
+    {
+     "title": "SSC SCO Exam 2026: Last date today to apply for 2021 SI posts at ssc.gov.in",
+     "url": "https://www.hindustantimes.com/education/employment-news/ssc-sco-exam-2026-last-date-today-to-apply-for-2021-si-posts-in-delhi-police-capf-register-at-sscgovin-101790743241993.html",
+     "summary": ""
+    },
+    {
+     "title": "ITBP to recruit for Head Constable posts, registration begins",
+     "url": "https://www.hindustantimes.com/education/employment-news/itbp-to-recruit-for-head-constable-posts-registration-begins-at-recruitmentitbpolicenicin-101790669126930.html",
+     "summary": ""
+    },
+    {
+     "title": "Canara Bank to recruit for 3500 Apprentice posts, application begins on Oct 1",
+     "url": "https://www.hindustantimes.com/education/employment-news/canara-bank-to-recruit-for-3500-apprentice-posts-application-begins-on-october-1-101790580643612.html",
+     "summary": ""
+    },
+    {
+     "title": "BPSC TRE 4.0 Recruitment 2026: Registration begins for 32k+ posts, link here",
+     "url": "https://www.hindustantimes.com/education/employment-news/bpsc-tre-4-0-recruitment-2026-registration-begins-for-32k-posts-at-bpsc-bih-nic-in-direct-link-to-apply-here-101790318054339.html",
+     "summary": ""
+    },
+    {
+     "title": "Bank of Baroda Recruitment 2026: Registration date for 1100 posts extended",
+     "url": "https://www.hindustantimes.com/education/employment-news/bank-of-baroda-recruitment-2026-registration-date-for-1100-wealth-executive-and-credit-analyst-posts-extended-101790245754966.html",
+     "summary": ""
+    },
+    {
+     "title": "CRPF Recruitment through Sports Quota 2026: Apply for 521 Constable posts",
+     "url": "https://www.hindustantimes.com/education/employment-news/crpf-recruitment-through-sports-quota-2026-apply-for-521-head-constable-and-constable-posts-at-rectcrpfgovin-101790152883567.html",
+     "summary": ""
+    },
+    {
+     "title": "BPSC TRE 4.0 Recruitment 2026: Registration date postponed, to begin on Sept 25",
+     "url": "https://www.hindustantimes.com/education/employment-news/bpsc-tre-4-0-recruitment-2026-registration-date-postponed-to-begin-on-september-25-at-bpscbihnicin-101790141781336.html",
+     "summary": ""
+    },
+    {
+     "title": "IBPS RRB Recruitment 2026: Registration date extended till September 27",
+     "url": "https://www.hindustantimes.com/education/employment-news/ibps-rrb-recruitment-2026-registration-date-extended-till-september-27-apply-for-13k-posts-at-ibpsin-101790048161649.html",
+     "summary": ""
+    },
+    {
+     "title": "IBPS RRB Recruitment 2026: Last date today to apply for 13745 posts, link here",
+     "url": "https://www.hindustantimes.com/education/employment-news/ibps-rrb-recruitment-2026-last-date-today-to-apply-for-13745-officers-and-office-assistant-posts-at-ibps-in-direct-lin-101789970549170.html",
+     "summary": ""
+    },
+    {
+     "title": "East Central Railway Recruitment via GDCE 2026: Apply for 1465 ALP, other posts",
+     "url": "https://www.hindustantimes.com/education/employment-news/east-central-railway-recruitment-via-gdce-2026-apply-for-1465-alp-and-other-posts-at-ecrindianrailwaysgovin-101789725164763.html",
+     "summary": ""
+    },
+    {
+     "title": "SBI CISO Recruitment 2026: Apply for Chief Information Security Officer post",
+     "url": "https://www.hindustantimes.com/education/employment-news/sbi-ciso-recruitment-2026-apply-for-chief-information-security-officer-post-ctc-up-to-rs-2-50-crore-101789644021961.html",
+     "summary": ""
+    },
+    {
+     "title": "IMD to recruit for Scientific Assistant post via SSC JE exam",
+     "url": "https://www.hindustantimes.com/education/employment-news/imd-to-recruit-for-scientific-assistant-post-via-ssc-je-exam-apply-till-september-22-at-sscgovin-101789638066290.html",
+     "summary": ""
+    },
+    {
+     "title": "UPSC ESE 2027: Registration begins for 480 posts, direct link to apply here",
+     "url": "https://www.hindustantimes.com/education/employment-news/upsc-ese-2027-registration-begins-for-480-posts-at-upsc-gov-in-direct-link-to-apply-here-101789636394544.html",
+     "summary": ""
+    },
+    {
+     "title": "UP Super TET 2026: Registration for 12405 teacher posts begins, direct link here",
+     "url": "https://www.hindustantimes.com/education/employment-news/up-super-tet-2026-registration-for-12405-teacher-posts-begins-at-upessc-up-gov-in-direct-link-to-apply-here-101789620843708.html",
+     "summary": ""
+    },
+    {
+     "title": "RRB Paramedical Categories Recruitment 2026: Apply for 590 posts, details here",
+     "url": "https://www.hindustantimes.com/education/employment-news/rrb-paramedical-categories-recruitment-2026-apply-for-590-nursing-superintendent-other-posts-at-rrbapplygovin-101789551672232.html",
+     "summary": ""
+    },
+    {
+     "title": "ISRO Recruitment 2026: Apply for Technical Assistant and other posts",
+     "url": "https://www.hindustantimes.com/education/employment-news/isro-recruitment-2026-apply-for-technical-assistant-and-other-posts-at-isrogovin-101789465580616.html",
+     "summary": ""
+    },
+    {
+     "title": "GAIL Executive Trainee Recruitment through GATE 2027: Check registration dates",
+     "url": "https://www.hindustantimes.com/education/employment-news/gail-executive-trainee-recruitment-through-gate-2027-check-registration-dates-selection-process-other-details-101789371900565.html",
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "name": "HT Board Exams",
+   "url": "https://www.hindustantimes.com/education/board-exams",
+   "status": 200,
+   "error": null,
+   "items": [
+    {
+     "title": "AP Inter Exam 2027 Datesheet: BIEAP 1st, 2nd year timetable released, check exam dates here",
+     "url": "https://www.hindustantimes.com/education/board-exams/ap-inter-exam-2027-datesheet-bieap-1st-2nd-year-timetable-released-check-exam-dates-here-101792729314220.html",
+     "summary": ""
+    },
+    {
+     "title": "CBSE 10th, 12th Date Sheet 2027 LIVE: Where, how to check Class 10, 12 schedule",
+     "url": "https://www.hindustantimes.com/education/board-exams/cbse-class-10th-12th-date-sheet-live-news-2027-board-exam-schedule-direct-link-to-check-how-to-check-cbse-gov-in-101792642928832.html",
+     "summary": ""
+    },
+    {
+     "title": "UP Board Exam 2027 Datesheet: UPMSP Class 10, 12 timetable released, check dates here",
+     "url": "https://www.hindustantimes.com/education/board-exams/up-board-exam-2027-datesheet-upmsp-class-10-12-timetable-released-check-dates-here-101791864679873.html",
+     "summary": ""
+    },
+    {
+     "title": "CBSE Datesheet 2027: Special exam timetable for West Asian countries out, Class 12 admit card today",
+     "url": "https://www.hindustantimes.com/education/board-exams/cbse-datesheet-2027-special-exam-timetable-for-west-asian-countries-out-class-12-admit-card-releasing-today-101791778442604.html",
+     "summary": ""
+    },
+    {
+     "title": "CBSE Board Exam 2027: Class 10, 12 form submission for private candidates to begin today",
+     "url": "https://www.hindustantimes.com/education/board-exams/cbse-board-exam-2027-class-10-12-form-submission-for-private-candidates-to-begin-on-october-8-at-cbse-gov-in-check-details-101791438215916.html",
+     "summary": ""
+    },
+    {
+     "title": "CBSE Datesheet News LIVE: When, where to check Class 10, 12 timetable when out",
+     "url": "https://www.hindustantimes.com/education/board-exams/cbse-datesheet-2027-news-live-updates-when-will-class-10th-12th-exam-date-sheet-release-what-we-know-at-cbse-gov-in-101791175711847.html",
+     "summary": ""
+    },
+    {
+     "title": "CBSE Date Sheet 2027 LIVE: When will Class 10, 12 timetable release?",
+     "url": "https://www.hindustantimes.com/education/board-exams/cbse-date-sheet-2027-live-updates-class-10-12-board-exam-schedule-time-tables-pdf-how-to-check-direct-link-cbse-gov-in-101790137757026.html",
+     "summary": ""
+    },
+    {
+     "title": "CBSE Board Exam 2027: LOC submission to begin on September 24, notice here",
+     "url": "https://www.hindustantimes.com/education/board-exams/cbse-board-exam-2027-loc-submission-to-begin-on-september-24-at-cbse-gov-in-official-notice-here-101790066531604.html",
+     "summary": ""
+    },
+    {
+     "title": "CBSE Class 10, 12 sample papers 2026 released, check SQPs and MS here",
+     "url": "https://www.hindustantimes.com/education/board-exams/cbse-class-10-12-sample-papers-2026-released-at-cbse-gov-in-check-sqps-and-ms-here-101790060732425.html",
+     "summary": ""
+    },
+    {
+     "title": "CBSE Date Sheet 2027 LIVE: Where, how to check Class 10, 12 timetable when out",
+     "url": "https://www.hindustantimes.com/education/board-exams/cbse-board-exam-2027-date-sheet-live-updates-class-10-12-time-table-pdf-how-to-download-exam-dates-cbse-gov-in-101789967633835.html",
+     "summary": ""
+    },
+    {
+     "title": "CBSE Class 12 Board Exam 2026: Notice on LOC submission for special exam out",
+     "url": "https://www.hindustantimes.com/education/board-exams/cbse-class-12-board-exam-2026-loc-submission-for-special-exam-in-west-asian-countries-begins-on-september-22-101789715688507.html",
+     "summary": ""
+    },
+    {
+     "title": "Meghalaya Board SSLC Exam 2027 Datesheet: MBOSE Class 10 timetable released",
+     "url": "https://www.hindustantimes.com/education/board-exams/meghalaya-board-sslc-exam-2027-datesheet-mbose-class-10-timetable-released-at-mbose-in-check-dates-here-101789555299810.html",
+     "summary": ""
+    },
+    {
+     "title": "Bihar Board 10th, 12th Exam 2027: Last date to register for BSEB examination",
+     "url": "https://www.hindustantimes.com/education/board-exams/bihar-board-10th-12th-exam-2027-last-date-to-register-today-for-bseb-class-10-12-examination-101789541568771.html",
+     "summary": ""
+    },
+    {
+     "title": "CBSE Class 10, 12 Datesheet 2027: When will 10th, 12th timetable release?",
+     "url": "https://www.hindustantimes.com/education/board-exams/cbse-datesheet-2027-when-will-the-class-10-12-exam-timetable-be-released-check-past-trends-here-101789361458869.html",
+     "summary": ""
+    },
+    {
+     "title": "CBSE Board Exams 2027: Registration, LOC submission to begin soon, notice here",
+     "url": "https://www.hindustantimes.com/education/board-exams/cbse-board-exams-2027-registration-loc-submission-to-begin-soon-at-cbse-gov-in-official-notice-here-101789114679370.html",
+     "summary": ""
+    },
+    {
+     "title": "UP extends registration deadline for Class 9 to 12 students",
+     "url": "https://www.hindustantimes.com/education/board-exams/up-extends-registration-deadline-for-class-9-to-12-students-101788247863265.html",
+     "summary": ""
+    },
+    {
+     "title": "CBSE Class 12 Supply Result 2026: Application process for answerbook begins",
+     "url": "https://www.hindustantimes.com/education/board-exams/cbse-class-12-supply-result-2026-application-process-for-photocopy-of-answerbook-begins-direct-link-here-101788155777209.html",
+     "summary": ""
+    },
+    {
+     "title": "CBSE Class 12 Supplementary Result 2026: Verification, re-evaluation dates out",
+     "url": "https://www.hindustantimes.com/education/board-exams/cbse-class-12-supplementary-result-2026-verification-re-evaluation-dates-released-at-cbse-gov-in-check-here-101787896359272.html",
+     "summary": ""
+    },
+    {
+     "title": "Bihar Board Exam 2027: BSEB Class 10th, 12th registration begins, link here",
+     "url": "https://www.hindustantimes.com/education/board-exams/bihar-board-exam-2027-bseb-class-10th-12th-registration-begins-direct-link-to-apply-here-101787726245280.html",
+     "summary": ""
+    },
+    {
+     "title": "MP Board Datesheet 2026: MPBSE 10th, 12th timetable released at mpbse.nic.in",
+     "url": "https://www.hindustantimes.com/education/board-exams/mp-board-datesheet-2026-mpbse-10th-12th-timetable-released-at-mpbse-nic-in-check-schedule-here-101786692972187.html",
+     "summary": ""
+    },
+    {
+     "title": "CBSE Class 12th Supplementary Result 2026 declared, direct link here",
+     "url": "https://www.hindustantimes.com/education/board-exams/cbse-class-12th-supplementary-result-2026-declared-at-digilocker-gov-in-direct-link-here-101786533991616.html",
+     "summary": ""
+    },
+    {
+     "title": "Goa Board Datesheet 2027: GBSHSE HSSC, SSC timetable released at gbshse.in",
+     "url": "https://www.hindustantimes.com/education/board-exams/goa-board-datesheet-2027-gbshse-hssc-ssc-timetable-released-at-gbshse-in-check-schedule-here-101786442138056.html",
+     "summary": ""
+    },
+    {
+     "title": "CBSE 10th Result 2026: Application begins for obtaining scanned answer copies",
+     "url": "https://www.hindustantimes.com/education/board-exams/cbse-class-10-result-2026-application-begins-for-obtaining-scanned-answer-copies-at-cbse-gov-in-notice-here-101785991209687.html",
+     "summary": ""
+    },
+    {
+     "title": "TN SSLC Supply Result 2026: DGETN Class 10th results releasing today",
+     "url": "https://www.hindustantimes.com/education/board-exams/tn-sslc-supply-result-2026-dgetn-class-10th-results-release-today-at-dge-tn-gov-in-heres-how-to-check-101785906495847.html",
+     "summary": ""
+    },
+    {
+     "title": "TN 12th Supply Exam Result 2026 declared at dge.tn.gov.in, direct link to check",
+     "url": "https://www.hindustantimes.com/education/board-exams/tn-12th-supply-exam-result-2026-declared-at-dge-tn-gov-in-direct-link-to-check-here-101785488388065.html",
+     "summary": ""
+    },
+    {
+     "title": "UP Board Exam 2027: UPMSP Class 10, 12 exam registration begins, schedule here",
+     "url": "https://www.hindustantimes.com/education/board-exams/up-board-exam-2027-upmsp-class-10-12-exam-registration-begins-at-upmsp-edu-in-check-schedule-here-101785132632645.html",
+     "summary": ""
+    },
+    {
+     "title": "CBSE Class 12 Supply Exam 2026: Board issues guideline to conduct practical exam",
+     "url": "https://www.hindustantimes.com/education/board-exams/cbse-class-12-supply-exam-2026-board-issues-guidelines-to-conduct-practical-exams-check-important-points-101784870508769.html",
+     "summary": ""
+    },
+    {
+     "title": "CBSE Class 12 Supply Admit Card 2026 released, direct link here",
+     "url": "https://www.hindustantimes.com/education/board-exams/cbse-class-12-supply-admit-card-2026-released-at-cbse-gov-in-direct-link-to-download-here-101784709717349.html",
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "name": "HT Exam Results",
+   "url": "https://www.hindustantimes.com/education/exam-results",
+   "status": 200,
+   "error": null,
+   "items": [
+    {
+     "title": "ICAI CA Inter Result 2026 declared at caresults.icai.org, direct link to check results here",
+     "url": "https://www.hindustantimes.com/education/exam-results/icai-ca-inter-result-2026-declared-at-caresults-icai-org-direct-link-to-check-results-here-101792647855974.html",
+     "summary": ""
+    },
+    {
+     "title": "ICAI CA September Result 2026 for intermediate course released, here’s how to check",
+     "url": "https://www.hindustantimes.com/education/exam-results/icai-ca-september-result-2026-for-intermediate-course-release-today-at-caresults-icai-org-here-s-how-to-check-101792642341689.html",
+     "summary": ""
+    },
+    {
+     "title": "TNTET Result 2026 for working teachers released at trb.tn.gov.in, direct link to check results here",
+     "url": "https://www.hindustantimes.com/education/exam-results/tntet-result-2026-for-working-teachers-released-at-trb-tn-gov-in-direct-link-to-check-results-here-101791890137704.html",
+     "summary": ""
+    },
+    {
+     "title": "SSC GD Constable Result 2026 declared at ssc.gov.in, check roll numbers here",
+     "url": "https://www.hindustantimes.com/education/exam-results/ssc-gd-constable-result-2026-declared-at-ssc-gov-in-check-roll-numbers-here-101791864371426.html",
+     "summary": ""
+    },
+    {
+     "title": "BTE UP Re-evaluation Result 2026 for June exam declared, direct link to check results here",
+     "url": "https://www.hindustantimes.com/education/exam-results/bte-up-re-evaluation-result-2026-for-june-exam-declared-at-bteup-ac-in-direct-link-to-check-results-here-101791862820128.html",
+     "summary": ""
+    },
+    {
+     "title": "India Post GDS Merit List 2026 released at indiapost.gov.in, direct link to check results",
+     "url": "https://www.hindustantimes.com/education/exam-results/india-post-gds-merit-list-2026-released-at-indiapost-gov-in-direct-link-to-check-results-101791861065341.html",
+     "summary": ""
+    },
+    {
+     "title": "SSC MTS & Havaldar Result 2025: Additional result list out, link to check roll numbers here",
+     "url": "https://www.hindustantimes.com/education/exam-results/ssc-mts-havaldar-result-2025-additional-result-list-out-at-ssc-gov-in-direct-link-to-check-roll-numbers-here-101791368359084.html",
+     "summary": ""
+    },
+    {
+     "title": "UGC NET Result 2026: E-certificates issued for June exam, download link here",
+     "url": "https://www.hindustantimes.com/education/exam-results/ugc-net-result-2026-e-certificates-issued-for-june-exam-at-ugcnet-nta-nic-in-download-link-here-101790314153331.html",
+     "summary": ""
+    },
+    {
+     "title": "NEET PG Result 2026 declared, direct link to check roll number, rank here",
+     "url": "https://www.hindustantimes.com/education/exam-results/neet-pg-result-2026-declared-at-natboard-edu-in-direct-link-to-check-roll-number-rank-here-101790240174101.html",
+     "summary": ""
+    },
+    {
+     "title": "NEET PG 2026 exam results are likely to be declared soon by NBEMS: Sources",
+     "url": "https://www.hindustantimes.com/education/exam-results/neetpg-2026-examination-results-are-likely-to-be-declared-soon-by-nbems-sources-101790222321274.html",
+     "summary": ""
+    },
+    {
+     "title": "UGC NET Result 2026 for English, Commerce and Sociology papers out, link here",
+     "url": "https://www.hindustantimes.com/education/exam-results/ugc-net-result-2026-for-english-commerce-and-sociology-papers-declared-at-ugcnet-nta-nic-in-direct-link-here-101789705141440.html",
+     "summary": ""
+    },
+    {
+     "title": "RRB JE Result 2026 for CBT 2 declared, direct link to check scorecards here",
+     "url": "https://www.hindustantimes.com/education/exam-results/rrb-je-result-2026-for-cbt-2-declared-direct-link-to-check-scorecards-here-101789617453857.html",
+     "summary": ""
+    },
+    {
+     "title": "UPSC July Exam Result 2026 declared for various posts, direct link here",
+     "url": "https://www.hindustantimes.com/education/exam-results/upsc-july-exam-result-2026-declared-for-professor-specialist-mo-other-posts-at-upsc-gov-in-direct-link-here-101788779265629.html",
+     "summary": ""
+    },
+    {
+     "title": "UGC NET Result 2026 LIVE: NTA to declare UGC NET June results to be out soon",
+     "url": "https://www.hindustantimes.com/education/exam-results/nta-ugc-net-result-2026-live-updates-student-june-session-student-scorecard-final-key-direct-link-ugcnet-nta-nic-in-101787810167918.html",
+     "summary": ""
+    },
+    {
+     "title": "UPTET Result 2026 declared at upessc.up.gov.in, direct link to check scorecard",
+     "url": "https://www.hindustantimes.com/education/exam-results/uptet-result-2026-declared-at-upessc-up-gov-in-direct-link-to-check-scorecard-here-101787802846065.html",
+     "summary": ""
+    },
+    {
+     "title": "UGC NET 2026 Result, Final Answer Key releasing this week: NTA",
+     "url": "https://www.hindustantimes.com/education/exam-results/ugc-net-2026-result-final-answer-key-releasing-this-week-at-ugcnet-nta-nic-in-nta-101787729103610.html",
+     "summary": ""
+    },
+    {
+     "title": "UPSC CAPF Result 2026 for written test declared, direct link here",
+     "url": "https://www.hindustantimes.com/education/exam-results/upsc-capf-result-2026-for-written-test-declared-direct-link-to-check-roll-numbers-here-101787717344251.html",
+     "summary": ""
+    },
+    {
+     "title": "SBI Apprentice Final Result 2026 declared at sbi.co.in, direct link to check",
+     "url": "https://www.hindustantimes.com/education/exam-results/sbi-apprentice-final-result-2026-declared-at-sbi-co-in-direct-link-to-check-roll-numbers-here-101787655584867.html",
+     "summary": ""
+    },
+    {
+     "title": "ICSI CS June Result 2026 for executive program declared, direct link here",
+     "url": "https://www.hindustantimes.com/education/exam-results/icsi-cs-june-result-2026-for-executive-program-declared-at-icsi-edu-direct-link-and-toppers-list-here-101787646477244.html",
+     "summary": ""
+    },
+    {
+     "title": "ICSI CS June Result 2026 for professional program out, check marksheet here",
+     "url": "https://www.hindustantimes.com/education/exam-results/icsi-cs-june-result-2026-for-professional-program-out-at-icsi-edu-check-marksheet-and-toppers-list-here-101787636666992.html",
+     "summary": ""
+    },
+    {
+     "title": "UPSC Success Story: How IPS Simala Prasad turned cracked exam with coaching",
+     "url": "https://www.hindustantimes.com/education/exam-results/upsc-success-story-daughter-of-padma-shri-winning-mother-ias-father-know-ips-simala-prasads-journey-101787131793684.html",
+     "summary": ""
+    },
+    {
+     "title": "CSBC Bihar Police Result 2026 for Constable, Jail Warder posts, direct link here",
+     "url": "https://www.hindustantimes.com/education/exam-results/csbc-bihar-police-result-2026-for-constable-jail-warder-posts-at-csbc-bihar-gov-in-direct-link-to-check-here-101787115914152.html",
+     "summary": ""
+    },
+    {
+     "title": "BPSC Success Story: Meet a working mother who cracked exam to become SDM",
+     "url": "https://www.hindustantimes.com/education/exam-results/bpsc-success-story-working-mother-cracks-exam-while-balancing-9-to-5-job-family-and-motherhood-becomes-sdm-101787035689173.html",
+     "summary": ""
+    },
+    {
+     "title": "BTech graduate's career switch to mushroom farming brings ₹ 10 lakh+ per month",
+     "url": "https://www.hindustantimes.com/education/exam-results/from-it-to-mushroom-farming-btech-graduates-career-switch-brings-rs-10-lakh-monthly-income-101787021005027.html",
+     "summary": ""
+    },
+    {
+     "title": "KVS, NVS Tier 2 Result 2026 for first phase declared, direct link here",
+     "url": "https://www.hindustantimes.com/education/exam-results/kvs-nvs-tier-2-result-2026-for-first-phase-declared-at-cbse-gov-in-direct-link-to-check-here-101786957817261.html",
+     "summary": ""
+    },
+    {
+     "title": "At 51, NEET aspirant with 2 PhDs and MBA secures government MBBS seat",
+     "url": "https://www.hindustantimes.com/education/exam-results/neet-ug-success-story-at-51-neet-aspirant-with-2-phds-and-mba-secures-government-mbbs-seat-101786681592529.html",
+     "summary": ""
+    },
+    {
+     "title": "NEET Success Story: Tailor's son cracks exam through self-study, secure AIR 2695",
+     "url": "https://www.hindustantimes.com/education/exam-results/neet-ug-2026-success-story-tailors-son-mohammad-ayan-cracks-medical-entrance-exam-through-self-study-secures-air-2695-101785820429130.html",
+     "summary": ""
+    },
+    {
+     "title": "SSC JE Final Result 2025 declared at ssc.gov.in, direct link to check here",
+     "url": "https://www.hindustantimes.com/education/exam-results/ssc-je-final-result-2025-declared-at-ssc-gov-in-direct-link-to-check-here-101785750837862.html",
+     "summary": ""
+    },
+    {
+     "title": "UP Police Constable Result 2026 declared at uppbpb.gov.in, direct link here",
+     "url": "https://www.hindustantimes.com/education/exam-results/up-police-constable-result-2026-declared-at-uppbpb-gov-in-direct-link-here-101785494418826.html",
+     "summary": ""
+    },
+    {
+     "title": "UPTET Result 2026 LIVE: How to check UPESSC TET scorecard, final answer key",
+     "url": "https://www.hindustantimes.com/education/exam-results/uptet-result-2026-live-updates-upessc-tet-scorecard-direct-link-cut-off-how-to-check-topper-merit-list-upessc-up-gov-in-101785388147328.html",
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "name": "Indian Express Education",
+   "url": "https://indianexpress.com/section/education/",
+   "status": 403,
+   "error": null,
+   "items": []
+  },
+  {
+   "name": "Inshorts Education",
+   "url": "https://inshorts.com/en/read/education",
+   "status": 200,
+   "error": null,
+   "items": []
+  },
+  {
+   "name": "Careers360 Exam News",
+   "url": "https://news.careers360.com/exam-news",
+   "status": 200,
+   "error": null,
+   "items": [
+    {
+     "title": "Live JEE Main 2027 Registration: January session 1 form soon on jeemain.nta.nic.in; pattern, marking scheme, PYQs JEE Main 2027 January session 1 application form on jeemain.nta.nic.in soon; Updates on pattern, marking scheme, registration fee, BTech cutoffs, top engineering colleges, and other deta",
+     "url": "https://news.careers360.com/jee-mains-2027-session-1-registration-live-updates-login-link-jeemain-nta-nic-in-exam-date-fees-syllabus-documents-today-news",
+     "summary": "JEE Main 2027 January session 1 application form on jeemain.nta.nic.in soon; Updates on pattern, marking scheme, registration fee, BTech cutoffs, top engineering colleges, and other details"
+    },
+    {
+     "title": "UPESSC Assistant Teacher Recruitment 2026: Registration begins for 17,735 UP TGT vacancies; eligibility UPESSC Assistant Teacher vacancy 2026: Check subject-wise posts, age limit, salary and application steps",
+     "url": "https://news.careers360.com/up-tgt-notification-2026-upessc-assistant-teacher-registration-begins-eligibility-age-limit-salary-sarkari-naukri-up-govt-jobs",
+     "summary": "UPESSC Assistant Teacher vacancy 2026: Check subject-wise posts, age limit, salary and application steps"
+    },
+    {
+     "title": "NEET PG 2026 Counselling: Freeze vs float option explained; check reporting rules, documents required and more NEET PG 2026 Round 1 seat allotment: Candidates must report to their allotted colleges between October 26 and November 2 with the required documents to complete admission formalities.",
+     "url": "https://news.careers360.com/neet-pg-2026-counselling-round-1-seat-allotment-md-ms-reporting-dates-documents-rules-freeze-float",
+     "summary": "NEET PG 2026 Round 1 seat allotment: Candidates must report to their allotted colleges between October 26 and November 2 with the required documents to complete admission formalities."
+    },
+    {
+     "title": "Mizoram to recruit 100 primary teachers this year: Minister The state is also considering easing assessment requirements for in-service teachers and holding the Mizoram Teacher Eligibility Test twice a year to help more teachers qualify.",
+     "url": "https://news.careers360.com/mizoram-recruit-100-primary-teachers-year-minister",
+     "summary": "The state is also considering easing assessment requirements for in-service teachers and holding the Mizoram Teacher Eligibility Test twice a year to help more teachers qualify."
+    },
+    {
+     "title": "OUSSSC Recuruitment 2026: OSSSC announces 7,268 vacancies for Odisha uniformed services exam OUSSSC recruitment drive covers constable, firefighter, driver and other posts under the Combined Uniformed Services Examination 2026.",
+     "url": "https://news.careers360.com/ousssc-recruitment-2026-osssc-announces-7268-odisha-combined-uniformed-services-exam-posts-constable-driver-firefighter-vacancies",
+     "summary": "OUSSSC recruitment drive covers constable, firefighter, driver and other posts under the Combined Uniformed Services Examination 2026."
+    },
+    {
+     "title": "Maharashtra NEET UG Counselling: HC refuses to let medical college hold own MBBS rounds, says plea ‘premature’ Bombay HC said that the pvt medical college can go for own MBBS admissions if they fail to fill all seats after Maha Cet Cell’s CAP and stray rounds, ask Supreme Court for extension of cut-",
+     "url": "https://news.careers360.com/maharashtra-neet-ug-counselling-2026-pvt-medical-college-round-mbbs-admission-seat-petition-reject-bombay-hc-maha-cet-cell-cap-nmc",
+     "summary": "Bombay HC said that the pvt medical college can go for own MBBS admissions if they fail to fill all seats after Maha Cet Cell’s CAP and stray rounds, ask Supreme Court for extension of cut-off date"
+    },
+    {
+     "title": "Karnataka NEET UG Counselling 2026: Final stray vacancy round result out, 493 MBBS, BDS seats allotted Karnataka NEET UG counselling 2026 final stray vacancy round seat allotment result can be accessed at cetonline.karnataka.gov.in. Candidates must pay fees by October 24 and report to allotted colle",
+     "url": "https://news.careers360.com/karnatak-neet-ug-counselling-2026-final-stray-vacancy-result-out-cetonline-karnataka-gov-in-493-mbbs-bds-seats-allotted",
+     "summary": "Karnataka NEET UG counselling 2026 final stray vacancy round seat allotment result can be accessed at cetonline.karnataka.gov.in. Candidates must pay fees by October 24 and report to allotted colleges by October 25."
+    },
+    {
+     "title": "UGC NET December 2026: NTA shares tips to fix live photo capture issues during application UGC NET December 2026 candidates experiencing difficulties capturing their live photographs can clear their browser cache, switch browsers or use Incognito mode.",
+     "url": "https://news.careers360.com/ugc-net-december-2026-nta-shares-tips-fix-live-photo-capture-issues-during-application",
+     "summary": "UGC NET December 2026 candidates experiencing difficulties capturing their live photographs can clear their browser cache, switch browsers or use Incognito mode."
+    },
+    {
+     "title": "FMGE October 2026: NBEMS extends application correction deadline to October 23 FMGE Application Form 2026: Candidates can rectify deficiencies in documents and images. Those who miss the deadline will be declared ineligible.",
+     "url": "https://news.careers360.com/fmge-october-2026-nbems-application-form-correction-last-date-extended-deficient-documents-image-update-october-23-natboard-edu-in",
+     "summary": "FMGE Application Form 2026: Candidates can rectify deficiencies in documents and images. Those who miss the deadline will be declared ineligible."
+    },
+    {
+     "title": "Over 800 MBBS seats remain vacant in deemed universities across TN, Puducherry amid high fees Educationists have cited high tuition fees of up to Rs 35 lakh per year as a key reason for vacant seats in deemed medical colleges.",
+     "url": "https://news.careers360.com/over-800-mbbs-seats-remain-vacant-in-deemed-universities-across-tn-puducherry-amid-high-fees",
+     "summary": "Educationists have cited high tuition fees of up to Rs 35 lakh per year as a key reason for vacant seats in deemed medical colleges."
+    }
+   ]
+  },
+  {
+   "name": "Free Press Journal Education",
+   "url": "https://www.freepressjournal.in/education",
+   "status": 200,
+   "error": null,
+   "items": [
+    {
+     "title": "Over 2.40 Lakh Students From Drought-Hit Talukas Submit Exam Forms Without Fees Under Zero-Challan Facility 24 October 2026, 02:00 AM",
+     "url": "https://www.freepressjournal.in/education/over-240-lakh-students-from-drought-hit-talukas-submit-exam-forms-without-fees-under-zero-challan-facility",
+     "summary": ""
+    },
+    {
+     "title": "MPSC Cancels Another Recruitment Drive For Assistant Director Posts After Drug Inspector Exam Row 24 October 2026, 01:31 AM",
+     "url": "https://www.freepressjournal.in/education/mpsc-cancels-another-recruitment-drive-for-assistant-director-posts-after-drug-inspector-exam-row",
+     "summary": ""
+    },
+    {
+     "title": "Maharashtra MPSC Withdraws Assistant Director Of Languages Recruitment Advertisement Amid Changes In Administrative Rules 24 October 2026, 12:01 AM",
+     "url": "https://www.freepressjournal.in/education/maharashtra-mpsc-withdraws-assistant-director-of-languages-recruitment-advertisement-amid-changes-in-administrative-rules",
+     "summary": ""
+    },
+    {
+     "title": "Mumbai University Partners With UK's Bristol University To Train Over 200 Youth In Green Skills And Climate Resilience 23 October 2026, 11:24 PM",
+     "url": "https://www.freepressjournal.in/education/mumbai-university-partners-with-uks-bristol-university-to-train-over-200-youth-in-green-skills-and-climate-resilience",
+     "summary": ""
+    },
+    {
+     "title": "Maharashtra TET Paper Leak Case: Bhiwandi Court To Begin Regular Hearings From October 26, All 18 Accused Summoned 23 October 2026, 09:22 PM",
+     "url": "https://www.freepressjournal.in/education/maharashtra-tet-paper-leak-case-bhiwandi-court-to-begin-regular-hearings-from-october-26-all-18-accused-summoned",
+     "summary": ""
+    },
+    {
+     "title": "Graduates Turnout Lags At 62.78%, Teachers Record 85.87% In Pune Division Polls 23 October 2026, 09:21 PM",
+     "url": "https://www.freepressjournal.in/pune/graduates-turnout-lags-at-6278-teachers-record-8587-in-pune-division-polls",
+     "summary": ""
+    },
+    {
+     "title": "Pune School Horror As Class 9 Student Attacks Female Classmate With Knife In Balewadi, Detained 23 October 2026, 09:20 PM A Class XI boy allegedly attacked his female classmate with a knife at VIBGYOR School in Pune's... Read More",
+     "url": "https://www.freepressjournal.in/pune/pune-school-horror-as-class-9-student-attacks-female-classmate-with-knife-in-balewadi-detained",
+     "summary": "A Class XI boy allegedly attacked his female classmate with a knife at VIBGYOR School in Pune's... Read More"
+    },
+    {
+     "title": "MPSC Drug Inspector Paper Leak Case: Crime Branch Arrests Assistant Section Officer From Navi Mumbai, Toll Rises To 13 23 October 2026, 08:34 PM Mumbai Crime Branch's SIT arrested MPSC Assistant Section Officer Rohit Koltakke, 34, from Navi... Read More",
+     "url": "https://www.freepressjournal.in/education/mpsc-drug-inspector-paper-leak-case-crime-branch-arrests-assistant-section-officer-from-navi-mumbai-toll-rises-to-13",
+     "summary": "Mumbai Crime Branch's SIT arrested MPSC Assistant Section Officer Rohit Koltakke, 34, from Navi... Read More"
+    },
+    {
+     "title": "3 Vibgyor School Branches In Kharghar, Belapur And Airoli Receive Threatening Email, Students Sent Home 23 October 2026, 08:29 PM Three Vibgyor School branches in Kharghar, Belapur and Airoli received a threatening email saying... Read More",
+     "url": "https://www.freepressjournal.in/education/3-vibgyor-school-branches-in-kharghar-belapur-and-airoli-receive-threatening-email-students-sent-home",
+     "summary": "Three Vibgyor School branches in Kharghar, Belapur and Airoli received a threatening email saying... Read More"
+    },
+    {
+     "title": "Mumbai Literature Festival: Ranjit Hoskote Raises Concerns Over Himalayan Dams, Forest Exploitation And Climate Crisis 23 October 2026, 08:16 PM Poet Ranjit Hoskote called for collective climate action and participatory politics at Godrej... Read More",
+     "url": "https://www.freepressjournal.in/education/mumbai-literature-festival-ranjit-hoskote-raises-concerns-over-himalayan-dams-forest-exploitation-and-climate-crisis",
+     "summary": "Poet Ranjit Hoskote called for collective climate action and participatory politics at Godrej... Read More"
+    },
+    {
+     "title": "IIT Bombay Develops Portable, Low-Cost Device To Detect Anaemia, Sickle Cell Disease 23 October 2026, 06:17 PM IIT Bombay researchers have developed a portable, low-cost device to screen for anaemia and sickle... Read More",
+     "url": "https://www.freepressjournal.in/mumbai/iit-bombay-develops-portable-low-cost-device-to-detect-anaemia-sickle-cell-disease",
+     "summary": "IIT Bombay researchers have developed a portable, low-cost device to screen for anaemia and sickle... Read More"
+    },
+    {
+     "title": "Uttarakhand BA Graduate Builds Electric Flying Car After 13 Years Of Self-Learning - VIDEO 23 October 2026, 05:04 PM Ravi Tamta, a BA graduate from Uttarakhand’s Almora district, has developed an electric flying car... Read More",
+     "url": "https://www.freepressjournal.in/viral/uttarakhand-ba-graduate-builds-electric-flying-car-after-13-years-of-self-learning-video",
+     "summary": "Ravi Tamta, a BA graduate from Uttarakhand’s Almora district, has developed an electric flying car... Read More"
+    },
+    {
+     "title": "Greece Bans Social Media For Children Under 15, Law To Take Effect From January 2027 23 October 2026, 02:36 PM Greece’s parliament has approved a ban on social media use by children under 15 from January 1,... Read More",
+     "url": "https://www.freepressjournal.in/tech/greece-bans-social-media-for-children-under-15-law-to-take-effect-from-january-2027",
+     "summary": "Greece’s parliament has approved a ban on social media use by children under 15 from January 1,... Read More"
+    },
+    {
+     "title": "Run Your Own Race: HSNC University VC Dr. Hemlata Bagla Urges Graduates to Ditch Competition & External Validation for Self-Discovery 23 October 2026, 10:28 AM Against a backdrop of academic pride and emotional milestone moments, HSNC University, Mumbai,... Read More",
+     "url": "https://www.freepressjournal.in/education/run-your-own-race-hsnc-university-vc-dr-hemlata-bagla-urges-graduates-to-ditch-competition-external-validation-for-self-discovery",
+     "summary": "Against a backdrop of academic pride and emotional milestone moments, HSNC University, Mumbai,... Read More"
+    },
+    {
+     "title": "Maharashtra Declares December 27 As Agriculture Students' Day To Honour Dr Panjabrao Deshmukh's Legacy 22 October 2026, 11:46 PM Maharashtra will observe December 27 as State AGRICOS – Agriculture Students' Day to commemorate... Read More",
+     "url": "https://www.freepressjournal.in/education/maharashtra-declares-december-27-as-agriculture-students-day-to-honour-dr-panjabrao-deshmukhs-legacy",
+     "summary": "Maharashtra will observe December 27 as State AGRICOS – Agriculture Students' Day to commemorate... Read More"
+    },
+    {
+     "title": "Vikramgad's Proposed Central Kitchen To Provide Mid-Day Meals To 25,000 Students, Awaiting Approval 22 October 2026, 07:37 PM Maharashtra is considering a central kitchen in Palghar's Vikramgad taluka to provide nutritious... Read More",
+     "url": "https://www.freepressjournal.in/education/vikramgads-proposed-central-kitchen-to-provide-mid-day-meals-to-25000-students-awaiting-approval",
+     "summary": "Maharashtra is considering a central kitchen in Palghar's Vikramgad taluka to provide nutritious... Read More"
+    },
+    {
+     "title": "MPSC Paper Leak Row: Satish Waghole Gets Additional Chairperson Charge As Maharashtra Probes Exam Irregularities 22 October 2026, 12:26 PM MPSC member Satish Baban Waghole has been given additional charge as chairperson during Vivek... Read More",
+     "url": "https://www.freepressjournal.in/education/mpsc-paper-leak-row-satish-waghole-gets-additional-chairperson-charge-as-maharashtra-probes-exam-irregularities",
+     "summary": "MPSC member Satish Baban Waghole has been given additional charge as chairperson during Vivek... Read More"
+    },
+    {
+     "title": "ICAI CA Intermediate September 2026 Toppers: Mumbai's Neel Rajesh Shah, Nashik's Chandak Sakshi Secure AIR 1 With 502 Marks 22 October 2026, 10:44 AM ICAI has declared the CA Intermediate September 2026 results. Mumbai's Neel Rajesh Shah and Nashik's... Read More",
+     "url": "https://www.freepressjournal.in/education/icai-ca-intermediate-september-2026-toppers-mumbais-neel-rajesh-shah-nashiks-chandak-sakshi-secure-air-1-with-502-marks",
+     "summary": "ICAI has declared the CA Intermediate September 2026 results. Mumbai's Neel Rajesh Shah and Nashik's... Read More"
+    },
+    {
+     "title": "ICAI CA Intermediate September 2026 Result OUT At caresults.icai.org; Direct Link To Download Scorecard 22 October 2026, 10:25 AM ICAI has declared the CA Intermediate September 2026 results. Candidates can check their scores and... Read More",
+     "url": "https://www.freepressjournal.in/education/icai-ca-intermediate-september-2026-result-out-at-caresultsicaiorg-direct-link-to-download-scorecard",
+     "summary": "ICAI has declared the CA Intermediate September 2026 results. Candidates can check their scores and... Read More"
+    },
+    {
+     "title": "Bihar STET 2026 Exam Postponed: November 4 Test Rescheduled To November 21; Revised Admit Cards On October 24 22 October 2026, 10:16 AM BSEB has postponed the Bihar STET 2026 exam scheduled for November 4 to November 21 due to KVS and... Read More",
+     "url": "https://www.freepressjournal.in/education/bihar-stet-2026-exam-postponed-november-4-test-rescheduled-to-november-21-revised-admit-cards-on-october-24",
+     "summary": "BSEB has postponed the Bihar STET 2026 exam scheduled for November 4 to November 21 due to KVS and... Read More"
+    }
+   ]
+  },
+  {
+   "name": "Medical Dialogues Admissions",
+   "url": "https://medicaldialogues.in/news/education/medical-admissions",
+   "status": 200,
+   "error": null,
+   "items": [
+    {
+     "title": "Diabetes and metabolic health fact check",
+     "url": "https://medicaldialogues.in/fact-check/diabetes-and-metabolic-health-fact-check",
+     "summary": ""
+    },
+    {
+     "title": "Vaccine and Immunization fact check",
+     "url": "https://medicaldialogues.in/fact-check/vaccine-and-immunization-fact-check",
+     "summary": ""
+    },
+    {
+     "title": "CDSCO (Central Drugs Standard Control Organisation) News",
+     "url": "https://medicaldialogues.in/news/industry/pharma/cdsco",
+     "summary": ""
+    },
+    {
+     "title": "UP DGME issues guidelines for NEET PG 2026 counselling candidates, details",
+     "url": "https://medicaldialogues.in/news/education/medical-admissions/up-dgme-issues-guidelines-for-neet-pg-2026-counselling-candidates-details-181837",
+     "summary": ""
+    },
+    {
+     "title": "DNB, DrNB: NBE issues revised penal provisions for thesis protocol, submission, check details",
+     "url": "https://medicaldialogues.in/news/education/dnb-drnb-nbe-issues-revised-penal-provisions-for-thesis-protocol-submission-check-details-181878",
+     "summary": ""
+    },
+    {
+     "title": "Uttarakhand HC orders probe into certificates over MBBS admission irregularities, 770 candidates under scanner",
+     "url": "https://medicaldialogues.in/state-news/uttrakhand/uttarakhand-hc-orders-probe-into-certificates-over-mbbs-admission-irregularities-770-candidates-under-scanner-181852",
+     "summary": ""
+    },
+    {
+     "title": "UP NEET MDS counselling round 3 revised counselling schedule released",
+     "url": "https://medicaldialogues.in/news/education/dentistry/up-neet-mds-counselling-round-3-revised-counselling-schedule-released-181831",
+     "summary": ""
+    },
+    {
+     "title": "837 MBBS seats remain vacant after MCC NEET stray vacancy round counselling 2026",
+     "url": "https://medicaldialogues.in/news/education/medical-admissions/837-mbbs-seats-remain-vacant-after-mcc-neet-stray-vacancy-round-counselling-2026-181822",
+     "summary": ""
+    },
+    {
+     "title": "NBE issues guidelines on counselling, joining of candidates selected for inservice DNB post MBBS, NBEMS Diploma seats 2026",
+     "url": "https://medicaldialogues.in/news/education/medical-admissions/nbe-issues-guidelines-on-counselling-joining-of-candidates-selected-for-inservice-dnb-post-mbbs-nbems-diploma-seats-2026-181815",
+     "summary": ""
+    },
+    {
+     "title": "NEET MDS admissions 2026: MCC releases round 3, stray vacancy state counselling schedule, check key dates here",
+     "url": "https://medicaldialogues.in/news/education/dentistry/neet-mds-admissions-2026-mcc-releases-round-3-stray-vacancy-state-counselling-schedule-check-key-dates-here-181811",
+     "summary": ""
+    },
+    {
+     "title": "Uttarakhand: MBBS admission cancelled after fake quota certificate detected during verification",
+     "url": "https://medicaldialogues.in/state-news/uttrakhand/uttarakhand-mbbs-admission-cancelled-after-fake-quota-certificate-detected-during-verification-181829",
+     "summary": ""
+    },
+    {
+     "title": "Denotification of MSMER 2023 does not dilute regulatory oversight or medical education standards: NMC",
+     "url": "https://medicaldialogues.in/health-news/nmc/denotification-of-msmer-2023-does-not-dilute-regulatory-oversight-or-medical-education-standards-nmc-official-181786",
+     "summary": ""
+    },
+    {
+     "title": "NEET 2026 paper leak: How a Pune tea stall owner allegedly offered students question paper for Rs 4.5 lakh",
+     "url": "https://medicaldialogues.in/state-news/maharashtra/neet-2026-paper-leak-how-a-pune-tea-stall-owner-allegedly-offered-students-question-paper-for-rs-45-lakh-181784",
+     "summary": ""
+    },
+    {
+     "title": "NEET PG counselling 2026: MCC releases round 1 NRI eligible candidates list",
+     "url": "https://medicaldialogues.in/news/education/medical-admissions/neet-pg-counselling-2026-mcc-releases-round-1-nri-eligible-candidates-list-181757",
+     "summary": ""
+    },
+    {
+     "title": "NEET PG 2026: CENTAC invites applications for MD, MS admissions, last date October 27",
+     "url": "https://medicaldialogues.in/news/education/medical-admissions/neet-pg-2026-centac-invites-applications-for-md-ms-admissions-last-date-october-27-181729",
+     "summary": ""
+    },
+    {
+     "title": "NMC Introduces New Ethical Rules for Healthcare Advertising: Compliance and Enforcement Challenges...",
+     "url": "https://medicaldialogues.in/articles/nmc-introduces-new-ethical-rules-for-healthcare-advertising-compliance-and-enforcement-challenges-for-hospitals-in-india-181825",
+     "summary": "NMC Introduces New Ethical Rules for Healthcare Advertising: Compliance and Enforcement Challenges..."
+    },
+    {
+     "title": "Metformin Effect on Biological Aging in Prediabetes: Latest 2026 Published Indian Research",
+     "url": "https://medicaldialogues.in/diabetes-endocrinology/metformins-effect-on-biological-aging-in-prediabetes-latest-2026-published-indian-research-181802",
+     "summary": "Metformin Effect on Biological Aging in Prediabetes: Latest 2026 Published Indian Research"
+    },
+    {
+     "title": "Resting Heart Rate and CV Outcomes in Hypertension: Revisiting the Accessible Clinical Marker",
+     "url": "https://medicaldialogues.in/cardiology-ctvs/news/resting-heart-rate-and-cv-outcomes-in-hypertension-revisiting-the-accessible-clinical-marker-181314",
+     "summary": "Resting Heart Rate and CV Outcomes in Hypertension: Revisiting the Accessible Clinical Marker"
+    },
+    {
+     "title": "Clinical Perspectives of Fexofenadine and Pseudoephdrine in Indian Allergic Rhinitis Patients - Dr....",
+     "url": "https://medicaldialogues.in/ent/clinical-perspectives-of-fexofenadine-and-pseudoephdrine-in-indian-allergic-rhinitis-patients-dr-sanjay-sachdeva-181317",
+     "summary": "Clinical Perspectives of Fexofenadine and Pseudoephdrine in Indian Allergic Rhinitis Patients - Dr...."
+    },
+    {
+     "title": "The Case of the Ill-Fated Abandoned Neonate - Dr Pratibha Kane",
+     "url": "https://medicaldialogues.in/articles/the-case-of-the-ill-fated-abandoned-neonate-dr-pratibha-kane-181014",
+     "summary": "The Case of the Ill-Fated Abandoned Neonate - Dr Pratibha Kane"
+    },
+    {
+     "title": "Are We Taking Too Many Medicines? The Truth About Overmedication | Dr Chandrakant Lahariya",
+     "url": "https://medicaldialogues.in/mdtv/medicine/videos/are-we-taking-too-many-medicines-the-truth-about-overmedication-dr-chandrakant-lahariya-181783",
+     "summary": "Are We Taking Too Many Medicines? The Truth About Overmedication | Dr Chandrakant Lahariya"
+    }
+   ]
+  },
+  {
+   "name": "TenderDetail CBT Delhi",
+   "url": "https://www.tenderdetail.com/State-tenders/delhi-tenders/cbt-tenders",
+   "status": 200,
+   "error": null,
+   "items": [
+    {
+     "title": "Tender for Trenching,Hdd And Other Allied Works In Section No.De/Tp/ Cbt /Pw-01/2025-26 Of Dts Cbt Racecourse-Dts Mettupalayam 24F Ofc Patchwork Route",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/57916642/805dcfc3951f384ea72ec732774eefef",
+     "summary": ""
+    },
+    {
+     "title": "Tender for Trenching,Hdd And Other Allied Works In Section No.De/Tp/ Cbt /Pw-02/2026-27 Of Dts Cbt Racecourse-Dts Pollachi-02 24F Ofc Patchwork Route",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/57916661/4657e24a4b8395cc993597c93b2cb49f",
+     "summary": ""
+    },
+    {
+     "title": "Tender for Trenching,Hdd And Other Allied Works In Section No.De/Tp/ Cbt /Pw-01/2026-27 Of Dts Cbt Racecourse-Dts Pollachi-02 24F Ofc Patchwork Route",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/57916641/52fbd7e85c216574f6d920ee0249da34",
+     "summary": ""
+    },
+    {
+     "title": "Tender for Trenching,Hdd And Other Allied Works In Section No.De/Tp/ Cbt /Pw-02/2025-26 Of Dts Cbt Racecourse-Dts Mtp Annur-01 24F Ofc Patchwork Route",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/57916652/6c2bc909dd590cf665146bff29e566df",
+     "summary": ""
+    },
+    {
+     "title": "Bids Are invited for Hiring Of Consultants - Milestone/Deliverable Based - Technology Consultants; Cbt Exams; No; Hybrid(As Specified In Scope Of Work)",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/57704625/3dfb770b9ef06056905813e19f392a33",
+     "summary": ""
+    },
+    {
+     "title": "Tender for Urgent Restoration Of Road Surface Of Cbt , Esplanade Under Maidan Sub Division, Pwd During The Year 2026-2027",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/57962090/06a308a8911fad48fd39717b2b9132d4",
+     "summary": ""
+    },
+    {
+     "title": "Tender For Repairing Of Damaged Footpath At Middle Pathway At Cbt , Esplanade Under Maidan Sub-Division, Pwd During The Year 2026-27.",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/58060150/44af6a35cafe7800dc99c538e45785c7",
+     "summary": ""
+    },
+    {
+     "title": "Tender For Repairing Of Damaged Footpath At Middle Pathway At Cbt , Esplanade Under Maidan Sub-Division, Pwd During The Year 2026-27.",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/58060168/44af6a35cafe7800dc99c538e45785c7",
+     "summary": ""
+    },
+    {
+     "title": "Tender for Request For Proposal Rfp Document For Providing End To End Solution For Computer Based Test Cbt Examination For Hll Lifecare Limited And It S Client Organizations",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/57859118/50e053304852f8df351bb0a742375ffc",
+     "summary": ""
+    },
+    {
+     "title": "Tender For Supply & Installation Of Steel Railing Along With Ancillary Works At Cbt Middle Pathway, Esplanade Under Maidan Sub-Division, P.W.D. During The Year 2026-27 .",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/58060070/64955d82be192c27ef6093db9f316112",
+     "summary": ""
+    },
+    {
+     "title": "Tender for Trenching,Hdd And Other Allied Works In Section No.De/Tp/ Cbt /Pw-03/2025-26 Of Dts Tiruppur-Dts Kankeyam 24F Ofc Patch Work Route",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/57916654/14e8fc96cc14ab2f4ef0887e108eb8ff",
+     "summary": ""
+    },
+    {
+     "title": "Tender for Trenching,Hdd And Other Allied Works In Section No.De/Tp/ Cbt /Ot-02/2026-27 Of Dts Annur- Dts Mettupalayam 48F Cn Tx Ld Ofc Route",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/57916663/76a031318c79757fc9055c00ef947f34",
+     "summary": ""
+    },
+    {
+     "title": "Tender for Trenching,Hdd And Other Allied Works In Section No.De/Tp/ Cbt /Ot-03/2026-27 Of Dts Annur- Dts Mettupalayam 48F Cn Tx Ld Ofc Route",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/57916651/44c4aeb6302d30877c347e5c8770ef13",
+     "summary": ""
+    },
+    {
+     "title": "Tender for Trenching,Hdd And Other Allied Works In Section No.De/Tp/ Cbt /Ot-01/2026-27 Of Dts Annur- Dts Mettupalayam 48F Cn Tx Ld Ofc Route",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/57916653/8510d1502567841bf449081314831df3",
+     "summary": ""
+    },
+    {
+     "title": "Tender For Provision Of Telecom Work In Connection Of Renovation & Improvement Of Pcpo Office For Cbt Examination Center & Training For Trainees At Gorakhpur Ne Railway, Provision Of Telecom Work In Connection Of Proposed Renovation Of Pcom, Pccm &...",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/57925040/63e633938164b6085140f6b7fd52b689",
+     "summary": ""
+    },
+    {
+     "title": "Bids Are Invited For 1. Terminal Block,Clip On,16Mm2 2. Terminal Block,Clip On,35Mm2 3. Terminal Block,Clip On Bus Bar,35Mm2 4. Terminal Block,Clip On Bus Bar,50Mm2 5. Terminal Block,Clip On Bus Bar,70Mm2 6. Terminal Block,Rail Mount, Cbt -250",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/57901866/a21fa48a4505f7691b6f215236943f53",
+     "summary": ""
+    },
+    {
+     "title": "...Fixing Of Powder Coated Aluminium Anodise Digital Led Display Board. It Will Be Easily Accessible, Vide Range Of Led L S. , Cbt 100 Speaker , Xti Audio 2002 800W Lifier , Yamah Mg12x/ 12Xu Mixer , Shure Mic (Lapel Svx 14/Cvl) , Podium Mic. (Akg...",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/58177155/3d0139e4a5c45ef7d8d687e3e3c0664e",
+     "summary": ""
+    },
+    {
+     "title": "...- Test Micro Switch , Part No Cb200d1 Isolator On Off Cb 200D 1 - Isolator On Off Cb 200D 1 , Part No Cb200d2ma Sensitive Cbt For El Relay 750 Ma - Sensitive Cbt For El Relay 750 Ma , Part No Cb200b15 Shunt Trip Coil Under Voltage Coil - Shunt Trip...",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/58127329/0ed2a262529453aa6c6da29d75330029",
+     "summary": ""
+    },
+    {
+     "title": "..., 63 To 80A Overload Relay Part No Lre353 , Thermal Overload Relay 1 To 4A With 3 No Part Ns4sd039 , Relay Earth Leakage Cbt 2 Point 5 Dash 110V Part No Mlpcbt149 , Scrn Hnd Shld Wldg Fbr Gls , Goggles G2 , Tachometer 1 Dash 3000Rpm Dgtl , Sldrg...",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/57922784/1908a8ac22dc0f7a1e315aedf98a63d2",
+     "summary": ""
+    },
+    {
+     "title": "...self fusing rubber tape black , class b , 31 kv die electric strength , size 2.5 cm x 10 mtr., connector elmex cst type- cbt 110 35 mm, elmexterminal connector 16mm sq type-cst-16, connector `elmex` cst type-10 ., copper tube terminals light duty...",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/57501187/3a145404a4032d38c89a741d81ec6a79",
+     "summary": ""
+    },
+    {
+     "title": "...Jbl Control 16Ct - 6 Nos. , Array Wall Mount Modular Speaker Having 8X2 Full Range Drivers, 100W @8Ohm, 70/100V, Model- Jbl Cbt 50 - 2 Nos. , 18 U Av Rack, - 1 No. , High Definition Video Conferencing System With 1+5 Connectivity On Ip , Model-...",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/58016658/47adbe4fd93210ac001fd1d035dad84d",
+     "summary": ""
+    },
+    {
+     "title": "Tender For Supply Of Pac Items Of Ixl (Interlocking) & Cbtc (Computer Based Train Control) Sub-System",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/57508728/45897d8f755d421de0134c0d2d168ded",
+     "summary": ""
+    },
+    {
+     "title": "Supply Of Antenna feeder cable for On Board Hitachi make CBTC System",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/58093792/b6dd720970c523f63d5c437e31dac7ff",
+     "summary": ""
+    },
+    {
+     "title": "Supply Of Supply of Power connector for BAT450-",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/58085203/e160173dc72c21799703d7641f806648",
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "name": "TenderDetail End-to-end Exam",
+   "url": "https://www.tenderdetail.com/Indian-tender/end-to-end-examination-tenders",
+   "status": 200,
+   "error": null,
+   "items": [
+    {
+     "title": "Tender Results 2555983 Awarded Tender Records",
+     "url": "https://www.tenderdetail.com/Bid-Result/end-to-end-examination-tender-result",
+     "summary": ""
+    },
+    {
+     "title": "Analytics Click Here Tender Intelligence",
+     "url": "https://www.tenderdetail.com/tendersanalytics/end-to-end-examination-tenders",
+     "summary": ""
+    },
+    {
+     "title": "Potential Bidders 0+ Verified Vendors",
+     "url": "https://www.tenderdetail.com/Indian-tender/end-to-end-examination-tenders",
+     "summary": ""
+    },
+    {
+     "title": "Global Tenders 0 Live Opportunities Worldwide",
+     "url": "https://www.tenderdetail.com/Global-tender/end-to-end-examination-tenders",
+     "summary": ""
+    },
+    {
+     "title": "Corrigendum : Tender for Request For Proposal Rfp Document For Providing End To End Solution For Computer Based Test Cbt Examination For Hll Lifecare Limited And It S Client Organizations",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/57859118/50e053304852f8df351bb0a742375ffc",
+     "summary": ""
+    },
+    {
+     "title": "Tender For Pilot Implementation Of On-Screen Evaluation (Ose) System For Semester- End Examination , December 2026 Session",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/57751497/1b223f6f8ec3b5f753c9038dd2d1d71e",
+     "summary": ""
+    },
+    {
+     "title": "Corrigendum : ...Milestone Basisselection Of A Technology & Service Partner For Setting Up End -To- End Technical, Academic, Admission, Examination And Student Support Infrastructure For Development, Launch And Management Of Online Programmes Of The University Of...",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/57785116/f5a2e68d2231205fbfc618eba490baf9",
+     "summary": ""
+    },
+    {
+     "title": "Corrigendum : Bids Are invited for Multipara Monitor - Low End (V2) (Q2) , Electrocardiography (Ecg) Machine (V2) (Q2) , Examination Light For Medical Use (V2) (Q2) , Icu Bed (V2) (Q2) , Resuscitation Crash Cart Console For Hospitals (V2) (Q2)",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/57742939/7699c05e0c9a9ac85233d0d6022ba8d6",
+     "summary": ""
+    },
+    {
+     "title": "Corrigendum : ...Of General Set, Dystocia Set, Sofa (V3), General Purpose Safety Pins, Chair For General Purpose, General Medical Examination Headlight, General Purpose Battery Chargers, High- End Office Furniture Set (V2), Dinner Set (V2), Steel Filing...",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/56832705/f5c9314c63ea10a6144c9e03b9b89987",
+     "summary": ""
+    },
+    {
+     "title": "...1X1,Sterile Disposable Iv Cannula With Injection Port 22G, 1X1,Urethral Catheter 3 Fr 70 Cm Open End , 1X1,Nitrile Examination Sterile Gloves, 7, 1X1,N 95 Mask, 1X1,Surgical Blade, 23, 1X1,Surgical Blade,22, 1X1,Surgical Blade, 15, 1X1,Surgical...",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/58121268/b60ed64adb2d5c042f397e6728f373d9",
+     "summary": ""
+    },
+    {
+     "title": "Corrigendum : ...Preterm Single Patient Use With Twin Bore Nasal Pronges Sets, Extra Soft Medical Grade Nasal Tips , Dark Eye Glasses , Examination Gloves (Large Size) , Ecg Jelly 200 Ml Bottle , Ultrasound Jelly 200 Ml Bottle , Blades For Eye Surgery Keratones 2.8...",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/57527074/a6b20202a57f3314488992ed888bf0c6",
+     "summary": ""
+    },
+    {
+     "title": "...Replacement: Lifting Of Box Girder (Till The Height Required For Repairing Of Pedestal And Bottom Of Girder), Carefully Examination Of Placement Of Bearing As Per Actual Design/Drawing, Shifting Of Bearing On The Actual Design Location, Including...",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/58100318/5632b4de4408d1d25d13c72135e52ab7",
+     "summary": ""
+    },
+    {
+     "title": "...Depressor - Disposable Wooden Tongue Depressor Smooth, Splinterfree Finish Rounded Ends Suitable For Oral And Throat Examination Individually Packed Or Supplied In A Hygienic Pack. , Surgical Tray With Cover - Made Of Medicalgrade Stainless Steel...",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/58028995/51e69212fe0ea2dfa41bf83407f82545",
+     "summary": ""
+    },
+    {
+     "title": "...With Approved Wps And Supported By Pqr, Executed By Qualified Welders, As Per Approved Drawings. , Liquid Penetrant Examinations (Lpe) Should Be Carried Out On The Root Pass And Final Pass Weld Joints, It Includes One Tee Connection And Three...",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/58125871/bdbaddebfbeb8fe2bd50c091d3ffd848",
+     "summary": ""
+    },
+    {
+     "title": "...Nylon Cutting Line And Wire Pack Compatible With The Grass Cutting Machine , Gloves L Crystal C - Large Size Examination And Protective Gloves Crystal C Or Approved Equivalent In Required Pack Size , Hight Chart - Wall Mounted Or Portable...",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/58141457/da92bd69b125e329734506933a053039",
+     "summary": ""
+    },
+    {
+     "title": "...With 3 Belts With Rapid Unhooking Buckle In All Three Belts. (Iii). Should Have Radio Transparency To Make Radiologic Examinations /X-Rays Without Removing The Patient From The Board. 2. User Interface: Manual. 3. Dimensions (Metric): Length: 180-190...",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/57858206/1dd28757ac47acd930da9d9043f090a8",
+     "summary": ""
+    },
+    {
+     "title": "Corrigendum : ...Rubber Gloves Size 8 Inches,Powdered , Disposable Sterile Surgical Rubber Gloves Size 8 Inches,Powder Free , Rubber Examination Gloves,Size Medium (Details In Rc) , Pressure Monitoring Line / High Pressure Extension Line (Details In Rc) ,...",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/57657353/d58462ee533c4c649a8dbf6c82e2d474",
+     "summary": ""
+    },
+    {
+     "title": "...Feeding Tube, Tube Shall Be Manufactured From Medical Grade, Non Toxic, Soft, Flexible Pvc Or Polyurethane Material. , Examination Gloves, Latex, Non Sterile, Disposable, Small Size, Box 100 Pieces Com087-Rc15 - Examination Gloves, Single Use...",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/58079381/19653669b7b362f9516caf64365c8fa6",
+     "summary": ""
+    },
+    {
+     "title": "Corrigendum : ...in house test report proof:loading test , cycle tests , impact test. certifications:, providing and supplying of examination couch with full storage of examination couch with full storage- overall dimension 1975 mm (l) x 560 mm ( w) x 805 mm (...",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/57320418/8bb60741acb6defd67a2fb728e731f15",
+     "summary": ""
+    },
+    {
+     "title": "...Dissolves Gutta-Percha, Easy To Dispense, Stable Formulation And Supplied In A Secure Leak-Proof Container. , Medical Examination Gloves Non-Sterile Disposable-Medium - Disposable Non-Sterile Examination Gloves, Medium Size, Medical-Grade Latex Or...",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/58016732/b36fc2d1b0408795f7a3f3db260ece4f",
+     "summary": ""
+    },
+    {
+     "title": "Corrigendum : ...Penal Provisions Of The T&C Of The Tender. 2. Quality Of The Product Supplied, May Be Ascertained By Testing / Physical Examination By The Experts At Any Stage Of The Tender Period. 3. The Equipment Should Be Us Fda/ Ce/ Bis/ Cdsco Approved (Us Fda/...",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/57677229/f02e44b60206a746085f11cb1b65bdbb",
+     "summary": ""
+    },
+    {
+     "title": "...231 Mg + 69 Mg (Sr) , Etoposide Capsule 50 Mg , Etoposide Injection 100Mg, 20Mg/Ml Vial , Etoricoxilb Tablet 90 Mg , Examination Gloves (Medium Size), Isi Mark , Exemestene Tablet 1 Mg , Favipiravir(Covid) 400 Mg , Fentanyl Injection 50 Mcg/Ml,...",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/58022039/c326bb657152a39284e466fceb5938c6",
+     "summary": ""
+    },
+    {
+     "title": "...Capacity 1X1_ _ _,Montelukast And Levocetrizine Tablet Ip (Montelukast 4 Mg + Levocetrizine 2.5 Mg ) 1X1_ _ _,Nitrile Examination Sterile Gloves 7 1X1_ _ _,Multivitamin Drops Each Ml Contains- Vit A 3000 Iu Vit D3 300 Iu Vit B1 1Mg Riboflavine...",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/58054104/cad58a16c1b3fe9f2a34be710709be44",
+     "summary": ""
+    },
+    {
+     "title": "...penal provisions of the t&c of the tender. 2. quality of the product supplied, may be ascertained by testing / physical examination by the experts at any stage of the tender period. 3. the equipment should be us fda/ ce/ bis/ cdsco approved (us fda/...",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/57940746/09cec8662c544ed5178b272492534bd8",
+     "summary": ""
+    },
+    {
+     "title": "..., Oxygen Cylender Flow Meter , Flow Meter For Oxygeon Central Line , Surgical Gloves Elbow Size:6 To 7.5 , Latex Examination Gloves Medium) (100/Pkt) (Packet) , Disposable Sterile Gloves Isi Marked Surgical Rubber Made Of Hypoallergic Latex...",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/58097217/a8d5ad4af017fef37c6211aeedbef6ba",
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "name": "TenderDetail On-screen Marking",
+   "url": "https://www.tenderdetail.com/Indian-tender/onscreen-marking-tenders",
+   "status": 200,
+   "error": null,
+   "items": [
+    {
+     "title": "Tender Results 16685 Awarded Tender Records",
+     "url": "https://www.tenderdetail.com/Bid-Result/onscreen-marking-tender-result",
+     "summary": ""
+    },
+    {
+     "title": "Analytics Click Here Tender Intelligence",
+     "url": "https://www.tenderdetail.com/tendersanalytics/onscreen-marking-tenders",
+     "summary": ""
+    },
+    {
+     "title": "Potential Bidders 0+ Verified Vendors",
+     "url": "https://www.tenderdetail.com/Indian-tender/onscreen-marking-tenders",
+     "summary": ""
+    },
+    {
+     "title": "Global Tenders 0 Live Opportunities Worldwide",
+     "url": "https://www.tenderdetail.com/Global-tender/onscreen-marking-tenders",
+     "summary": ""
+    },
+    {
+     "title": "Onscreen Evaluation/ Onscreen Marking System/Digital Evaluation Work",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/32182489/a3d0ab275a396c7382fb8c0e44ff06c8",
+     "summary": ""
+    },
+    {
+     "title": "Tender for Digitization Of Descriptive Answer Scripts And Onscreen Marking (Osm) System",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/55308446/5291841f27e58a25bc8c721a4c63ca0d",
+     "summary": ""
+    },
+    {
+     "title": "Rfp For Answer Book Scanning And Onscreen Marking System For The Olympiad Examinations Of Hbcse Tifr",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/26609531/fa9c54a2eba6eb4f080f5cd79cff44f6",
+     "summary": ""
+    },
+    {
+     "title": "Request For Proposal For Services Assignment By The Bidders For Onscreen Marking ( Osm ) Of Answer Books",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/39680020/489f506ad5836266ca44afaffdafbd38",
+     "summary": ""
+    },
+    {
+     "title": "Corrigendum - Tender For Implementation Of Onscreen Marking Of Answer Scripts Of Indian Maritime University",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/17615992/a6276e82f649be434ed6aef4bf17b56a",
+     "summary": ""
+    },
+    {
+     "title": "Tender For Request For Proposal For Services Assignment By The Bidders For Onscreen Marking ( Osm ) Of Answer Books",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/39657301/b58f716de2fc0de997a0dca63f63776e",
+     "summary": ""
+    },
+    {
+     "title": "Post Examination Work Of Onscreen Marking For Mahatma Jyotiba Phule Rohilkhand University, Bareilly Up => Limited",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/42245450/8a0320e8fe3de3c5bcaf81a7efd931e6",
+     "summary": ""
+    },
+    {
+     "title": "Corrigendum : Services For Conducting Remote Proctored Exams, Onscreen Marking Of Physical Answer Scripts Relating To End Semester Examinations, For All Programmes Of Imu Services For Conducting Remote Proctored Exams, Onscreen Marking Of Physical Answer...",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/29569541/a6376adc1e50f85c618e3d5a09f7973c",
+     "summary": ""
+    },
+    {
+     "title": "Tender For Reputed Service Providers For Checking Answer Sheets Of University Of Mumbai Through Onscreen Marking (Osm).",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/39671747/c02b5b4e6b6d01371f00bdba628c806c",
+     "summary": ""
+    },
+    {
+     "title": "Services For Conducting Remote Proctored Exams, Onscreen Marking Of Physical Answer Scripts Relating To End Semester Examinations, For All Programmes Of Imu",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/28237167/9420d9d73a61bbb42ec097692e061b2e",
+     "summary": ""
+    },
+    {
+     "title": "Supply Of Laptops, Lan Equipment, Question Cum Answer Booklet Scanners Along With Manpower, Usb Biometric Finger Print Scanners, Furniture And Other Required Peripherals For Scanning And Onscreen Marking On Rental Basis",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/49619714/db18345e557a161ecba0fcea96a78ce0",
+     "summary": ""
+    },
+    {
+     "title": "E-Tender For Onscreen Marking Of Answer Books.",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/18534626/515a2b9e70786811c70ec875f3a3db0c",
+     "summary": ""
+    },
+    {
+     "title": "Tender For Implementation Of Onscreen Marking Of Answer Scripts Of Indian Maritime University",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/17427888/a6276e82f649be434ed6aef4bf17b56a",
+     "summary": ""
+    },
+    {
+     "title": "...Short Term Tender For Scanning Of Question Cum Answer Books (Qcab) Along With Providing Desktops, Lan Equipments, Scanners, Ups, Usb Biometric Finger Print Scanners, Furnitures And Other Peripherals For Scanning And Onscreen Marking On Rental Basis",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/26886126/6f5e8b00864bb9bbb02c38897ac185c0",
+     "summary": ""
+    },
+    {
+     "title": "Tender For Question Paper Distribution, Scanning Of Answer Books And Onscreen Marking System For Madhya Pradesh Public Service Commission",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/7448743/ecdceb73cff9af12316b6c547923a510",
+     "summary": ""
+    },
+    {
+     "title": "Tender From Eligible, Reputed, Qualified Service Providers With Sound Capabilities For Implementation Of Onscreen Marking System.",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/17429434/f2e6529626ec3d3f532fef4f01523b44",
+     "summary": ""
+    },
+    {
+     "title": "Tender For Service Providers With Sound Capabilities For Implementation Of Onscreen Marking System For The Indian Maritime University For A Period Of One Year From The Date Of Issue Of Work Order, Extendable On Satisfactory Performance, One Year...",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/17684958/72b8ba472494051c325a2c02d1669bc9",
+     "summary": ""
+    },
+    {
+     "title": "...OF ANSWER SCRIPTS & ON-SCREEN MARKING (OSM) for S.R.T.M.University,Nanded.(Detail Specification as per mentioned in this tender document) 2 Digitization of Answer scripts without cutting the spine of the Answer scripts and Onscreen Marking",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/45407607/d931fa9ea74f354124ebd4200d2e431d",
+     "summary": ""
+    },
+    {
+     "title": "...Evaluation Of Answer Scripts Scanned For Bcu. - Secured Scanning Of Answer Booklets/Scripts At Centralized Scanning Center Without Cutting The Spine And Onscreen Marking (Digital Evaluation) Of Answer Scripts Scanned As Per The Tender Document",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/50982202/be2c73b5b0405ff57fecd6d46b493483",
+     "summary": ""
+    },
+    {
+     "title": "Tender For Scanning, Cropping And On Screen Marking Onscreen Evaluation Of The Descriptive Answer Booklets",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/45171076/71938acd2acfad363ca254b768a1de75",
+     "summary": ""
+    },
+    {
+     "title": "Marking Factitious Roll Number On Answer Books And Scanning Of Answer Books Work For Onscreen Evaluation",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/37327370/6e477f3843b808d655b48c1451efae5e",
+     "summary": ""
+    },
+    {
+     "title": "Marking Fictitious Roll Number On Answer Books And Scanning Of Answer Books Work For Onscreen Evaluation Of Dr. Bhimrao Ambedkar Law Univeersity, Jaipur For Two Yearsc",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/37349766/42689bbd321441b150822f8e81331b2c",
+     "summary": ""
+    },
+    {
+     "title": "Marking Fictitious Roll Number On Answer Books, Double Punching Of Flaps And Its Tearing, Scanning Of Answer Books And Preparation Of Database For Onscreen Evaluation Work",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/51113411/c60671de99712a415c68b572b6d00821",
+     "summary": ""
+    },
+    {
+     "title": "tender for Marking Fictitious Roll Number On Answer Books, Double Punching Of Flaps &Amp Its Tearing, Scanning Of Answer Books And Preparation Of Database For Onscreen Evaluation Work.",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/51110817/e0152dd2ee10fce7d9455161c45fadb7",
+     "summary": ""
+    },
+    {
+     "title": "...b) Camera Head Triggering Remote Control, c) TouchControl Panel for Patient Information and Device Management inbuilt onscreen d) On-console LCD Touch Screen Control. Should be US FDA Approved3020 Head mirror With headband made of elastil material...",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/54334978/93c716bcdfd1e7e6d798d14c04bf617c",
+     "summary": ""
+    },
+    {
+     "title": "...b) Camera Head Triggering Remote Control, c) TouchControl Panel for Patient Information and Device Management inbuilt onscreen d) On-console LCD Touch Screen Control. Should be US FDA Approved3020 Head mirror With headband made of elastil material...",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/54335083/0390eb86981ebbeb17ef6f49fc6314b6",
+     "summary": ""
+    },
+    {
+     "title": "...b) Camera Head Triggering Remote Control, c) TouchControl Panel for Patient Information and Device Management inbuilt onscreen d) On-console LCD Touch Screen Control. Should be US FDA Approved3020 Head mirror With headband made of elastil material...",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/54334985/ea5bd4910a0fba87af0302651189232b",
+     "summary": ""
+    },
+    {
+     "title": "...Q Measurement.Measurement Range:Inductance L - 0.1Μh-999.9H ( Or More ) , Capacitance C - 0.1Pf-9.999Mf ( Or More ) , Onscreen Display - Lcd Screen.Different Measuring Frequencies For Operation.Dc Power Adapter, 4 Terminal Kelvin Test Clip Leads...",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/30050942/361fdebd2fb6ab1729938bd8d1c58ca5",
+     "summary": ""
+    },
+    {
+     "title": "...Q MeasurementMeasurement Range :Inductance L - 0.1Μ H-999.9H ( Or More ) Capacitance C- 0.1Pf-9.999Mf ( Or More ) Onscreen Display - Lcd ScreenDifferent Measuring Frequencies For OperationDc Power Adapter, 4 Terminal Kelvin Test Clip Leads...",
+     "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/11411016/c2a905cbd848fa65191221e70a8b1d82",
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "name": "NTA Tenders",
+   "url": "https://www.nta.ac.in/tender",
+   "status": null,
+   "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+   "items": []
+  }
+ ]
+}
