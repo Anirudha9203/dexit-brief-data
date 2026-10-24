@@ -1,7 +1,7 @@
 """Daily headline scraper for the DEXIT Morning Brief.
 Reads sources.txt, fetches each page, extracts headline links, writes
 data/YYYY-MM-DD.json and data/latest.md (with per-source fetch status)."""
-import json, re, sys, datetime, urllib.parse
+import json, os, re, sys, datetime, urllib.parse
 import requests
 from bs4 import BeautifulSoup
 
@@ -61,6 +61,7 @@ def main():
             rec["error"] = str(e)[:200]
         result["sources"].append(rec)
         print(f"{name}: {rec['status'] or rec['error']} ({len(rec['items'])} items)")
+    os.makedirs("data", exist_ok=True)
     day = now.strftime("%Y-%m-%d")
     with open(f"data/{day}.json", "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=1)
