@@ -136,6 +136,29 @@ def main():
         f.write("\n## Publishers seen in keyword search (candidates for new sources)\n")
         for p, c in list(result.get("publishers", {}).items())[:60]:
             f.write(f"- {p}: {c}\n")
+        # items seen in scrapes of the previous 3 days that are no longer on today's pages
+        today_urls = {it["url"] for s in result["sources"] for it in s["items"]}
+        carried = []
+        for back in (1, 2, 3):
+            d = (now - datetime.timedelta(days=back)).strftime("%Y-%m-%d")
+            p = f"data/{d}.json"
+            if not os.path.exists(p):
+                continue
+            try:
+                old = json.load(open(p, encoding="utf-8"))
+            except Exception:
+                continue
+            for s in old.get("sources", []):
+                if s["name"].startswith("News search"):
+                    continue
+                for it in s.get("items", []):
+                    if it["url"] not in today_urls:
+                        today_urls.add(it["url"])
+                        carried.append((d, s["name"], it))
+        if carried:
+            f.write("\n## Carried over from scrapes of the previous 3 days (no longer on the pages today; covers weekends)\n")
+            for d, n, it in carried:
+                f.write(f"- [{it['title']}]({it['url']}) ({d}, {n})\n")
         for s in result["sources"]:
             if not s["items"]:
                 continue
