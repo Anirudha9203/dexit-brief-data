@@ -1,0 +1,9 @@
+# name | RSS url (public feeds published by the sites)
+Indian Express Education | https://indianexpress.com/section/education/feed/
+HT Education RSS | https://www.hindustantimes.com/feeds/rss/education/rssfeed.xml
+TOI Education | https://timesofindia.indiatimes.com/rssfeeds/913168846.cms
+The Hindu Education | https://www.thehindu.com/education/feeder/default.rss
+NDTV Education | https://feeds.feedburner.com/ndtvnews-education
+Careers360 News | https://news.careers360.com/rss.xml
+Jagran Josh | https://www.jagranjosh.com/rss/jagranjosh-news.xml
+Shiksha News | https://www.shiksha.com/rss
