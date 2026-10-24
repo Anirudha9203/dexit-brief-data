@@ -109,7 +109,7 @@ def main():
     # keyword news search (Google News RSS, last 2 days) - finds stories on ANY site
     publishers = {}
     for kw in load_list("keywords.txt"):
-        q = urllib.parse.quote(kw + " when:2d")
+        q = urllib.parse.quote(kw + " when:7d")
         url = f"https://news.google.com/rss/search?q={q}&hl=en-IN&gl=IN&ceid=IN:en"
         rec = {"name": "News search: " + kw, "url": url, "status": None, "error": None, "items": []}
         try:

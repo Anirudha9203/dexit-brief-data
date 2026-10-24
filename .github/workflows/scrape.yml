@@ -4,7 +4,7 @@ on:
     - cron: "15 2 * * *"   # 07:45 IST
   workflow_dispatch:
   push:
-    paths: ["scrape.py", "sources.txt", ".github/workflows/scrape.yml"]
+    paths: ["scrape.py", "sources.txt", "feeds.txt", "keywords.txt", ".github/workflows/scrape.yml"]
 permissions:
   contents: write
 jobs:
