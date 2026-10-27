@@ -1,7 +1,8 @@
 name: Daily scrape
 on:
   schedule:
-    - cron: "15 2 * * *"   # 07:45 IST
+    - cron: "30 23 * * *"  # 05:00 IST (GitHub often runs scheduled jobs late)
+    - cron: "45 0 * * *"   # 06:15 IST backup run
   workflow_dispatch:
   push:
     paths: ["scrape.py", "sources.txt", "feeds.txt", "keywords.txt", ".github/workflows/scrape.yml"]
