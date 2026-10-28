@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-10-28T08:00:05.211302+05:30",
+ "scraped_at": "2026-10-28T09:26:37.341843+05:30",
  "sources": [
   {
    "name": "ET Education News",
@@ -2133,14 +2133,14 @@
    "error": null,
    "items": [
     {
-     "title": "UGC NET December 2026: NTA extends application deadline to October 31; exam from Dec 14 UGC NET December 2026: Candidates can apply at ugcnet.nta.nic.in and check category-wise application fees, exam dates and revised instructions in the information bulletin here.",
-     "url": "https://news.careers360.com/ugc-net-december-2026-nta-extends-application-deadline-october-31-exam-from-dec-14-ugcnet-nta-nic-in",
-     "summary": "UGC NET December 2026: Candidates can apply at ugcnet.nta.nic.in and check category-wise application fees, exam dates and revised instructions in the information bulletin here."
-    },
-    {
      "title": "Live JEE Main 2027 LIVE: Session 1 registration at jeemain.nta.nic.in; eligibility, application process NTA has opened JEE Main 2027 Session 1 registration at jeemain.nta.nic.in. Candidates can apply by November 22 and check the registration fee, MeriPehchaan login, DigiLocker, APAAR ID and syllabus",
      "url": "https://news.careers360.com/jee-mains-2027-registration-live-login-link-jeemain-nta-nic-in-exam-date-fees-syllabus-documents-meripehchan-new-changes-updates",
      "summary": "NTA has opened JEE Main 2027 Session 1 registration at jeemain.nta.nic.in. Candidates can apply by November 22 and check the registration fee, MeriPehchaan login, DigiLocker, APAAR ID and syllabus."
+    },
+    {
+     "title": "UGC NET December 2026: NTA extends application deadline to October 31; exam from Dec 14 UGC NET December 2026: Candidates can apply at ugcnet.nta.nic.in and check category-wise application fees, exam dates and revised instructions in the information bulletin here.",
+     "url": "https://news.careers360.com/ugc-net-december-2026-nta-extends-application-deadline-october-31-exam-from-dec-14-ugcnet-nta-nic-in",
+     "summary": "UGC NET December 2026: Candidates can apply at ugcnet.nta.nic.in and check category-wise application fees, exam dates and revised instructions in the information bulletin here."
     },
     {
      "title": "UPESSC Assistant Teacher Recruitment 2026: Commission clarifies reservation rules for 17,735 posts The Uttar Pradesh Education Services Selection Commission said reservation for assistant teacher vacancies will be calculated school-wise and not on the combined total of 17,735 posts.",
@@ -2191,6 +2191,11 @@
    "error": null,
    "items": [
     {
+     "title": "FBI Uncovers Alleged Shooting Plot At Metro Atlanta High School; 3 Arrested, Including 2 Juveniles, As Police Recover Weapons & Ammunition 28 October 2026, 08:44 AM",
+     "url": "https://www.freepressjournal.in/education/fbi-uncovers-alleged-shooting-plot-at-metro-atlanta-high-school-3-arrested-including-2-juveniles-as-police-recover-weapons-ammunition",
+     "summary": ""
+    },
+    {
      "title": "Pune MLC Election Counting: Teachers' Constituency Victory Quota Fixed At 25,756 Votes Amid Ballot Box Seal Row 28 October 2026, 01:53 AM",
      "url": "https://www.freepressjournal.in/pune/pune-mlc-election-counting-teachers-constituency-victory-quota-fixed-at-25756-votes-amid-ballot-box-seal-row",
      "summary": ""
@@ -2216,9 +2221,9 @@
      "summary": ""
     },
     {
-     "title": "Thousands Of Adivasi Activists Begin March To Mumbai Mantralaya Demanding Forest Rights, Education And Water 27 October 2026, 08:37 PM",
+     "title": "Thousands Of Adivasi Activists Begin March To Mumbai Mantralaya Demanding Forest Rights, Education And Water 27 October 2026, 08:37 PM Thousands of Shramjivi Sanghatana activists launched a march from Bhiwandi towards Mumbai's... Read More",
      "url": "https://www.freepressjournal.in/mumbai/thousands-of-adivasi-activists-begin-march-to-mumbai-mantralaya-demanding-forest-rights-education-and-water",
-     "summary": ""
+     "summary": "Thousands of Shramjivi Sanghatana activists launched a march from Bhiwandi towards Mumbai's... Read More"
     },
     {
      "title": "Maharashtra: Nanded To Provide Free NEET, JEE & CET Coaching To 200 Meritorious Students From Rural Areas; Entrance Test Scheduled For December 27 October 2026, 01:50 PM Nanded district administration will provide free NEET, JEE and CET coaching to 200 meritorious... Read More",
@@ -2284,11 +2289,6 @@
      "title": "West Bengal CM Suvendu Adhikari Announces Syllabus Changes, Backs Return Of Pass-Fail System 26 October 2026, 09:05 AM West Bengal CM Suvendu Adhikari announced plans to revise the school syllabus, introduce nationalism... Read More",
      "url": "https://www.freepressjournal.in/education/west-bengal-cm-suvendu-adhikari-announces-syllabus-changes-backs-return-of-pass-fail-system",
      "summary": "West Bengal CM Suvendu Adhikari announced plans to revise the school syllabus, introduce nationalism... Read More"
-    },
-    {
-     "title": "Tribal Gen Z Protest In Mumbai: Students Demand Resignations, Probe Into Deaths In Ashram Schools 26 October 2026, 09:04 AM Around 120 tribal protesters were detained at Mumbai’s Shivaji Park during a demonstration... Read More",
-     "url": "https://www.freepressjournal.in/education/tribal-gen-z-protest-in-mumbai-students-demand-resignations-probe-into-deaths-in-ashram-schools",
-     "summary": "Around 120 tribal protesters were detained at Mumbai’s Shivaji Park during a demonstration... Read More"
     }
    ]
   },
@@ -2837,6 +2837,280 @@
    "items": []
   },
   {
+   "name": "SEAB-link Singapore",
+   "url": "https://www.seab.gov.sg/seab-link-issue-2-2026/sharing-knowledge-shaping-assessment/",
+   "status": 200,
+   "error": null,
+   "items": [
+    {
+     "title": "Improvements to Access Arrangements in National Examinations: Implementation of Buzzer Devices SEAB-link Issue 3/2025 (opens in new tab)",
+     "url": "https://www.seab.gov.sg/seab-link-issue-3-2025/access-arrangements-implementation-of-buzzer-devices-/",
+     "summary": "SEAB-link Issue 3/2025"
+    },
+    {
+     "title": "Research that resonates: SEABâs sharing at MOE Research Forum 2025 SEAB-link Issue 1/2026 (opens in new tab)",
+     "url": "https://www.seab.gov.sg/seab-link-issue-1-2026/research-that-resonates-seab-sharing-at-moe-research-forum-2025/",
+     "summary": "SEAB-link Issue 3/2025"
+    }
+   ]
+  },
+  {
+   "name": "Entrepreneur India business news",
+   "url": "https://india.entrepreneur.com/business-news",
+   "status": 200,
+   "error": null,
+   "items": [
+    {
+     "title": "Maasi raises Rs.6 crore in pre-seed round led by Better Capital, Antler India",
+     "url": "https://india.entrepreneur.com/business-news/maasi-raises-rs-6-crore-in-pre-seed-round-led-by-better-capital-antler-india",
+     "summary": ""
+    },
+    {
+     "title": "Entrepreneur 2026: Nothing’s Akis Evangelidis on Hardware Innovation, India foray, and more",
+     "url": "https://india.entrepreneur.com/business-news/entrepreneur-2026-nothings-akis-evangelidis-on-hardware-innovation-india-foray-and-more",
+     "summary": ""
+    },
+    {
+     "title": "Cent raises $15 million in Series A round led by Blume Ventures and South Park Commons",
+     "url": "https://india.entrepreneur.com/business-news/cent-raises-15-million-in-series-a-round-led-by-blume-ventures-and-south-park-commons",
+     "summary": ""
+    },
+    {
+     "title": "Troovy raises Rs.100 crore in Series B round led by Fireside Ventures",
+     "url": "https://india.entrepreneur.com/business-news/troovy-raises-rs-100-crore-in-series-b-round-led-by-fireside-ventures",
+     "summary": ""
+    },
+    {
+     "title": "Coinfund Leads Mochatrade’s USD 5.5 Mn Seed Funding",
+     "url": "https://india.entrepreneur.com/business-news/coinfund-leads-mochatrades-usd-5-5-mn-seed-funding",
+     "summary": ""
+    },
+    {
+     "title": "Live2.ai Bags INR 130 Crore in IvyCap Ventures-led Round",
+     "url": "https://india.entrepreneur.com/business-news/live2-ai-bags-inr-130-crore-in-ivycap-ventures-led-round",
+     "summary": ""
+    },
+    {
+     "title": "AG Poly Packs merges Gujarat subsidiary as revenue reaches Rs.300 crore",
+     "url": "https://india.entrepreneur.com/business-news/ag-poly-packs-merges-gujarat-subsidiary-as-revenue-reaches-rs-300-crore",
+     "summary": ""
+    },
+    {
+     "title": "Microsoft Extends Voluntary Exit to Nearly 60,000 Employees Amid AI Push",
+     "url": "https://india.entrepreneur.com/business-news/microsoft-extends-voluntary-exit-to-nearly-60000-employees-amid-ai-push",
+     "summary": ""
+    },
+    {
+     "title": "Rotoris raises $7.5 million in Series A funding led by Blume Ventures",
+     "url": "https://india.entrepreneur.com/business-news/rotoris-raises-7-5-million-in-series-a-funding-led-by-blume-ventures",
+     "summary": ""
+    },
+    {
+     "title": "Matiks raises $10 million in Pre-Series A round led by General Catalyst",
+     "url": "https://india.entrepreneur.com/business-news/matiks-raises-10-million-in-pre-series-a-round-led-by-general-catalyst",
+     "summary": ""
+    },
+    {
+     "title": "Entrepreneur 2026: HFCL’s Mahendra Nahata Calls for Infra, Data Centre Expansion, and R&D Investment",
+     "url": "https://india.entrepreneur.com/business-news/entrepreneur-2026-hfcls-mahendra-nahata-calls-for-infra-data-centre-expansion-and-rd-investment",
+     "summary": ""
+    },
+    {
+     "title": "5 Things to Know About Brazilian President Lula da Silva",
+     "url": "https://india.entrepreneur.com/business-news/5-things-to-know-about-brazilian-president-lula-da-silva",
+     "summary": ""
+    },
+    {
+     "title": "John Abraham Joins Indian Superbike League as Strategic Advisor",
+     "url": "https://india.entrepreneur.com/business-news/john-abraham-joins-indian-superbike-league-as-strategic-advisor",
+     "summary": ""
+    },
+    {
+     "title": "L Catterton Makes Strategic Investment in InMobi-Backed Glance",
+     "url": "https://india.entrepreneur.com/business-news/l-catterton-makes-strategic-investment-in-inmobi-backed-glance",
+     "summary": ""
+    },
+    {
+     "title": "PM Modi Inaugurates RBI’s Data Centre and Cybersecurity Training Institute in Bhubaneswar",
+     "url": "https://india.entrepreneur.com/business-news/pm-modi-inaugurates-rbis-data-centre-and-cybersecurity-training-institute-in-bhubaneswar",
+     "summary": ""
+    },
+    {
+     "title": "Bucketlistt.com Raises INR 7.6 Cr Seed Round",
+     "url": "https://india.entrepreneur.com/business-news/bucketlistt-com-raises-inr-7-6-cr-seed-round",
+     "summary": ""
+    },
+    {
+     "title": "Senco Gold to Buy 68% Stake in Melorra for INR 68 Cr",
+     "url": "https://india.entrepreneur.com/business-news/senco-gold-to-buy-68-stake-in-melorra-owner-for-inr-68-cr",
+     "summary": ""
+    },
+    {
+     "title": "Entrepreneur 2026: Uno Minda Shares 6 Leadership Lessons for Indian Entrepreneurs",
+     "url": "https://india.entrepreneur.com/business-news/entrepreneur-2026-uno-minda-shares-6-leadership-lessons-for-indian-entrepreneurs",
+     "summary": ""
+    },
+    {
+     "title": "STPI Opens New 30,000 Sq. Ft. Incubation Facility in Dehradun",
+     "url": "https://india.entrepreneur.com/business-news/stpi-opens-new-30000-sq-ft-incubation-facility-in-dehradun",
+     "summary": ""
+    },
+    {
+     "title": "Weekly Funding Roundup: Even Leads India’s Top Startup Deals",
+     "url": "https://india.entrepreneur.com/business-news/weekly-funding-roundup-even-leads-indias-top-startup-deals",
+     "summary": ""
+    },
+    {
+     "title": "Formic Raises USD 50 Mn to Scale Physical AI",
+     "url": "https://india.entrepreneur.com/business-news/formic-raises-usd-50-mn-to-scale-physical-ai",
+     "summary": ""
+    },
+    {
+     "title": "Micron Introduces Quarterly Employee Bonus Tied to Profits",
+     "url": "https://india.entrepreneur.com/business-news/micron-introduces-quarterly-employee-bonus-tied-to-profits",
+     "summary": ""
+    },
+    {
+     "title": "Nutanix Announces AI Tie-Ups with Nvidia, Supermicro, Netris",
+     "url": "https://india.entrepreneur.com/business-news/nutanix-announces-ai-tie-ups-with-nvidia-supermicro-netris",
+     "summary": ""
+    },
+    {
+     "title": "Firstwork Raises USD 15 Mn Series A Led by Earlybird",
+     "url": "https://india.entrepreneur.com/business-news/firstwork-raises-usd-15-mn-series-a-led-by-earlybird",
+     "summary": ""
+    },
+    {
+     "title": "Nvidia & TCV Invest in AI Video Startup Higgsfield",
+     "url": "https://india.entrepreneur.com/business-news/nvidia-tcv-invest-in-ai-video-startup-higgsfield",
+     "summary": ""
+    },
+    {
+     "title": "BofA Expects Global Data Center Spending to Hit USD 2.1 Tn",
+     "url": "https://india.entrepreneur.com/business-news/bofa-expects-global-data-center-spending-to-hit-usd-2-1-tn",
+     "summary": ""
+    },
+    {
+     "title": "Harajuku Tokyo Café Raises USD 3 Mn in Pre-Series A Round",
+     "url": "https://india.entrepreneur.com/business-news/harajuku-tokyo-cafe-raises-usd-3-mn-in-pre-series-a-round",
+     "summary": ""
+    },
+    {
+     "title": "TravClan Raises USD 5 Mn from Flipkart, August One and Trifecta Capital",
+     "url": "https://india.entrepreneur.com/business-news/travclan-raises-usd-5-mn-from-flipkart-august-one-and-trifecta-capital",
+     "summary": ""
+    },
+    {
+     "title": "India’s GCCs to Add Up to 1.4 Mn Jobs, 170 Mn Sq Ft of Office Demand by 2031: Report",
+     "url": "https://india.entrepreneur.com/business-news/indias-gccs-to-add-up-to-1-4-mn-jobs-170-mn-sq-ft-of-office-demand-by-2031-report",
+     "summary": ""
+    },
+    {
+     "title": "Grav8 brings Saina Nehwal and Armaan Bhatia on board as partners",
+     "url": "https://india.entrepreneur.com/business-news/grav8-brings-saina-nehwal-and-armaan-bhatia-on-board-as-partners",
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "name": "Inc42 buzz",
+   "url": "https://inc42.com/buzz/",
+   "status": 200,
+   "error": null,
+   "items": [
+    {
+     "title": "D2C founders scaling from ₹1 Cr to ₹10 Cr. Learn from India's top 1% D2C founders and experts through 40+ expert-led sessions, 1:1 mentorship and a personalised growth strategy. It closes with an in-person convocation and investor pitching. view",
+     "url": "https://d2cx.co/?utm_medium=referral&utm_source=menu/",
+     "summary": "D2C founders scaling from ₹1 Cr to ₹10 Cr. Learn from India's top 1% D2C founders and experts through 40+ expert-led sessions, 1:1 mentorship and a personalised growth strategy. It closes with an in-person convocation and investor pitching."
+    },
+    {
+     "title": "RetailX by Inc42 is a 6-month, invite-only brand residency for the next generation of India's manufacturing, distribution and trading families. Across 25 weeks of live and hybrid learning, 21 days in person and 60+ mentors, you first strengthen your family business, then build a consumer brand on to",
+     "url": "https://joinretailx.com/?utm_medium=referral&utm_source=menu/",
+     "summary": "RetailX by Inc42 is a 6-month, invite-only brand residency for the next generation of India's manufacturing, distribution and trading families. Across 25 weeks of live and hybrid learning, 21 days in person and 60+ mentors, you first strengthen your family business, then build a consumer brand on to"
+    },
+    {
+     "title": "D2CX Foundations by Inc42 is a 6-week program, with recorded masterclasses and live Q&A, for founders launching a D2C brand. Learn from India's top 1% D2C founders and experts through hands-on insights, real case studies and proven execution frameworks, from GTM and brand strategy to marketing, mark",
+     "url": "https://foundations.d2cx.co/?utm_medium=referral&utm_source=inc42&utm_campaign=d2cx-foundation&utm_content=button-feb",
+     "summary": "D2CX Foundations by Inc42 is a 6-week program, with recorded masterclasses and live Q&A, for founders launching a D2C brand. Learn from India's top 1% D2C founders and experts through hands-on insights, real case studies and proven execution frameworks, from GTM and brand strategy to marketing, mark"
+    },
+    {
+     "title": "The Festive Margin Crush, WeWork India’s Q2 Show & More",
+     "url": "https://inc42.com/buzz/the-festive-margin-crush-wework-indias-q2-show-more/",
+     "summary": ""
+    },
+    {
+     "title": "Exclusive: QwikBuild Raises $2.3 Mn To Expand Enterprise AI Platform",
+     "url": "https://inc42.com/buzz/exclusive-qwikbuild-raises-2-3-mn-to-expand-enterprise-ai-platform/",
+     "summary": ""
+    },
+    {
+     "title": "Nova Spectral AI Raises ₹21.2 Cr To Build Indigenous Infrared Sensor Chips",
+     "url": "https://inc42.com/buzz/nova-spectral-ai-raises-%e2%82%b921-2-cr-to-build-indigenous-infrared-sensor-chips/",
+     "summary": ""
+    },
+    {
+     "title": "Exclusive: Ex-Pixxel Engineer Effy John’s Parsec Aerospace In Talks To Raise $10...",
+     "url": "https://inc42.com/buzz/ex-pixxel-engineer-effy-johns-parsec-aerospace-in-talks-to-raise-10-mn/",
+     "summary": ""
+    },
+    {
+     "title": "Live2.ai Raises ₹130 Cr To Scale AI Marketing SaaS Platform",
+     "url": "https://inc42.com/buzz/live2-ai-raises-%e2%82%b9130-cr-to-scale-ai-marketing-saas-platform/",
+     "summary": ""
+    },
+    {
+     "title": "Healthy Snacking Brand Troovy Bags ₹100 Cr To Expand Offline Presence, Enter New...",
+     "url": "https://inc42.com/buzz/healthy-snacking-brand-troovy-bags-%e2%82%b9100-cr-to-expand-offline-presence-enter-new-categories/",
+     "summary": ""
+    },
+    {
+     "title": "[Update] SC Seeks Centre’s Response On News Publishers’ Plea Against DPDP Act",
+     "url": "https://inc42.com/buzz/news-publishers-move-sc-to-challenge-the-dpdp-act/",
+     "summary": ""
+    },
+    {
+     "title": "Simplismart Bags $14 Mn To Expand AI Inference Platform",
+     "url": "https://inc42.com/buzz/simplismart-bags-14-mn-to-expand-ai-inference-platform/",
+     "summary": ""
+    },
+    {
+     "title": "IndiaMART Q2 Profit Rises 10% YoY To ₹91 Cr",
+     "url": "https://inc42.com/buzz/indiamart-q2-profit-rises-10-yoy-to-%e2%82%b991-cr/",
+     "summary": ""
+    },
+    {
+     "title": "Mochatrade Raises $5.5 Mn To Build A US Stock Trading Platform For Indian Trader...",
+     "url": "https://inc42.com/buzz/mochatrade-raises-5-5-mn-to-build-a-us-stock-trading-platform-for-indian-traders/",
+     "summary": ""
+    },
+    {
+     "title": "SoftBank Sells 1.2% Stake In Ola Electric, Offloads 1.12 Cr Rights Entitlements",
+     "url": "https://inc42.com/buzz/softbank-sells-1-2-stake-in-ola-electric-offloads-1-12-cr-rights-entitlements/",
+     "summary": ""
+    },
+    {
+     "title": "Luxury Watch Brand Rotoris Raises $8.5 Mn To Grow Retail Footprint",
+     "url": "https://inc42.com/buzz/luxury-watch-brand-rotoris-raises-8-5-mn-to-grow-retail-footprint/",
+     "summary": ""
+    },
+    {
+     "title": "Why This Festive Season Is Getting More Expensive For Ecommerce Seller...",
+     "url": "https://inc42.com/features/why-this-festive-season-is-getting-more-expensive-for-ecommerce-sellers/",
+     "summary": ""
+    },
+    {
+     "title": "Store Memory: D2C In The Age Of Experiential Retail",
+     "url": "https://inc42.com/features/store-memory-d2c-in-the-age-of-experiential-retail/",
+     "summary": ""
+    },
+    {
+     "title": "Growth Vs Profitability: Swiggy’s Tug-Of-War",
+     "url": "https://inc42.com/features/growth-vs-profitability-swiggys-tug-of-war/",
+     "summary": ""
+    }
+   ]
+  },
+  {
    "name": "RSS: Indian Express Education",
    "url": "https://indianexpress.com/section/education/feed/",
    "status": 403,
@@ -3019,6 +3293,27 @@
    "error": null,
    "items": [
     {
+     "title": "School holiday tomorrow: Are schools closed on October 29 for Karwa Chauth in Delhi, Punjab, Rajasthan and UP?",
+     "url": "https://timesofindia.indiatimes.com/education/news/school-holiday-tomorrow-are-schools-closed-on-october-29-for-karwa-chauth-in-delhi-punjab-rajasthan-and-up/articleshow/135250643.cms",
+     "summary": "School holiday October 29: Schools in Delhi, Punjab, Rajasthan and Uttar Pradesh may follow different holiday schedules on October 29, 2026, for Karwa Chauth. Government schools in Delhi are reported to be closed, while some institutions in Punjab an",
+     "date": "2026-10-28T08:49:34+05:30",
+     "publisher": ""
+    },
+    {
+     "title": "JKSSB JE Civil Recruitment 2026: 458 vacancies announced, applications open November 30",
+     "url": "https://timesofindia.indiatimes.com/education/news/jkssb-je-civil-recruitment-2026-458-vacancies-announced-applications-open-november-30/articleshow/135249998.cms",
+     "summary": "JKSSB JE Civil Recruitment 2026: JKSSB has announced 458 Junior Engineer (Civil) vacancies in the Jal Shakti and Public Works (R&amp;B) departments under Advertisement Notification No. 11 of 2026. Online applications will open on November 30 and clos",
+     "date": "2026-10-28T08:30:11+05:30",
+     "publisher": ""
+    },
+    {
+     "title": "UGC NET December 2026 last date extended to October 31, NTA allows applications without late fee",
+     "url": "https://timesofindia.indiatimes.com/education/news/ugc-net-december-2026-last-date-extended-to-october-31-nta-allows-applications-without-late-fee/articleshow/135249701.cms",
+     "summary": "UGC NET December 2026: The National Testing Agency has extended the UGC NET December 2026 application deadline to October 31, 2026, at 11:50 PM. Candidates can submit their applications and complete examination fee payments without a late fee. The Oc",
+     "date": "2026-10-28T08:08:31+05:30",
+     "publisher": ""
+    },
+    {
      "title": "17-year-old UK student invents a fix for rats damaging railway cables during work placement; 63 more installations planned as he secures a job",
      "url": "https://timesofindia.indiatimes.com/education/news/17-year-old-uk-student-invents-a-fix-for-rats-damaging-railway-cables-during-work-placement-63-more-installations-planned-as-he-secures-a-job/articleshow/135236403.cms",
      "summary": "Jackson Hall, a York College T-Level student, invented a polycarbonate screen that stops rats and other animals chewing through electric cables in signal boxes. He designed it on placement at AGH Engineering. Network Rail has fitted it at two Leeds-a",
@@ -3136,27 +3431,6 @@
      "summary": "The UK will introduce an annual £925 levy, approximately $1,200, on international students enrolled at universities in England from August 2028, applying to enrolments exceeding 220 students per institution. The policy is projected to generate £445 m",
      "date": "2026-10-27T12:49:36+05:30",
      "publisher": ""
-    },
-    {
-     "title": "UPESSC PRT recruitment 2026: Registration ends tomorrow for 12,405 posts; direct link to apply here",
-     "url": "https://timesofindia.indiatimes.com/education/news/upessc-prt-recruitment-2026-registration-ends-tomorrow-for-12405-posts-direct-link-to-apply-here/articleshow/135227151.cms",
-     "summary": "Candidates can apply for UPESSC Assistant Teacher Primary Recruitment 2026 until October 28, 2026. The commission has extended the deadline from October 15 to accommodate more applicants. There are 12,405 vacancies available in primary schools across",
-     "date": "2026-10-27T12:43:44+05:30",
-     "publisher": ""
-    },
-    {
-     "title": "CBSE to inaugurate experience centre in Dwarka today; facility to showcase board’s initiatives and innovations in school education",
-     "url": "https://timesofindia.indiatimes.com/education/news/cbse-to-inaugurate-experience-centre-in-dwarka-today-facility-to-showcase-boards-initiatives-and-innovations-in-school-education/articleshow/135226746.cms",
-     "summary": "The Central Board of Secondary Education (CBSE) is scheduled to inaugurate its Experience Centre on October 27, 2026, at its Dwarka office in New Delhi. The centre aims to showcase the board’s educational initiatives and innovations through an intera",
-     "date": "2026-10-27T12:22:47+05:30",
-     "publisher": ""
-    },
-    {
-     "title": "SSC JE, CPO 2026 exam dates revised; check new schedule here",
-     "url": "https://timesofindia.indiatimes.com/education/news/ssc-je-cpo-2026-exam-dates-revised-check-new-schedule-here/articleshow/135226816.cms",
-     "summary": "The Staff Selection Commission has updated the examination schedule for the Junior Engineer and Sub-Inspector positions. The revised dates indicate that the JE Examination will occur in two phases in November and December. Additionally, the Sub-Inspe",
-     "date": "2026-10-27T12:21:53+05:30",
-     "publisher": ""
     }
    ]
   },
@@ -3166,6 +3440,27 @@
    "status": 200,
    "error": null,
    "items": [
+    {
+     "title": "AI curriculum is being rolled out. But where are the working computers?",
+     "url": "https://www.thehindu.com/education/ai-in-the-classroom-needs-a-computer-that-works/article71631045.ece",
+     "summary": "Over 1 in 3 of the schools in India (5,41,851 of the 14.67 lakh) have no working computer for teaching",
+     "date": "27 Oct 2026 18:49",
+     "publisher": ""
+    },
+    {
+     "title": "The forgotten student resistance at King Edward Medical College in undivided India",
+     "url": "https://www.thehindu.com/education/the-forgotten-student-resistance-at-king-edward-medical-college-in-undivided-india/article71630450.ece",
+     "summary": "The immediate trigger for the strike was a series of condescending and derogatory remarks targeting Indian medical scholars published in British newspapers",
+     "date": "27 Oct 2026 17:39",
+     "publisher": ""
+    },
+    {
+     "title": "RTE Act mandates short school distances, but most students commute longer: govt. data",
+     "url": "https://www.thehindu.com/education/rte-act-mandates-short-school-distances-but-most-students-commute-longer-govt-data/article71626983.ece",
+     "summary": "The government’s first-of-its-kind National Household Travel Survey (NHTS), conducted by the National Statistics Office (NSO), found that three out of five (60.6%) students between the ages of 6 and 14 travel over one kilometer to reach their educati",
+     "date": "27 Oct 2026 16:07",
+     "publisher": ""
+    },
     {
      "title": "Government school teachers’ association seeks cluster kitchen centres for midday meal programme",
      "url": "https://www.thehindu.com/news/national/karnataka/government-school-teachers-association-seeks-cluster-kitchen-centres-for-midday-meal-programme/article71564494.ece",
@@ -3192,13 +3487,6 @@
      "url": "https://www.thehindu.com/education/cybersecurity-in-universities-how-campuses-are-easy-prey-for-ai-powered-attacks/article71627548.ece",
      "summary": "With education the most-attacked sector worldwide and the DPDP Act holding institutions liable for student data, campuses need audited vendor contracts, real policies and student red teams, not paper compliance",
      "date": "27 Oct 2026 08:48",
-     "publisher": ""
-    },
-    {
-     "title": "RTE Act mandates short school distances, but most students commute longer: govt. data",
-     "url": "https://www.thehindu.com/education/rte-act-mandates-short-school-distances-but-most-students-commute-longer-govt-data/article71626983.ece",
-     "summary": "The government’s first-of-its-kind National Household Travel Survey (NHTS), conducted by the National Statistics Office (NSO), found that three out of five (60.6%) students between the ages of 6 and 14 travel over one kilometer to reach their educati",
-     "date": "26 Oct 2026 22:09",
      "publisher": ""
     },
     {
@@ -3571,20 +3859,6 @@
      "summary": "In 2011, the transition to the uniform system of school education in Tamil Nadu faced a political hurdle when the AIADMK came to power",
      "date": "18 Oct 2026 00:05",
      "publisher": ""
-    },
-    {
-     "title": "News from the world of Education: October 14, 2026",
-     "url": "https://www.thehindu.com/education/news-from-the-world-of-education-october-14-2026/article71582463.ece",
-     "summary": "Information on colleges, admissions, scholarships, events, MoUs, and more",
-     "date": "17 Oct 2026 23:35",
-     "publisher": ""
-    },
-    {
-     "title": "Education Ministry forms panel to investigate student’s death at IIIT Ranchi",
-     "url": "https://www.thehindu.com/news/national/jharkhand/three-member-panel-set-up-to-examine-death-of-student-at-iiit-ranchi-ministry-of-education/article71578780.ece",
-     "summary": "The Committee has been mandated to examine the circumstances surrounding the incident",
-     "date": "17 Oct 2026 23:21",
-     "publisher": ""
     }
    ]
   },
@@ -3600,7 +3874,15 @@
    "url": "https://news.google.com/rss/search?q=computer%20based%20test%20vendor%20tender%20India%20when%3A7d&hl=en-IN&gl=IN&ceid=IN:en",
    "status": 200,
    "error": null,
-   "items": []
+   "items": [
+    {
+     "title": "How Many More Students And Careers Will Be Killed Before Eduquity Is Put Behind Bars? - Inventiva",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMFFNUEZBRll2VmlyUFB1WjVTTnplTDQ4Z0tCdTJTeVllSUhmX1JJZEZrSmMybVlvZVhVTEg1MFU3c2FGZTBWLVU5NDR5MW9OS2M5NV9kR2hEUElCVUQ2M1h1TV9OWG1yajFTSTlwaThHdEd5NS1NN2JaS1otQW9JTk9wUzJDcGU4UFRBbTJOSUFueUQ1a282OGpLZzdrVzhFbGMweWY0c2t3aXRjRWhTV2hrb1FaRjJDckhEUmd3?oc=5",
+     "summary": "How Many More Students And Careers Will Be Killed Before Eduquity Is Put Behind Bars? &nbsp;&nbsp; Inventiva",
+     "date": "24 Oct 2026 21:41",
+     "publisher": "Inventiva"
+    }
+   ]
   },
   {
    "name": "News search: on-screen marking tender",
@@ -3774,17 +4056,31 @@
      "publisher": "Bhaskar English"
     },
     {
+     "title": "JEE Main 2027 Paper 2: Dates, Notification, Syllabus & Pattern - PW",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhV2NDZ0NZNUlveTFkRzZvMmFnSGktcFdiblJpcGZmamJlOGFzR3VMTEpkMU1JZl9nOW9pTjdRdTV1eWdlMXd3NUVyOVEzZGM0NmpIZ1loSGFBdGJocVlLVUN4cHRoQlVmUjdyY2RaZUdEZE5DX1E?oc=5",
+     "summary": "JEE Main 2027 Paper 2: Dates, Notification, Syllabus & Pattern &nbsp;&nbsp; PW",
+     "date": "25 Oct 2026 12:30",
+     "publisher": "PW"
+    },
+    {
+     "title": "NEET exam modernisation: CBT, AI, and question vaults explained - medadmit.in",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWFJES1FRNXFLQS1tNk9ZVVkya2dzUFB0cjJGdWJJV1BLY01yclVvcnNlWklMZE8tbXhzTGxPQ3ZmdS1EVHozSVNLTWN4b1g5VHBWRHhVd25yTUVTV19oNWdzamp4NVpwbnNuTEVGbFJVQTJLRzV3eHN6Vl9qX3FfZHVR?oc=5",
+     "summary": "NEET exam modernisation: CBT, AI, and question vaults explained &nbsp;&nbsp; medadmit.in",
+     "date": "26 Oct 2026 12:30",
+     "publisher": "medadmit.in"
+    },
+    {
+     "title": "CMAT Exam Date 2027 OUT, Registration, Syllabus & Preparation Tips - Shiksha.com",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUHM0bWVXSTV5SlkwOUNndTA3M3pyVTQ4NkVsSnBwTUVBMmRXRnBPeDliNVFLdDlEUTVpYXBMV3JpdlRXOElVbnBfVVRIaFlWSHBoeHI1YWpoUU0tczl1TjVjajYwM1lXMTlYQlJuUWR6dThYLVVfMlY5c3hMLW1JUXhBSzViRGZBMkhYTklZVW1rRS1yX0drdWlSTHRyVlNWWU9kZWJxNUd5QlZhYUE?oc=5",
+     "summary": "CMAT Exam Date 2027 OUT, Registration, Syllabus & Preparation Tips &nbsp;&nbsp; Shiksha.com",
+     "date": "23 Oct 2026 12:30",
+     "publisher": "Shiksha.com"
+    },
+    {
      "title": "JEE Main 2027 Paper 2A & 2B Exam Date Out, Schedule & Timings - PW",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYU1fYzMxZ21zQXNKMTZJXzFGdF9VZFlUWnBteUI2SVpSVGFndk9GLXRtTFZFWDNsdDRBS211NGliRnNlRUZpRzdvejhnTUNhTjBMOXFlaC1FZlRIX0RWTzE2djk1aXRhR00ybE9WWDRmbUZQX0dfV01kMnkyWS0yV1RTMA?oc=5",
      "summary": "JEE Main 2027 Paper 2A & 2B Exam Date Out, Schedule & Timings &nbsp;&nbsp; PW",
      "date": "26 Oct 2026 11:21",
-     "publisher": "PW"
-    },
-    {
-     "title": "JEE Main Paper 2A and 2B Notification 2027 Out, Exam Dates and Applications Started - PW",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNGloZUJwaUZvVWU2X2pTVmpWRVdIZnROSHVGTldHTVNNLXBNa3d0azdzSHQ2QWVTeGNJelZlblNUX09VSlh4N1oxeWRIZHpQWHVkc2hxSzZzazJZdy0zdnlCVUZXdTkyZGV6ZE1PQXRxN1hiUThnRXVIUmNSNWtWa0d1MDZ0aVd5SDdPY05LMHZuZw?oc=5",
-     "summary": "JEE Main Paper 2A and 2B Notification 2027 Out, Exam Dates and Applications Started &nbsp;&nbsp; PW",
-     "date": "26 Oct 2026 12:00",
      "publisher": "PW"
     },
     {
@@ -3795,32 +4091,18 @@
      "publisher": "Careers360"
     },
     {
+     "title": "JEE Main Paper 2A and 2B Notification 2027 Out, Exam Dates and Applications Started - PW",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNGloZUJwaUZvVWU2X2pTVmpWRVdIZnROSHVGTldHTVNNLXBNa3d0azdzSHQ2QWVTeGNJelZlblNUX09VSlh4N1oxeWRIZHpQWHVkc2hxSzZzazJZdy0zdnlCVUZXdTkyZGV6ZE1PQXRxN1hiUThnRXVIUmNSNWtWa0d1MDZ0aVd5SDdPY05LMHZuZw?oc=5",
+     "summary": "JEE Main Paper 2A and 2B Notification 2027 Out, Exam Dates and Applications Started &nbsp;&nbsp; PW",
+     "date": "26 Oct 2026 12:00",
+     "publisher": "PW"
+    },
+    {
      "title": "AIIMS INI CET admit card 2026 out at aiimsexams.ac.in; exam on November 1 - Careers360",
      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOd2VTdmRyWWFSUGxvY2pzU0hIejAzSndveDljd28zekFURjBBS3c1SE9QZ1JnWXlyNlZRN1NZSy0xaVFkVmR4S3FPYWt1bVh3VWZGdkQ0dk40LWhPZUVVMWxEZHhmSU5JejVnSGd6cWVKRi1aSEhLdWZaQWRNMkxoQWpKbWpjV3NNZ1FYNy1BcTJWT0JqcU83elVnQTJfVGRhS0RBRlBoSnpONk9fa2pDMTNOaUlwWHV6YjN4dWQ1VURHbm44emFpcTU5aU9heTJ2alRING41VdIB1wFBVV95cUxOd2VTdmRyWWFSUGxvY2pzU0hIejAzSndveDljd28zekFURjBBS3c1SE9QZ1JnWXlyNlZRN1NZSy0xaVFkVmR4S3FPYWt1bVh3VWZGdkQ0dk40LWhPZUVVMWxEZHhmSU5JejVnSGd6cWVKRi1aSEhLdWZaQWRNMkxoQWpKbWpjV3NNZ1FYNy1BcTJWT0JqcU83elVnQTJfVGRhS0RBRlBoSnpONk9fa2pDMTNOaUlwWHV6YjN4dWQ1VURHbm44emFpcTU5aU9heTJ2alRING41VQ?oc=5",
      "summary": "AIIMS INI CET admit card 2026 out at aiimsexams.ac.in; exam on November 1 &nbsp;&nbsp; Careers360",
      "date": "26 Oct 2026 16:04",
      "publisher": "Careers360"
-    },
-    {
-     "title": "NEET UG 2027 in Computer-Based Mode: What Changes for Students, Exam Date and Notification Update - AglaSem News",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTkNXcmtDTUM1cldXNi1kc2VhM3dIbHpyV0xRREhiR1FMUUVsN3NvUFVjMDBCc0dUTHVLMmNwbTktblpPejQ3NHdoanhLYkM0aG00RjVWVnFNckg5bXpfcjFTR1BqSG5tZVJzMm5iZkdQVEd5aDJkRm16SUtmWS1kMThIcDk5Rnk2S2Z3eHUxaEk1dw?oc=5",
-     "summary": "NEET UG 2027 in Computer-Based Mode: What Changes for Students, Exam Date and Notification Update &nbsp;&nbsp; AglaSem News",
-     "date": "21 Oct 2026 10:00",
-     "publisher": "AglaSem News"
-    },
-    {
-     "title": "JEE Main 2027 Registration: NTA Updates Official Website, Application Link Expected Soon - Jagran Josh",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa2YzejdpQUFudGdGVUdYMW9IYlB4cW43TV80WWd5dWZNT3pFNTRWbW94cURFOVZOUE1WaDdUckFYT3hrTEtSRGdpX2xJejFCX3lRTGhUeDQ4OWJlZGV6OXJqOXpidVd5UlRTR0pjc09ULTBQblBXYmdrWThvSGN5UV9kSlBYMU14ZGxRbzlEX2xDc3J1SEFjSmxDZUhFSWt4ZmdOak5oSjhfVU5rWVhtb3NBYUtsMG9MRVFvdzR5RTJBYWvSAcoBQVVfeXFMT2kxQ3gwVTE3RVVOSWFfNkhPZDYwQTBMWEQ3bm9kRFVyd2FLNUZNajBZdUNYTDRkM2w0dHNRNF9lVHJSWV96bExiMll3ajZzM1MxUGljUXNRVzFGUUJ0eVFVWkFpVzlvVHRhVGI3eGJvSENOT0dXTWh6bkwtd2Zhb1pXbzV5WHRaMzExWUVPNjFGYWJqc2hKWEIzblE5VEtaN294T082WGhrQng2WHh6U21NMWEzUGZSNHhyNVpScl8zelV4VUV2U1NHdw?oc=5",
-     "summary": "JEE Main 2027 Registration: NTA Updates Official Website, Application Link Expected Soon &nbsp;&nbsp; Jagran Josh",
-     "date": "24 Oct 2026 16:52",
-     "publisher": "Jagran Josh"
-    },
-    {
-     "title": "JEE Main 2027 Exam Date: Check Session 1 and 2 Timetable; Download PDF Here - Jagran Josh",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTU43b2wwb1poT2FCbVlPWnMyeVZRWTRvN1pWbERZVFUzY1hMM3lZQUl1NE9XWTZVT3dCLTRpX2N3cEFVa0N1dkhmcXVmUkNZaUdMTm5XWUI5M05HUGpNSFg3OEk2QlllWnZmQWd0bXFuS2hKdkd1M1NjaDBYUFJaU1RFUVRmNHJVaTQyMDB2TFZBQ3dPdWZGOHJYa1RwWVdEdnlHQVlUR3VXTVh3SDdRbndOUEtEUDhO0gG4AUFVX3lxTE1NTjdvbDBvWmhPYUJtWU9aczJ5VlFZNG83WlZsRFlUVTNjWEwzeVlBSXU0T1dZNlVPd0ItNGlfY3dwQVVrQ3V2SGZxdWZSQ1lpR0xObldZQjkzTkdQak1IWDc4STZCWWVadmZBZ3RtcW5LaEp2R3UzU2NoMFhQUlpTVEVRVGY0clVpNDIwMHZMVkFDd091ZkY4clhrVHBZV0R2eUdBWVRHdVdNWHdIN1Fud05QS0RQOE4?oc=5",
-     "summary": "JEE Main 2027 Exam Date: Check Session 1 and 2 Timetable; Download PDF Here &nbsp;&nbsp; Jagran Josh",
-     "date": "26 Oct 2026 14:04",
-     "publisher": "Jagran Josh"
     }
    ]
   },
@@ -3995,6 +4277,13 @@
      "publisher": "Al-Fanar Media"
     },
     {
+     "title": "FIFA Opens U.S. Media Rights Bidding for 2030 and 2034 World Cups - GK Today",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaUFkd3hnWVdobnAzWEk4cTB5X25PYU53eEVQcWRSdnM3c2VtNW9RbGxBTURha3dnZ0h0TGdnM192NDNPb3czT2tKMlV3N00tSl9waHRKYTJXdU15ZnRoWGFsOG95QXVOZjhuMkVKRHJWR1Y2SDM0UllnTXJVNEhSWGNqT2hQa3Z1ZUF6OUw1R2lNUQ?oc=5",
+     "summary": "FIFA Opens U.S. Media Rights Bidding for 2030 and 2034 World Cups &nbsp;&nbsp; GK Today",
+     "date": "23 Oct 2026 14:23",
+     "publisher": "GK Today"
+    },
+    {
      "title": "Need a vehicle test in Dubai? Parkin is turning parking lots into testing hubs - Gulf Business",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRG0zaFpETVFZRDdHT1V3endaTFdDUDhWUHJ1Y3g1U2k3NWlkMnlKcms4VU9XRU9VX19rVWJFY09taEJmRWVuWUxIOG9vbVAyLUlERlpJVk1tbzZ6WFE2bnBudE0yZER5T3ZycHdOM0JTeVpRRnNnOGVGWHh0eWNfMThZaW5URUhlV3ZTaFdwdm9sbW82dEw3TVBrTWo2aS1YNURHR3NYS0ZqdlN1WW42Y3JIQU9YMGp2d0lpTg?oc=5",
      "summary": "Need a vehicle test in Dubai? Parkin is turning parking lots into testing hubs &nbsp;&nbsp; Gulf Business",
@@ -4125,6 +4414,13 @@
    "error": null,
    "items": [
     {
+     "title": "Over 200 Users Of Prep50 Scored 300 And Above In 2026 JAMB — Report - Independent Newspaper Nigeria",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd3BpYzBDVjlaM2JjTlJpUzhJTDlYUjRfVi1sNU04bDc3T25KLWFONGRCZENjcG44SHNuWEFLcmI3N21wWlBHT1NrY1ZjNTY3c1g0WGVyRFB1NE80Z1J6MUVHUE9NR050VHpicTBybVV1b3dMTDJIZ0JQMTNzcUFnVVlqYVBJdjdiTWtwU2xRZjMwaGc?oc=5",
+     "summary": "Over 200 Users Of Prep50 Scored 300 And Above In 2026 JAMB — Report &nbsp;&nbsp; Independent Newspaper Nigeria",
+     "date": "27 Oct 2026 20:41",
+     "publisher": "Independent Newspaper Nigeria"
+    },
+    {
      "title": "JEE Main 2027 Test Centres Cut to 310 as NTA Removes 13 Cities and Introduces 3 New Centres - Jagran Josh",
      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORGRCN2xCZ2xCOUNsZ2ZqQ3BES09tYWphdHZqOFdPaElmVFpVNk1hUHpaQkZiZjZaOHRkVmJMM21OM05waFU1ZUUxcXc2aEtHMHNqMmdVNFh2SGRvZG5DNk4ycFhOZ05tUW9oWjNtU0VBZ2tlM3Vuay1hZkZKYkRvTG90RGlPeFZ0c2FQZi1NN1Z4SlFhcDR4RGE2YW1LU0pfOFhoaGlrUVVHaUpNMUVpT3lEZzNqRHlzSExUNXhLRkEzVmxtRzQxZUMtVFpTbUZR0gHQAUFVX3lxTE5EZEI3bEJnbEI5Q2xnZmpDcERLT21hamF0dmo4V09oSWZUWlU2TWFQelpCRmJmNlo4dGRWYkwzbU4zTnBoVTVlRTFxdzZoS0cwc2oyZ1U0WHZIZG9kbkM2TjJwWE5nTm1Rb2haM21TRUFna2UzdW5rLWFmRkpiRG9Mb3REaU94VnRzYVBmLU03VnhKUWFwNHhEYTZhbUtTSl84WGhoaWtRVUdpSk0xRWlPeURnM2pEeXNITFQ1eEtGQTNWbG1HNDFlQy1UWlNtRlE?oc=5",
      "summary": "JEE Main 2027 Test Centres Cut to 310 as NTA Removes 13 Cities and Introduces 3 New Centres &nbsp;&nbsp; Jagran Josh",
@@ -4168,13 +4464,6 @@
      "publisher": "Investing.com India"
     },
     {
-     "title": "Petrovietnam Securities, Inc. Estimates – HNX:PSI - TradingView",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53SHFVeXRmRFVyY1JkNVI3OHNQUm1fUHZJZzBxY0kzQTAxQXFCNUZOYkg3LWE4VFZTblNOa1Y0SC11TjlvMVJGUHZTYkZYeDUybmFNQ2FMUVgyLXFDT1BURDRjV2t5Z2xLT0dSdEN6OTc3SDg?oc=5",
-     "summary": "Petrovietnam Securities, Inc. Estimates – HNX:PSI &nbsp;&nbsp; TradingView",
-     "date": "24 Oct 2026 01:40",
-     "publisher": "TradingView"
-    },
-    {
      "title": "UMich, PSI researchers report new airborne radiation-detection method - American Nuclear Society",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONnY4Z2N1UWt0N2VtWUZIOTMwRDItWDJVUVAzNUgzR0RqcThzU0ZZbXdtck04b1NTelV6eFNOaGlGbnFqOV80VG9LUGlEcXVlYXRlRzVZODB3UE5HdFplaHE5a0RhdnJoa2l0SlZoMHY5TWJRbU9LemwzTHkzTGVCV3RBSjRseFVRVXBFcTZkT1VzblpIMkctdDl1SzBaRndFMTFtUFQwcXlVUQ?oc=5",
      "summary": "UMich, PSI researchers report new airborne radiation-detection method &nbsp;&nbsp; American Nuclear Society",
@@ -4189,11 +4478,39 @@
      "publisher": "UNEP FI"
     },
     {
-     "title": "Gujarat Police DV admit card 2026 released for PSI Wireless, Technical Operator posts; document verificat - The Times of India",
-     "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNNzdPM19ZWG1zMlZDZWFvU0VLSmFjZ1lReFF1QTFkWHZXbWNfZF9fS21yZmFLOUtieGd1dzd4VnVZY3BRdzVHU0JXX0ZnXzg2dXFCaTZLREtETGlNQ2dIcDl1bF9RTkNJdVA1Z0s5S0xyVFBOdEJZUXlCLUg3UFcwanpYajlKMWtuUE51ZFAyekFRUXhIbW5Ya3kyajNfbkFnSlFaMjl3YmRrU09tT1RtNXh1UjUteUJUTlgtR0FodTBTTC01LVc4bEhobnNvU0Zja0ZqNTVJNW1PY19YZWxCb1Z5VTR5LVZPX0ZaUFgwT1N2UDZ2d1pjRHdROHR4MF9ybWV6Tk9kMFFLa21fRGN1dnJha3VUSzhjMWRmTVY5SldvRU8zdk84RGlKcmtOWFc1LTExTU5kQ1RlSmxCZ3c1ZS1xYXlwdGVuWUoxUkw3Y0JVUkw3Ni1mQjBqbkVpdkxqWFNV0gHoAkFVX3lxTE16aTM5ZW5Rc3VhOHFiU3lFM3o1enFkRUQtQ1N4SFBTYmJCcXdwNXlVTVd4QUd3eGJZZFRJdFFSd2ZMM203ZDNnS2tpRFJxYTFSdWc1NDAxdzBhRnNWUFFrbTNKWjAyU0YyNmk1US1yOXhRd0RscExLamhFVFR1anFhUEc0MWdCUUZVZmoyOUpfTW1jMFdYYVV0cDJhSG5CNE5qa0JKcmpMc2diRVQ1YjkyVnNEbXVCRkdfYVhuaGVzZEljZnR3TTNiVUxramYzbm5xNFB4cUF5dktNeTloT0lSQVM4TDBTWGczRGkzZGNxMkRKT0dBNEU5ZGZkaW1WUjlsMWdpcUpLSzVkdEZlUHJ6YVpfTjdjUDY2cl9BX3I2MHRvVkU2amYtYk9xRExjQmZ3TWY3R1ZKYndQNmxHVjhJQzFXRWdzQ1pBUE1ZMGdwVHAzSWFlUE1PM2JzVjJrRGw0cG90SkNFZQ?oc=5",
-     "summary": "Gujarat Police DV admit card 2026 released for PSI Wireless, Technical Operator posts; document verificat &nbsp;&nbsp; The Times of India",
-     "date": "24 Oct 2026 13:25",
-     "publisher": "The Times of India"
+     "title": "Motorbike-Riding Duo Snatches Gold Chain From PSI's Wife in Shela; Bopal Police Launch Manhunt - Gujarat Samachar",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUTRPT1dVLXV3TXNyZjFNYVNCbnppOUc4U1hmY1VRenNlbnY1QjhjN1VwbzBLVUp4U05sSmgxRlZXZ3NTWkxjWS1IRlhRekFOeEVtbHpTUFhqRkl0Skx2WWNKUHMtQkowMHJwa1NraXhOQ1NPclNLV0dsd1p2dl8wZkhmVjFMUi1KNEY3bUVyeDd3Sy1haHNQUXVBQlU5QlUwWDJqVWlFTGtKSGNuVkdkSExGSG1Nb3FyUWhZVGZ5N3Ixc0dzXzYzd010eElYTUVCeGE1UHVOMk1Da3hjWDkzSkdFbldQRldQemNn?oc=5",
+     "summary": "Motorbike-Riding Duo Snatches Gold Chain From PSI's Wife in Shela; Bopal Police Launch Manhunt &nbsp;&nbsp; Gujarat Samachar",
+     "date": "27 Oct 2026 18:15",
+     "publisher": "Gujarat Samachar"
+    },
+    {
+     "title": "Pacific Islands Frontline Workers Demand a Voice in Just Transition - Public Services International (PSI)",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdUUxcFF0UDVXN1BqYjR1SDRDVlYwNlR2RGdPS2tsbHY1cDQycy1PekdwNkZIbUdjSld4N2M1ZTJqNmZzUWd1ZjBpUktkM2hiOVJkUVpZV2lwc1ZSMjQ5M1BqVEUtTGZnR05jcUozajVKaFRTUWgxRTBvNlBab3NaVk5xLVNsQnJKeTNqMF9IUmxmVkZvSGVBYTJjVmtuWlZGMjBnaVlnUnVNVkZodk9Ydl9sX2hNQ1VFN1dhQmoyUlRpX1hRbXp4Z3VFMVRKVmIzVUE?oc=5",
+     "summary": "Pacific Islands Frontline Workers Demand a Voice in Just Transition &nbsp;&nbsp; Public Services International (PSI)",
+     "date": "22 Oct 2026 21:56",
+     "publisher": "Public Services International (PSI)"
+    },
+    {
+     "title": "Tesla Roadster Screen Shows 5,500 PSI Thruster Bar [2026] - https://tech-insider.org/",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWXFSM0xhWDZRZFBTYzN1aHpfLVc5eEcyZWxXdDNyLTYzMnoxdTlpalk2ZHgxdjE0QVdkdVEwTWExMEQ1eXVESm9JY2oxTWJwZF9NRERidG1GZ1pkTjZGLVZnM2J1UURzSkUzYnVjZHNxSHF2LXpiQ1BCM1BHaGpHX0UyTzRNaWpSY1dWUlVSdV8?oc=5",
+     "summary": "Tesla Roadster Screen Shows 5,500 PSI Thruster Bar [2026] &nbsp;&nbsp; https://tech-insider.org/",
+     "date": "24 Oct 2026 19:21",
+     "publisher": "https://tech-insider.org/"
+    },
+    {
+     "title": "Is Invesco Semiconductors ETF (PSI) a Strong ETF Right Now? - Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdi0zRlJBM1p6VS1kNTUxVnhQbDljMjFTVzNTWkRBNzg2SkI3NUZLcjBxeW91d29zN0JZcGtBbDhpVU1GXzVCS2lPMEg0eVF6SllNaUJCcUY4TkdPUUhKTTlPMEl2VmlQWktWY3E1dThDZzZ5ZEk5b3JFNUtoVWJGTFhCMkV1S2tqQ2JuWmNIVmEyWVczTm52S3FQd0c5RkZ0SHo0TA?oc=5",
+     "summary": "Is Invesco Semiconductors ETF (PSI) a Strong ETF Right Now? &nbsp;&nbsp; Yahoo Finance",
+     "date": "26 Oct 2026 14:50",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "STEM major Calista Catarius ’28 takes on Elon’s Phi Psi Cli yearbook - Elon University",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSWhGcFhjZGtRWS1ieGpCNDZRUW1LbWdXQTZPbXNEV3g1ODlDZHlQV3hKZGRuRmVFdEljck93cGxPdWFCbHhSal8xTk5Xams3a3dNWmlHQlVSTnlvUTZ1a0JiSlhRTVNQNEloOC10c1lodnJTOHcxTTN0S19hUzNzUnR2SWI1SWZwYzhIZkJNYWdneV96UEdFSEMzeVRRRDJPRkZOenBLcHFHQQ?oc=5",
+     "summary": "STEM major Calista Catarius ’28 takes on Elon’s Phi Psi Cli yearbook &nbsp;&nbsp; Elon University",
+     "date": "27 Oct 2026 02:11",
+     "publisher": "Elon University"
     },
     {
      "title": "Portugal shares lower at close of trade; PSI down 1.46% By Investing.com - Investing.com India",
@@ -4203,11 +4520,11 @@
      "publisher": "Investing.com India"
     },
     {
-     "title": "Number of shareholders of PSI Software SE – FWB:PSAN - TradingView",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTDRJS3ZFcUJ6c011djlSV00xY0tVaFhtTi1VOTlvSEVKWmEtVDNEZnFMaEdFVTMxd1FUbUR0VHZDeTJGNWFzSEdyZ0ZVNEl1clltWUF3ZUtGV1lIVllpTktJdUNRWFY0VGpuVEJpaTNGU1U2OHJJbDVxZW4zbGNZOVIyc2JwRDNJSHVsWm5FZUZXOW9WZjQ3Q1Rpbko3d3YtMDRN?oc=5",
-     "summary": "Number of shareholders of PSI Software SE – FWB:PSAN &nbsp;&nbsp; TradingView",
-     "date": "26 Oct 2026 15:48",
-     "publisher": "TradingView"
+     "title": "What Invesco Semiconductors ETF (PSI) Sold: Texas Instruments Leads on Oct. 23 - Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU3YzanRuc3lBRkN6T1ZZbk9XTkhPQXNSaGZScGVHOHJEZzJXTEhEMkdqbzgtc0toXy1xeWhEZ0lkc1BnUXBYNUJra3VEWS1YaEJUZFRfWjNPaFI5ZFJIbzdjR0tCbzlXYm1JQWdyRlVfX1k2Y3NLUmJBeGt2a0xyRzlySmFnbHVNU04zMXkzdnJ0cHBqdjJPaE5zVENxa1FwZ2c?oc=5",
+     "summary": "What Invesco Semiconductors ETF (PSI) Sold: Texas Instruments Leads on Oct. 23 &nbsp;&nbsp; Yahoo Finance",
+     "date": "27 Oct 2026 16:35",
+     "publisher": "Yahoo Finance"
     },
     {
      "title": "Portugal shares higher at close of trade; PSI up 0.07% By Investing.com - Investing.com India",
@@ -4235,27 +4552,6 @@
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM3FEWlNQV1ByYXg1S1hqX2ktOXVGMjgtRWQ4LV8yVDhleXp3R2VvWktTZGxRbEYyUkVxaG5Celo1Y0FmdXdMUW5Ka3BWYXYwbTBIYkdnbmFTR1IzNlJVbGxOMGwxY0dKcXp0Wk5SdWoxVDZSN0tLZnNFMXZuQVRnVk8zVkM5YnpfTmJ0NVhMbTlfSWVrMUsxN0FqTU1BeTZtMzZHQy0tM2VjeE1UNkE?oc=5",
      "summary": "Portugal stocks lower at close of trade; PSI down 0.75% &nbsp;&nbsp; Investing.com",
      "date": "26 Oct 2026 23:31",
-     "publisher": "Investing.com"
-    },
-    {
-     "title": "Portugal stocks higher at close of trade; PSI up 0.07% - Investing.com",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVTNHb2JmQ0Z4bTUxYldyQWVZX3dsZnJEdlJJT053ZEtETnRqTE5UdGFFM2FHV3k4WXNBZ3ZYa3hfa3RjMVpiTDdmdUVUWnR6dDZWdDNTWjB5Y0k3Sk9sTHVOQXdkbWNJa1pweURFMkczb1l6UnNrb3FKNzhFYVY3WVJydDJuZnJURkpRQ1cyc3hMMHNNSDVVOExJbTBBcVRvbFZiTEhWMVBEN3kz?oc=5",
-     "summary": "Portugal stocks higher at close of trade; PSI up 0.07% &nbsp;&nbsp; Investing.com",
-     "date": "24 Oct 2026 05:28",
-     "publisher": "Investing.com"
-    },
-    {
-     "title": "Portugal stocks higher at close of trade; PSI up 0.85% - Investing.com",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT2xlcVhyck1DRGl2Z2ZQNnIxUUVWY19OSHRGTEpuZWdNclpnZ0JwTmRkNzJHUDdCOEFQLU1JSXFIWVlxVC1GT0ExakV1T3ozYnBvYUJaTXdRQ1pmVWFoTmVTS0I5NWJ4aTFPeUladWJjNTVndExmQlFGZjk5WFdBbmdudF9wd3lDWVdfb2VidWJYZGJ1Q0JwdmpMMTA2c0kzeGQ3TDNtZThXclJS?oc=5",
-     "summary": "Portugal stocks higher at close of trade; PSI up 0.85% &nbsp;&nbsp; Investing.com",
-     "date": "28 Oct 2026 04:27",
-     "publisher": "Investing.com"
-    },
-    {
-     "title": "Portugal stocks higher at close of trade; PSI up 0.46% - Investing.com",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb2dXMWJqeHAtbjJrOHdhbFI3XzZ0cGVCMmZ1dXRGeEZwMEV1Qk82Zm1jSjVVYlhTUE9PMWMyT3BxbnNwbzAtaFB3dlFOUXZBYUR5TWJOVnlpd3ZORmVPSnJXSXExSEFOWlYxM2lrLVpKY2FNUHZ3VXJ5VERmdWZNQXB3dzFkNVl4UU9MeTl0M1RrT1FDY3NnQjlPSkFTV3pEamZ3NG5QWGwyanFf?oc=5",
-     "summary": "Portugal stocks higher at close of trade; PSI up 0.46% &nbsp;&nbsp; Investing.com",
-     "date": "21 Oct 2026 21:43",
      "publisher": "Investing.com"
     }
    ]
@@ -4302,25 +4598,11 @@
      "publisher": "The420.in"
     },
     {
-     "title": "French 10-year bonds surpass US in yield — The Guardian - UA.NEWS",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU0l3WGJiMVJmMUQwX29wc2JvckZWRnpaVlMxb1ljNkZKU0ZpMmxyVEc1QlBWekFxR1QyeGh2dll2Q0V6WHNnQmE5bkVMcVpwV1F5UXZLeDVWNzQycnE0V0I0TTVsa25kYlk2UlQ3cXB6TkVjVzQ3NTI3R2h6RlZ2MzdoVjY0UGNpems0cnZ2ak1VaDZncHFUWXhUWGZ1SWt4WWc?oc=5",
-     "summary": "French 10-year bonds surpass US in yield — The Guardian &nbsp;&nbsp; UA.NEWS",
-     "date": "22 Oct 2026 14:29",
-     "publisher": "UA.NEWS"
-    },
-    {
      "title": "Unusual Smith act that’s raising eyebrows, with charged Cape Town return least of his worries - Fox Sports",
      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNdUMyckdWSHZwbWx4ajNNZzFneWVQNy1TRF95c2xpR1FaZGlBZ0FjYjdRbmJkbTlhWGxMMDRLa3VmNVB3U3lLM3E0TUtNOVRBSXIyZDRvMmJ4RS01X3ZYMl9EX3MwWFlxeGVLanNLVko1VkU4eXFQbDhNRWJWdHpNUXJTWVFub1lWbDJjdGNielkxSm1XRGR3a284aktyajZySEpFMzhhRFgwSm42dnBqeFNkTEt3T3NIR2ZTNWw1Z0NENFlRNnMxRGpuQ0JiQXhabWh1T2JSQ05kZ213T2Y4SU5MeU9YRm0tRXh1d0RkRE1QV2RHMmNqOWs0SnhCakFqV2p0NEgzZmE0TmNQYjhkUVNoMUtEUnR0MVRVRE1GanZTYi0xTTlZTFc0Q3Bfd2dZdmd2VFVwN1JJQUk2LUxBbmwzazhOR3VEeTh2R0tkMkJHcVlJUm1zYWJpcGdzQmvSAd8CQVVfeXFMTXVDMnJHVkh2cG1seGozTWcxZ3llUDctU0RfeXNsaUdRWmRpQWdBY2I3UW5iZG05YVhsTDA0S2t1ZjVQd1N5SzNxNE1LTTlUQUlyMmQ0bzJieEUtNV92WDJfRF9zMFhZcXhlS2pzS1ZKNVZFOHlxUGw4TUViVnR6TVFyU1lRbm9ZVmwyY3RjYnpZMUptV0Rkd2tvOGpLcmo2ckhKRTM4YURYMEpuNnZwanhTZExLd09zSEdmUzVsNWdDRDRZUTZzMURqbkNCYkF4Wm1odU9iUkNOZGdtd09mOElOTHlPWEZtLUV4dXdEZERNUFdkRzJjajlrNEp4QmpBaldqdDRIM2ZhNE5jUGI4ZFFTaDFLRFJ0dDFUVURNRmp2U2ItMU05WUxXNENwX3dnWXZndlRVcDdSSUFJNi1MQW5sM2s4Tkd1RHk4dkdLZDJCR3FZSVJtc2FiaXBnc0Jr?oc=5",
      "summary": "Unusual Smith act that’s raising eyebrows, with charged Cape Town return least of his worries &nbsp;&nbsp; Fox Sports",
      "date": "27 Oct 2026 08:03",
      "publisher": "Fox Sports"
-    },
-    {
-     "title": "Cirrus Begins Building Engine Run-up Center in Duluth, Minnesota - Aviation International News",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb2hqa25PSEFEdjY5V1I3QllSYzVZRWZBX0VrY1NRMGY0QVJMekNFajdCdXBxWDFxbmZBWE9FVklaM1ZXQy0wRzQwWUdSdV9paUZnMkZFUjM4LWFJQUR2cWtSOXl6a0I2bVJRcEpIdWVHckIwZkJBQTN5Sk9NVmpVcjA1OGRiVHBMRmk2MHdKMk10WVBGN3RfcXc2TEFlY3hlTmttNkQyR1EyNmZqbGVTYnVmelZOX2I5?oc=5",
-     "summary": "Cirrus Begins Building Engine Run-up Center in Duluth, Minnesota &nbsp;&nbsp; Aviation International News",
-     "date": "23 Oct 2026 12:30",
-     "publisher": "Aviation International News"
     },
     {
      "title": "MITRA'S Uyarvu MADANI Applications Surpass 8,000, Reflecting Strong Demand From Indian Entrepreneurs - Varnam Malaysia",
@@ -4344,13 +4626,6 @@
      "publisher": "WyomingNews.com"
     },
     {
-     "title": "'Hope Ribbon 2026' App Surpasses 5,000 Female Users, Facilitates Breast Cancer Screening Referrals - وكالة الأنباء السعودية",
-     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9xalZuUHpzT0haN0hSenp5dzVWeTZJTGJiVTVOOVNkbm5PT1FmUF9WTEZ5Sko1dl80RzlhVGJNQm53T1VWSndZSkRn?oc=5",
-     "summary": "'Hope Ribbon 2026' App Surpasses 5,000 Female Users, Facilitates Breast Cancer Screening Referrals &nbsp;&nbsp; وكالة الأنباء السعودية",
-     "date": "27 Oct 2026 04:29",
-     "publisher": "وكالة الأنباء السعودية"
-    },
-    {
      "title": "Stafford Township Students Surpass County, State Averages on State Assessments - TAPinto",
      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQS0haU1JIQldRTkFqX2Z5UUM4dlVEQ0JZR1dtZGRuTjR1RzgtdzdIbE1USHJzSU1FSExneVR4LXdiV3FJdmdqdENXTThhczcxNHBablR2cVlYNUc4Vi1WSktXQzZYbXMwSUtpMUhkaW5JdkVsZTB3dEg1ejRzb2hiaGZxY0ZfLXRGU0NwdlBhVmtoRzJNSEtaTFRraVlzOUJnWXVQeVF0alBzT1VQYlYtaVVyMGZmOTVId0xxLU1yd21lc3FKbmhTcm5Hem0tRV9EUFNJcERDRk1oblM1OVdmYWJXYWlyODQ?oc=5",
      "summary": "Stafford Township Students Surpass County, State Averages on State Assessments &nbsp;&nbsp; TAPinto",
@@ -4365,40 +4640,172 @@
      "publisher": "AOL.co.uk"
     },
     {
-     "title": "We Tested 18 Travel Steamers—These 9 Keep Clothes Wrinkle-free - Travel + Leisure",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Wd0NtOV9wTS1JUl9UUG5oQzV0UnEwVG93X29YS0NvZTlqVXAxeWh1bFhyeEhZenNwY25sUEZMNWdhaHh4M1hqSXJtMWdGcVNXTUx3N29tNXliOGZqb1QzVldUSEtYZktoRnNRbWJR?oc=5",
-     "summary": "We Tested 18 Travel Steamers—These 9 Keep Clothes Wrinkle-free &nbsp;&nbsp; Travel + Leisure",
-     "date": "23 Oct 2026 12:30",
-     "publisher": "Travel + Leisure"
+     "title": "Paraguay international reserves surpass US$ 11 billion mark, reinforcing macroeconomic buffer - https://streamlinefeed.co.ke/",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTFY4SGJUTlZrUzFyOXFfNVVQWks1OWQ5QzFRWFFWY0RkZnFGYzdNT1RCRHlSLWMtTy1Ya1dsc2pGeTFiWGQ3Nk1XeWx1dExxbjMxVndQR0IwY1FiLW1aa3pUY0s0Q0xhZ0Nab0pvVkI5V2JTSmI5bHN2eG0tWDdIb09ZZGZxbUhXbWxBVWwyNndQbnFwOWx0QmJsZ1FzXzA2S1Z5NThvRVl2VGc0TmNrdTJ5VWdmVHQtX1B6RVUtbGRCZw?oc=5",
+     "summary": "Paraguay international reserves surpass US$ 11 billion mark, reinforcing macroeconomic buffer &nbsp;&nbsp; https://streamlinefeed.co.ke/",
+     "date": "27 Oct 2026 11:42",
+     "publisher": "https://streamlinefeed.co.ke/"
+    },
+    {
+     "title": "BioAssays in Vitro Market Size to Surpass USD 8,121 Million by 2032, Growing at 12.0% CAGR - openPR.com",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU1J1Q3NZVlpONjJGaHF6Mk5iQzRVNE1ka3RPMG9VNkhhLWo3ejMyTDlkVHM5bThSRU5yeURDSnl6Q0pFYWlYaEYzeFRnQloyS3F5aElSQ3UtcElWUVBETkwxLUxWbkpGNkVWVDhvOGc4azIyWkxFNXI1OU1kd0dwSVJnSGJSVFpialBMMWJUQWw4NVczTEhlVWZBaw?oc=5",
+     "summary": "BioAssays in Vitro Market Size to Surpass USD 8,121 Million by 2032, Growing at 12.0% CAGR &nbsp;&nbsp; openPR.com",
+     "date": "26 Oct 2026 16:15",
+     "publisher": "openPR.com"
+    },
+    {
+     "title": "James Morgenstern says “It’s a major milestone,” as UK padel courts surpass 3,000 - Tennis Tonic",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPN1gxTlEya3MwOG9VaTRQSkl2Z2hYTW5kSDl3RHB2ZmoxMFlRTVdkdmJpS1VLd3drV0txTzhMMGNZSUdrT3FJOTF1eFA5WFFVWkdsZUdVVHNvV0lEZmRzQVZ5WWFLS09Ka1ZFcm10SnpiMG9vak9GczFQbmZ1Qk90T0dJVk9yS1JWY1BUY25NRGoxY0pUbnlxandTR1JsLUZPU1JzZlVOOERoMFY0QU5aSVVpNXpYRGNiTVlMWW1n?oc=5",
+     "summary": "James Morgenstern says “It’s a major milestone,” as UK padel courts surpass 3,000 &nbsp;&nbsp; Tennis Tonic",
+     "date": "26 Oct 2026 16:44",
+     "publisher": "Tennis Tonic"
     }
    ]
+  },
+  {
+   "name": "News search: RM Assessment ITTS collaboration",
+   "url": "https://news.google.com/rss/search?q=RM%20Assessment%20ITTS%20collaboration%20when%3A7d&hl=en-IN&gl=IN&ceid=IN:en",
+   "status": 200,
+   "error": null,
+   "items": [
+    {
+     "title": "RM Technology Ranked First In HP And Lenovo Education Schemes - DirectorsTalk Interviews",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZm5Zb1YzM1hvUHdGTUp4aWlfakE0SmN5Zjg0aVB6N1BsQWJIeEZXNnpiRFNnVmJjMDgyMEJkYm1hZUQxUDE0SVVsYlFWbklXZWQzcTExNXB0WVAxUkJvV0IwUkMzM0RSaGhBNXFRcGZKckpWS2ctSUdtRUdSX0xLNk5QVk1SeXpxekRJeDRuYnJPTzZlckNWYzdTcndWU09WYzdmaWJsd3hOZm11TDA1Tnpn?oc=5",
+     "summary": "RM Technology Ranked First In HP And Lenovo Education Schemes &nbsp;&nbsp; DirectorsTalk Interviews",
+     "date": "23 Oct 2026 17:48",
+     "publisher": "DirectorsTalk Interviews"
+    }
+   ]
+  },
+  {
+   "name": "News search: Imarticus IPO",
+   "url": "https://news.google.com/rss/search?q=Imarticus%20IPO%20when%3A7d&hl=en-IN&gl=IN&ceid=IN:en",
+   "status": 200,
+   "error": null,
+   "items": [
+    {
+     "title": "Exclusive: Imarticus Eyes Confidential Filing In 2-3 Months For ₹1,000 Cr IPO - Inc42",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVEZVY3RNRmZvUU1QSkN4b19lcWx1V0F6UEJSQTF1U19EeTZVQ2dhNkxaczhSVDhad3k3UkwxX3Z0dXZpV1Z4YVE3MHdZS2ZId1hUTkdfZ3pzQ3N2TzZVR2JTdDRtLThOV2N6WUx1WWptcDJHejJhY0tzWExtOE5wSi00MEVuaU1zbzhiOFZIUWJkT3ZGcFotLWVLUlhnMjFKQm5pTmwyVy1Md0E?oc=5",
+     "summary": "Exclusive: Imarticus Eyes Confidential Filing In 2-3 Months For ₹1,000 Cr IPO &nbsp;&nbsp; Inc42",
+     "date": "26 Oct 2026 16:32",
+     "publisher": "Inc42"
+    },
+    {
+     "title": "Imarticus Learning Eyes ₹1,000 Crore IPO, Plans Confidential DRHP Filing with SEBI in 2–3 Months - Elets Technomedia",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPXzFQMUdlVElZVVI0RzdoSERTRWY4ZWdaUXFFMURZQVE3Wm15SWFfenkya0dhOV9TUjVOeE1jU0Zrc2VOS2ZhT1VBOTRfNGxSSHFiSjJKeExTbmZxV1JXTnBMa2s5YW43ODNkd3Z5NERKcDBWZEpPc3RxcGlSX3docXhRcjBXUFk3a203OGtnSTJMSHlqb0VuUDliVUd6UDI4c3dEUXZmRjRhaUNuRm5qdTZn?oc=5",
+     "summary": "Imarticus Learning Eyes ₹1,000 Crore IPO, Plans Confidential DRHP Filing with SEBI in 2–3 Months &nbsp;&nbsp; Elets Technomedia",
+     "date": "27 Oct 2026 18:38",
+     "publisher": "Elets Technomedia"
+    },
+    {
+     "title": "Grapevine: Sembcorp Green Infra, Imarticus, Urban Company, Peak XV in news - VCCircle",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU1ZVbDZLa3l3d3VkcE9mQWxEc1NxV1l4cmVTWmFqUGo3cHJLNXhDWjljbUlEVU1WcTlMbGQyZ3A5cnNhY3ZoWDRzclFmRVlCcDNXRnV2U1drUXhfSzJWZURLODZocjA0MGdySW9sOHpCZ0dhcVZmOXJBQ1JQcXU3cTRwejBQM2pIX1VRak12WmtnTDhQRWI2X21R0gGiAUFVX3lxTFAwMm5XTmk4QzRWYlFQUE1tWjhJRHYtX2NSVzA1bnFzTzVnR3pEXzAyRlZRa3VjbEdsS1RNTk1WMDJJVmx0cVphTURDZXRFXzBQNTNnVld3V0hNOFFyMWhNQ1FsTmpBaWlsQnVfd01lcXU3X0ZDTDZZR1JZRUR2TVd6cG5ybHEzejhSUXBNall3Q3dtYXQybXd0Slk2TG1PUDNuQQ?oc=5",
+     "summary": "Grapevine: Sembcorp Green Infra, Imarticus, Urban Company, Peak XV in news &nbsp;&nbsp; VCCircle",
+     "date": "27 Oct 2026 11:49",
+     "publisher": "VCCircle"
+    }
+   ]
+  },
+  {
+   "name": "News search: Sify Technologies results exam",
+   "url": "https://news.google.com/rss/search?q=Sify%20Technologies%20results%20exam%20when%3A7d&hl=en-IN&gl=IN&ceid=IN:en",
+   "status": 200,
+   "error": null,
+   "items": [
+    {
+     "title": "Sify Technologies to announce Financial Results for Second Quarter FY 2026-27 on Wednesday October 28, 2026 - The Manila Times",
+     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOejEtX3JLWDV0ay1rdUZWTERSNTVudFhESFRTOGFEVFlLZHBhNFpmSURYbmVHREdVbDY2eWZjQUs1VDgtdFJYT010d0N4ZFE3M0VqeHppUElWVHB0bWNIM3BfeFRHYk1JRWNmdVpVdHhHX1dzb3prbERIZENyd1p6UVBNYU1sdXd6dS1ySEpWbmdWZ0R4a0JBUmswRTZvcmQ4ZTJFLWJVTzM3cWFkQmVYSU9nQThJZzRBU1lXLVdvSWg0YWFSRE9JWXRJdjZXN1RUcTBSQlFSenFNRThhNDVFUDdQWVI5R05xb1dBN2pHOURqM1g1dnhYTWlOM1MwV3BScVpjVW8zNzc0aXZV0gGSAkFVX3lxTFA4UndmeVRRblFQZTVyRGlVd3FHVloyLVpoT0hlYlJBSmNTZEFyYjcyeldHWGc3X2hpUkFKWGhxUHdHWXYtU3F5M29xT1FidV8wSFJSRVJaNFpoUjhKVDRvMjA5NEVuNXRlYXlVVkVIMmJUSUphRDhTdjdqbTFyLVhpSzdQWTEwRVFoYmFrdlRtalZOQzZBXzFjSTFmQ3pHSFRUY0stZnI0aC03QzRFbThtMmk0WlpSX1o4VDB2VE9UM2lva0tVWk5QTElwZndJRXdGT0NRZkktczBIXzJfOXN2aVZFZ0c1Rm5lTjhBZWpmdUhLX09wZmZpR0FiTFpFNDI0TS1lTU9DX2N6SDJmMUt0Smc?oc=5",
+     "summary": "Sify Technologies to announce Financial Results for Second Quarter FY 2026-27 on Wednesday October 28, 2026 &nbsp;&nbsp; The Manila Times",
+     "date": "21 Oct 2026 18:27",
+     "publisher": "The Manila Times"
+    }
+   ]
+  },
+  {
+   "name": "News search: Hiring of technology consultants for CBT exams",
+   "url": "https://news.google.com/rss/search?q=Hiring%20of%20technology%20consultants%20for%20CBT%20exams%20when%3A7d&hl=en-IN&gl=IN&ceid=IN:en",
+   "status": 200,
+   "error": null,
+   "items": []
+  },
+  {
+   "name": "News search: SEAB e-Examinations",
+   "url": "https://news.google.com/rss/search?q=SEAB%20e-Examinations%20when%3A7d&hl=en-IN&gl=IN&ceid=IN:en",
+   "status": 200,
+   "error": null,
+   "items": [
+    {
+     "title": "MOE PSLE Results 2026 Singapore SEAB Primary School Posting Results Cutoff - Speedraftaar.com",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWnFkbElhQUlLQzNYNW9CVWk3MVgyQTZuUmpHeGFLcjhDa1JBTG9GWHhFZkFLMGtqQWZ6NFBvSlAzaU5PMnZTaDA5VGZUV1g1YVBZbDY3bFVXaElRMmxZQTFiUWFOdmg2bjdKT0Y1YXhpVi1SdnllckdFUXJqMVl2WnhmUnZndw?oc=5",
+     "summary": "MOE PSLE Results 2026 Singapore SEAB Primary School Posting Results Cutoff &nbsp;&nbsp; Speedraftaar.com",
+     "date": "26 Oct 2026 12:30",
+     "publisher": "Speedraftaar.com"
+    }
+   ]
+  },
+  {
+   "name": "News search: CBSE on-screen marking Coempt penalty",
+   "url": "https://news.google.com/rss/search?q=CBSE%20on-screen%20marking%20Coempt%20penalty%20when%3A7d&hl=en-IN&gl=IN&ceid=IN:en",
+   "status": 200,
+   "error": null,
+   "items": [
+    {
+     "title": "‘Vote Chor, Paper Chor Sarkaar must go’: Cong slams govt on CBSE OSM row - ThePrint",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOUFHZHp0NjFhTTh0dW9VWTR4OHp1dkVDTVItWi1RTkVvVFFYZXBacHR5OTl6N2RkcFJzU181eDg3cWZTaWtCV3lvQTc1SThidFZTcnduSnpJbW5VZkw1akRpRzRWR1QxTjRfdDIwZHFvdzNjZTVkV0hYYWdvcjYyWVpxQmQzTldOZlQwemRUaHJRNDg0OVFFN0NWTlh0ZWZWRTdXUGVB0gGrAUFVX3lxTE9LMUtuelpmclJBLUNLTUZGbno5SVhyU1JCbU9pVHFUaEVJck1kbmtvMWwxbHl4OUtpRnpxOC1Ic1ZRNXRaczNkbzBDdl9HcXRETzNfRkNLYi1CNFkzUjA0M1VoZHMyQldMRDBOOXd1MTEwR18wdEIzNUM0ZlN6MTRoNFZEVU0xRDROVTM1d29US1Y0ZVJRbHFtdS1sMzhlVG9pSF9ORXNsMVFWMA?oc=5",
+     "summary": "‘Vote Chor, Paper Chor Sarkaar must go’: Cong slams govt on CBSE OSM row &nbsp;&nbsp; ThePrint",
+     "date": "21 Oct 2026 16:17",
+     "publisher": "ThePrint"
+    },
+    {
+     "title": "Jairam Ramesh accuses Education Ministry of shielding CBSE vendor amid Rs 38-crore OSM row - The Statesman",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZDMzYU5WazV3U00xQktsd2RiTnlQX09lalFQcEFsU0llbUVvTERoNnEzU0Nyd2txeEhrd0pHX1lIU3RTRHdlNXdsQ2tLcVBNTFdUb1RSWFgxbE5YU3loSG9NdTRGbzBxRVMtTzdrZExiUzQ3ZGtRbkVnUXZnbmlWejFiSm5rb2tTZWpzRmlmUEdFVWduV3NOdEl3YzBUNUd3VDNkQk5lcF9RcFpjNWtuVjBRTmRhdk9WWTQxOUcxZ2VFeE1BRjdjSDl5azVVdFgyWENzbkZXVkLSAd4BQVVfeXFMUEY3clE1eXV6Z1MwdzAtTUpTMUtQTlRqS0FzbllQejR1WHBhSnpNQU8wY1JSN3VWTDhJRUQ3TEFYaTZtMXdEWWJLb29VUTJjWmpzQ3UzaTZ1VThRckVjYjYxVTZFSmFLQkZFcXpFQ3NsWElmXzhja1ZaR0pjblBGSDlyTXNrTC00LWdHNEl1QTVIdWEtZVd6SE55U3o5QWpMYnBuQS1CdFVJQUhnd3FXeDhDdjhuSy1uX2hWdkN5aTlkd25nRTBISUdTMFQ3YnN3Y3FLV1VhQWVtUjhfLVRn?oc=5",
+     "summary": "Jairam Ramesh accuses Education Ministry of shielding CBSE vendor amid Rs 38-crore OSM row &nbsp;&nbsp; The Statesman",
+     "date": "21 Oct 2026 17:34",
+     "publisher": "The Statesman"
+    },
+    {
+     "title": "'Vote Chor, Paper Chor Sarkaar Must Go': Cong Slams Govt On CBSE OSM Row - Outlook India",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcXNnVTJRNDhDRnh6YlNOZmZ0Z3MxZ1dWNDVTYWdNMjR3RkRUenFBWVlhRU4yT1ZueDJkQW1MY0xPNTRocnNWZUN2MHNzdC1mdm9JNjdVX19sTXVPOFFlUEprdF9sdDFRVTlLcVNsZUwtR3ZMTnlfODNaWGd0UmJyemZfaEpLeV9XX2g5cUdwRHJJOXRaOFRBQ2VoYUU2Xzk3bl8xMWpwNVFYQdIBtwFBVV95cUxON2lPWF9FSmRmMjJRUmpFNXlYcC10OGhzQm9SRzhVbnFxaE54emYteGotb2JEa281alhwejNBdjlvbWw5T01rWjBndEduN1JMTVhwOVFDdVZHMnU4V3Rrdm82MHpXdFBKTWRrQUd1UzdreDZ2YXNpSHA4Z2dXUXowOFh1MlRIaTVuX3hSUWpXSWtvRWZFTDRMak95UFI1X3o2ZDBuT184TVlSMlFidnNnRVR3T05IUXM?oc=5",
+     "summary": "'Vote Chor, Paper Chor Sarkaar Must Go': Cong Slams Govt On CBSE OSM Row &nbsp;&nbsp; Outlook India",
+     "date": "21 Oct 2026 17:58",
+     "publisher": "Outlook India"
+    }
+   ]
+  },
+  {
+   "name": "News search: Bihar daroga exam leak EOU",
+   "url": "https://news.google.com/rss/search?q=Bihar%20daroga%20exam%20leak%20EOU%20when%3A7d&hl=en-IN&gl=IN&ceid=IN:en",
+   "status": 200,
+   "error": null,
+   "items": []
   }
  ],
  "publishers": {
-  "PW": 5,
-  "Investing.com": 5,
-  "The Times of India": 4,
-  "Jagran Josh": 4,
-  "Shiksha.com": 4,
+  "PW": 6,
+  "Shiksha.com": 5,
   "Careers360": 4,
   "Investing.com India": 4,
   "ETV Bharat": 3,
+  "The Times of India": 3,
+  "Outlook India": 2,
+  "The Statesman": 2,
+  "Jagran Josh": 2,
+  "medadmit.in": 2,
   "India Today": 2,
   "Career Power": 2,
   "theoptimist.news": 2,
   "The National": 2,
-  "TradingView": 2,
-  "Outlook India": 1,
-  "The Statesman": 1,
+  "Yahoo Finance": 2,
+  "Investing.com": 2,
+  "Inventiva": 1,
   "Passionate In Marketing": 1,
   "DQ": 1,
-  "medadmit.in": 1,
   "The Indian Express": 1,
   "Sakshi Education": 1,
   "Bhaskar English": 1,
-  "AglaSem News": 1,
   "Adda247": 1,
   "Al-Fanar Media": 1,
+  "GK Today": 1,
   "Gulf Business": 1,
   "Time Out Riyadh": 1,
   "디지털투데이": 1,
@@ -4410,23 +4817,34 @@
   "eSchool News": 1,
   "BBC": 1,
   "gov.wales": 1,
+  "Independent Newspaper Nigeria": 1,
   "Nairametrics": 1,
   "Board Exams PH": 1,
   "American Nuclear Society": 1,
   "UNEP FI": 1,
+  "Gujarat Samachar": 1,
+  "Public Services International (PSI)": 1,
+  "https://tech-insider.org/": 1,
+  "Elon University": 1,
   "Business Standard": 1,
   "News-Medical": 1,
   "Brighter Kashmir": 1,
   "The420.in": 1,
-  "UA.NEWS": 1,
   "Fox Sports": 1,
-  "Aviation International News": 1,
   "Varnam Malaysia": 1,
   "GuruFocus": 1,
   "WyomingNews.com": 1,
-  "وكالة الأنباء السعودية": 1,
   "TAPinto": 1,
   "AOL.co.uk": 1,
-  "Travel + Leisure": 1
+  "https://streamlinefeed.co.ke/": 1,
+  "openPR.com": 1,
+  "Tennis Tonic": 1,
+  "DirectorsTalk Interviews": 1,
+  "Inc42": 1,
+  "Elets Technomedia": 1,
+  "VCCircle": 1,
+  "The Manila Times": 1,
+  "Speedraftaar.com": 1,
+  "ThePrint": 1
  }
 }
