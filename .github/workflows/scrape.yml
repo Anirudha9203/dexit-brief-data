@@ -5,7 +5,7 @@ on:
     - cron: "45 0 * * *"   # 06:15 IST backup run
   workflow_dispatch:
   push:
-    paths: ["scrape.py", "sources.txt", "feeds.txt", "keywords.txt", ".github/workflows/scrape.yml"]
+    paths: ["scrape.py", "digest.py", "sources.txt", "feeds.txt", "keywords.txt", ".github/workflows/scrape.yml"]
 permissions:
   contents: write
 jobs:
@@ -17,6 +17,7 @@ jobs:
         with: { python-version: "3.12" }
       - run: pip install -r requirements.txt
       - run: python scrape.py
+      - run: python digest.py
       - name: Commit results
         run: |
           git config user.name "scrape-bot"
