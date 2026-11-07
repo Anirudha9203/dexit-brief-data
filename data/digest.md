@@ -1,4 +1,4 @@
-# Scrape 07 Nov 2026 08:29 IST
+# Scrape 07 Nov 2026 12:07 IST
  (compact digest; full file: data/latest.md)
 
 ## Fetch status
@@ -18,7 +18,7 @@
 - Inshorts Education: 200 (0 items)
 - Careers360 Exam News: 200 (10 items)
 - Free Press Journal Education: 200 (20 items)
-- Medical Dialogues Admissions: 200 (21 items)
+- Medical Dialogues Admissions: 200 (20 items)
 - TenderDetail CBT Delhi: 200 (17 items)
 - TenderDetail End-to-end Exam: 200 (31 items)
 - TenderDetail On-screen Marking: 200 (33 items)
@@ -28,23 +28,23 @@
 - Inc42 buzz: 200 (18 items)
 - e-Assessment Association news: 200 (32 items)
 - The South First Keralam: 200 (46 items)
-- The Hans India Mumbai: 200 (17 items)
+- The Hans India Mumbai: 200 (12 items)
 - ThePrint India: 200 (0 items)
-- Patrika Patna news: 200 (20 items)
+- Patrika Patna news: 200 (21 items)
 - World Assessment Council M&A: 200 (25 items)
-- Elets digitalLEARNING: 200 (47 items)
+- Elets digitalLEARNING: 200 (46 items)
 - Kerala Kaumudi Kerala general: 200 (16 items)
 - RSS: Indian Express Education: 403 (0 items)
-- RSS: HT Education RSS: 200 (27 items)
+- RSS: HT Education RSS: 200 (19 items)
 - RSS: TOI Education: 200 (20 items)
 - RSS: The Hindu Education: 200 (60 items)
 - News search: CBT exam agency contract India: 200 (0 items)
 - News search: computer based test vendor tender India: 200 (0 items)
 - News search: on-screen marking tender: 200 (0 items)
-- News search: digital evaluation answer sheets university India: 200 (4 items)
+- News search: digital evaluation answer sheets university India: 200 (3 items)
 - News search: remote proctoring exam India: 200 (5 items)
 - News search: exam agency blacklisted paper leak: 200 (2 items)
-- News search: NTA CBT NEET 2027: 200 (12 items)
+- News search: NTA CBT NEET 2027: 200 (13 items)
 - News search: SSC exam agency CBT: 200 (7 items)
 - News search: recruitment exam CBT centre glitch: 200 (0 items)
 - News search: TCS iON exam: 200 (0 items)
@@ -58,7 +58,7 @@
 - News search: BSSC CBT agency: 200 (0 items)
 - News search: state public service commission CBT agency selected: 200 (1 items)
 - News search: online exam proctoring Middle East ministry of education: 200 (0 items)
-- News search: Saudi Arabia digital exam platform: 200 (8 items)
+- News search: Saudi Arabia digital exam platform: 200 (10 items)
 - News search: UAE online assessment national exam: 200 (2 items)
 - News search: Singapore digital assessment exam: 200 (1 items)
 - News search: UK on-screen assessment exam board: 200 (2 items)
@@ -82,18 +82,18 @@
 - News search: RM plc digital assessment Eduviva TTS: 200 (0 items)
 - News search: Nilekani task force extension: 200 (9 items)
 - News search: National CBT centre network NEET: 200 (1 items)
-- News search: Kerala PSC onscreen marking SIT: 200 (8 items)
+- News search: Kerala PSC onscreen marking SIT: 200 (7 items)
 - News search: NBEMS answer key disclosure Supreme Court: 200 (11 items)
 - News search: Jharkhand pre-examination IT services tender: 200 (2 items)
 - News search: QverLabs Qdemy exam evaluation: 200 (0 items)
 
 
 ## Publishers seen in keyword search (candidates for new sources)
-- Jagran Josh: 16
+- Jagran Josh: 17
 - medadmit.in: 9
 - The Hindu: 7
 - Careers360: 7
-- TradingView: 6
+- TradingView: 5
 - EdexLive: 4
 - The New Indian Express: 4
 - Hindustan Times: 4
@@ -102,6 +102,7 @@
 - The 420.in: 3
 - Adda247: 3
 - Inventiva: 3
+- India Today: 3
 - Urban Acres: 3
 - The Times of India: 3
 - Free Press Journal: 3
@@ -112,13 +113,11 @@
 - Public Services International: 2
 - DirectorsTalk Interviews: 2
 - Singapore Examinations and Assessment Board: 2
-- India Today: 2
 - Vartha Bharati: 2
 - Onmanorama: 2
-- Mathrubhumi English: 2
 - Multibagg AI: 2
 - Moneycontrol.com: 2
-- DD News: 1
+- ETV Bharat: 2
 - Telugu360: 1
 - PW: 1
 - Article 14: 1
@@ -127,6 +126,7 @@
 - アラブニュース: 1
 - Vajiram & Ravi: 1
 - Defensehere: 1
+- The Manila Times: 1
 - https://www.irishsun.com/: 1
 - Daily Times: 1
 - The National: 1
@@ -138,11 +138,11 @@
 - The News Mill: 1
 - Yahoo Finance: 1
 - Mangalore Today: 1
-- Unite.AI: 1
 - Crunchyroll: 1
+- Unite.AI: 1
+- Investing.com: 1
 - Down To Earth: 1
 - Quantum Zeitgeist: 1
-- Market.us Media: 1
 - China Daily Global Edition: 1
 - EIN Presswire: 1
 - Facebook: 1
@@ -380,6 +380,7 @@
 - [BPSC Success Story: Meet a working mother who cracked exam to become SDM](https://www.hindustantimes.com/education/exam-results/bpsc-success-story-working-mother-cracks-exam-while-balancing-9-to-5-job-family-and-motherhood-becomes-sdm-101787035689173.html)
 
 ## Careers360 Exam News
+- [Kerala PSC Exam Row: Evaluation errors change candidates' ranks; chairman summoned again Investigators found that 10 Economics questions carrying 58 marks remain unevaluated due to errors in the on-screen marking system.](https://news.careers360.com/kerala-psc-recruitment-scam-irregularities-in-e
 - [NEET PG Seat Matrix 2026: Maharashtra adds 1,066 seats, ranks second nationally with 16.3% growth Maharashtra NEET PG Counselling 2026: The seat matrix includes 720 additional MD and MS seats across 23 government colleges. The total intake is 7,615.](https://news.careers360.com/neet-pg-seat-matri
 - [NEET PG Seat Matrix 2026: NMC increases count to 68,305; private institutes record 13% growth NEET PG Seat Matrix 2026: Medical colleges granted new courses or increased intake must submit electronic bank guarantees within seven days.](https://news.careers360.com/neet-pg-counselling-2026-nmc-revi
 - [CAT Admit Card 2026 LIVE: IIM MBA admit card out at iimcat.ac.in; mock test, paper pattern CAT 2026 mock test will also be made available from today, while IIMs introduce face matching and mobile jammers at select exam centres. Check updates on hall ticket link, exam dates, timings, MBA colleges,
@@ -532,6 +533,7 @@ https://www.seab.gov.sg/seab-link-issue-2-2026/sharing-knowledge-shaping-assessm
 - [Anand P joins upGrad as CEO of learning centres and AI partnerships](https://digitallearning.eletsonline.com/2026/07/anand-p-joins-upgrad-as-ceo-of-learning-centres-and-ai-partnerships/)
 
 ## Kerala Kaumudi Kerala general
+- [Yellow alert in five districts including Thiruvananthapuram; heavy rainfall expected in state THIRUVANANTHAPURAM: Heavy rain is expected in Kerala in the coming hours. November 07, 2026](https://www.keralakaumudi.com/en/kerala/general/rainfall-intensifying-in-kerala-1823637)
 - [Another PSC rank list row: SIT probes bypass of top ranker for unlisted candidate THIRUVANANTHAPURAM: The SIT is investigating the Kerala PSC's move to appoint a differently-abled candidate who is not included in the rank list, bypassing the candidate who secured the first rank. November 07, 2026
 - ['Don't tell anyone else'; Trouble mounts for religious scholar as audio message surfaces](https://www.keralakaumudi.com/en/kerala/general/religious-scholar-jauhari-audio-message-leaked-1822125)
 - ['I disagree with Governor's action'; recommendation on PSC made without following procedures, says CM](https://www.keralakaumudi.com/en/kerala/general/cm-vd-satheesan-questions-former-governors-recommendation-to-remove-psc-chairman-and-members-1822467)
@@ -546,9 +548,6 @@ https://www.seab.gov.sg/seab-link-issue-2-2026/sharing-knowledge-shaping-assessm
 - [Punjab government announces free online UPSC, PCS coaching for 1,000 college students; 750 seats reserved for government college students](https://timesofindia.indiatimes.com/education/news/punjab-government-announces-free-online-upsc-pcs-coaching-for-1000-college-students-750-seats-reserved-for-
 - [RPSC SSO answer key 2026 released for Assistant Director, Senior Scientific Officer exams; objection window opens November 8: Check direct link to download here](https://timesofindia.indiatimes.com/education/news/rpsc-sso-answer-key-2026-released-for-assistant-director-senior-scientific-officer-e
 - [NEET PG counselling 2026: MCC postpones Round 2 registration to November 7; check details](https://timesofindia.indiatimes.com/education/news/neet-pg-counselling-2026-mcc-postpones-round-2-registration-to-november-7-check-details/articleshow/135603572.cms) (2026-11-06T16:35:48+05:30) - The Medica
-- [BPSC 71st Mains result 2026 announced; 3,392 candidates qualify: Check steps to download scorecards](https://timesofindia.indiatimes.com/education/news/bpsc-71st-mains-result-2026-announced-3392-candidates-qualify-check-steps-to-download-scorecards/articleshow/135598303.cms) (2026-11-06T14:54:01+
-- [CAT 2026 mock test link activated; IIM Indore releases practice test for candidates: Check direct link here](https://timesofindia.indiatimes.com/education/news/cat-2026-mock-test-link-activated-iim-indore-releases-practice-test-for-candidates-check-direct-link-here/articleshow/135599682.cms) (202
-- [JEE Main 2027 eligibility and registration explained: Class 12 passing year, 75% criteria, MeriPehchaan, DigiLocker and ABC ID](https://timesofindia.indiatimes.com/education/news/jee-main-2027-eligibility-and-registration-explained-class-12-passing-year-75-criteria-meripehchaan-digilocker-and-abc
 
 ## RSS: The Hindu Education
 - [UPSC Mains Result 2026 declared: Here’s how to check](https://www.thehindu.com/news/national/upsc-cse-mains-result-2026-how-to-check/article71673065.ece) (06 Nov 2026 14:41) - The Civil Services exam is conducted annually in three stages - preliminary, main, and interview - to select candidates f
@@ -581,8 +580,8 @@ https://www.seab.gov.sg/seab-link-issue-2-2026/sharing-knowledge-shaping-assessm
 - [CUET UG: About Common University Entrance Test, Eligibility, Exam Pattern, Dates & More - Shiksha.com] (04 Nov 2026 13:30, Shiksha.com) - CUET UG: About Common University Entrance Test, Eligibility, Exam Pattern, Dates & More &nbsp;&nbsp; Shiksha.com
 - [NTA's Security Overhaul: 5,000 Experts & Question Banks for NEET UG 2027 - medadmit.in] (04 Nov 2026 11:15, medadmit.in) - NTA's Security Overhaul: 5,000 Experts & Question Banks for NEET UG 2027 &nbsp;&nbsp; medadmit.in
 - [NEET UG 2027 exam format: Will it stay pen-and-paper or shift to online? - medadmit.in] (05 Nov 2026 00:13, medadmit.in) - NEET UG 2027 exam format: Will it stay pen-and-paper or shift to online? &nbsp;&nbsp; medadmit.in
-- [NEET UG to Stay Pen-and-Paper Until 2028: What This Means for Your Admission - medadmit.in] (03 Nov 2026 15:39, medadmit.in) - NEET UG to Stay Pen-and-Paper Until 2028: What This Means for Your Admission &nbsp;&nbsp; medadmit.in
 - [NEET 2026 Latest News Updates by NTA: Re Exam Dates Out - Careers360] (04 Nov 2026 18:18, Careers360) - NEET 2026 Latest News Updates by NTA: Re Exam Dates Out &nbsp;&nbsp; Careers360
+- [NEET UG to Stay Pen-and-Paper Until 2028: What This Means for Your Admission - medadmit.in] (03 Nov 2026 15:39, medadmit.in) - NEET UG to Stay Pen-and-Paper Until 2028: What This Means for Your Admission &nbsp;&nbsp; medadmit.in
 - [NEET UG 2027 to be Computer-Based: What Aspirants Need to Know - medadmit.in] (04 Nov 2026 16:11, medadmit.in) - NEET UG 2027 to be Computer-Based: What Aspirants Need to Know &nbsp;&nbsp; medadmit.in
 - [NEET UG to Stay Pen-and-Paper Until 2028: What This Means for Your Admission - medadmit.in] (03 Nov 2026 15:39, medadmit.in) - NEET UG to Stay Pen-and-Paper Until 2028: What This Means for Your Admission &nbsp;&nbsp; medadmit.in
 
@@ -635,13 +634,13 @@ https://www.seab.gov.sg/seab-link-issue-2-2026/sharing-knowledge-shaping-assessm
 - [Crime Branch Finds 45 Questions In Kerala PSC Exam Copied From Online Handbook - NDTV Profit] (31 Oct 2026 17:38, NDTV Profit) - Crime Branch Finds 45 Questions In Kerala PSC Exam Copied From Online Handbook &nbsp;&nbsp; NDTV Profit
 - [Kerala PSC exam irregularities: Chairman, members booked over Fisheries Officer recruitment - The South First] (31 Oct 2026 14:15, The South First) - Kerala PSC exam irregularities: Chairman, members booked over Fisheries Officer recruitment &nbsp;&nbsp; The South First
 - [PSC scam in Keralam: Public outrage grows as citizens lose faith in institutional governance - The New Indian Express] (05 Nov 2026 20:55, The New Indian Express) - PSC scam in Keralam: Public outrage grows as citizens lose faith in institutional governance &nbsp;&nbsp; The New Indian Express
+- [Irregularities in exams: CB issues fresh summons to Kerala PSC chairman - ThePrint] (07 Nov 2026 09:15, ThePrint) - Irregularities in exams: CB issues fresh summons to Kerala PSC chairman &nbsp;&nbsp; ThePrint
 - [Keralam PSC exam fraud: Crime Branch indicts chairperson, members on charges of corruption, political favouritism - The Hindu] (31 Oct 2026 12:05, The Hindu) - Keralam PSC exam fraud: Crime Branch indicts chairperson, members on charges of corruption, political favouritism &nbsp;&nbsp; The Hindu
 - [Kerala PSC Chairman, Members Under Crime Branch Scanner in Recruitment Exam Fraud - The 420.in] (05 Nov 2026 21:30, The 420.in) - Kerala PSC Chairman, Members Under Crime Branch Scanner in Recruitment Exam Fraud &nbsp;&nbsp; The 420.in
 - [Kerala PSC FIR Flags Fisheries Exam Irregularities - Urban Acres] (01 Nov 2026 03:15, Urban Acres) - Kerala PSC FIR Flags Fisheries Exam Irregularities &nbsp;&nbsp; Urban Acres
-- [Kerala PSC exam scam: Suspended official Hari arrested amid investigation - EdexLive] (31 Oct 2026 18:15, EdexLive) - Kerala PSC exam scam: Suspended official Hari arrested amid investigation &nbsp;&nbsp; EdexLive
+- [Irregularities in exams: CB issues fresh summons to Kerala PSC chairman - EdexLive] (07 Nov 2026 11:39, EdexLive) - Irregularities in exams: CB issues fresh summons to Kerala PSC chairman &nbsp;&nbsp; EdexLive
 - [Kerala PSC secretary questioned for the second time in exam irregularities case - The Hindu] (02 Nov 2026 21:07, The Hindu) - Kerala PSC secretary questioned for the second time in exam irregularities case &nbsp;&nbsp; The Hindu
 - [Kerala PSC faces fresh scrutiny over DySP recruitment amid ongoing probe - EdexLive] (02 Nov 2026 19:45, EdexLive) - Kerala PSC faces fresh scrutiny over DySP recruitment amid ongoing probe &nbsp;&nbsp; EdexLive
-- [Keralam exam fraud: PSC chairman, members under Crime Branch scanner - The Hindu] (05 Nov 2026 19:33, The Hindu) - Keralam exam fraud: PSC chairman, members under Crime Branch scanner &nbsp;&nbsp; The Hindu
 
 ## News search: WAEC computer-based testing
 - [AI Has Entered the Exam Hall: West African Schools Need Assessment Reform Before Cheating Outruns Policy - Modern Ghana] (05 Nov 2026 15:52, Modern Ghana) - AI Has Entered the Exam Hall: West African Schools Need Assessment Reform Before Cheating Outruns Policy &nbsp;&nbsp; Modern Ghana
@@ -674,10 +673,10 @@ https://www.seab.gov.sg/seab-link-issue-2-2026/sharing-knowledge-shaping-assessm
 
 ## News search: Kerala PSC onscreen marking SIT
 - [Keralam PSC’s sins of commission & omission - The New Indian Express] (05 Nov 2026 07:37, The New Indian Express) - Keralam PSC’s sins of commission & omission &nbsp;&nbsp; The New Indian Express
-- [Crime Branch finds 45 questions in Kerala PSC exam to have been copied from online handbook - Metro Vaartha] (31 Oct 2026 19:02, Metro Vaartha) - Crime Branch finds 45 questions in Kerala PSC exam to have been copied from online handbook &nbsp;&nbsp; Metro Vaartha
+- [Irregularities In Exams: CB Issues Fresh Summons To Kerala PSC Chairman - ETV Bharat] (07 Nov 2026 09:53, ETV Bharat) - Irregularities In Exams: CB Issues Fresh Summons To Kerala PSC Chairman &nbsp;&nbsp; ETV Bharat
 - [Crime Branch SIT punches holes in Kerala PSC's technical fault theory in Planning Board exam - Onmanorama] (02 Nov 2026 10:42, Onmanorama) - Crime Branch SIT punches holes in Kerala PSC's technical fault theory in Planning Board exam &nbsp;&nbsp; Onmanorama
 - [Kerala PSC exam evaluation manipulated deliberately, dummy test rules out software glitch - Kerala Kaumudi] (01 Nov 2026 00:02, Kerala Kaumudi) - Kerala PSC exam evaluation manipulated deliberately, dummy test rules out software glitch &nbsp;&nbsp; Kerala Kaumudi
-- [Kerala PSC exam scam: Suspended Additional Secretary Hari arrested - Social News XYZ] (31 Oct 2026 08:15, Social News XYZ) - Kerala PSC exam scam: Suspended Additional Secretary Hari arrested &nbsp;&nbsp; Social News XYZ
+- [Crime Branch finds 45 questions in Kerala PSC Assistant Motor Vehicle Inspector exam copied verbatim from web handbooks - Mathrubhumi English] (31 Oct 2026 14:44, Mathrubhumi English) - Crime Branch finds 45 questions in Kerala PSC Assistant Motor Vehicle Inspector exam copied verbatim from web h
 
 ## News search: NBEMS answer key disclosure Supreme Court
 - [Supreme Court questions NBEMS policy on limited NEET-PG answer key disclosure - India Today] (02 Nov 2026 15:58, India Today) - Supreme Court questions NBEMS policy on limited NEET-PG answer key disclosure &nbsp;&nbsp; India Today
