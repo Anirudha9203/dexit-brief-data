@@ -1,4 +1,4 @@
-# Scrape 10 Nov 2026 09:48 IST
+# Scrape 10 Nov 2026 10:12 IST
  (compact digest; full file: data/latest.md)
 
 ## Fetch status
@@ -28,7 +28,7 @@
 - Inc42 buzz: 200 (17 items)
 - e-Assessment Association news: 200 (32 items)
 - The South First Keralam: 200 (46 items)
-- The Hans India Mumbai: 200 (17 items)
+- The Hans India Mumbai: 200 (16 items)
 - ThePrint India: 200 (0 items)
 - Patrika Patna news: 200 (20 items)
 - World Assessment Council M&A: 200 (25 items)
@@ -83,7 +83,7 @@
 - News search: ED attaches paper leak recruitment: 200 (2 items)
 - News search: Unstop PerspectAI acquisition: 200 (0 items)
 - News search: RM plc digital assessment Eduviva TTS: 200 (0 items)
-- News search: Nilekani task force extension: 200 (8 items)
+- News search: Nilekani task force extension: 200 (9 items)
 - News search: National CBT centre network NEET: 200 (7 items)
 - News search: Kerala PSC onscreen marking SIT: 200 (6 items)
 - News search: NBEMS answer key disclosure Supreme Court: 200 (7 items)
@@ -97,21 +97,21 @@
 
 ## Publishers seen in keyword search (candidates for new sources)
 - Jagran Josh: 15
+- medadmit.in: 12
 - Careers360: 11
-- medadmit.in: 11
 - The Times of India: 8
 - TradingView: 5
+- India Today: 5
 - The Hindu: 4
 - PW: 4
-- Education Times: 4
-- India Today: 4
 - Investing.com India: 4
 - Multibagg AI: 3
+- Education Times: 3
 - KollegeApply News: 2
 - Graduate Management Admission Council: 2
 - Shiksha.com: 2
 - YouTube: 2
-- The Indian Express: 2
+- Adda247: 2
 - Career Power: 2
 - Gulf News: 2
 - The News Mill: 2
@@ -131,7 +131,6 @@
 - https://www.indiagazette.com/: 1
 - ABP Live English: 1
 - The Tribune: 1
-- Adda247: 1
 - Sanskriti IAS: 1
 - Gulf Business: 1
 - Saudi Gazette: 1
@@ -156,6 +155,7 @@
 - Bioengineer.org: 1
 - GuruFocus: 1
 - EnviroNews Nigeria: 1
+- LiveScore: 1
 
 
 ## Carried over from scrapes of the previous 3 days (no longer on the pages today; covers weekends)
@@ -273,6 +273,7 @@
 - [Maharashtra grants one-year age relaxation for MPSC, other state recruitment exams Maharashtra has announced a one-time, one-year upper age limit relaxation for MPSC and other state recruitment exams. The concession will remain valid until December 31, 2027.](https://education.economictimes.india
 
 ## HT Education
+- [IBPS RRB Prelims PO Admit Card 2026 released at ibps.in, direct link to download here](https://www.hindustantimes.com/education/competitive-exams/ibps-rrb-prelims-po-admit-card-2026-released-at-ibps-in-direct-link-to-download-here-101794285112671.html)
 - [NTA opens application for empanelment of observers for conduct of CBT, PPT mode exams](https://www.hindustantimes.com/education/employment-news/nta-opens-application-for-empanelment-of-observers-for-conduct-of-cbt-ppt-mode-exams-101794207416193.html)
 - [Maharashtra Board Exam 2027 Datesheet: MSBSHSE SSC, HSC exam timetable released, check here](https://www.hindustantimes.com/education/board-exams/maharashtra-board-exam-2027-datesheet-msbshse-ssc-hsc-exam-timetable-released-at-mahahsscboard-in-check-here-101794205360421.html)
 - [CSIR UGC NET Exam 2026: Extended registration window closes today, direct link here](https://www.hindustantimes.com/education/competitive-exams/csir-ugc-net-exam-2026-extended-registration-window-closes-today-at-csirnet-nta-nic-in-direct-link-here-101794201277673.html)
@@ -522,6 +523,7 @@ https://www.seab.gov.sg/seab-link-issue-2-2026/sharing-knowledge-shaping-assessm
 - [Ralf Herbrich joins Tübingen AI Center as Honorary Professor for AI and Energy](https://www.edtechinnovationhub.com/news/ralf-herbrich-joins-tbingen-ai-center-as-honorary-professor-for-ai-and-energy)
 
 ## RSS: TOI Education
+- [CSIR UGC NET December 2026 correction window opens at csirnet.nta.nic.in, check editable fields and deadline](https://timesofindia.indiatimes.com/education/news/csir-ugc-net-december-2026-correction-window-opens-at-csirnet-nta-nic-in-check-editable-fields-and-deadline/articleshow/135698639.cms) (
 - [IBPS RRB PO Admit Card 2026 released at ibps.in, download prelims hall ticket](https://timesofindia.indiatimes.com/education/news/ibps-rrb-po-admit-card-2026-released-at-ibps-in-download-prelims-hall-ticket/articleshow/135696847.cms) (2026-11-10T07:51:10+05:30) - IBPS RRB PO Admit Card 2026: IBPS
 - [IBPS PO Mains result 2026 expected soon at ibps.in for 7,565 vacancies: Check complete details here](https://timesofindia.indiatimes.com/education/news/ibps-po-mains-result-2026-expected-soon-at-ibps-in-for-7565-vacancies-direct-link-to-download-scorecards-here/articleshow/135683012.cms) (2026-11
 - [IBPS RRB PO admit card 2026 expected to be released today at ibps.in; Officer Scale-I Prelims on November 21, 22: Check direct link to download hall tickets here](https://timesofindia.indiatimes.com/education/news/ibps-rrb-po-admit-card-2026-expected-to-be-released-today-at-ibps-in-officer-scale-
@@ -562,11 +564,12 @@ https://www.seab.gov.sg/seab-link-issue-2-2026/sharing-knowledge-shaping-assessm
 
 ## News search: SSC exam agency CBT
 - [Indian Coast Guard City Intimation 2026 Out, Check Your Exam City and Admit Card Date - Adda247] (06 Nov 2026 12:57, Adda247) - Indian Coast Guard City Intimation 2026 Out, Check Your Exam City and Admit Card Date &nbsp;&nbsp; Adda247
-- [NTA Observer recruitment 2026: Applications invited from serving and retired government officials; check - The Times of India] (08 Nov 2026 08:03, The Times of India) - NTA Observer recruitment 2026: Applications invited from serving and retired government officials; check &nbsp;&nbsp; The Times 
-- [UGC NET December 2026: Around 9.75 lakh apply; form correction window open - The Indian Express] (03 Nov 2026 10:12, The Indian Express) - UGC NET December 2026: Around 9.75 lakh apply; form correction window open &nbsp;&nbsp; The Indian Express
-- [CUET UG: About Common University Entrance Test, Eligibility, Exam Pattern, Dates & More - Shiksha.com] (04 Nov 2026 13:30, Shiksha.com) - CUET UG: About Common University Entrance Test, Eligibility, Exam Pattern, Dates & More &nbsp;&nbsp; Shiksha.com
 - [CSIR UGC NET December 2026: Application window closes today, check key details - Education Times] (09 Nov 2026 16:40, Education Times) - CSIR UGC NET December 2026: Application window closes today, check key details &nbsp;&nbsp; Education Times
+- [NTA Observer recruitment 2026: Applications invited from serving and retired government officials; check - The Times of India] (08 Nov 2026 08:03, The Times of India) - NTA Observer recruitment 2026: Applications invited from serving and retired government officials; check &nbsp;&nbsp; The Times 
+- [CUET UG: About Common University Entrance Test, Eligibility, Exam Pattern, Dates & More - Shiksha.com] (04 Nov 2026 13:30, Shiksha.com) - CUET UG: About Common University Entrance Test, Eligibility, Exam Pattern, Dates & More &nbsp;&nbsp; Shiksha.com
 - [NEET UG 2027 Exam Mode: Pen-Paper Format Likely to Continue - medadmit.in] (04 Nov 2026 00:03, medadmit.in) - NEET UG 2027 Exam Mode: Pen-Paper Format Likely to Continue &nbsp;&nbsp; medadmit.in
+- [NEET UG 2027 Exam Mode: Pen-Paper Format Likely to Continue - medadmit.in] (03 Nov 2026 15:39, medadmit.in) - NEET UG 2027 Exam Mode: Pen-Paper Format Likely to Continue &nbsp;&nbsp; medadmit.in
+- [UGC NET 2026 Exam Date Out, Check Revised Exam Schedule - Adda247] (05 Nov 2026 13:30, Adda247) - UGC NET 2026 Exam Date Out, Check Revised Exam Schedule &nbsp;&nbsp; Adda247
 - [NTA Invites Schools and Colleges for Exam Centre Empanelment - KollegeApply News] (08 Nov 2026 13:38, KollegeApply News) - NTA Invites Schools and Colleges for Exam Centre Empanelment &nbsp;&nbsp; KollegeApply News
 
 ## News search: Eduquity exam
@@ -634,11 +637,10 @@ https://www.seab.gov.sg/seab-link-issue-2-2026/sharing-knowledge-shaping-assessm
 - [Arrested KPSC Chairman Was Building ₹35-Crore Project In Hometown, Says ED - Inventiva] (04 Nov 2026 13:41, Inventiva) - Arrested KPSC Chairman Was Building ₹35-Crore Project In Hometown, Says ED &nbsp;&nbsp; Inventiva
 
 ## News search: Nilekani task force extension
-- [Nandan Nilekani exam reforms panel gets extension till January 2027; receives 50,000 suggestions - The Indian Express] (03 Nov 2026 09:57, The Indian Express) - Nandan Nilekani exam reforms panel gets extension till January 2027; receives 50,000 suggestions &nbsp;&nbsp; The Indian Express
 - [Nandan Nilekani meets Naidu, discusses reforms in examination system - The Times of India] (04 Nov 2026 23:14, The Times of India) - Nandan Nilekani meets Naidu, discusses reforms in examination system &nbsp;&nbsp; The Times of India
+- [CM Vijay reiterates Tamil Nadu's opposition to NEET at meeting with Nilekani - India Today] (05 Nov 2026 17:42, India Today) - CM Vijay reiterates Tamil Nadu's opposition to NEET at meeting with Nilekani &nbsp;&nbsp; India Today
 - [NTA empanels over 5,000 experts to strengthen exam security after NEET UG 2026 paper leak row - Moneycontrol.com] (04 Nov 2026 10:48, Moneycontrol.com) - NTA empanels over 5,000 experts to strengthen exam security after NEET UG 2026 paper leak row &nbsp;&nbsp; Moneycontrol.com
 - [NEET Exam Reform Panel Extended to January 2027: What It Means for You - medadmit.in] (04 Nov 2026 11:14, medadmit.in) - NEET Exam Reform Panel Extended to January 2027: What It Means for You &nbsp;&nbsp; medadmit.in
-- [NEET UG 2027 Exam Mode: Pen-Paper Format Likely to Continue - medadmit.in] (03 Nov 2026 15:39, medadmit.in) - NEET UG 2027 Exam Mode: Pen-Paper Format Likely to Continue &nbsp;&nbsp; medadmit.in
 - [NEET UG CBT Mode Only by 2028, Complete Report of Task Force Expected by Jan Next Year - Jagran Josh] (03 Nov 2026 11:09, Jagran Josh) - NEET UG CBT Mode Only by 2028, Complete Report of Task Force Expected by Jan Next Year &nbsp;&nbsp; Jagran Josh
 
 ## News search: National CBT centre network NEET
