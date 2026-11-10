@@ -1,4 +1,4 @@
-# Scrape 10 Nov 2026 09:39 IST
+# Scrape 10 Nov 2026 09:48 IST
  (compact digest; full file: data/latest.md)
 
 ## Fetch status
@@ -34,6 +34,9 @@
 - World Assessment Council M&A: 200 (25 items)
 - Elets digitalLEARNING: 200 (40 items)
 - Kerala Kaumudi Kerala general: 200 (16 items)
+- Inspera press releases: 403 (0 items)
+- Edtech Innovation Hub news: 200 (31 items)
+- IT Brief UK: 406 (0 items)
 - RSS: Indian Express Education: 403 (0 items)
 - RSS: HT Education RSS: 200 (13 items)
 - RSS: TOI Education: 200 (20 items)
@@ -72,7 +75,7 @@
 - News search: SEAB e-Examinations: 200 (2 items)
 - News search: CBSE on-screen marking Coempt penalty: 200 (0 items)
 - News search: Bihar daroga exam leak EOU: 200 (0 items)
-- News search: Kerala PSC exam irregularities Crime Branch: 200 (12 items)
+- News search: Kerala PSC exam irregularities Crime Branch: 200 (13 items)
 - News search: WAEC computer-based testing: 200 (4 items)
 - News search: Excelsoft Saras proctoring: 200 (2 items)
 - News search: Learning Spiral AI proctoring: 200 (0 items)
@@ -80,24 +83,28 @@
 - News search: ED attaches paper leak recruitment: 200 (2 items)
 - News search: Unstop PerspectAI acquisition: 200 (0 items)
 - News search: RM plc digital assessment Eduviva TTS: 200 (0 items)
-- News search: Nilekani task force extension: 200 (9 items)
+- News search: Nilekani task force extension: 200 (8 items)
 - News search: National CBT centre network NEET: 200 (7 items)
-- News search: Kerala PSC onscreen marking SIT: 200 (5 items)
-- News search: NBEMS answer key disclosure Supreme Court: 200 (8 items)
+- News search: Kerala PSC onscreen marking SIT: 200 (6 items)
+- News search: NBEMS answer key disclosure Supreme Court: 200 (7 items)
 - News search: Jharkhand pre-examination IT services tender: 200 (2 items)
 - News search: QverLabs Qdemy exam evaluation: 200 (0 items)
+- News search: Prometric Datamatics remote proctoring: 200 (1 items)
+- News search: Pearson Workera ITS acquisition assessment: 200 (2 items)
+- News search: Inspera AI-assisted marking Graide: 200 (0 items)
+- News search: Maritime and Coastguard Agency digital assessment seafarers: 200 (1 items)
 
 
 ## Publishers seen in keyword search (candidates for new sources)
-- Jagran Josh: 16
+- Jagran Josh: 15
 - Careers360: 11
 - medadmit.in: 11
 - The Times of India: 8
 - TradingView: 5
-- India Today: 5
 - The Hindu: 4
 - PW: 4
 - Education Times: 4
+- India Today: 4
 - Investing.com India: 4
 - Multibagg AI: 3
 - KollegeApply News: 2
@@ -109,12 +116,14 @@
 - Gulf News: 2
 - The News Mill: 2
 - Public Services International: 2
+- Yahoo Finance: 2
 - DirectorsTalk Interviews: 2
 - Singapore Examinations and Assessment Board: 2
 - ETV Bharat: 2
 - The Statesman: 2
 - The New Indian Express: 2
 - The 420.in: 2
+- Outlook India: 2
 - Times Now: 2
 - Free Press Journal: 2
 - Inventiva: 2
@@ -144,11 +153,9 @@
 - Investing.com: 1
 - Umeå universitet: 1
 - AIBase: 1
-- Yahoo Finance: 1
 - Bioengineer.org: 1
 - GuruFocus: 1
 - EnviroNews Nigeria: 1
-- LiveScore: 1
 
 
 ## Carried over from scrapes of the previous 3 days (no longer on the pages today; covers weekends)
@@ -481,6 +488,39 @@ https://www.seab.gov.sg/seab-link-issue-2-2026/sharing-knowledge-shaping-assessm
 ## Kerala Kaumudi Kerala general
 - [SIT prepares questionnaire for PSC Chairman; Dr MR Baiju asked to appear at Crime Branch headquarters today THIRUVANANTHAPURAM: The Special Investigation Team (SIT) has prepared a questionnaire for Kerala Public Service Commission (PSC) Chairman Dr M.R. Baiju and is awaiting his response. Novembe
 
+## Edtech Innovation Hub news
+- [OpenAI’s GPT-6 Cyber finds 81 Firefox flaws that earlier AI testing missed](https://www.edtechinnovationhub.com/news/openais-gpt-6-cyber-finds-81-firefox-flaws-that-earlier-ai-testing-missed)
+- [Memrise creators raise £2.5m for Mindmax’s conversational AI tutor](https://www.edtechinnovationhub.com/news/memrise-creators-raise-25m-for-mindmaxs-conversational-ai-tutor)
+- [Google cuts Gemini Omni’s 720p video price by 30% and adds 15-second clips](https://www.edtechinnovationhub.com/news/google-cuts-gemini-omnis-720p-video-price-by-30-and-adds-15-second-clips)
+- [Two UK edtech startups secure Panasonic patents through IPHatch](https://www.edtechinnovationhub.com/news/two-uk-edtech-startups-secure-panasonic-patents-through-iphatch)
+- [McGraw Hill promotes Robin Lucas to President of Higher Education](https://www.edtechinnovationhub.com/news/mcgraw-hill-promotes-robin-lucas-to-president-of-higher-education)
+- [MIT uses AI to rate harm across 1,500-plus reported AI incidents](https://www.edtechinnovationhub.com/news/mit-uses-ai-to-rate-harm-across-1500-plus-reported-ai-incidents)
+- [OpenAI’s GPT-6 Astra scores higher on lab tasks but still makes basic errors](https://www.edtechinnovationhub.com/news/openais-gpt-6-astra-scores-higher-on-lab-tasks-but-still-makes-basic-errors)
+- [ETIH Judge Tina Austin launches research consortium to investigate whether AI delivers lasting learning](https://www.edtechinnovationhub.com/news/etih-judge-tina-austin-launches-research-consortium-to-investigate-whether-ai-delivers-lasting-learning)
+- [AI may be helping Anthropic make two years of progress in one, METR estimates](https://www.edtechinnovationhub.com/news/ai-may-be-helping-anthropic-make-two-years-of-progress-in-one-metr-estimates)
+- [OpenAI to acquire Pierre to expand Codex’s code review and storage tools](https://www.edtechinnovationhub.com/news/openai-to-acquire-pierre-to-expand-codexs-code-review-and-storage-tools)
+- [Higher Logic acquires Mission Fuel AI to turn association expertise into courses](https://www.edtechinnovationhub.com/news/higher-logic-acquires-mission-fuel-ai-to-turn-association-expertise-into-courses)
+- [Microsoft to move Claude processing in Copilot into EU Data Boundary](https://www.edtechinnovationhub.com/news/microsoft-to-move-claude-processing-in-copilot-into-eu-data-boundary)
+- [BBC Bitesize maps 140-plus teacher tasks beyond lessons](https://www.edtechinnovationhub.com/news/bbc-bitesize-maps-140-plus-teacher-tasks-beyond-lessons)
+- [ETIH Innovation Awards 2027: judges spotlight on Kris Bickell](https://www.edtechinnovationhub.com/news/etih-innovation-awards-2027-judges-spotlight-on-kris-bickell)
+- [Derrick Anderson succeeds Phil Regier at ASU EdPlus following growth to 119,000 online students](https://www.edtechinnovationhub.com/news/derrick-anderson-succeeds-phil-regier-at-asu-edplus-following-growth-to-119000-online-students)
+- [Penn State expands AI push with 26 faculty appointments and new recruitment round](https://www.edtechinnovationhub.com/news/penn-state-expands-ai-push-with-26-faculty-appointments-and-new-recruitment-round)
+- [Google UK appoints Annika Bizon as Managing Director of Technology, Media and Telecommunications](https://www.edtechinnovationhub.com/news/google-uk-appoints-annika-bizon-as-managing-director-of-technology-media-and-telecommunications)
+- [University of Illinois Chicago requires faculty to disclose their own AI use to students](https://www.edtechinnovationhub.com/news/university-of-illinois-chicago-requires-faculty-to-disclose-their-own-ai-use-to-students)
+- [Hugging Face and universities launch ProtoStar to put public research to work with AI](https://www.edtechinnovationhub.com/news/hugging-face-and-universities-launch-protostar-to-put-public-research-to-work-with-ai)
+- [The state of AI in education 2026: Rising teacher use is not always translating into shorter working hours](https://www.edtechinnovationhub.com/news/the-state-of-ai-in-education-2026-rising-teacher-use-is-not-always-translating-into-shorter-working-hours)
+- [ETIH Innovation Awards 2027 are back: 26 categories open for entries worldwide](https://www.edtechinnovationhub.com/news/etih-innovation-awards-2027-are-back-26-categories-open-for-entries-worldwide)
+- [ETIH Innovation Awards Winners: Efekta wins two global awards for AI learning at scale](https://www.edtechinnovationhub.com/news/etih-innovation-awards-winners-efekta-wins-two-global-awards-for-ai-learning-at-scale)
+- [ETIH Innovation Awards Winners: Samsung Electronics UK and Hark win Best STEM Learning Solution](https://www.edtechinnovationhub.com/news/etih-innovation-awards-winners-samsung-electronics-uk-and-hark-win-best-stem-learning-solution)
+- [OpenAI and King’s College London workshop challenges one-size-fits-all AI safeguards for teenagers](https://www.edtechinnovationhub.com/news/openai-and-kings-college-london-workshop-challenges-one-size-fits-all-ai-safeguards-for-teenagers)
+- [University of Washington opens first full-time base on Microsoft campus as GIX moves to Redmond](https://www.edtechinnovationhub.com/news/university-of-washington-opens-first-full-time-base-on-microsoft-campus-as-gix-moves-to-redmond)
+- [Google takes Gemini educator training on UK roadshow](https://www.edtechinnovationhub.com/news/google-takes-gemini-educator-training-on-uk-roadshow)
+- [Handshake expands AI push with StudentBench GRE tutor and three senior hires](https://www.edtechinnovationhub.com/news/handshake-expands-ai-push-with-studentbench-gre-tutor-and-three-senior-hires)
+- [Naria Santa Lucia leaves Microsoft after seven years leading digital and AI skills initiatives](https://www.edtechinnovationhub.com/news/naria-santa-lucia-leaves-microsoft-after-seven-years-leading-digital-and-ai-skills-initiatives)
+- [Google appoints Anne Claire Grammer to senior Gemini mental health safety role](https://www.edtechinnovationhub.com/news/google-appoints-anne-claire-grammer-to-senior-gemini-mental-health-safety-role)
+- [Clément Brenot joins McGill to lead new Growth Lab focused on Canada and Québec](https://www.edtechinnovationhub.com/news/clment-brenot-joins-mcgill-to-lead-new-growth-lab-focused-on-canada-and-qubec)
+- [Ralf Herbrich joins Tübingen AI Center as Honorary Professor for AI and Energy](https://www.edtechinnovationhub.com/news/ralf-herbrich-joins-tbingen-ai-center-as-honorary-professor-for-ai-and-energy)
+
 ## RSS: TOI Education
 - [IBPS RRB PO Admit Card 2026 released at ibps.in, download prelims hall ticket](https://timesofindia.indiatimes.com/education/news/ibps-rrb-po-admit-card-2026-released-at-ibps-in-download-prelims-hall-ticket/articleshow/135696847.cms) (2026-11-10T07:51:10+05:30) - IBPS RRB PO Admit Card 2026: IBPS
 - [IBPS PO Mains result 2026 expected soon at ibps.in for 7,565 vacancies: Check complete details here](https://timesofindia.indiatimes.com/education/news/ibps-po-mains-result-2026-expected-soon-at-ibps-in-for-7565-vacancies-direct-link-to-download-scorecards-here/articleshow/135683012.cms) (2026-11
@@ -569,11 +609,11 @@ https://www.seab.gov.sg/seab-link-issue-2-2026/sharing-knowledge-shaping-assessm
 - [PSC scam in Keralam: Public outrage grows as citizens lose faith in institutional governance - The New Indian Express] (05 Nov 2026 20:55, The New Indian Express) - PSC scam in Keralam: Public outrage grows as citizens lose faith in institutional governance &nbsp;&nbsp; The New Indian Express
 - [Kerala PSC recruitment row: Chairman M R Baiju asked to appear before crime branch on November 10 - India Today] (07 Nov 2026 17:53, India Today) - Kerala PSC recruitment row: Chairman M R Baiju asked to appear before crime branch on November 10 &nbsp;&nbsp; India Today
 - [Kerala PSC Chairman Faces Fresh SIT Summons Over Alleged Exam Irregularities - The 420.in] (07 Nov 2026 12:17, The 420.in) - Kerala PSC Chairman Faces Fresh SIT Summons Over Alleged Exam Irregularities &nbsp;&nbsp; The 420.in
+- [Irregularities In Exams: CB Issues Fresh Summons To Kerala PSC Chairman - Outlook India] (07 Nov 2026 23:20, Outlook India) - Irregularities In Exams: CB Issues Fresh Summons To Kerala PSC Chairman &nbsp;&nbsp; Outlook India
 - [Keralam exam fraud: PSC chairman, members under Crime Branch scanner - The Hindu] (05 Nov 2026 19:33, The Hindu) - Keralam exam fraud: PSC chairman, members under Crime Branch scanner &nbsp;&nbsp; The Hindu
 - [Kerala PSC Chairman, Members Under Crime Branch Scanner in Recruitment Exam Fraud - The 420.in] (05 Nov 2026 21:30, The 420.in) - Kerala PSC Chairman, Members Under Crime Branch Scanner in Recruitment Exam Fraud &nbsp;&nbsp; The 420.in
 - [Kerala PSC chairman's 'caucus' called shots on exam panels, finds Crime Branch - Onmanorama] (05 Nov 2026 11:38, Onmanorama) - Kerala PSC chairman's 'caucus' called shots on exam panels, finds Crime Branch &nbsp;&nbsp; Onmanorama
 - [Kerala PSC chairman Baiju summoned again in exam fraud probe - The Hawk] (07 Nov 2026 11:24, The Hawk) - Kerala PSC chairman Baiju summoned again in exam fraud probe &nbsp;&nbsp; The Hawk
-- [Kerala PSC Chairman Gets Fresh Summons in Recruitment Irregularities Case After Skipping Interrogation - Times Now] (07 Nov 2026 14:00, Times Now) - Kerala PSC Chairman Gets Fresh Summons in Recruitment Irregularities Case After Skipping Interrogation &nbsp;&nbsp; Times Now
 
 ## News search: WAEC computer-based testing
 - [Only qualified CBT centres will host 2027 UTME — JAMB - Punch Newspapers] (05 Nov 2026 23:53, Punch Newspapers) - Only qualified CBT centres will host 2027 UTME — JAMB &nbsp;&nbsp; Punch Newspapers
@@ -596,7 +636,6 @@ https://www.seab.gov.sg/seab-link-issue-2-2026/sharing-knowledge-shaping-assessm
 ## News search: Nilekani task force extension
 - [Nandan Nilekani exam reforms panel gets extension till January 2027; receives 50,000 suggestions - The Indian Express] (03 Nov 2026 09:57, The Indian Express) - Nandan Nilekani exam reforms panel gets extension till January 2027; receives 50,000 suggestions &nbsp;&nbsp; The Indian Express
 - [Nandan Nilekani meets Naidu, discusses reforms in examination system - The Times of India] (04 Nov 2026 23:14, The Times of India) - Nandan Nilekani meets Naidu, discusses reforms in examination system &nbsp;&nbsp; The Times of India
-- [CM Vijay reiterates Tamil Nadu's opposition to NEET at meeting with Nilekani - India Today] (05 Nov 2026 17:42, India Today) - CM Vijay reiterates Tamil Nadu's opposition to NEET at meeting with Nilekani &nbsp;&nbsp; India Today
 - [NTA empanels over 5,000 experts to strengthen exam security after NEET UG 2026 paper leak row - Moneycontrol.com] (04 Nov 2026 10:48, Moneycontrol.com) - NTA empanels over 5,000 experts to strengthen exam security after NEET UG 2026 paper leak row &nbsp;&nbsp; Moneycontrol.com
 - [NEET Exam Reform Panel Extended to January 2027: What It Means for You - medadmit.in] (04 Nov 2026 11:14, medadmit.in) - NEET Exam Reform Panel Extended to January 2027: What It Means for You &nbsp;&nbsp; medadmit.in
 - [NEET UG 2027 Exam Mode: Pen-Paper Format Likely to Continue - medadmit.in] (03 Nov 2026 15:39, medadmit.in) - NEET UG 2027 Exam Mode: Pen-Paper Format Likely to Continue &nbsp;&nbsp; medadmit.in
@@ -619,7 +658,10 @@ https://www.seab.gov.sg/seab-link-issue-2-2026/sharing-knowledge-shaping-assessm
 - [Expert Committee To Supreme Court: Instead Of Percentile, NEET-PG To Adopt Rank-Based System - ETV Bharat] (03 Nov 2026 21:00, ETV Bharat) - Expert Committee To Supreme Court: Instead Of Percentile, NEET-PG To Adopt Rank-Based System &nbsp;&nbsp; ETV Bharat
 - [Not Percentile, NEET-PG To Adopt Rank-Based System: Expert Panel Tells Supreme Court - NDTV Profit] (04 Nov 2026 11:37, NDTV Profit) - Not Percentile, NEET-PG To Adopt Rank-Based System: Expert Panel Tells Supreme Court &nbsp;&nbsp; NDTV Profit
 - [No More 'Zero Percentile': NEET PG & NEET SS to Shift to Rank-Based Admissions - Jagran Josh] (04 Nov 2026 10:20, Jagran Josh) - No More 'Zero Percentile': NEET PG & NEET SS to Shift to Rank-Based Admissions &nbsp;&nbsp; Jagran Josh
-- [Tamil Nadu CM Renews Push to Scrap NEET in Meeting with Nilekani-Led Task Force - Jagran Josh] (05 Nov 2026 09:22, Jagran Josh) - Tamil Nadu CM Renews Push to Scrap NEET in Meeting with Nilekani-Led Task Force &nbsp;&nbsp; Jagran Josh
 
 ## News search: Jharkhand pre-examination IT services tender
 - [Prime Cable’s 20-State Approvals Support Institutional Tenders - Multibagg AI] (05 Nov 2026 17:54, Multibagg AI) - Prime Cable’s 20-State Approvals Support Institutional Tenders &nbsp;&nbsp; Multibagg AI
+
+## News search: Pearson Workera ITS acquisition assessment
+- [Pearson and Westermann collaborate to help learners in Germany build the English language skills they need to succeed in study and work - Yahoo Finance] (04 Nov 2026 14:30, Yahoo Finance) - Pearson and Westermann collaborate to help learners in Germany build the English language skills they need 
+- [FTSE 100 Pearson (LSE:PSON) Finds Its Growth Gear - Kalkine Media] (03 Nov 2026 15:13, Kalkine Media) - FTSE 100 Pearson (LSE:PSON) Finds Its Growth Gear &nbsp;&nbsp; Kalkine Media

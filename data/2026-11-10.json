@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-11-10T09:39:09.029765+05:30",
+ "scraped_at": "2026-11-10T09:48:29.840015+05:30",
  "sources": [
   {
    "name": "ET Education News",
@@ -3909,6 +3909,11 @@
    "error": null,
    "items": [
     {
+     "title": "Odisha Shikshanet: Free WiFi for 601 Colleges Gets Cabinet Nod",
+     "url": "https://digitallearning.eletsonline.com/2026/11/odisha-shikshanet-free-wifi-colleges/",
+     "summary": ""
+    },
+    {
      "title": "Tankeshwar Kumar Appointed Panjab University Vice-Chancellor",
      "url": "https://digitallearning.eletsonline.com/2026/11/panjab-university-vc-tankeshwar-kumar/",
      "summary": ""
@@ -3951,11 +3956,6 @@
     {
      "title": "Pruthul Desai Appointed Gujarat University Vice-Chancellor",
      "url": "https://digitallearning.eletsonline.com/2026/11/gujarat-university-vc-pruthul-desai/",
-     "summary": ""
-    },
-    {
-     "title": "Manipur Opens Northeast’s First AI Career Intelligence Hub",
-     "url": "https://digitallearning.eletsonline.com/2026/11/manipur-ai-career-hub/",
      "summary": ""
     },
     {
@@ -4197,6 +4197,183 @@
      "summary": ""
     }
    ]
+  },
+  {
+   "name": "Inspera press releases",
+   "url": "https://inspera.com/press-releases/",
+   "status": 403,
+   "error": null,
+   "items": []
+  },
+  {
+   "name": "Edtech Innovation Hub news",
+   "url": "https://www.edtechinnovationhub.com/news",
+   "status": 200,
+   "error": null,
+   "items": [
+    {
+     "title": "OpenAI’s GPT-6 Cyber finds 81 Firefox flaws that earlier AI testing missed",
+     "url": "https://www.edtechinnovationhub.com/news/openais-gpt-6-cyber-finds-81-firefox-flaws-that-earlier-ai-testing-missed",
+     "summary": ""
+    },
+    {
+     "title": "Memrise creators raise £2.5m for Mindmax’s conversational AI tutor",
+     "url": "https://www.edtechinnovationhub.com/news/memrise-creators-raise-25m-for-mindmaxs-conversational-ai-tutor",
+     "summary": ""
+    },
+    {
+     "title": "Google cuts Gemini Omni’s 720p video price by 30% and adds 15-second clips",
+     "url": "https://www.edtechinnovationhub.com/news/google-cuts-gemini-omnis-720p-video-price-by-30-and-adds-15-second-clips",
+     "summary": ""
+    },
+    {
+     "title": "Two UK edtech startups secure Panasonic patents through IPHatch",
+     "url": "https://www.edtechinnovationhub.com/news/two-uk-edtech-startups-secure-panasonic-patents-through-iphatch",
+     "summary": ""
+    },
+    {
+     "title": "McGraw Hill promotes Robin Lucas to President of Higher Education",
+     "url": "https://www.edtechinnovationhub.com/news/mcgraw-hill-promotes-robin-lucas-to-president-of-higher-education",
+     "summary": ""
+    },
+    {
+     "title": "MIT uses AI to rate harm across 1,500-plus reported AI incidents",
+     "url": "https://www.edtechinnovationhub.com/news/mit-uses-ai-to-rate-harm-across-1500-plus-reported-ai-incidents",
+     "summary": ""
+    },
+    {
+     "title": "OpenAI’s GPT-6 Astra scores higher on lab tasks but still makes basic errors",
+     "url": "https://www.edtechinnovationhub.com/news/openais-gpt-6-astra-scores-higher-on-lab-tasks-but-still-makes-basic-errors",
+     "summary": ""
+    },
+    {
+     "title": "ETIH Judge Tina Austin launches research consortium to investigate whether AI delivers lasting learning",
+     "url": "https://www.edtechinnovationhub.com/news/etih-judge-tina-austin-launches-research-consortium-to-investigate-whether-ai-delivers-lasting-learning",
+     "summary": ""
+    },
+    {
+     "title": "AI may be helping Anthropic make two years of progress in one, METR estimates",
+     "url": "https://www.edtechinnovationhub.com/news/ai-may-be-helping-anthropic-make-two-years-of-progress-in-one-metr-estimates",
+     "summary": ""
+    },
+    {
+     "title": "OpenAI to acquire Pierre to expand Codex’s code review and storage tools",
+     "url": "https://www.edtechinnovationhub.com/news/openai-to-acquire-pierre-to-expand-codexs-code-review-and-storage-tools",
+     "summary": ""
+    },
+    {
+     "title": "Higher Logic acquires Mission Fuel AI to turn association expertise into courses",
+     "url": "https://www.edtechinnovationhub.com/news/higher-logic-acquires-mission-fuel-ai-to-turn-association-expertise-into-courses",
+     "summary": ""
+    },
+    {
+     "title": "Microsoft to move Claude processing in Copilot into EU Data Boundary",
+     "url": "https://www.edtechinnovationhub.com/news/microsoft-to-move-claude-processing-in-copilot-into-eu-data-boundary",
+     "summary": ""
+    },
+    {
+     "title": "BBC Bitesize maps 140-plus teacher tasks beyond lessons",
+     "url": "https://www.edtechinnovationhub.com/news/bbc-bitesize-maps-140-plus-teacher-tasks-beyond-lessons",
+     "summary": ""
+    },
+    {
+     "title": "ETIH Innovation Awards 2027: judges spotlight on Kris Bickell",
+     "url": "https://www.edtechinnovationhub.com/news/etih-innovation-awards-2027-judges-spotlight-on-kris-bickell",
+     "summary": ""
+    },
+    {
+     "title": "Derrick Anderson succeeds Phil Regier at ASU EdPlus following growth to 119,000 online students",
+     "url": "https://www.edtechinnovationhub.com/news/derrick-anderson-succeeds-phil-regier-at-asu-edplus-following-growth-to-119000-online-students",
+     "summary": ""
+    },
+    {
+     "title": "Penn State expands AI push with 26 faculty appointments and new recruitment round",
+     "url": "https://www.edtechinnovationhub.com/news/penn-state-expands-ai-push-with-26-faculty-appointments-and-new-recruitment-round",
+     "summary": ""
+    },
+    {
+     "title": "Google UK appoints Annika Bizon as Managing Director of Technology, Media and Telecommunications",
+     "url": "https://www.edtechinnovationhub.com/news/google-uk-appoints-annika-bizon-as-managing-director-of-technology-media-and-telecommunications",
+     "summary": ""
+    },
+    {
+     "title": "University of Illinois Chicago requires faculty to disclose their own AI use to students",
+     "url": "https://www.edtechinnovationhub.com/news/university-of-illinois-chicago-requires-faculty-to-disclose-their-own-ai-use-to-students",
+     "summary": ""
+    },
+    {
+     "title": "Hugging Face and universities launch ProtoStar to put public research to work with AI",
+     "url": "https://www.edtechinnovationhub.com/news/hugging-face-and-universities-launch-protostar-to-put-public-research-to-work-with-ai",
+     "summary": ""
+    },
+    {
+     "title": "The state of AI in education 2026: Rising teacher use is not always translating into shorter working hours",
+     "url": "https://www.edtechinnovationhub.com/news/the-state-of-ai-in-education-2026-rising-teacher-use-is-not-always-translating-into-shorter-working-hours",
+     "summary": ""
+    },
+    {
+     "title": "ETIH Innovation Awards 2027 are back: 26 categories open for entries worldwide",
+     "url": "https://www.edtechinnovationhub.com/news/etih-innovation-awards-2027-are-back-26-categories-open-for-entries-worldwide",
+     "summary": ""
+    },
+    {
+     "title": "ETIH Innovation Awards Winners: Efekta wins two global awards for AI learning at scale",
+     "url": "https://www.edtechinnovationhub.com/news/etih-innovation-awards-winners-efekta-wins-two-global-awards-for-ai-learning-at-scale",
+     "summary": ""
+    },
+    {
+     "title": "ETIH Innovation Awards Winners: Samsung Electronics UK and Hark win Best STEM Learning Solution",
+     "url": "https://www.edtechinnovationhub.com/news/etih-innovation-awards-winners-samsung-electronics-uk-and-hark-win-best-stem-learning-solution",
+     "summary": ""
+    },
+    {
+     "title": "OpenAI and King’s College London workshop challenges one-size-fits-all AI safeguards for teenagers",
+     "url": "https://www.edtechinnovationhub.com/news/openai-and-kings-college-london-workshop-challenges-one-size-fits-all-ai-safeguards-for-teenagers",
+     "summary": ""
+    },
+    {
+     "title": "University of Washington opens first full-time base on Microsoft campus as GIX moves to Redmond",
+     "url": "https://www.edtechinnovationhub.com/news/university-of-washington-opens-first-full-time-base-on-microsoft-campus-as-gix-moves-to-redmond",
+     "summary": ""
+    },
+    {
+     "title": "Google takes Gemini educator training on UK roadshow",
+     "url": "https://www.edtechinnovationhub.com/news/google-takes-gemini-educator-training-on-uk-roadshow",
+     "summary": ""
+    },
+    {
+     "title": "Handshake expands AI push with StudentBench GRE tutor and three senior hires",
+     "url": "https://www.edtechinnovationhub.com/news/handshake-expands-ai-push-with-studentbench-gre-tutor-and-three-senior-hires",
+     "summary": ""
+    },
+    {
+     "title": "Naria Santa Lucia leaves Microsoft after seven years leading digital and AI skills initiatives",
+     "url": "https://www.edtechinnovationhub.com/news/naria-santa-lucia-leaves-microsoft-after-seven-years-leading-digital-and-ai-skills-initiatives",
+     "summary": ""
+    },
+    {
+     "title": "Google appoints Anne Claire Grammer to senior Gemini mental health safety role",
+     "url": "https://www.edtechinnovationhub.com/news/google-appoints-anne-claire-grammer-to-senior-gemini-mental-health-safety-role",
+     "summary": ""
+    },
+    {
+     "title": "Clément Brenot joins McGill to lead new Growth Lab focused on Canada and Québec",
+     "url": "https://www.edtechinnovationhub.com/news/clment-brenot-joins-mcgill-to-lead-new-growth-lab-focused-on-canada-and-qubec",
+     "summary": ""
+    },
+    {
+     "title": "Ralf Herbrich joins Tübingen AI Center as Honorary Professor for AI and Energy",
+     "url": "https://www.edtechinnovationhub.com/news/ralf-herbrich-joins-tbingen-ai-center-as-honorary-professor-for-ai-and-energy",
+     "summary": ""
+    }
+   ]
+  },
+  {
+   "name": "IT Brief UK",
+   "url": "https://itbrief.co.uk/",
+   "status": 406,
+   "error": null,
+   "items": []
   },
   {
    "name": "RSS: Indian Express Education",
@@ -5622,18 +5799,18 @@
      "publisher": "Crunchyroll"
     },
     {
-     "title": "Major quantum computing conjecture solved in three days after 18 years of uncertainty - Interesting Engineering",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYUJIYUFycC01NW1pU09pNVZlTEQyOU5FWi1EaWdfNmp3Q1JMNEZfSjZWY3padldCLVBPa3BqSkVKTTNqZ05pTFB3QjFuRndTRmQ0Rkh2Rm9vOXdadnpFZElNMHhzNGpIMUpWX2ZjdGNocEZqSVJpRTFIcmZ3ZmVBQ2ZwTXJic3pMbWQ2Um9PYVlpaG9zWUxmMGYzbW1QSVcz?oc=5",
-     "summary": "Major quantum computing conjecture solved in three days after 18 years of uncertainty &nbsp;&nbsp; Interesting Engineering",
-     "date": "07 Nov 2026 07:39",
-     "publisher": "Interesting Engineering"
-    },
-    {
      "title": "Trade Unions Statement Condemning Exploitative Practices of Australian Company Ansell - Public Services International",
      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaDE0dnZQWmpfSWVqcjhjTE5tTGJqbkt3NVJTTlE4ZmxOcU5hRmRpNlVrZHVZOXRtd29YdGNZZW9lY0xsTzNoaGw3bW9LeEZiWFpDcDBCUFhwV3RYczUzSXFDdWVzeTBPeG9VN0VlR3YtNjFvZk5ydmJldjZDQUVMVk5vNE1maFdna0VfaXFPQkpUTE50bUM1TlRidWVReVpsNGtGSzk0bVBlMUxJdnRiSjFZQm9TVWZQWVlEQkNDWUd4TVJKenpZNU9hcXMyUjQyLTlEVGY3VWlmWHlLRHhGZ1c4RFlMWjVMYVE?oc=5",
      "summary": "Trade Unions Statement Condemning Exploitative Practices of Australian Company Ansell &nbsp;&nbsp; Public Services International",
      "date": "09 Nov 2026 14:25",
      "publisher": "Public Services International"
+    },
+    {
+     "title": "Major quantum computing conjecture solved in three days after 18 years of uncertainty - Interesting Engineering",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYUJIYUFycC01NW1pU09pNVZlTEQyOU5FWi1EaWdfNmp3Q1JMNEZfSjZWY3padldCLVBPa3BqSkVKTTNqZ05pTFB3QjFuRndTRmQ0Rkh2Rm9vOXdadnpFZElNMHhzNGpIMUpWX2ZjdGNocEZqSVJpRTFIcmZ3ZmVBQ2ZwTXJic3pMbWQ2Um9PYVlpaG9zWUxmMGYzbW1QSVcz?oc=5",
+     "summary": "Major quantum computing conjecture solved in three days after 18 years of uncertainty &nbsp;&nbsp; Interesting Engineering",
+     "date": "07 Nov 2026 07:39",
+     "publisher": "Interesting Engineering"
     },
     {
      "title": "AI-Assisted Proof Settles Longstanding Question About Quantum Speedups - The Quantum Insider",
@@ -5664,18 +5841,18 @@
      "publisher": "Investing.com India"
     },
     {
-     "title": "Portugal stocks lower at close of trade; PSI down 0.07% - Investing.com",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRE1vWUU3TXpmTjFuTUVYdVBYdm5BdzRPaHR0MkJRV25iUW9oU182Ukd1MC1ic2E3a19nU0ZPZTFQRGhJRmpVR3ZBc2p0Z0lQUkhwWF9mQUxjWEV5NGlmc0NPeGdRYkRjT1RESzZtMnZTUTlheEJnZEpuUUxWYzJSMXZuUXBYTzc0bUJQSXkyQ0lOSWNkSlZ3SmU2THQtaHFKUG9PRVo4LWd0WW93cUE?oc=5",
-     "summary": "Portugal stocks lower at close of trade; PSI down 0.07% &nbsp;&nbsp; Investing.com",
-     "date": "07 Nov 2026 04:23",
-     "publisher": "Investing.com"
-    },
-    {
      "title": "Portugal shares higher at close of trade; PSI up 1.82% By Investing.com - Investing.com India",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZkJzdWx6NGxWdWRvckZGZmJkUDIzOWhJR3hMOTNEZkliTTJfY280NHlsOXpSbS1FM25Qc2tVMUtRdUZldWpMZ21tbExrTFJTc0xsZGRfSzFwdEpOREE5OGlyNUYxaktnbHFpZmxWdEhSdFRVZENOSS1JU1NNMFZUcmg1S3J3WkxWajJFTHBSd3h4TjM4ZE9MTU8zaktIeWV0bzVudnllTFFOMDQ?oc=5",
      "summary": "Portugal shares higher at close of trade; PSI up 1.82% By Investing.com &nbsp;&nbsp; Investing.com India",
      "date": "05 Nov 2026 02:44",
      "publisher": "Investing.com India"
+    },
+    {
+     "title": "Portugal stocks lower at close of trade; PSI down 0.07% - Investing.com",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRE1vWUU3TXpmTjFuTUVYdVBYdm5BdzRPaHR0MkJRV25iUW9oU182Ukd1MC1ic2E3a19nU0ZPZTFQRGhJRmpVR3ZBc2p0Z0lQUkhwWF9mQUxjWEV5NGlmc0NPeGdRYkRjT1RESzZtMnZTUTlheEJnZEpuUUxWYzJSMXZuUXBYTzc0bUJQSXkyQ0lOSWNkSlZ3SmU2THQtaHFKUG9PRVo4LWd0WW93cUE?oc=5",
+     "summary": "Portugal stocks lower at close of trade; PSI down 0.07% &nbsp;&nbsp; Investing.com",
+     "date": "07 Nov 2026 04:23",
+     "publisher": "Investing.com"
     }
    ]
   },
@@ -5777,18 +5954,18 @@
      "publisher": "TradingView"
     },
     {
-     "title": "Haze costs Singapore $2.32b in 2026, surpassing 2015 despite fewer hazy days - AsiaOne.com",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS2dhcjYtUHBVQWdvMHprNjNXNDUwbS1rN0ExWHpQLUE5Nk9rTHBMMlNxVjlPZzRJVm1BSXhZaHh0alJnaHBqeFIteUFsNWNVaWp3UEVIdXJVZmZUaXNtdk5Pby1lbEhQdTJPUlZHSVlYckRDX01Jc09UM0YwaloybTZJc1hla25icV9aM0Y3Qi13bWpZR0JuY1pMQjNteDVhZEp3ajZwNA?oc=5",
-     "summary": "Haze costs Singapore $2.32b in 2026, surpassing 2015 despite fewer hazy days &nbsp;&nbsp; AsiaOne.com",
-     "date": "09 Nov 2026 05:18",
-     "publisher": "AsiaOne.com"
-    },
-    {
      "title": "Copernicus estimates that global temperature in 2026 will exceed the pre-industrial level by more than 1.5°C - Informat.ro",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQmpZY1RlWV93cTY1Q05YcllGMzlwcGpTUTBVN0hwWExuUkRIcjBMMnQyb2kzSExNX3BlS0dPal9kcE9Nbk1XaEpZWXhUTFJaUHgxUXRKd3pKSEtsZVpGRXNQSy1NX2tTZjZvNm9IZE5xQ25wZXNaMXgxQk0tcTBfSUlWMk5idEwxQWc?oc=5",
      "summary": "Copernicus estimates that global temperature in 2026 will exceed the pre-industrial level by more than 1.5°C &nbsp;&nbsp; Informat.ro",
      "date": "07 Nov 2026 00:22",
      "publisher": "Informat.ro"
+    },
+    {
+     "title": "Golf Cart Market to Surpass USD 3 Billion by 2031 Driven by Growing Electric Mobility Adoption, Says Mordor Intelligence - PR Newswire UK",
+     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOYllLZlZiODkwNE9kVFhwTzc2LWlvaGRSM1RmUTZDRUgyWU9XLXE0ZlhoRU9XeXQtUmhYamhhWUt5ODdfOExyOURFRHVlM0otbTVlcjlsZUpiSWRlTmZXbG1ZLXFNNUNjbmFIaU1mdDNoZktsMzhNVmthXzU3NWcyQVVnRkRaSXVSYlZJRjB6ME9sRGZVRUJKeUMwUUhVRTZ0UVhTZFVuODJpUFRQTnpUWlhZdDJOZDVMRDUwTFhyU2c2c1hRSGoyUmdrbVpCcTF1LVRUQk5FT3JSZVktbk9EZFMxamxRdUk2V2ZYQ0QtNm1MaVNjMmJjT1M4enNvbGV3bFgzM1NNYXE?oc=5",
+     "summary": "Golf Cart Market to Surpass USD 3 Billion by 2031 Driven by Growing Electric Mobility Adoption, Says Mordor Intelligence &nbsp;&nbsp; PR Newswire UK",
+     "date": "06 Nov 2026 03:31",
+     "publisher": "PR Newswire UK"
     }
    ]
   },
@@ -5925,6 +6102,13 @@
      "summary": "Kerala PSC Chairman Faces Fresh SIT Summons Over Alleged Exam Irregularities &nbsp;&nbsp; The 420.in",
      "date": "07 Nov 2026 12:17",
      "publisher": "The 420.in"
+    },
+    {
+     "title": "Irregularities In Exams: CB Issues Fresh Summons To Kerala PSC Chairman - Outlook India",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZGNsTXhmRDJnb3pVR3JLbEhmaXJoWEgzOXBXYzQzUFpaNk5ScEt3cWpVX3JCanFwbEZWT3NSSUk4R215elI0Vlg3ZzRvSVZydjRLM1VzOWtUeWlNbEUxTWJ6ZlhNYnQ1NG5lRGFfX0xya1VETHhiWnhiT2ZRSllLOG1idEhzMjRiV04zaUtzLXJRamRtanM2UVdEbUI1QktMQktlRjlxRk5CRkd10gG6AUFVX3lxTE52WlFVVjZ1emhkcFBEY25ua3RDcVdVZVZHODNpdi1PV3BfUjd5Tml2eFhZVjRGd2hKUGg1c3VNRDVva0ZvSFFVSERfT1Q2dkQ5eHNsV0pMWllBaGZRejFtdEowbDRXMWp4QnJDSGQ4RjQwSURXSHlWTHNmVTBGczNUSjFJUlY4cUlSNHFnSEZrZjh4cXhNQzFYZkI2dTNaeWNTQ29ETHV0VDd0Nm45QVFENnNqQnByNEpBZw?oc=5",
+     "summary": "Irregularities In Exams: CB Issues Fresh Summons To Kerala PSC Chairman &nbsp;&nbsp; Outlook India",
+     "date": "07 Nov 2026 23:20",
+     "publisher": "Outlook India"
     },
     {
      "title": "Keralam exam fraud: PSC chairman, members under Crime Branch scanner - The Hindu",
@@ -6142,13 +6326,6 @@
      "publisher": "The Times of India"
     },
     {
-     "title": "CM Vijay reiterates Tamil Nadu's opposition to NEET at meeting with Nilekani - India Today",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPc0I3UFhUdlJYV0tNVjdlSkN3bzZJaS1XTy1LVzZPR3FqMVpZUGZxaFJJUHNNWllYemhkbzNpOUlqS1pOaWxTN0N2VzFIT1MzbHlwcHJqWVJxT0JNZFFpMDdDQjU1SW1MNzRrTnRYUzdTOVNxcU1xNWtEeFk4RXZYRExmckhOOHh0ZUVJMXVBemZvZzdqVVJvUTNvTmlzd3ZwUDhDVE1na1JpSDNaRFQ3UmtDS3ZtYTZHbDRWUU1HRzJKajB2ZjlFbnY4SlVybHRwelA3N25PQlFLUUlObTd3T2lBSDPSAeoBQVVfeXFMTVpCVm1DbHFfbW1IMS02S2NNWk9Xa3lYWC15LWd4SFRrNUFjQUpsaThwUTZHU2xWcG1BUndLS25qRkxSX2NXQzQxWjA0Q3dvN0RISTNmVF9vN1ZrRG1keHJ6a1BxTy1DNGY1WjBKSy1GVmVRTl9DYS1mNmg3YnNTVU54TFhpLVE0NUtpOXc3YlJTc1d3aUhjaEVWSzFtcGZ2TmdLM05OU0sxZHAwXzJjX0tOcC1UaWdEZWI4MGRjUVlGQ2tUREhQWm9UVGlvRFItYnJOWTVSSWdoa3NINFhseVhVMjdzMm93cDVR?oc=5",
-     "summary": "CM Vijay reiterates Tamil Nadu's opposition to NEET at meeting with Nilekani &nbsp;&nbsp; India Today",
-     "date": "05 Nov 2026 17:42",
-     "publisher": "India Today"
-    },
-    {
      "title": "NTA empanels over 5,000 experts to strengthen exam security after NEET UG 2026 paper leak row - Moneycontrol.com",
      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTXFWbThQdmdXV3d0b1V0MWFQNnNIdURtV1Zhb082WkZBVWtmTTRjcVRZYzlnVWF3S05NcFdnemZFdnpVZUh6VWdScXVRR1kwTXRLZGh2bE9iQlZPTVdoQ2VaYlpaSkNPRFh2b0paRUF3RElQRm1KblR1VTBzYWt2RmxjNE1HWm1IOGlxQjNFMENXU1lhTkVVTmhSVjJKd0FSWHEzZUxjS1pEV1hQa2puQ3k0dGFxRjlub2lFNmdlLUZRYmEtT0ZKQXIxbWQtdFNLSDhvLVc1ZGY3bVpNOWQ1NEhYMDFHSlhBTVHSAe8BQVVfeXFMTTZfYVlGZXRnRklKbHNScy1FZFN5MnVtNGc5VHl5NEoycGRZVnpMZEkzZ05wZkEtcnhRc2RZUWxvams0T3pUeDhzSXBXRnRvcmxZZ3ZYTXhPQ0ZJdk16MnFTNlBIaTZYNWlZSzFFOE13RGh6NHBPMEtpMi1Uc1ZaVjdlU0lSVXVPNjJmdlQxU3luLUhpQV83dk1VOXd1NWhMYlVSMGk3ZTkzMEw0RVcwWnFJMDNYYklTQmtLRDVFZ3ByLUxlZ184aG5JM3NOTEVTTUhkaEdXZXNRVWJCaWpPUU9NUmRTWkJfS3NIUnJLUXM?oc=5",
      "summary": "NTA empanels over 5,000 experts to strengthen exam security after NEET UG 2026 paper leak row &nbsp;&nbsp; Moneycontrol.com",
@@ -6277,6 +6454,13 @@
      "publisher": "The Times of India"
     },
     {
+     "title": "Irregularities In Exams: CB Issues Fresh Summons To Kerala PSC Chairman - Outlook India",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZGNsTXhmRDJnb3pVR3JLbEhmaXJoWEgzOXBXYzQzUFpaNk5ScEt3cWpVX3JCanFwbEZWT3NSSUk4R215elI0Vlg3ZzRvSVZydjRLM1VzOWtUeWlNbEUxTWJ6ZlhNYnQ1NG5lRGFfX0xya1VETHhiWnhiT2ZRSllLOG1idEhzMjRiV04zaUtzLXJRamRtanM2UVdEbUI1QktMQktlRjlxRk5CRkd10gG6AUFVX3lxTE52WlFVVjZ1emhkcFBEY25ua3RDcVdVZVZHODNpdi1PV3BfUjd5Tml2eFhZVjRGd2hKUGg1c3VNRDVva0ZvSFFVSERfT1Q2dkQ5eHNsV0pMWllBaGZRejFtdEowbDRXMWp4QnJDSGQ4RjQwSURXSHlWTHNmVTBGczNUSjFJUlY4cUlSNHFnSEZrZjh4cXhNQzFYZkI2dTNaeWNTQ29ETHV0VDd0Nm45QVFENnNqQnByNEpBZw?oc=5",
+     "summary": "Irregularities In Exams: CB Issues Fresh Summons To Kerala PSC Chairman &nbsp;&nbsp; Outlook India",
+     "date": "07 Nov 2026 23:20",
+     "publisher": "Outlook India"
+    },
+    {
      "title": "Kerala PSC Exam Scam: Crime Branch issues fresh summons to chairman M.R. Baiju - The Statesman",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY2pBMnluM281S01SUnhVaGkwMldpSWFsOXBNZTdDU2pJQ3F6RXl0RzZ3UUtZY0lGcnpWQ2lKVG9LcndQQmtMY0RMMTdCLWdiS3RheUQxQjVoTTBUMXBtbEZ0RGF4TmpCdGlvZ3g3OGc4RndLQ21qa3VOYU1EcTNxcnVJV1dCZV9vV1JjQzFHbFVrRXlyVE9oMjlhX3ZsUHR6TEY0YUhiZTFQZFI1bUtES01Md1FHcDdIRVgwVzlGcHQxS1hCd2fSAcsBQVVfeXFMTzdLb0FlcTd3dzZSWEZoZ211eW1pVjBmaGVJb3FiRzBEaHBtOGg0ZllHbm9jUU52ZkhWUkJvM19aT3lhUzdHWVlpMUl1Nzg5UUNpcWZKTC0tNlhQRFFicUlBVk9lRzNhaWxqclRJOWZaQk45V29RTWozdy1oamdCWnE0R1E5ME5LREJRdWdEU1ByNFFBUDhHMldHeDRnQVRNYmtiTVZqRUxjVmxVN1AtR3lqMy1EWHhiblhnYTRaTmU2TmdOUjlHU18yNVU?oc=5",
      "summary": "Kerala PSC Exam Scam: Crime Branch issues fresh summons to chairman M.R. Baiju &nbsp;&nbsp; The Statesman",
@@ -6346,13 +6530,6 @@
      "summary": "No More 'Zero Percentile': NEET PG & NEET SS to Shift to Rank-Based Admissions &nbsp;&nbsp; Jagran Josh",
      "date": "04 Nov 2026 10:20",
      "publisher": "Jagran Josh"
-    },
-    {
-     "title": "Tamil Nadu CM Renews Push to Scrap NEET in Meeting with Nilekani-Led Task Force - Jagran Josh",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQkxnVUpiR0UxY3FDX3Z4LTdfNkZTcG5FNEZBMVQ4RWxDOVlSYjFwcVYyUVJpY1FPMjZwQmE2X3JjVC1oYlh6VjNxQVdOZnJnRGMtSWRha1haeWdhTC15cXQ2QTNjRTJnaTB4amZkcDhnUzR1T1N3VXNQcm4zX05DRWc2blJWbkdzbHFVaGtIc0ZSZlcxMzVNbEczOWZ4TjI0aUpRckF0VHdCZlp3cmFOVzRNMTJ6V2hR0gG_AUFVX3lxTE5UOFBhR3NaYW1seWdHbDJ6OXZObVVCYjBPQUxMQnowdDlHb201TzlxcUpUX2hQSV9SQ1VqX2ZRbklXN3l6RnpZNHVFUWZPYkVvT2U2NDJicHpBV0FZQWtsVnNwTWFfNHc4d1ZFeGNZcm14N3VaWlBKMXlxdWI5VGs2MlcxbUpOd0FfNUJ3d1lsVjRSTTVHamZZbk5MN1VIb0pVTHlaNHpwcVUzbHpMWmNmZDNZRTIxcldPVVdwQnRr?oc=5",
-     "summary": "Tamil Nadu CM Renews Push to Scrap NEET in Meeting with Nilekani-Led Task Force &nbsp;&nbsp; Jagran Josh",
-     "date": "05 Nov 2026 09:22",
-     "publisher": "Jagran Josh"
     }
    ]
   },
@@ -6384,18 +6561,77 @@
    "status": 200,
    "error": null,
    "items": []
+  },
+  {
+   "name": "News search: Prometric Datamatics remote proctoring",
+   "url": "https://news.google.com/rss/search?q=Prometric%20Datamatics%20remote%20proctoring%20when%3A7d&hl=en-IN&gl=IN&ceid=IN:en",
+   "status": 200,
+   "error": null,
+   "items": [
+    {
+     "title": "Datamatics Global Services Q2FY27 Results: Net profit up 16.1% YoY - scanx.trade",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTk1GTnowVXo0cUVFbWRYbjd1RFlEaHlqdkpXa3BuU0V1ZnRoSnJ0Q19OUVM3TzA2NlRMUHBHSmpiTlRoVXRNSkh2Ti1EMDJmTWVHazNJM0xXSVNCNmhXYUZ1cS1jRGZUOVdQUlR6eUstYkRheEpvZzZJVk16RkhsNTR6M2dKQzA1OFk2SmtNdk9abDdDNnVRQUZ1cW9QdElkLVVrLVI5RnNjaGZUNXB6ZXpyM3k5RlNXenBvNXJvUmUycnM?oc=5",
+     "summary": "Datamatics Global Services Q2FY27 Results: Net profit up 16.1% YoY &nbsp;&nbsp; scanx.trade",
+     "date": "03 Nov 2026 18:52",
+     "publisher": "scanx.trade"
+    }
+   ]
+  },
+  {
+   "name": "News search: Pearson Workera ITS acquisition assessment",
+   "url": "https://news.google.com/rss/search?q=Pearson%20Workera%20ITS%20acquisition%20assessment%20when%3A7d&hl=en-IN&gl=IN&ceid=IN:en",
+   "status": 200,
+   "error": null,
+   "items": [
+    {
+     "title": "Pearson and Westermann collaborate to help learners in Germany build the English language skills they need to succeed in study and work - Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaFE0MUQ3T0RoaTlyUldVSkdsQmhjZlVMY1NaSXM3dlZmZUR3aDRMRUpjaTk2MVhnTWN6OWUybFh6OXI5MWZKVVM0STNVY3JWYW5tM2NiNjRwdVItU3hya3ZoRlBIZzBjVXpITWZpdExUVGtUUzA1anhpdzhKOWpQbVNmbE5MUHBQU1hwd2tRbVk4UmxxVTRmRUhEc3piWkppM3hlU3ZWVk1PX3lQYUE?oc=5",
+     "summary": "Pearson and Westermann collaborate to help learners in Germany build the English language skills they need to succeed in study and work &nbsp;&nbsp; Yahoo Finance",
+     "date": "04 Nov 2026 14:30",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "FTSE 100 Pearson (LSE:PSON) Finds Its Growth Gear - Kalkine Media",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMGZPXzhYRDRpa3AzalN5aUdDR0dka1pneWgtYzUyRUlrRXFSbU5ZVUFlNnh4UFNNd1lMcFRHd2diYzk1dXNFZGRDazFwdGc4Z2dRQldTVXRXUGpCNGNfMFFRU2J4cWNsOFZJYTJpNEdMTXJoTDUzbU1IeHJUVzNRMHRtSHphb0RfaTAzUmxPLVhmd0w4NzFTUWZhTQ?oc=5",
+     "summary": "FTSE 100 Pearson (LSE:PSON) Finds Its Growth Gear &nbsp;&nbsp; Kalkine Media",
+     "date": "03 Nov 2026 15:13",
+     "publisher": "Kalkine Media"
+    }
+   ]
+  },
+  {
+   "name": "News search: Inspera AI-assisted marking Graide",
+   "url": "https://news.google.com/rss/search?q=Inspera%20AI-assisted%20marking%20Graide%20when%3A7d&hl=en-IN&gl=IN&ceid=IN:en",
+   "status": 200,
+   "error": null,
+   "items": []
+  },
+  {
+   "name": "News search: Maritime and Coastguard Agency digital assessment seafarers",
+   "url": "https://news.google.com/rss/search?q=Maritime%20and%20Coastguard%20Agency%20digital%20assessment%20seafarers%20when%3A7d&hl=en-IN&gl=IN&ceid=IN:en",
+   "status": 200,
+   "error": null,
+   "items": [
+    {
+     "title": "Technostress grows as STCW takes 10 years to catch up with digital ships - Digital Ship",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOelFocnIxTjQ2Q24tWmtiaU9qaU1Oc1doNjBMbnNOSldVYlg4RWhPalBWS0FJdllkYm5sOUNsOG1iNUE5N0YwYkdUdWpMSEVmWWJ4MHU4bnZmYTVfYzNOYU9MV3BtaEpDS0g4c0xEMkxna2ZUM2NnMjg4eEdrUVdZck9KQkJ5bElXZ1ZwU0RRejdOMDZIcWFtRjJmcUFmZFlzTmE5QVFTT0ltSTlpWW1zUWpUV2hNeUhSaWF1LXdJQmM?oc=5",
+     "summary": "Technostress grows as STCW takes 10 years to catch up with digital ships &nbsp;&nbsp; Digital Ship",
+     "date": "06 Nov 2026 14:00",
+     "publisher": "Digital Ship"
+    }
+   ]
   }
  ],
  "publishers": {
-  "Jagran Josh": 16,
+  "Jagran Josh": 15,
   "Careers360": 11,
   "medadmit.in": 11,
   "The Times of India": 8,
   "TradingView": 5,
-  "India Today": 5,
   "The Hindu": 4,
   "PW": 4,
   "Education Times": 4,
+  "India Today": 4,
   "Investing.com India": 4,
   "Multibagg AI": 3,
   "KollegeApply News": 2,
@@ -6407,12 +6643,14 @@
   "Gulf News": 2,
   "The News Mill": 2,
   "Public Services International": 2,
+  "Yahoo Finance": 2,
   "DirectorsTalk Interviews": 2,
   "Singapore Examinations and Assessment Board": 2,
   "ETV Bharat": 2,
   "The Statesman": 2,
   "The New Indian Express": 2,
   "The 420.in": 2,
+  "Outlook India": 2,
   "Times Now": 2,
   "Free Press Journal": 2,
   "Inventiva": 2,
@@ -6442,7 +6680,6 @@
   "Investing.com": 1,
   "Umeå universitet": 1,
   "AIBase": 1,
-  "Yahoo Finance": 1,
   "Bioengineer.org": 1,
   "GuruFocus": 1,
   "EnviroNews Nigeria": 1,
@@ -6450,8 +6687,8 @@
   "Digital Journal": 1,
   "eNCA": 1,
   "Jacaranda FM": 1,
-  "AsiaOne.com": 1,
   "Informat.ro": 1,
+  "PR Newswire UK": 1,
   "Onmanorama": 1,
   "The Hawk": 1,
   "Punch Newspapers": 1,
@@ -6467,6 +6704,9 @@
   "News18": 1,
   "NDTV Profit": 1,
   "Law Trend": 1,
-  "EdexLive": 1
+  "EdexLive": 1,
+  "scanx.trade": 1,
+  "Kalkine Media": 1,
+  "Digital Ship": 1
  }
 }
