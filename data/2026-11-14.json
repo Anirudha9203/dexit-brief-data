@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-11-14T08:56:59.198990+05:30",
+ "scraped_at": "2026-11-14T12:33:44.260136+05:30",
  "sources": [
   {
    "name": "ET Education News",
@@ -8,7 +8,12 @@
    "error": null,
    "items": [
     {
-     "title": "From Azad's vision to NEP 2020: 79 years later, is India's education system delivering? As India marks National Education Day on November 11, the focus shifts from expanding access to ensuring quality, equity and meaningful learning. While the country has built a vast network of schools and universi",
+     "title": "Beyond Marks and Merits: Why India must rethink student success Children's Day 2026 brings renewed focus on the growing mental health challenges faced by students amid academic competition, examination stress and rising expectations. ETEducation examines how schools, parents and policymakers can cre",
+     "url": "https://education.economictimes.indiatimes.com/news/school-education/beyond-marks-and-merits-why-india-must-rethink-student-success/135811674?utm_source=latest_news&utm_medium=latestNews",
+     "summary": ""
+    },
+    {
+     "title": "From Azad's vision to NEP 2020: 79 years later, is India's education system delivering?",
      "url": "https://education.economictimes.indiatimes.com/news/industry/from-azads-vision-to-nep-2020-79-years-later-is-indias-education-system-delivering/135714703?utm_source=latest_news&utm_medium=latestNews",
      "summary": ""
     },
@@ -45,11 +50,6 @@
     {
      "title": "Not every university needs to become a research institution: Vineet Gupta",
      "url": "https://education.economictimes.indiatimes.com/news/higher-education/not-every-university-needs-to-become-a-research-institution-vineet-gupta/135226283?utm_source=latest_news&utm_medium=latestNews",
-     "summary": ""
-    },
-    {
-     "title": "AI could narrow entry-level career paths, pushing universities to rethink graduate training: IIT Madras paper",
-     "url": "https://education.economictimes.indiatimes.com/news/higher-education/ai-could-narrow-entry-level-career-paths-pushing-universities-to-rethink-graduate-training-iit-madras-paper/135205285?utm_source=latest_news&utm_medium=latestNews",
      "summary": ""
     },
     {
@@ -135,11 +135,6 @@
     {
      "title": "Expansion is no longer enough. What will define India's next generation of universities? India's higher education system is expanding and foreign universities are entering the country. But faculty strength, academic identity, affordability, research and student outcomes will determine which institut",
      "url": "https://education.economictimes.indiatimes.com/news/higher-education/expansion-is-no-longer-enough-what-will-define-indias-next-generation-of-universities/135758646?utm_source=latest_news&utm_medium=latestNews",
-     "summary": ""
-    },
-    {
-     "title": "Beyond Marks and Merits: Why India must rethink student success Children's Day 2026 brings renewed focus on the growing mental health challenges faced by students amid academic competition, examination stress and rising expectations. ETEducation examines how schools, parents and policymakers can cre",
-     "url": "https://education.economictimes.indiatimes.com/news/school-education/beyond-marks-and-merits-why-india-must-rethink-student-success/135811674?utm_source=latest_news&utm_medium=latestNews",
      "summary": ""
     },
     {
@@ -484,18 +479,18 @@
      "summary": ""
     },
     {
-     "title": "0 2 Byju’s tablets, laptops gather dust in warehouse as insolvency drags on",
+     "title": "0 2 IITM Pravartak Announces Batch 03 of Applied Artificial Intelligence and Deep Learning Programme",
+     "url": "https://education.economictimes.indiatimes.com/news/edutech/iitm-pravartak-launches-batch-03-for-advanced-artificial-intelligence-and-deep-learning-training/131806975",
+     "summary": ""
+    },
+    {
+     "title": "0 3 Byju’s tablets, laptops gather dust in warehouse as insolvency drags on",
      "url": "https://education.economictimes.indiatimes.com/news/edutech/byjus-tablets-laptops-gather-dust-in-warehouse-as-insolvency-drags-on/132115324",
      "summary": ""
     },
     {
-     "title": "0 3 IIT Kharagpur to use AI to monitor signs of academic stress in students",
+     "title": "0 4 IIT Kharagpur to use AI to monitor signs of academic stress in students",
      "url": "https://education.economictimes.indiatimes.com/news/edutech/iit-kharagpur-implements-ai-to-combat-student-academic-stress-and-ensure-mental-well-being/131799256",
-     "summary": ""
-    },
-    {
-     "title": "0 4 IITM Pravartak Announces Batch 03 of Applied Artificial Intelligence and Deep Learning Programme",
-     "url": "https://education.economictimes.indiatimes.com/news/edutech/iitm-pravartak-launches-batch-03-for-advanced-artificial-intelligence-and-deep-learning-training/131806975",
      "summary": ""
     },
     {
@@ -2175,9 +2170,265 @@
   {
    "name": "Indian Express Education",
    "url": "https://indianexpress.com/section/education/",
-   "status": 403,
+   "status": 200,
    "error": null,
-   "items": []
+   "items": [
+    {
+     "title": "JEE Advanced 2027 to be held on May 23: IIT Delhi announces",
+     "url": "https://indianexpress.com/article/education/jee-advanced-2027-exam-date-out-iit-delhi-eligibility-criteria-registration-link-cut-offs-jeeadv-ac-in-10961863/",
+     "summary": ""
+    },
+    {
+     "title": "Delhi the first choice, Mumbai the frontrunner: How ISB finally landed in Hyderabad",
+     "url": "https://indianexpress.com/article/education/delhi-the-first-choice-mumbai-the-frontrunner-how-isb-finally-landed-in-hyderabad-10961549/",
+     "summary": ""
+    },
+    {
+     "title": "Canada caps international student arrivals at 1.5 lakh a year in new immigration plan",
+     "url": "https://indianexpress.com/article/education/study-abroad/canada-caps-international-student-arrivals-at-1-5-lakh-a-year-in-new-immigration-plan-10961698/",
+     "summary": ""
+    },
+    {
+     "title": "In a first, Keralam allows extra time for type-1 diabetes candidates in KEAM, goes beyond JEE, CBSE norms",
+     "url": "https://indianexpress.com/article/education/kerala-keam-2027-extra-time-type-1-diabetes-rules-compared-nta-jee-main-neet-ug-cbse-board-exam-rules-10961305/",
+     "summary": ""
+    },
+    {
+     "title": "CAT 2026 candidates will undergo an AI-based facial recognition check",
+     "url": "https://indianexpress.com/article/education/cat-2026-candidates-will-undergo-an-ai-based-facial-recognition-check-10961184/",
+     "summary": ""
+    },
+    {
+     "title": "IIT Kharagpur launches postgraduate medical courses",
+     "url": "https://indianexpress.com/article/education/where-medicine-meets-engineering-iit-kharagpur-launches-postgraduate-medical-courses-10960518/",
+     "summary": ""
+    },
+    {
+     "title": "FMGE October 2026 results: Has the pass-rate improved?",
+     "url": "https://indianexpress.com/article/education/fmge-october-2026-results-pass-percentage-comparison-june-attempt-nbems-nmc-10959731/",
+     "summary": ""
+    },
+    {
+     "title": "Keralam SSLC, Plus Two exam dates 2027 announced; exams to begin March 1",
+     "url": "https://indianexpress.com/article/education/kbpe-kerala-public-exams-sslc-higher-secondary-board-exam-schedule-2027-timetable-important-dates-10961254/",
+     "summary": ""
+    },
+    {
+     "title": "Telangana to scrap intermediate colleges, bring Classes 11, 12 into schools",
+     "url": "https://indianexpress.com/article/education/telangana-to-do-away-with-intermediate-colleges-bring-classes-11-12-into-schools-10959724/",
+     "summary": ""
+    },
+    {
+     "title": "Harvard has an A-grade problem: Is everyone a topper?",
+     "url": "https://indianexpress.com/article/education/harvard-university-grade-inflation-crimson-survey-ai-use-cambridge-student-visa-10946448/",
+     "summary": ""
+    },
+    {
+     "title": "AIBE 22 Admit Card 2026: BCI to release hall tickets today",
+     "url": "https://indianexpress.com/article/education/aibe-22-admit-card-2026-out-download-link-allindiabarexamination-com-hall-ticket-exam-date-timings-10962659/",
+     "summary": "AIBE 22 Admit Card 2026: In the previous session, AIBE XXI was conducted on June 7, a total of 1,75,701 candidates appeared for the examination."
+    },
+    {
+     "title": "ICSI to declare CSEET October exam result 2026 on November 15 at icsi.edu",
+     "url": "https://indianexpress.com/article/education/icsi-to-declare-cseet-october-exam-result-2026-on-november-15-at-icsi-edu-10961592/",
+     "summary": "The formal e-Result-cum-Marks Statement will be uploaded immediately after the declaration of results."
+    },
+    {
+     "title": "University of Glasgow launches free online Scottish crime writing course",
+     "url": "https://indianexpress.com/article/education/university-of-glasgow-launches-free-online-scottish-crime-writing-course-10960381/",
+     "summary": "The course will take participants through the storytelling techniques behind Scotland’s crime fiction tradition, examining plot twists, character development and narrative style."
+    },
+    {
+     "title": "Today News Headlines for School Assembly, November 13, 2026: Delhi air quality gets worse; IOC expresses ‘extreme regret’ on IOA elections",
+     "url": "https://indianexpress.com/article/education/today-news-headlines-for-school-assembly-november-13-2026-caqm-directs-assessment-of-stubble-burning-sites-in-punjab-10959941/",
+     "summary": "Today News Headlines for School Assembly, November 13, 2026: CAQM has directed assessment of stubble burning sites in Punjab following a recent rise in incidents. New Zealand defeated India in first of two FIFA international friendlies."
+    },
+    {
+     "title": "Why Australia’s proposed student visa rules might hit Indian applicants hardest",
+     "url": "https://indianexpress.com/article/education/why-australias-proposed-student-visa-rules-might-hit-indian-applicants-hardest-10956737/",
+     "summary": "India was moved to Evidence Level 3 in January 2026. Nepal, Bangladesh and Bhutan moved with it. This is the highest-risk tier. The level decides how much proof an applicant is required to give."
+    },
+    {
+     "title": "JKBOSE Winter Zone Results 2026 for Class 10th, 11th, 12th likely by January 10",
+     "url": "https://indianexpress.com/article/education/jkbose-winter-zone-results-2026-class-10th-11th-12th-out-by-january-10-jkbose-jk-gov-in-direct-link-download-10959963/",
+     "summary": "JKBOSE winter zone Class 10 exams have started from October 19 and will conclude by November 18, while Class 12 exams taking place from October 21 will end by November 21. As announced by the board chairman, the result will likely be announced by January 10."
+    },
+    {
+     "title": "Keralam to set up Nursing University; plans to increase seats by 50%",
+     "url": "https://indianexpress.com/article/education/keralam-set-up-nursing-university-plans-increase-seats-by-50-percent-10959842/",
+     "summary": "The Minister said that his government would also review the existing regulatory framework to ensure that nursing education meets national standards while supporting the expansion of educational institutions and opportunities."
+    },
+    {
+     "title": "IIT Bombay introduces e-Postgraduate Diploma in Innovation, Entrepreneurship",
+     "url": "https://indianexpress.com/article/education/iit-bombay-introduces-e-postgraduate-diploma-in-innovation-entrepreneurship-10959817/",
+     "summary": "The total programme fee is Rs 4,50,000, excluding additional taxes, with applications open until November 12. Interested candidates can visit the official portal, execed.iimmumbai.ac.in, to register themselves for this programme."
+    },
+    {
+     "title": "Over 400 MBBS seats remain unoccupied after special stray vacancy round",
+     "url": "https://indianexpress.com/article/education/over-400-mbbs-seats-remain-unoccupied-after-special-stray-vacancy-round-10959039/",
+     "summary": "The Supreme Court had directed the committee to conduct four rounds of counselling. However, to fill the remaining vacancies, MCC organised a fifth round."
+    },
+    {
+     "title": "Today News Headlines for School Assembly, November 12, 2026: PM Modi to inaugurate Bengaluru-Mangaluru-Madgaon Vande Bharat Express",
+     "url": "https://indianexpress.com/article/education/today-news-headlines-for-school-assembly-november-12-2026-mi-trade-hardik-pandya-to-pbks-for-rs-18-crore-10956122/",
+     "summary": "Today News Headlines for School Assembly, November 12, 2026: Mumbai Indian have traded its former captain Hardik Pandya to Punjab Kings for Rs 18 crore and swapped him with Arshdeep Singh. Two CAPF personnels have been injured in a suspected terror attack in Kulgam."
+    },
+    {
+     "title": "69% of UK business schools see fall in overseas enrolments as financial crisis deepens",
+     "url": "https://indianexpress.com/article/education/study-abroad/uk-business-schools-admissions-take-hit-international-student-enrolments-chartered-abs-survey-financial-crisis-deepens-10958761/",
+     "summary": "A survey by the Chartered ABS reveals that 94% of business schools depend on international fees for survival, with 47% already reporting lost income in 2025–26 and 59% anticipating further declines. For more details, visit Chartered ABS."
+    },
+    {
+     "title": "IIT Madras Pravartak launches free online training for school students, educators",
+     "url": "https://indianexpress.com/article/education/iit-madras-pravartak-launches-free-online-training-for-school-students-educators-10958617/",
+     "summary": "School Students, from Class 7 to Class 12, will receive training in emerging technologies such as AI fundamentals, EV and future mobility, fundamentals of entrepreneurship, design thinking and innovation."
+    },
+    {
+     "title": "Manipur Board HSLC, HSE date sheet 2027 out; check subject-wise exam dates here",
+     "url": "https://indianexpress.com/article/education/manipur-board-hslc-hse-date-sheet-2027-out-check-subject-wise-exam-dates-here-10958650/",
+     "summary": "The board has informed Class 10 students that papers carrying 80 marks will be conducted for 3 hours in morning shift, from 9 am to 12 pm while papers with 48 marks will be held for 2 hours, from 9 am to 11 am."
+    },
+    {
+     "title": "NMC warns students against unapproved medical colleges, misleading MBBS admission offers",
+     "url": "https://indianexpress.com/article/education/nmc-warns-students-against-unapproved-medical-colleges-misleading-mbbs-admission-offers-10958479/",
+     "summary": "The court directed regulatory bodies to caution students against dealing with medical colleges without checking their authenticity. The orders followed a reported incident involving a purported fake medical college operating from a farmhouse and claiming to offer various courses."
+    },
+    {
+     "title": "7 in 10 Indian schools have a computer, but are students getting to use them?",
+     "url": "https://indianexpress.com/article/education/national-education-day-maulana-azad-7-in-10-indian-schools-have-a-computer-but-official-data-reveals-a-major-learning-gap-10957816/",
+     "summary": "India's schools are getting computers and connections quickly. The latest data shows how much of that is still not working for students."
+    },
+    {
+     "title": "FMGE October 2026 result released; over 9,000 candidates pass the exam",
+     "url": "https://indianexpress.com/article/education/fmge-october-2026-result-out-natboard-edu-in-direct-link-scorecard-pdf-download-10958448/",
+     "summary": "As mentioned by the board in its notice, the individual scorecard of the candidates who appeared in FMGE October 2026 can be downloaded from the above-mentioned website on or after November 20."
+    },
+    {
+     "title": "Pizzeria Americano: Alex Sanchez’s new pizza parlour in Kala Ghoda is worth the queue Cities 47 min ago It's 5.25 pm and a queue has already started forming outside Pizzeria Americano, which opens at 5.30 pm and is barely a fortnight old. It is a sign of the following chef Alex Sanchez has built in ",
+     "url": "https://indianexpress.com/shorts/cities/mumbai/pizzeria-americano-alex-sanchezs-new-pizza-parlour-in-kala-ghoda-is-worth-the-queue-10962737/?ref=education",
+     "summary": "It's 5.25 pm and a queue has already started forming outside Pizzeria Americano, which opens at 5.30 pm and is barely a fortnight old. It is a sign of the following chef Alex Sanchez has built in Mumbai. The San Francisco-raised chef first came to India to helm The Table when it opened in 2011."
+    },
+    {
+     "title": "After complaints from two ECs against officer, Cabinet Secretariat noted action may be ‘inappropriate’, seen as ‘interference’",
+     "url": "https://indianexpress.com/article/india/cabinet-secretariat-provides-file-notings-in-rti-reply-10932944/",
+     "summary": ""
+    },
+    {
+     "title": "‘Our only hope is he stays alive’: Drugs are hurting Bihar, one family at a time",
+     "url": "https://indianexpress.com/article/express-exclusive/bihar-prohibition-drug-crisis-ndps-cases-opioid-abuse-rehab-shortage-express-exclusive-10932938/",
+     "summary": ""
+    },
+    {
+     "title": "Udta Teer movie review: Ayushmann Khurrana film is a tedious mix of spoof and sentiment",
+     "url": "https://indianexpress.com/article/entertainment/movie-review/udta-teer-movie-review-ayushmann-khurrana-film-tedious-mix-spoof-and-sentiment-10933188/",
+     "summary": ""
+    },
+    {
+     "title": "Daler Mehndi's son on singer's health amid Uttarakhand concert row: 'He's first class'",
+     "url": "https://indianexpress.com/article/entertainment/music/daler-mehndi-son-gurdeep-breaks-silence-health-amid-uttarakhand-concert-controversy-first-class-fantastic-10933098/",
+     "summary": ""
+    },
+    {
+     "title": "'Not one spy girl sent my way': Telegram's Pavel Durov amid Nvidia China ‘spy’ row",
+     "url": "https://indianexpress.com/article/trending/trending-globally/pavel-durov-jensen-huang-spy-controversy-dating-joke-10960216/",
+     "summary": ""
+    },
+    {
+     "title": "'Kashmiri haakh, arhar daal, kebabs': Sonia Gandhi reveals her favourite Indian dishes",
+     "url": "https://indianexpress.com/article/trending/trending-in-india/sonia-gandhi-favourite-indian-food-dal-chawal-kashmiri-haakh-rajiv-gandhi-10960046/",
+     "summary": ""
+    },
+    {
+     "title": "India vs Pakistan Live Score, U19 Asia Cup Final",
+     "url": "https://indianexpress.com/article/sports/cricket/ind-vs-pak-live-cricket-score-india-u19-vs-pakistan-u19-asia-cup-final-match-today-scorecard-al-amerat-10962570/",
+     "summary": ""
+    },
+    {
+     "title": "In smaller towns, how youngsters are evolving to realise their IPL dreams",
+     "url": "https://indianexpress.com/article/sports/cricket/syed-mushtaq-ali-trophy-small-towns-youngsters-ipl-dreams-10962273/",
+     "summary": ""
+    },
+    {
+     "title": "Jensen Huang episode illustrates the newest instance of a decades-old strategy",
+     "url": "https://indianexpress.com/article/opinion/columns/nvidia-jensen-huang-scandal-ai-geopolitics-espionage-pax-silica-10960325/",
+     "summary": ""
+    },
+    {
+     "title": "Rising costs, stagnating wages: Why workers are protesting in India",
+     "url": "https://indianexpress.com/article/explained/rising-costs-stagnating-wages-why-workers-are-protesting-in-india-10636950/",
+     "summary": ""
+    },
+    {
+     "title": "Sai Pallavi reveals what keeps her grounded: 'I started thinking about how Sita Maa would react'",
+     "url": "https://indianexpress.com/article/lifestyle/sai-pallavi-what-keeps-her-grounded-meditation-benefits-10947555/",
+     "summary": ""
+    },
+    {
+     "title": "I used Apple’s HomeView for a week. Here is what it did and didn’t change",
+     "url": "https://indianexpress.com/article/technology/tech-reviews/apple-homeview-review-price-india-siri-ai-smart-display-10962514/",
+     "summary": ""
+    },
+    {
+     "title": "India's SRK paradox: Box office at home, dud in SENA countries",
+     "url": "https://indianexpress.com/article/sports/cricket/rohit-sharma-virat-kohli-shubman-gill-srk-paradox-india-sena-10962293/",
+     "summary": ""
+    },
+    {
+     "title": "Grand Challenges unearth impact-driven tech innovators: Subhashree Dutta, CEO, the^delta",
+     "url": "https://indianexpress.com/article/technology/tech-news-technology/ai-tech-social-enterprises-social-impact-india-subhashree-dutta-10961967/",
+     "summary": ""
+    },
+    {
+     "title": "Microsoft outage highlights risks of relying on a single technology provider",
+     "url": "https://indianexpress.com/article/technology/microsoft-outage-highlights-risks-of-relying-on-a-single-technology-provider-10962462/",
+     "summary": ""
+    },
+    {
+     "title": "Carlsen’s 15-year reign as World no 1 under threat after defeat at Total Chess",
+     "url": "https://indianexpress.com/article/sports/chess/magnus-carlsen-15-year-reign-world-no-1-threat-total-chess-defeat-10962326/",
+     "summary": ""
+    },
+    {
+     "title": "Phoney election foisted on people with rocket speed in mid-winter: Sonam Wangchuk",
+     "url": "https://indianexpress.com/article/india/sonam-wangchuk-leh-ladakh-phoney-lahdc-election-10962309/",
+     "summary": ""
+    },
+    {
+     "title": "The ex-armyman who organises a chess tournament on 1st Saturday of every month",
+     "url": "https://indianexpress.com/article/sports/chess/laszlo-nagy-ex-armyman-chess-tournament-1st-saturday-10962296/",
+     "summary": ""
+    },
+    {
+     "title": "Nafisa Ali’s MRI experience puts spotlight on why scanners make strange sounds: ‘So noisy’",
+     "url": "https://indianexpress.com/article/lifestyle/health/nafisa-ali-mri-noisy-radiologist-explains-reasons-10961175/",
+     "summary": ""
+    },
+    {
+     "title": "Minor accuses Jharkhand Congress MLA of sexual assault, forced abortion; FIR registered under POCSO",
+     "url": "https://indianexpress.com/article/india/jharkhand-congress-mla-pocso-case-minor-girl-allegations-10962276/",
+     "summary": ""
+    },
+    {
+     "title": "Bouma review: Dileesh Pothan’s technically dazzling gothic thriller is marred by weak writing",
+     "url": "https://indianexpress.com/article/entertainment/movie-review/bouma-review-dileesh-pothans-technically-dazzling-gothic-thriller-is-marred-by-weak-writing-10961068/",
+     "summary": ""
+    },
+    {
+     "title": "FDA suspends Pasteur ice cream parlour’s license over unhygienic conditions",
+     "url": "https://indianexpress.com/article/cities/pune/pune-fda-suspends-pasteur-ice-cream-parlour-licence-10962265/",
+     "summary": ""
+    },
+    {
+     "title": "Adani project cost revision: Opposition questions government, inquiry by independent higher authority sought",
+     "url": "https://indianexpress.com/article/cities/pune/adani-green-satara-project-cost-cut-opposition-demands-jpc-probe-maharashtra-10962259/",
+     "summary": ""
+    },
+    {
+     "title": "India U19 vs Pakistan U19 Asia Cup final Match Live Cricket Streaming: When and where to watch IND vs PAK match live",
+     "url": "https://indianexpress.com/article/sports/cricket/india-vs-pakistan-u19-asia-cup-final-live-cricket-streaming-ind-pak-10962252/",
+     "summary": ""
+    }
+   ]
   },
   {
    "name": "Inshorts Education",
@@ -2185,6 +2436,26 @@
    "status": 200,
    "error": null,
    "items": [
+    {
+     "title": "JEE Advanced 2027 on May 23; calculator allowed for first time",
+     "url": "https://inshorts.com/en/news/jee-advanced-2027-on-may-23--calculator-allowed-for-first-time-1794639149389",
+     "summary": ""
+    },
+    {
+     "title": "NHRC issues notice to Education Ministry over Veer Baal Diwas neglect",
+     "url": "https://inshorts.com/en/news/nhrc-issues-notice-to-education-ministry-over-veer-baal-diwas-neglect-1794632240643",
+     "summary": ""
+    },
+    {
+     "title": "Assam CM reviews Swahid Kanaklata University construction at Gohpur",
+     "url": "https://inshorts.com/en/news/assam-cm-reviews-swahid-kanaklata-university-construction-at-gohpur-1794631439139",
+     "summary": ""
+    },
+    {
+     "title": "Bathinda girl spells 100 words backward in 2 mins, sets record",
+     "url": "https://inshorts.com/en/news/bathinda-girl-spells-100-words-backward-in-2-mins--sets-record-1794629175902",
+     "summary": ""
+    },
     {
      "title": "YSRCP demands Minister Lokesh's resignation over fee arrears crisis",
      "url": "https://inshorts.com/en/news/ysrcp-demands-lokesh-s-resignation-over-fee-arrears-crisis-1794625531889",
@@ -2214,26 +2485,6 @@
      "title": "20-year-old student dies by suicide at IIT-Roorkee",
      "url": "https://inshorts.com/en/news/20-year-old-student-dies-by-suicide-at-iit-roorkee-1794562011320",
      "summary": ""
-    },
-    {
-     "title": "Study uncovers why dengue can suddenly turn life-threatening",
-     "url": "https://inshorts.com/en/news/study-uncovers-why-dengue-can-suddenly-turn-life-threatening-1794556071723",
-     "summary": ""
-    },
-    {
-     "title": "Karnataka CM orders election-level security for KPSC exam",
-     "url": "https://inshorts.com/en/news/karnataka-cm-orders-election-level-security-for-kpsc-exam-1794553103144",
-     "summary": ""
-    },
-    {
-     "title": "President Murmu meets meritorious Eklavya school students",
-     "url": "https://inshorts.com/en/news/president-murmu-meets-meritorious-eklavya-school-students-1794552101896",
-     "summary": ""
-    },
-    {
-     "title": "PGICH Noida launches HPV vaccination study for cervical cancer",
-     "url": "https://inshorts.com/en/news/pgich-noida-launches-hpv-vaccination-study-for-cervical-cancer-1794551552163",
-     "summary": ""
     }
    ]
   },
@@ -2249,14 +2500,14 @@
      "summary": "AIBE 22 will be conducted on November 29 and candidates must carry a printed copy of their admit card to the examination centre, along with one valid ID proof."
     },
     {
+     "title": "Live JEE Main 2027 Registration LIVE: 5.94 lakh pay fees, over 1.92 lakh forms await payment; here's how to apply NTA has introduced changes to JEE Main 2027 application process, including mandatory Meri Pehchaan login through DigiLocker, e-Pramaan or JanParichay. Now NRI candidates without Aadhaar ",
+     "url": "https://news.careers360.com/jee-main-2027-registration-live-updates-session-1-form-last-date-jeemain-nta-nic-in-login-link-fees-eligibility-documents-news",
+     "summary": "NTA has introduced changes to JEE Main 2027 application process, including mandatory Meri Pehchaan login through DigiLocker, e-Pramaan or JanParichay. Now NRI candidates without Aadhaar can also apply using a valid Indian passport."
+    },
+    {
      "title": "CAT 2026 exam on November 29: How to prepare for VARC, DILR and Quant in the final 15 days CAT aspirants should practise 20 to 25 Quant questions daily, revise formulas and concepts, and attempt online sectional tests. Candidates are also advised to identify easier questions first and balance speed ",
      "url": "https://news.careers360.com/cat-2026-november-29-exam-varc-dilr-quant-preparation-tips-tricks-final-15-days-iim-admission-mba",
      "summary": "CAT aspirants should practise 20 to 25 Quant questions daily, revise formulas and concepts, and attempt online sectional tests. Candidates are also advised to identify easier questions first and balance speed with accuracy."
-    },
-    {
-     "title": "Live JEE Main 2027 Registration LIVE: 4.9 lakh pay fees, over 6.7 lakh forms await payment; here's how to apply NTA has introduced changes to JEE Main 2027 application process, including mandatory Meri Pehchaan login through DigiLocker, e-Pramaan or JanParichay. NRI candidates without Aadhaar can al",
-     "url": "https://news.careers360.com/jee-main-2027-registration-live-updates-session-1-form-last-date-jeemain-nta-nic-in-login-link-fees-eligibility-documents-news",
-     "summary": "NTA has introduced changes to JEE Main 2027 application process, including mandatory Meri Pehchaan login through DigiLocker, e-Pramaan or JanParichay. NRI candidates without Aadhaar can also apply using a valid Indian passport."
     },
     {
      "title": "Live RRB Group D Result 2026 (Out) LIVE: Railway board scorecard at indianrailways.gov.in; merit list, cut-offs Railway Recruitment Board has announced Group D results 2026 on its official website; candidates can check updates related to the scorecard PDF, merit list, qualifying status and cut-off d",
@@ -2425,6 +2676,16 @@
      "summary": ""
     },
     {
+     "title": "NMC seat matrix: 2,848 MS Ophthalmology seats for 2026-27",
+     "url": "https://medicaldialogues.in/news/education/nmc-seat-matrix-2848-ms-ophthalmology-seats-for-2026-27-183155",
+     "summary": ""
+    },
+    {
+     "title": "5,466 MS Obstetrics Gynaecology seats across India for 2026-27",
+     "url": "https://medicaldialogues.in/news/education/5466-ms-obstetrics-gynaecology-seats-across-india-for-2026-27-183141",
+     "summary": ""
+    },
+    {
      "title": "MCC NEET PG counselling 2026 seat matrix revised, check updated clear, virtual vacancies here!",
      "url": "https://medicaldialogues.in/news/education/medical-admissions/mcc-neet-pg-counselling-2026-seat-matrix-revised-check-updated-clear-virtual-vacancies-here-183176",
      "summary": ""
@@ -2475,14 +2736,9 @@
      "summary": ""
     },
     {
-     "title": "GMCH Chandigarh gets NMC approval for 22 PG medical seats 2026-27, awaits nod for 5 DM seats",
-     "url": "https://medicaldialogues.in/news/education/medical-colleges/gmch-chandigarh-gets-nmc-approval-for-22-pg-medical-seats-2026-27-awaits-nod-for-5-dm-seats-183081",
-     "summary": ""
-    },
-    {
-     "title": "6,983 MD Medicine seats across India, 921 in Karnataka: NMC seat matrix 2026",
-     "url": "https://medicaldialogues.in/news/education/6983-md-medicine-seats-across-india-921-in-karnataka-nmc-seat-matrix-2026-183077",
-     "summary": ""
+     "title": "Clinical Insights for Allergic Rhinitis Management with Fexofenadine and Pseudoephedrine Combination...",
+     "url": "https://medicaldialogues.in/ent/clinical-insights-for-allergic-rhinitis-management-with-fexofenadine-and-pseudoephedrine-combination-dr-makarand-damle-183202",
+     "summary": "Clinical Insights for Allergic Rhinitis Management with Fexofenadine and Pseudoephedrine Combination..."
     },
     {
      "title": "Effect of Saroglitazar in MASLD: Latest Indian 2026 Study",
@@ -2503,16 +2759,6 @@
      "title": "Cardio-Selective Beta-blockers in COPD: Five Key Points Clinicians Need to Know from Latest 2026...",
      "url": "https://medicaldialogues.in/cardiology-ctvs/news/cardio-selective-beta-blockers-in-copd-five-key-points-clinicians-need-to-know-from-latest-2026-published-review-182819",
      "summary": "Cardio-Selective Beta-blockers in COPD: Five Key Points Clinicians Need to Know from Latest 2026..."
-    },
-    {
-     "title": "Dapagliflozin-Sitagliptin in T2D: Moving Beyond HbA1c Towards a Broader Orbit of Care",
-     "url": "https://medicaldialogues.in/diabetes-endocrinology/perspective/dapagliflozin-sitagliptin-in-t2d-moving-beyond-hba1c-towards-a-broader-orbit-of-care-182809",
-     "summary": "Dapagliflozin-Sitagliptin in T2D: Moving Beyond HbA1c Towards a Broader Orbit of Care"
-    },
-    {
-     "title": "Ultra-Processed Foods Linked to Greater Premenstrual Symptom Severity in Young Women, Study Finds",
-     "url": "https://medicaldialogues.in/mdtv/diet-nutrition/videos/ultra-processed-foods-linked-to-greater-premenstrual-symptom-severity-in-young-women-study-finds-183150",
-     "summary": "Ultra-Processed Foods Linked to Greater Premenstrual Symptom Severity in Young Women, Study Finds"
     }
    ]
   },
@@ -2962,6 +3208,21 @@
    "error": null,
    "items": [
     {
+     "title": "India’s Forex Reserves Rise USD 2.49 Bn to USD 719.55 Bn",
+     "url": "https://india.entrepreneur.com/business-news/indias-forex-reserves-rise-usd-2-49-bn-to-usd-719-55-bn",
+     "summary": ""
+    },
+    {
+     "title": "Weekly Funding Roundup: Froncort.AI Leads a Muted Week for India’s Startups",
+     "url": "https://india.entrepreneur.com/business-news/weekly-funding-roundup-froncort-ai-leads-a-muted-week-for-indias-startups",
+     "summary": ""
+    },
+    {
+     "title": "Inside India’s Deep-Tech Race: The Capital, Policy and Scale Challenge",
+     "url": "https://india.entrepreneur.com/business-news/inside-indias-deep-tech-race-the-capital-policy-and-scale-challenge",
+     "summary": ""
+    },
+    {
      "title": "IITF 2026 to Showcase 600 Startups as Piyush Goyal Inaugurates Fair Today",
      "url": "https://india.entrepreneur.com/business-news/iitf-2026-to-showcase-600-startups-as-piyush-goyal-inaugurates-fair-today",
      "summary": ""
@@ -3090,21 +3351,6 @@
      "title": "Emerging Young Entrepreneurs of the Year: How LocalHost HQ Is Rethinking the Venture Accelerator",
      "url": "https://india.entrepreneur.com/business-news/emerging-young-entrepreneurs-of-the-year-how-localhost-hq-is-rethinking-the-venture-accelerator",
      "summary": ""
-    },
-    {
-     "title": "Jensen Huang Pulls Out of ElevenLabs Summit Amid Nvidia Probe",
-     "url": "https://india.entrepreneur.com/business-news/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-probe",
-     "summary": ""
-    },
-    {
-     "title": "Jefferies Raises India Allocation to 14%, Cuts Korea and Taiwan",
-     "url": "https://india.entrepreneur.com/business-news/jefferies-raises-india-allocation-to-14-cuts-korea-and-taiwan",
-     "summary": ""
-    },
-    {
-     "title": "Sarvam AI Names Ex-Google Cloud India MD as President",
-     "url": "https://india.entrepreneur.com/business-news/sarvam-ai-names-ex-google-cloud-india-md-as-president",
-     "summary": ""
     }
    ]
   },
@@ -3128,6 +3374,11 @@
      "title": "D2CX Foundations by Inc42 is a 6-week program, with recorded masterclasses and live Q&A, for founders launching a D2C brand. Learn from India's top 1% D2C founders and experts through hands-on insights, real case studies and proven execution frameworks, from GTM and brand strategy to marketing, mark",
      "url": "https://foundations.d2cx.co/?utm_medium=referral&utm_source=inc42&utm_campaign=d2cx-foundation&utm_content=button-feb",
      "summary": "D2CX Foundations by Inc42 is a 6-week program, with recorded masterclasses and live Q&A, for founders launching a D2C brand. Learn from India's top 1% D2C founders and experts through hands-on insights, real case studies and proven execution frameworks, from GTM and brand strategy to marketing, mark"
+    },
+    {
+     "title": "From Greenjoules To mistEO — Indian Startups Raised Over $25 Mn This Week",
+     "url": "https://inc42.com/buzz/from-greenjoules-to-misteo-indian-startups-raised-over-25-mn-this-week/",
+     "summary": ""
     },
     {
      "title": "SoftBank Offloads Meesho Shares Worth ₹1,855 Cr",
@@ -3182,11 +3433,6 @@
     {
      "title": "Karnataka HC Examines Allegations In SFIO Case Involving Razorpay",
      "url": "https://inc42.com/buzz/karnataka-hc-rejects-razorpay-cofounders-plea-to-quash-sfio-case/",
-     "summary": ""
-    },
-    {
-     "title": "Microsoft 365 Outage Disrupts Outlook, Teams Globally",
-     "url": "https://inc42.com/buzz/microsoft-365-outage-disrupts-outlook-teams-globally/",
      "summary": ""
     },
     {
@@ -3381,6 +3627,16 @@
    "error": null,
    "items": [
     {
+     "title": "Journalists must get VC’s permission to enter campus: MG University directive sparks protests",
+     "url": "https://thesouthfirst.com/keralam/journalists-must-get-vcs-permission-to-enter-campus-mg-university-directive-sparks-protests/",
+     "summary": ""
+    },
+    {
+     "title": "‘Power’ games in Keralam: CM, Electricity Minister sing different tunes on proposed GNA deal",
+     "url": "https://thesouthfirst.com/keralam/power-games-in-keralam-cm-electricity-minister-sing-different-tunes-on-proposed-gna-deal/",
+     "summary": ""
+    },
+    {
      "title": "Kanayi dedicates sculptures commemorating Endosulfan victims amid controversy over Speaker’s withdrawal",
      "url": "https://thesouthfirst.com/keralam/kanayi-dedicates-sculptures-commemorating-endosulfan-victims-amid-controversy-over-speakers-withdrawal/",
      "summary": ""
@@ -3521,13 +3777,8 @@
      "summary": ""
     },
     {
-     "title": "Promised work in Dubai, Kollam resident ends up in Iran without his passport; Keralam Labour Minister steps in",
-     "url": "https://thesouthfirst.com/keralam/promised-work-in-dubai-kollam-resident-ends-up-in-iran-without-his-passport-keralam-labour-minister-steps-in/",
-     "summary": ""
-    },
-    {
-     "title": "Vande Mataram row: BJP alleges Keralam Minister K Muraleedharan, others breached protocol at Kasaragod programme",
-     "url": "https://thesouthfirst.com/keralam/vande-mataram-row-bjp-alleges-keralam-minister-k-muraleedharan-others-breached-protocol-at-kasaragod-programme/",
+     "title": "Gem Veeramani POCSO case: Three women police officers moved to vacancy reserve",
+     "url": "https://thesouthfirst.com/tamilnadu/gem-veeramani-pocso-case-three-women-police-officers-moved-to-vacancy-reserve/",
      "summary": ""
     },
     {
@@ -3604,11 +3855,6 @@
      "title": "Meat-eaters anti-social? Shops shut in Anekal citing security concerns ahead of Modi’s visit",
      "url": "https://thesouthfirst.com/karnataka/meat-eaters-anti-social-shops-shut-in-anekal-citing-security-concerns-ahead-of-modis-visit/",
      "summary": ""
-    },
-    {
-     "title": "First phase notification released for Gram Panchayat Elections in Andhra Pradesh",
-     "url": "https://thesouthfirst.com/andhrapradesh/first-phase-notification-released-for-gram-panchayat-elections-in-andhra-pradesh/",
-     "summary": ""
     }
    ]
   },
@@ -3684,18 +3930,23 @@
      "summary": ""
     },
     {
-     "title": "Mammootty the common uniting factor for two Kerala churches",
-     "url": "https://www.thehansindia.com/news/national/mammootty-the-common-uniting-factor-for-two-kerala-churches-1141829",
+     "title": "Bharat Summit Under Fire: Congress Agenda Questioned, BJP State Chief Put Under House Arrest",
+     "url": "https://www.thehansindia.com/telangana/bharat-summit-under-fire-congress-agenda-questioned-bjp-state-chief-put-under-house-arrest-1142046",
      "summary": ""
     },
     {
-     "title": "Gujarat: Accused held in hit-and-run that killed Rapido passenger",
-     "url": "https://www.thehansindia.com/news/national/gujarat-accused-held-in-hit-and-run-that-killed-rapido-passenger-1141828",
+     "title": "Dhanush And Sai Pallavi’s OM Trailer Is Out",
+     "url": "https://www.thehansindia.com/cinema/dhanush-and-sai-pallavis-om-trailer-is-out-1142045",
      "summary": ""
     },
     {
-     "title": "Bobby Deol & Prakash Jha celebrate 'Aashram Season 4' wrap with a cake-cutting ceremony",
-     "url": "https://www.thehansindia.com/cinema/bobby-deol-prakash-jha-celebrate-aashram-season-4-wrap-with-a-cake-cutting-ceremony-1141827",
+     "title": "Elon Musk Joins 43,000 Signatures Seeking Jensen Huang’s Return to Nvidia",
+     "url": "https://www.thehansindia.com/tech/elon-musk-joins-43000-signatures-seeking-jensen-huangs-return-to-nvidia-1142044",
+     "summary": ""
+    },
+    {
+     "title": "AP CM Chandrababu, Lokesh Greet Children on National Children’s Day",
+     "url": "https://www.thehansindia.com/andhra-pradesh/ap-cm-chandrababu-lokesh-greet-children-on-national-childrens-day-1142043",
      "summary": ""
     }
    ]
@@ -3714,6 +3965,11 @@
    "error": null,
    "items": [
     {
+     "title": "क्या खतरे में पड़ेगी मंत्री अशोक चौधरी की विधान परिषद सदस्यता? लाभ के पद विवाद में फंसे, अब AG करेंगे जांच",
+     "url": "https://www.patrika.com/national-news/ashok-choudhary-assistant-professor-appointment-office-of-profit-row-21049446",
+     "summary": "राष्ट्रीय"
+    },
+    {
      "title": "‘खरगे के घर मॉक पार्लियामेंट करेंगे, असली संसद में चर्चा से भागते हैं’, चिराग पासवान का विपक्ष पर हमला",
      "url": "https://www.patrika.com/national-news/chirag-paswan-attack-opposition-mock-parliament-kharge-21047231",
      "summary": "राष्ट्रीय"
@@ -3729,58 +3985,53 @@
      "summary": "राष्ट्रीय"
     },
     {
-     "title": "Bihar News: जमीन बेचने को लेकर घर में हुआ ऐसा विवाद, एक ही परिवार के चार लोगों ने खाया जहर, तीन की मौत",
-     "url": "https://www.patrika.com/patna-news/vaishali-family-poison-case-three-dead-bihar-21046135",
-     "summary": "पटना"
+     "title": "सीने में दर्द को हमेशा न समझें हार्ट अटैक का संकेत, पसलियों के जोड़ में सूजन भी हो सकती है वजह, जानें क्या है Costochondritis",
+     "url": "https://www.patrika.com/health-news/costochondritis-chest-pain-not-always-heart-attack-nhs-21049220",
+     "summary": "स्वास्थ्य"
     },
     {
-     "title": "किडनी, दिल और आंखें खतरे में, एमपी का हर 7 वां वयस्क गंभीर रोग से हुआ पीड़ित",
-     "url": "https://www.patrika.com/bhopal-news/every-seventh-adult-in-mp-is-on-the-threshold-of-diabetes-21049223",
+     "title": "‘तुझे वश में करना आसान है’, घर में खुला रिश्तों और मैनिपुलेशन का कच्चा चिट्ठा, आम्रपाली की बातों से सन्न रह गए स्काउट",
+     "url": "https://www.patrika.com/ott-news/amrapali-dubey-react-love-gill-game-front-of-youtube-said-it-is-easy-to-manipulate-you-21049557",
+     "summary": "OTT"
+    },
+    {
+     "title": "Godhra train Burning: सोनिया गांधी की किताब में “विवादित” आग: साबरमती कांड की जांच करने वाले SIT प्रमुख राकेश अस्थाना ने दिया जवाब",
+     "url": "https://www.patrika.com/national-news/rakesh-asthana-sonia-gandhi-memoir-godhra-train-burning-sit-21049624",
+     "summary": "राष्ट्रीय"
+    },
+    {
+     "title": "Gonda News: फिर बदले गए पांच थानों के थानेदार, एक इंस्पेक्टर को मिली नई जिम्मेदारी, एक से छिना प्रभार",
+     "url": "https://www.patrika.com/gonda-news/gonda-police-five-police-station-incharge-transfer-sp-abhishek-jha-21049560",
+     "summary": "गोंडा"
+    },
+    {
+     "title": "खरगोन में भूकंप के तगड़े झटके, मची खलबली, जान बचाने घर से बाहर भागे लोग",
+     "url": "https://www.patrika.com/bhopal-news/strong-earthquake-tremors-cause-a-stir-in-khargone-21049616",
      "summary": "भोपाल"
     },
     {
-     "title": "US Flight Grounding: 3,500 विमान हवा में, रडार-संचार सिस्टम फेल और अमेरिका में फ्लाइट ग्राउंड स्टॉप; सीन डफी ने बताया कैसे टला बड़ा संकट",
-     "url": "https://www.patrika.com/world-news/us-flight-grounding-faa-air-traffic-control-failure-3500-planes-america-aviation-crisis-21047634",
-     "summary": "विदेश"
-    },
-    {
-     "title": "Rajasthan News: महिला TTE से भिड़ गए बिना टिकट पकड़े गए अग्निवीर, ट्रेन में 20 मिनट तक हंगामा; फिर ऐसे शांत हुआ विवाद",
+     "title": "1 Rajasthan News: महिला TTE से भिड़ गए बिना टिकट पकड़े गए अग्निवीर, ट्रेन में 20 मिनट तक हंगामा; फिर ऐसे शांत हुआ विवाद",
      "url": "https://www.patrika.com/sri-ganganagar-news/agniveer-clash-with-female-tte-without-ticket-train-21049212",
-     "summary": "श्री गंगानगर"
+     "summary": "1"
     },
     {
-     "title": "Ramayana Box Office Collection Day 9: रामायण ने 9 दिनों में रच डाला इतिहास! ‘छावा’- ‘एनिमल’ का लाइफटाइम रिकॉर्ड किया ध्वस्त",
-     "url": "https://www.patrika.com/bollywood-news/ramayana-box-office-collection-day-9-ranbir-kapoor-film-break-chhaava-and-animal-record-crossed-1000-crore-21049186",
-     "summary": "बॉलीवुड"
-    },
-    {
-     "title": "रेलवे के 2 बड़े कॉरिडोर में चलेंगी कई नई ट्रेनें, एमपी में नेटवर्क बढ़ाने का बड़ा प्लान",
-     "url": "https://www.patrika.com/bhopal-news/railways-major-plan-to-expand-its-network-in-mp-21049191",
-     "summary": "भोपाल"
-    },
-    {
-     "title": "1 कोरोना वैक्सीन के लिए शरीर दान करने वाले विवेक जैन की कैसे हुई मौत? क्या बोलीं पत्नी सुनीता",
+     "title": "2 कोरोना वैक्सीन के लिए शरीर दान करने वाले विवेक जैन की कैसे हुई मौत? क्या बोलीं पत्नी सुनीता",
      "url": "https://www.patrika.com/alwar-news/alwar-vivek-jain-death-wife-sunita-reveals-illness-family-struggle-21048408",
      "summary": "1"
     },
     {
-     "title": "2 Alwar: कोरोना वैक्सीन के ट्रायल के लिए अपना शरीर दान करने वाले विवेक जैन का निधन, लंबे समय से थे बीमार",
-     "url": "https://www.patrika.com/alwar-news/vivek-jain-death-corona-vaccine-trial-volunteer-21043697",
+     "title": "3 राजस्थान में भू-रूपांतरण के नियमों में बड़ा बदलाव, अब नहीं अटकेंगी 90A की फाइलें; इन जमीनों का नहीं होगा कन्वर्जन",
+     "url": "https://www.patrika.com/jaipur-news/rajasthan-land-conversion-rules-90a-application-process-change-21049290",
      "summary": "1"
     },
     {
-     "title": "3 History-Sheeter Murder Case: 3 महीने पहले भी दोनों पक्षों में झगड़ा, राजीनामे के बाद भी नहीं बदला था हिस्ट्रीशीटर का रैवया",
-     "url": "https://www.patrika.com/jaipur-news/vijay-chaudhary-anish-fight-three-months-before-murder-case-21046028",
+     "title": "4 ‘भारत समिट’ को बीजेपी ने बताया ‘भारत विरोधी समिट’, शशि थरूर के बयान पर तेलंगाना BJP अध्यक्ष का पलटवार",
+     "url": "https://www.patrika.com/national-news/bjp-calls-bharat-summit-anti-india-summit-shashi-tharoor-visa-row-21049260",
      "summary": "1"
     },
     {
-     "title": "4 कोटा-रतलाम के बीच चलेगी नई मेमू ट्रेन, रेल मंत्रालय ने दी मंजूरी",
-     "url": "https://www.patrika.com/ratlam-news/kota-ratlam-new-memu-train-railway-ministry-approval-21047879",
-     "summary": "1"
-    },
-    {
-     "title": "5 भतीजे की शादी में आए थे पूर्व टेक महिंद्रा अधिकारी, पड़ोसी ने गोलियों से भूना, CCTV में कैद हुई पूरी वारदात",
-     "url": "https://www.patrika.com/national-news/faridabad-paramjeet-dhankhar-murder-cctv-video-neighbour-shooting-21043198",
+     "title": "5 स्काउट ओपी की मां का फूटा ‘बिग बॉस 20’ के नए प्रोमो पर गुस्सा, बेटे के मेंटल प्रेशर पर ऑडियो किया शेयर",
+     "url": "https://www.patrika.com/ott-news/scout-op-mother-audio-share-angry-on-bigg-boss-20-new-promo-and-son-mental-health-21047255",
      "summary": "1"
     },
     {
@@ -3960,6 +4211,16 @@
    "error": null,
    "items": [
     {
+     "title": "JEE Advanced 2027 Set for May 23 With On-Screen Calculator",
+     "url": "https://digitallearning.eletsonline.com/2026/11/jee-advanced-2027-date/",
+     "summary": ""
+    },
+    {
+     "title": "IIT Kharagpur Becomes First IIT to Offer NMC-Approved MD Courses",
+     "url": "https://digitallearning.eletsonline.com/2026/11/iit-kharagpur-md-programmes/",
+     "summary": ""
+    },
+    {
      "title": "BIM Trichy, UT Arlington to Offer Hybrid MS in AI for…",
      "url": "https://digitallearning.eletsonline.com/2026/11/bim-trichy-ms-ai-business/",
      "summary": ""
@@ -3970,7 +4231,7 @@
      "summary": ""
     },
     {
-     "title": "IIT Jammu, NTT DATA Set Up AI Centre for Flood Early…",
+     "title": "IIT Jammu, NTT DATA Set Up AI Centre for Flood Early Warning",
      "url": "https://digitallearning.eletsonline.com/2026/11/iit-jammu-ntt-data-ai-centre/",
      "summary": ""
     },
@@ -3997,16 +4258,6 @@
     {
      "title": "KVS Launches Samiksha AI Bot to Monitor Kendriya Vidyalayas",
      "url": "https://digitallearning.eletsonline.com/2026/11/kvs-samiksha-ai-bot/",
-     "summary": ""
-    },
-    {
-     "title": "Noida Schools introduce hybrid classes up to Class 5 amid rising air pollution",
-     "url": "https://digitallearning.eletsonline.com/2026/11/noida-schools-introduce-hybrid-classes-up-to-class-5-amid-rising-air-pollution/",
-     "summary": ""
-    },
-    {
-     "title": "Dr. Basavaraj Katageri joins Mohan Babu University as Pro Vice Chancellor",
-     "url": "https://digitallearning.eletsonline.com/2026/11/dr-basavaraj-katageri-joins-mohan-babu-university-as-pro-vice-chancellor/",
      "summary": ""
     },
     {
@@ -4184,9 +4435,90 @@
   {
    "name": "Kerala Kaumudi Kerala general",
    "url": "https://www.keralakaumudi.com/en/kerala/general",
-   "status": 403,
+   "status": 200,
    "error": null,
-   "items": []
+   "items": [
+    {
+     "title": "BJP leader BB Gopakumar escapes unhurt in road accident; Chathannoor MLA's wife sustains minor injuries KOLLAM: Chathannoor MLA and BJP leader B.B. Gopakumar escaped unhurt after the car he was travelling in met with an accident at Ithikkara in Kollam around 4.30 am on Saturday. November 14, 2026",
+     "url": "https://www.keralakaumudi.com/en/kerala/general/chathannoor-mla-bb-gopakumar-car-accident-kollam-1826226",
+     "summary": ""
+    },
+    {
+     "title": "No mercy? Woman dies by suicide in Perambra amid bank recovery proceedings; stepfather’s brutal assault on 13-year-old shocks Kerala KOZHIKODE/KOLLAM: Bank recovery pressure claimed a mother’s life in Perambra, while a 13-year-old boy was stripped and mercilessly beaten by his stepfather in Kollam. ",
+     "url": "https://www.keralakaumudi.com/en/kerala/general/kerala-kozhikode-woman-suicide-bank-loan-kollam-boy-beaten-1826141",
+     "summary": ""
+    },
+    {
+     "title": "Kerala Kaumudi impact: State orders clearance of pending disability cards within 30 days MALAPPURAM: Kerala Kaumudi had highlighted that obtaining a UDID card takes an average of 240 days, resulting in persons with disabilities being denied various benefits. November 14, 2026",
+     "url": "https://www.keralakaumudi.com/en/kerala/general/kerala-udid-card-pending-applications-30-day-deadline-1826137",
+     "summary": ""
+    },
+    {
+     "title": "Bishnoi gang trail reaches Kerala: 27-year-old Tamil Nadu native held under UAPA in Palakkad PALAKKAD: A 27-year-old man suspected of having links with the gang led by notorious gangster Lawrence Bishnoi has been arrested in Kerala. November 13, 2026",
+     "url": "https://www.keralakaumudi.com/en/kerala/general/lawrence-bishnoi-gang-suspect-arrested-palakkad-kerala-uapa-1825968",
+     "summary": ""
+    },
+    {
+     "title": "Two lakh insurance cover, online room fixes, and postal Aravana: Sabarimala gears up for Mandala-Makaravilakku THIRUVANANTHAPURAM: All arrangements for the Sabarimala Mandala-Makaravilakku pilgrimage have been completed, TDB president K. Jayakumar said at a press conference. November 13, 2026",
+     "url": "https://www.keralakaumudi.com/en/kerala/general/sabarimala-pilgrims-insurance-postal-aravana-arrangements-1825952",
+     "summary": ""
+    },
+    {
+     "title": "Rs 9.60-crore upgrade: 24 new Innova Hycross cars for ministers, VIP duty THIRUVANANTHAPURAM: The state government is purchasing 24 new Innova Hycross cars for the official travel of ministers and the Chief Secretary. The purchase is expected to cost Rs 9.60 crore. November 13, 2026",
+     "url": "https://www.keralakaumudi.com/en/kerala/general/government-to-buy-24-innova-hycross-cars-at-9-60-crore-1825936",
+     "summary": ""
+    },
+    {
+     "title": "Giving back on Children’s Day: Loyola School to host ‘ZEST 2026’ On November 14, Loyola School, Sreekariyam, l will host the fifth edition of ZEST 2026, a parents’ carnival organised exclusively to support charitable initiatives. November 13, 2026",
+     "url": "https://www.keralakaumudi.com/en/kerala/general/zest-2026-loyola-school-sreekariyam-1825922",
+     "summary": ""
+    },
+    {
+     "title": "Low-pressure area over Bay of Bengal intensifies; cyclone likely, rain alert issued in Kerala THIRUVANANTHAPURAM: The India Meteorological Department (IMD) has warned of rain in Kerala over the coming days. November 13, 2026",
+     "url": "https://www.keralakaumudi.com/en/kerala/general/imd-warns-of-rain-in-kerala-1825913",
+     "summary": ""
+    },
+    {
+     "title": "Court rejects plea to cancel bail of accused in ED officials attack case THIRUVANANTHAPURAM: The court has rejected the prosecution's plea to cancel the bail granted to the accused in the case related to the attack on Enforcement Directorate (ED) officials. November 13, 2026",
+     "url": "https://www.keralakaumudi.com/en/kerala/general/court-rejects-plea-to-cancel-bail-of-accused-in-ed-officials-attack-case-1825909",
+     "summary": ""
+    },
+    {
+     "title": "No green signal for GNA power deal; Electricity Minister contradicts Chief Minister's earlier stand Sunny Joseph said the decision to withdraw from the agreement was based on detailed information provided by the KSEB to the Chief Minister. November 13, 2026",
+     "url": "https://www.keralakaumudi.com/en/kerala/general/electricity-minister-sunny-joseph-says-gna-power-deal-is-not-practical-1825898",
+     "summary": ""
+    },
+    {
+     "title": "'Bus fares and student concession rates will not be increased, ready to consider any other demands raised by bus operators' THIRUVANANTHAPURAM: Transport Minister C P John has ruled out a hike in bus fares and student concession rates in the state. November 13, 2026",
+     "url": "https://www.keralakaumudi.com/en/kerala/general/transport-minister-cp-john-rules-out-hike-in-bus-fare-and-student-concession-rates-1825889",
+     "summary": ""
+    },
+    {
+     "title": "Holiday declared for schools and govt offices on Nov 13th in Thiruvananthapuram",
+     "url": "https://www.keralakaumudi.com/en/kerala/general/local-holiday-in-thiruvananthapuram-1824801",
+     "summary": ""
+    },
+    {
+     "title": "'Pinarayi and VD Satheesan attended the wedding too, why target Mammootty alone? Friendship is above everything'",
+     "url": "https://www.keralakaumudi.com/en/kerala/general/bjp-leader-b-gopalakrishnan-defends-mammootty-after-online-attacks-1824381",
+     "summary": ""
+    },
+    {
+     "title": "15-year-old girl sexually assaulted during Halloween party; 21-year-old arrested, drug use under probe",
+     "url": "https://www.keralakaumudi.com/en/kerala/crime/15-year-old-girl-sexually-assaulted-during-halloween-party-in-aluva-1824380",
+     "summary": ""
+    },
+    {
+     "title": "Mattannur double death: Husband returns from temple to find wife and son in pool of blood",
+     "url": "https://www.keralakaumudi.com/en/kerala/crime/kannur-mattannur-mother-son-found-dead-murder-suicide-1824751",
+     "summary": ""
+    },
+    {
+     "title": "Banana farming by day, MDMA trafficking by night: ‘Dani Bhai ’, key accused in drug racket, arrested",
+     "url": "https://www.keralakaumudi.com/en/kerala/crime/dani-bhai-state-award-winning-farmer-arrested-mdma-drug-racket-kerala-1824523",
+     "summary": ""
+    }
+   ]
   },
   {
    "name": "Inspera press releases",
@@ -4373,9 +4705,430 @@
   {
    "name": "RSS: Indian Express Education",
    "url": "https://indianexpress.com/section/education/feed/",
-   "status": 403,
+   "status": 200,
    "error": null,
-   "items": []
+   "items": [
+    {
+     "title": "AIBE 22 Admit Card 2026: BCI to release hall tickets today",
+     "url": "https://indianexpress.com/article/education/aibe-22-admit-card-2026-out-download-link-allindiabarexamination-com-hall-ticket-exam-date-timings-10962659/",
+     "summary": "",
+     "date": "14 Nov 2026 10:37",
+     "publisher": ""
+    },
+    {
+     "title": "JEE Advanced 2027 to be held on May 23; IIT Delhi launches website at jeeadv.ac.in",
+     "url": "https://indianexpress.com/article/education/jee-advanced-2027-exam-date-out-iit-delhi-eligibility-criteria-registration-link-cut-offs-jeeadv-ac-in-10961863/",
+     "summary": "",
+     "date": "13 Nov 2026 17:22",
+     "publisher": ""
+    },
+    {
+     "title": "Canada caps international student arrivals at 1.5 lakh a year in new immigration plan",
+     "url": "https://indianexpress.com/article/education/study-abroad/canada-caps-international-student-arrivals-at-1-5-lakh-a-year-in-new-immigration-plan-10961698/",
+     "summary": "",
+     "date": "13 Nov 2026 16:23",
+     "publisher": ""
+    },
+    {
+     "title": "Delhi the first choice, Mumbai the frontrunner: How ISB finally landed in Hyderabad",
+     "url": "https://indianexpress.com/article/education/delhi-the-first-choice-mumbai-the-frontrunner-how-isb-finally-landed-in-hyderabad-10961549/",
+     "summary": "",
+     "date": "13 Nov 2026 15:36",
+     "publisher": ""
+    },
+    {
+     "title": "ICSI to declare CSEET October exam result 2026 on November 15 at icsi.edu",
+     "url": "https://indianexpress.com/article/education/icsi-to-declare-cseet-october-exam-result-2026-on-november-15-at-icsi-edu-10961592/",
+     "summary": "",
+     "date": "13 Nov 2026 14:39",
+     "publisher": ""
+    },
+    {
+     "title": "Keralam allows extra time for type-1 diabetes candidates in KEAM, goes beyond JEE, CBSE norms",
+     "url": "https://indianexpress.com/article/education/kerala-keam-2027-extra-time-type-1-diabetes-rules-compared-nta-jee-main-neet-ug-cbse-board-exam-rules-10961305/",
+     "summary": "",
+     "date": "13 Nov 2026 13:59",
+     "publisher": ""
+    },
+    {
+     "title": "Keralam SSLC, Plus Two exam dates 2027 announced; exams to begin March 1",
+     "url": "https://indianexpress.com/article/education/kbpe-kerala-public-exams-sslc-higher-secondary-board-exam-schedule-2027-timetable-important-dates-10961254/",
+     "summary": "",
+     "date": "13 Nov 2026 10:50",
+     "publisher": ""
+    },
+    {
+     "title": "CAT 2026 candidates will undergo an AI-based facial recognition check",
+     "url": "https://indianexpress.com/article/education/cat-2026-candidates-will-undergo-an-ai-based-facial-recognition-check-10961184/",
+     "summary": "",
+     "date": "13 Nov 2026 09:26",
+     "publisher": ""
+    },
+    {
+     "title": "IIT Kharagpur to offer PG degree in medical education. Here’s what will change",
+     "url": "https://indianexpress.com/article/education/where-medicine-meets-engineering-iit-kharagpur-launches-postgraduate-medical-courses-10960518/",
+     "summary": "",
+     "date": "12 Nov 2026 18:06",
+     "publisher": ""
+    },
+    {
+     "title": "University of Glasgow launches free online Scottish crime writing course",
+     "url": "https://indianexpress.com/article/education/university-of-glasgow-launches-free-online-scottish-crime-writing-course-10960381/",
+     "summary": "",
+     "date": "12 Nov 2026 17:40",
+     "publisher": ""
+    },
+    {
+     "title": "Today News Headlines for School Assembly, November 13, 2026: Delhi air quality gets worse; IOC expresses ‘extreme regret’ on IOA elections",
+     "url": "https://indianexpress.com/article/education/today-news-headlines-for-school-assembly-november-13-2026-caqm-directs-assessment-of-stubble-burning-sites-in-punjab-10959941/",
+     "summary": "",
+     "date": "12 Nov 2026 16:44",
+     "publisher": ""
+    },
+    {
+     "title": "Why Australia’s proposed student visa rules might hit Indian applicants hardest",
+     "url": "https://indianexpress.com/article/education/why-australias-proposed-student-visa-rules-might-hit-indian-applicants-hardest-10956737/",
+     "summary": "",
+     "date": "12 Nov 2026 14:56",
+     "publisher": ""
+    },
+    {
+     "title": "JKBOSE Winter Zone Results 2026 for Class 10th, 11th, 12th likely by January 10",
+     "url": "https://indianexpress.com/article/education/jkbose-winter-zone-results-2026-class-10th-11th-12th-out-by-january-10-jkbose-jk-gov-in-direct-link-download-10959963/",
+     "summary": "",
+     "date": "12 Nov 2026 13:10",
+     "publisher": ""
+    },
+    {
+     "title": "FMGE October 2026 results: Has the pass percentage improved? Here’s what numbers show",
+     "url": "https://indianexpress.com/article/education/fmge-october-2026-results-pass-percentage-comparison-june-attempt-nbems-nmc-10959731/",
+     "summary": "",
+     "date": "12 Nov 2026 12:33",
+     "publisher": ""
+    },
+    {
+     "title": "Keralam to set up Nursing University; plans to increase seats by 50%",
+     "url": "https://indianexpress.com/article/education/keralam-set-up-nursing-university-plans-increase-seats-by-50-percent-10959842/",
+     "summary": "",
+     "date": "12 Nov 2026 11:28",
+     "publisher": ""
+    },
+    {
+     "title": "IIT Bombay introduces e-Postgraduate Diploma in Innovation, Entrepreneurship",
+     "url": "https://indianexpress.com/article/education/iit-bombay-introduces-e-postgraduate-diploma-in-innovation-entrepreneurship-10959817/",
+     "summary": "",
+     "date": "12 Nov 2026 10:47",
+     "publisher": ""
+    },
+    {
+     "title": "Telangana to do away with intermediate colleges, bring Classes 11, 12 into schools",
+     "url": "https://indianexpress.com/article/education/telangana-to-do-away-with-intermediate-colleges-bring-classes-11-12-into-schools-10959724/",
+     "summary": "",
+     "date": "12 Nov 2026 08:57",
+     "publisher": ""
+    },
+    {
+     "title": "Over 400 MBBS seats remain unoccupied after special stray vacancy round",
+     "url": "https://indianexpress.com/article/education/over-400-mbbs-seats-remain-unoccupied-after-special-stray-vacancy-round-10959039/",
+     "summary": "",
+     "date": "11 Nov 2026 17:42",
+     "publisher": ""
+    },
+    {
+     "title": "Today News Headlines for School Assembly, November 12, 2026: PM Modi to inaugurate Bengaluru-Mangaluru-Madgaon Vande Bharat Express",
+     "url": "https://indianexpress.com/article/education/today-news-headlines-for-school-assembly-november-12-2026-mi-trade-hardik-pandya-to-pbks-for-rs-18-crore-10956122/",
+     "summary": "",
+     "date": "11 Nov 2026 16:45",
+     "publisher": ""
+    },
+    {
+     "title": "69% of UK business schools see fall in overseas enrolments as financial crisis deepens",
+     "url": "https://indianexpress.com/article/education/study-abroad/uk-business-schools-admissions-take-hit-international-student-enrolments-chartered-abs-survey-financial-crisis-deepens-10958761/",
+     "summary": "",
+     "date": "11 Nov 2026 14:41",
+     "publisher": ""
+    },
+    {
+     "title": "IIT Madras Pravartak launches free online training for school students, educators",
+     "url": "https://indianexpress.com/article/education/iit-madras-pravartak-launches-free-online-training-for-school-students-educators-10958617/",
+     "summary": "",
+     "date": "11 Nov 2026 13:39",
+     "publisher": ""
+    },
+    {
+     "title": "Manipur Board HSLC, HSE date sheet 2027 out; check subject-wise exam dates here",
+     "url": "https://indianexpress.com/article/education/manipur-board-hslc-hse-date-sheet-2027-out-check-subject-wise-exam-dates-here-10958650/",
+     "summary": "",
+     "date": "11 Nov 2026 13:00",
+     "publisher": ""
+    },
+    {
+     "title": "NMC warns students against unapproved medical colleges, misleading MBBS admission offers",
+     "url": "https://indianexpress.com/article/education/nmc-warns-students-against-unapproved-medical-colleges-misleading-mbbs-admission-offers-10958479/",
+     "summary": "",
+     "date": "11 Nov 2026 11:41",
+     "publisher": ""
+    },
+    {
+     "title": "7 in 10 Indian schools have a computer, but are students getting to use them?",
+     "url": "https://indianexpress.com/article/education/national-education-day-maulana-azad-7-in-10-indian-schools-have-a-computer-but-official-data-reveals-a-major-learning-gap-10957816/",
+     "summary": "",
+     "date": "11 Nov 2026 11:14",
+     "publisher": ""
+    },
+    {
+     "title": "FMGE October 2026 result released; over 9,000 candidates pass the exam",
+     "url": "https://indianexpress.com/article/education/fmge-october-2026-result-out-natboard-edu-in-direct-link-scorecard-pdf-download-10958448/",
+     "summary": "",
+     "date": "11 Nov 2026 10:22",
+     "publisher": ""
+    },
+    {
+     "title": "University of Hyderabad to organise free training programme on higher education leadership, governance",
+     "url": "https://indianexpress.com/article/education/university-of-hyderabad-to-organize-international-training-programme-on-higher-education-leadership-governance-10957628/",
+     "summary": "",
+     "date": "10 Nov 2026 16:00",
+     "publisher": ""
+    },
+    {
+     "title": "ISC Class 12 Date Sheet 2027 Out: Check complete subject-wise schedule here",
+     "url": "https://indianexpress.com/article/education/cisce-isc-class-12th-date-sheet-2027-check-complete-subject-wise-schedule-candidate-instructions-10957407/",
+     "summary": "",
+     "date": "10 Nov 2026 15:02",
+     "publisher": ""
+    },
+    {
+     "title": "National Education Day 2026: Why is it celebrated? Historical background and importance",
+     "url": "https://indianexpress.com/article/education/national-education-day-2026-why-is-it-celebrated-maulana-azad-historical-background-importance-10956172/",
+     "summary": "",
+     "date": "10 Nov 2026 14:21",
+     "publisher": ""
+    },
+    {
+     "title": "ICSE Class 10th Date Sheet 2027: Check subject-wise exam dates here",
+     "url": "https://indianexpress.com/article/education/cisce-board-exams-2027-date-sheet-out-icse-isc-exam-schedule-class-10th-12th-subject-wise-10957381/",
+     "summary": "",
+     "date": "10 Nov 2026 13:46",
+     "publisher": ""
+    },
+    {
+     "title": "QS Asia Rankings 2027: Top 10 universities in South-East Asia; how do India’s IITs compare?",
+     "url": "https://indianexpress.com/article/education/qs-asia-rankings-2027-top-10-south-east-asia-university-comparison-india-iit-iisc-rankings-placements-10957344/",
+     "summary": "",
+     "date": "10 Nov 2026 12:14",
+     "publisher": ""
+    },
+    {
+     "title": "India wins five medals including two gold at International Astronomy Olympiad",
+     "url": "https://indianexpress.com/article/education/india-wins-five-medals-international-astronomy-astrophysics-olympiad-junior-2026-jee-main-advanced-10957213/",
+     "summary": "",
+     "date": "10 Nov 2026 10:48",
+     "publisher": ""
+    },
+    {
+     "title": "IIT Roorkee offers winter training and internship in these 5 AI courses",
+     "url": "https://indianexpress.com/article/education/iit-roorkee-offers-winter-training-internship-ai-courses-eligibility-structure-fees-direct-link-eict-iitr-ac-in-10947115/",
+     "summary": "",
+     "date": "10 Nov 2026 09:18",
+     "publisher": ""
+    },
+    {
+     "title": "J&K notifies Private Universities Rules, mandates 25% reservation for domiciles in admissions, jobs",
+     "url": "https://indianexpress.com/article/education/jammu-kashmir-jk-notifies-private-universities-rules-omar-abdullah-25-percent-reservation-admission-seats-jobs-10956298/",
+     "summary": "",
+     "date": "09 Nov 2026 14:50",
+     "publisher": ""
+    },
+    {
+     "title": "AP SSC exam March 2027: Fee payment without fine closing this week",
+     "url": "https://indianexpress.com/article/education/andhra-pradesh-ap-ssc-exam-march-2027-fee-payment-schedule-late-fine-important-schedule-10956253/",
+     "summary": "",
+     "date": "09 Nov 2026 13:50",
+     "publisher": ""
+    },
+    {
+     "title": "400 marks for research: Why DU teachers want fresh evaluation guidelines",
+     "url": "https://indianexpress.com/article/education/delhi-university-fyup-du-4-year-ug-course-nep-2020-research-component-credit-sharing-campus-seat-10956051/",
+     "summary": "",
+     "date": "09 Nov 2026 13:00",
+     "publisher": ""
+    },
+    {
+     "title": "WBCHSE HS Semester 3 final answer key out, results expected next",
+     "url": "https://indianexpress.com/article/education/west-bengal-board-council-class-12th-wbchse-hs-semester-3-final-answer-key-2027-released-wbchse-wb-gov-in-download-10956089/",
+     "summary": "",
+     "date": "09 Nov 2026 11:46",
+     "publisher": ""
+    },
+    {
+     "title": "IIT Hyderabad offers Forward Deployed Engineering practitioner programme; classes start on December 5",
+     "url": "https://indianexpress.com/article/education/iit-hyderabad-offers-forward-deployed-engineering-practitioner-programme-ailaunchpad-cse-iith-ac-in-classes-start-december-5-10956001/",
+     "summary": "",
+     "date": "09 Nov 2026 10:44",
+     "publisher": ""
+    },
+    {
+     "title": "Harvard University has an A-grade problem: Is everyone a topper?",
+     "url": "https://indianexpress.com/article/education/harvard-university-grade-inflation-crimson-survey-ai-use-cambridge-student-visa-10946448/",
+     "summary": "",
+     "date": "09 Nov 2026 10:31",
+     "publisher": ""
+    },
+    {
+     "title": "CBSE Class 12 Date Sheet 2027: Check schedule for Science, Humanities, Commerce streams",
+     "url": "https://indianexpress.com/article/education/cbse-class-12th-date-sheet-2027-check-schedule-for-science-humanities-commerce-streams-10955321/",
+     "summary": "",
+     "date": "08 Nov 2026 14:21",
+     "publisher": ""
+    },
+    {
+     "title": "NTA invites schools, colleges to set up CBT, PPT exam centres; need 285 workstations",
+     "url": "https://indianexpress.com/article/education/nta-invites-schools-colleges-set-up-cbt-ppt-exam-centres-jee-main-cuet-ugc-net-need-285-workstations-10955345/",
+     "summary": "",
+     "date": "08 Nov 2026 11:56",
+     "publisher": ""
+    },
+    {
+     "title": "‘I was the only student from my town to get an IIT seat’ | Life in an IIT",
+     "url": "https://indianexpress.com/article/education/life-in-an-iit-hyderabad-celebrating-diwali-home-away-ek-bhaarat-club-jee-main-advanced-journey-10953461/",
+     "summary": "",
+     "date": "08 Nov 2026 10:08",
+     "publisher": ""
+    },
+    {
+     "title": "QS Asia Rankings 2027: Complete list of top 20 universities across China, South Korea, Singapore",
+     "url": "https://indianexpress.com/article/education/qs-asia-university-rankings-2027-top-20-list-hong-kong-china-singapore-rankings-10954695/",
+     "summary": "",
+     "date": "07 Nov 2026 17:53",
+     "publisher": ""
+    },
+    {
+     "title": "Delhi-NCR schools shift classes up to grade 5 to hybrid mode ahead of Diwali",
+     "url": "https://indianexpress.com/article/education/delhi-ncr-noida-ghaziabad-schools-class-5-hybrid-mode-grap-3-air-pollution-aqi-drops-severe-10954764/",
+     "summary": "",
+     "date": "07 Nov 2026 17:14",
+     "publisher": ""
+    },
+    {
+     "title": "Maharashtra Board SSC, HSC Exam Dates 2027 Out: Check MSBSHSE schedule for Class 10, 12",
+     "url": "https://indianexpress.com/article/education/maharashtra-board-ssc-hsc-exam-dates-2027-out-check-msbshse-schedule-class-10th-12th-shift-timings-10954630/",
+     "summary": "",
+     "date": "07 Nov 2026 15:21",
+     "publisher": ""
+    },
+    {
+     "title": "MP Board Dummy Admit Card 2027 Released: Check these details before deadline",
+     "url": "https://indianexpress.com/article/education/mpbse-mp-board-dummy-admit-card-2027-out-class-10th-12th-download-link-correction-deadline-10954517/",
+     "summary": "",
+     "date": "07 Nov 2026 13:37",
+     "publisher": ""
+    },
+    {
+     "title": "Rajasthan Board Exams 2027 to begin February 16; check revised timings",
+     "url": "https://indianexpress.com/article/education/rbse-rajasthan-board-class-10-12-board-exam-date-2027-announced-february-model-question-paper-timings-changed-two-exam-10954416/",
+     "summary": "",
+     "date": "07 Nov 2026 11:48",
+     "publisher": ""
+    },
+    {
+     "title": "CBSE Class 10th, 12th exam date sheet 2027 released, over 46 lakh to appear; check timetables here",
+     "url": "https://indianexpress.com/article/education/cbse-class-10th-12th-exam-date-sheet-2027-out-check-detailed-schedule-subject-wise-timetable-10943794/",
+     "summary": "",
+     "date": "06 Nov 2026 19:32",
+     "publisher": ""
+    },
+    {
+     "title": "CBSE Class 10, 12 Practical Exams Date Sheet 2027: Check schedule for regular schools",
+     "url": "https://indianexpress.com/article/education/cbse-class-10-12-practical-exam-date-sheet-2027-marks-distribution-10953660/",
+     "summary": "",
+     "date": "06 Nov 2026 18:04",
+     "publisher": ""
+    },
+    {
+     "title": "XAT 2027: XLRI Jamshedpur increases PGDM-HRM seats, allows more unanswered questions without penalty",
+     "url": "https://indianexpress.com/article/education/xat-2027-xlri-jamshedpur-increases-pgdm-hrm-seats-allows-more-unanswered-questions-without-penalty-10953483/",
+     "summary": "",
+     "date": "06 Nov 2026 16:23",
+     "publisher": ""
+    },
+    {
+     "title": "1,000 Punjab students to get free UPSC, PCS coaching: Which other states offer similar schemes?",
+     "url": "https://indianexpress.com/article/education/upsc-civil-services-exam-free-coaching-scheme-punjab-state-wise-list-10953383/",
+     "summary": "",
+     "date": "06 Nov 2026 15:48",
+     "publisher": ""
+    },
+    {
+     "title": "ICAI CA Foundation September 2026 Result: Kansika, Mahek Gupta top with 90.25%; 19,736 pass",
+     "url": "https://indianexpress.com/article/education/icai-ca-foundation-september-2026-results-out-toppers-list-pass-percentage-10953263/",
+     "summary": "",
+     "date": "06 Nov 2026 13:57",
+     "publisher": ""
+    },
+    {
+     "title": "How to balance PCM preparation for JEE Main 2027",
+     "url": "https://indianexpress.com/article/education/how-to-balance-pcm-preparation-for-jee-main-2027-10953196/",
+     "summary": "",
+     "date": "06 Nov 2026 13:49",
+     "publisher": ""
+    },
+    {
+     "title": "CAT 2026 Admit Card Highlights: Where and how to download hall tickets?",
+     "url": "https://indianexpress.com/article/education/cat-2026-admit-card-live-updates-hall-tickets-to-release-today-at-iimcat-ac-in-iim-indore-download-link-10953032/",
+     "summary": "",
+     "date": "06 Nov 2026 11:40",
+     "publisher": ""
+    },
+    {
+     "title": "ICAI CA Foundation Result September 2026 Highlights: Results out; Kansika, Mahek Gupta share top spot",
+     "url": "https://indianexpress.com/article/education/icai-ca-foundation-result-september-2026-live-updates-scorecards-caresults-icai-org-direct-link-pdf-download-10952087/",
+     "summary": "",
+     "date": "06 Nov 2026 09:46",
+     "publisher": ""
+    },
+    {
+     "title": "CBSE Practical Exams Date Sheet 2027: Schedule announced for winter-bound schools",
+     "url": "https://indianexpress.com/article/education/cbse-class-10th-12th-practical-exam-date-sheet-2027-announced-winter-bound-schools-complete-schedule-10952535/",
+     "summary": "",
+     "date": "05 Nov 2026 22:28",
+     "publisher": ""
+    },
+    {
+     "title": "NTA extends Joint CSIR-UGC NET December 2026 registration deadline to November 9",
+     "url": "https://indianexpress.com/article/education/nta-extends-joint-csir-ugc-net-december-2026-registration-deadline-to-november-9-10952258/",
+     "summary": "",
+     "date": "05 Nov 2026 18:47",
+     "publisher": ""
+    },
+    {
+     "title": "UPSC CSE Mains Result 2026 Out: 2,526 candidates qualify; what’s next?",
+     "url": "https://indianexpress.com/article/education/upsc-cse-mains-result-date-2026-civil-services-exam-result-expected-in-november-check-past-trends-upsc-gov-in-10952183/",
+     "summary": "",
+     "date": "05 Nov 2026 17:38",
+     "publisher": ""
+    },
+    {
+     "title": "Today News Headlines for School Assembly, November 6, 2026: Delhi air quality crosses 400-mark",
+     "url": "https://indianexpress.com/article/education/today-news-headlines-for-school-assembly-november-6-2026-ec-announces-electoral-roll-revision-in-4-states-2-uts-10951727/",
+     "summary": "",
+     "date": "05 Nov 2026 17:05",
+     "publisher": ""
+    },
+    {
+     "title": "Harvard University student Radhika Saran wins James Dyson Award 2026 global medical category",
+     "url": "https://indianexpress.com/article/education/harvard-university-student-radhika-saran-wins-james-dyson-award-2026-global-medical-category-10951915/",
+     "summary": "",
+     "date": "05 Nov 2026 16:07",
+     "publisher": ""
+    },
+    {
+     "title": "ICAI CA Foundation September 2026 Result Date: When and from where to check results",
+     "url": "https://indianexpress.com/article/education/icai-ca-foundation-september-2026-result-date-time-direct-download-link-caresults-icai-org-10950390/",
+     "summary": "",
+     "date": "05 Nov 2026 15:35",
+     "publisher": ""
+    }
+   ]
   },
   {
    "name": "RSS: HT Education RSS",
@@ -4383,6 +5136,13 @@
    "status": 200,
    "error": null,
    "items": [
+    {
+     "title": "TN govt secures price cut in free bicycles for students after negotiations",
+     "url": "https://www.hindustantimes.com/education/news/tn-govt-secures-price-cut-in-free-bicycles-for-students-after-negotiations-101794631838209.html",
+     "summary": "TN govt secures price cut in free bicycles for students after negotiations",
+     "date": "14 Nov 2026 10:20",
+     "publisher": ""
+    },
     {
      "title": "Arunachal govt to sponsor youth for coaching to join armed forces: Khandu",
      "url": "https://www.hindustantimes.com/education/news/arunachal-govt-to-sponsor-youth-for-coaching-to-join-armed-forces-khandu-101794568664331.html",
@@ -4501,48 +5261,6 @@
      "summary": "IAF AFCAT 2027 registration process has started. The direct link to apply for 284 posts is given here.&nbsp;",
      "date": "12 Nov 2026 12:55",
      "publisher": ""
-    },
-    {
-     "title": "Manipur Board Exam 2027 Datesheet: HSLC, HS exam timetable released, check Class 10, 12 schedule here",
-     "url": "https://www.hindustantimes.com/education/board-exams/manipur-board-exam-2027-datesheet-hslc-hs-exam-timetable-released-check-class-10-12-schedule-here-101794463064638.html",
-     "summary": "Manipur Board Exam 2027 Datesheet has been released. the HSLC and HS exam timetable can be checked here.&nbsp;",
-     "date": "12 Nov 2026 11:31",
-     "publisher": ""
-    },
-    {
-     "title": "CAT 2026: AI-based facial recognition to be used for candidate verification",
-     "url": "https://www.hindustantimes.com/india-news/cat-2026-ai-based-facial-recognition-to-be-used-for-candidate-verification-101794462187971.html",
-     "summary": "The AI-based system will act as an additional check and will not replace verification through CAT admit cards by examination officials.",
-     "date": "12 Nov 2026 11:13",
-     "publisher": ""
-    },
-    {
-     "title": "IBPS RRB PO PET Admit Card 2026 released at ibps.in, download link here",
-     "url": "https://www.hindustantimes.com/education/competitive-exams/ibps-rrb-po-pet-admit-card-2026-released-at-ibps-in-download-link-here-101794460129547.html",
-     "summary": "IBPS RRB PO PET Admit Card 2026 has been released. The direct link to download the hall ticket of the pre exam training is given here.&nbsp;",
-     "date": "12 Nov 2026 10:41",
-     "publisher": ""
-    },
-    {
-     "title": "Suspend further recruitment until inquiry: Jakhar on Punjab PCS exam results",
-     "url": "https://www.hindustantimes.com/education/news/suspend-further-recruitment-until-inquiry-jakhar-on-punjab-pcs-exam-results-101794457523869.html",
-     "summary": "Jakhar demanded that the government immediately order a CBI probe and suspend the remaining stages of recruitment, including interviews.&nbsp;",
-     "date": "12 Nov 2026 09:58",
-     "publisher": ""
-    },
-    {
-     "title": "HP primary teachers association postpone November 15 Dharamshala rally after talks with Education Director",
-     "url": "https://www.hindustantimes.com/education/news/hp-primary-teachers-association-postpone-november-15-dharamshala-rally-after-talks-with-education-director-101794456331667.html",
-     "summary": "The meeting was held with Director of Elementary Education Ashish Kohli following directions from Chief Minister Sukhvinder Singh Sukhu.",
-     "date": "12 Nov 2026 09:43",
-     "publisher": ""
-    },
-    {
-     "title": "UIIC AO Prelims Result 2026 declared at uiic.co.in, direct link to check roll numbers here",
-     "url": "https://www.hindustantimes.com/education/exam-results/uiic-ao-prelims-result-2026-declared-at-uiic-co-in-direct-link-to-check-roll-numbers-here-101794455603024.html",
-     "summary": "UIIC AO Prelims Result 2026 has been declared. The direct link to check roll numbers is given here.&nbsp;",
-     "date": "12 Nov 2026 09:26",
-     "publisher": ""
     }
    ]
   },
@@ -4552,6 +5270,55 @@
    "status": 200,
    "error": null,
    "items": [
+    {
+     "title": "AIBE 22 admit card 2026: BCI to release hall tickets today at allindiabarexamination.com; check how to download",
+     "url": "https://timesofindia.indiatimes.com/education/news/aibe-22-admit-card-2026-bci-to-release-hall-tickets-today-at-allindiabarexamination-com-check-how-to-download/articleshow/135825486.cms",
+     "summary": "The Bar Council of India will release the AIBE 22 admit card on November 14, 2026. Candidates must download their hall tickets from the official website using their login credentials. The examination is scheduled to take place on November 29, 2026, w",
+     "date": "2026-11-14T12:23:24+05:30",
+     "publisher": ""
+    },
+    {
+     "title": "Candidates with Type-1 diabetes to get 20 minutes extra per hour in KEAM entrance exam",
+     "url": "https://timesofindia.indiatimes.com/education/news/candidates-with-type-1-diabetes-to-get-20-minutes-extra-per-hour-in-keam-entrance-exam/articleshow/135825270.cms",
+     "summary": "Students diagnosed with Type-1 diabetes will be granted additional time during the KEAM entrance examination. The Higher Education Minister Roji M John confirmed this decision, which is based on a medical certificate. Candidates will receive 20 extra",
+     "date": "2026-11-14T12:17:23+05:30",
+     "publisher": ""
+    },
+    {
+     "title": "Uttarakhand to reopen 12 non-operational ITIs from next academic session",
+     "url": "https://timesofindia.indiatimes.com/education/news/uttarakhand-to-reopen-12-non-operational-itis-from-next-academic-session/articleshow/135825038.cms",
+     "summary": "Uttarakhand plans to reopen 12 non-operational Industrial Training Institutes for skill development in the next academic session. The initiative aims to offer vocational and technical training to youth in their local areas. This move is expected to e",
+     "date": "2026-11-14T12:08:55+05:30",
+     "publisher": ""
+    },
+    {
+     "title": "DU reconstitutes women's safety committee, includes DUSU representatives for first time",
+     "url": "https://timesofindia.indiatimes.com/education/news/du-reconstitutes-womens-safety-committee-includes-dusu-representatives-for-first-time/articleshow/135824948.cms",
+     "summary": "Delhi University has reconstituted its Committee on Women Safety and Security, introducing student representatives to the panel. The committee will include members such as the DUSU President and Secretary, among other university officials. Regular me",
+     "date": "2026-11-14T11:58:39+05:30",
+     "publisher": ""
+    },
+    {
+     "title": "CEPT University to accept UCEED 2027, NID DAT 2027 scores for BDes Hons admission; check details",
+     "url": "https://timesofindia.indiatimes.com/education/news/cept-university-to-accept-uceed-2027-nid-dat-2027-scores-for-bdes-hons-admission-check-details/articleshow/135824373.cms",
+     "summary": "CEPT University has revised its admission process for the Bachelor of Design programme for the 2027 academic session. Candidates can now use UCEED or NID DAT scores without needing a separate entrance test. Additionally, no design portfolio is requir",
+     "date": "2026-11-14T11:55:22+05:30",
+     "publisher": ""
+    },
+    {
+     "title": "KCET 2027 syllabus out; KEA publishes subject-wise topics: Check how to download",
+     "url": "https://timesofindia.indiatimes.com/education/news/kcet-2027-syllabus-out-kea-publishes-subject-wise-topics-check-how-to-download/articleshow/135823038.cms",
+     "summary": "Karnataka Examinations Authority has published the syllabus for KCET 2027, covering major subjects for examination. Candidates can download the subject-wise PDFs from the official website. The syllabi detail topics from both Class 11 and Class 12, en",
+     "date": "2026-11-14T11:05:26+05:30",
+     "publisher": ""
+    },
+    {
+     "title": "JEE Advanced 2027 to be held on May 23; IIT Delhi releases eligibility criteria at jeeadv.ac.in",
+     "url": "https://timesofindia.indiatimes.com/education/news/jee-advanced-2027-to-be-held-on-may-23-iit-delhi-releases-eligibility-criteria-at-jeeadv-ac-in/articleshow/135822667.cms",
+     "summary": "IIT Delhi will conduct JEE Advanced 2027 on May 23, 2027, with details now available online. Candidates must qualify in JEE Main 2027 and meet various eligibility criteria for admission. Indian nationals and OCI/PIO candidates can register directly f",
+     "date": "2026-11-14T10:10:09+05:30",
+     "publisher": ""
+    },
     {
      "title": "JEE Main 2027: NTA clarifies category selection for Indian nationals, NRIs and OCI candidates",
      "url": "https://timesofindia.indiatimes.com/education/news/jee-main-2027-nta-clarifies-category-selection-for-indian-nationals-nris-and-oci-candidates/articleshow/135821226.cms",
@@ -4642,55 +5409,6 @@
      "summary": "BSEH Supplementary Result 2026: The Board of School Education Haryana has announced the Class 12 academic and Open School supplementary examination results for October 2026. The academic examination recorded a pass percentage of 68.32%, while the Ope",
      "date": "2026-11-13T15:27:16+05:30",
      "publisher": ""
-    },
-    {
-     "title": "AIBE 22 admit card 2026 to be released tomorrow at allindiabarexamination.com: Check steps to download hall tickets here",
-     "url": "https://timesofindia.indiatimes.com/education/news/aibe-22-admit-card-2026-to-be-released-tomorrow-at-allindiabarexamination-com-check-steps-to-download-hall-tickets-here/articleshow/135796704.cms",
-     "summary": "The Bar Council of India will release the AIBE 22 admit card 2026 on November 14. Registered candidates can download their hall tickets from the official website using their login credentials. The examination is scheduled for November 29. Candidates ",
-     "date": "2026-11-13T14:44:52+05:30",
-     "publisher": ""
-    },
-    {
-     "title": "5 simple study habits parents can teach children to reduce academic stress",
-     "url": "https://timesofindia.indiatimes.com/education/news/5-simple-study-habits-parents-can-teach-children-to-reduce-academic-stress/articleshow/135795417.cms",
-     "summary": "Parents can help children manage academic stress by teaching them effective study habits rather than encouraging longer study hours. From maintaining a fixed study routine and breaking tasks into smaller goals to practising self-testing, prioritising",
-     "date": "2026-11-13T14:41:03+05:30",
-     "publisher": ""
-    },
-    {
-     "title": "Not just 'bad at math': What a new Stanford brain study reveals about why some children struggle with numbers",
-     "url": "https://timesofindia.indiatimes.com/education/news/not-just-bad-at-math-what-a-new-stanford-brain-study-reveals-about-why-some-children-struggle-with-numbers/articleshow/135791430.cms",
-     "summary": "A Stanford University study suggests that children with developmental dyscalculia may struggle with mathematics not only because of difficulties with calculations but also because of problems switching between problem-solving strategies. Researchers ",
-     "date": "2026-11-13T14:40:20+05:30",
-     "publisher": ""
-    },
-    {
-     "title": "JKSSB FAA admit card 2026 out at jkssb.nic.in; download hall ticket for November 15 exam: Check direct link to download hall tickets here",
-     "url": "https://timesofindia.indiatimes.com/education/news/jkssb-faa-admit-card-2026-out-at-jkssb-nic-in-download-hall-ticket-for-november-15-exam-check-direct-link-to-download-hall-tickets-here/articleshow/135795542.cms",
-     "summary": "The Jammu and Kashmir Services Selection Board (JKSSB) has released the Finance Account Assistant (FAA) Admit Card 2026 at jkssb.nic.in. Candidates appearing for the November 15 written examination can download their hall tickets using their applicat",
-     "date": "2026-11-13T14:11:38+05:30",
-     "publisher": ""
-    },
-    {
-     "title": "JEE Main 2027 Session 1 registration ends next week; NTA receives over 6.7 lakh application forms",
-     "url": "https://timesofindia.indiatimes.com/education/news/jee-main-2027-session-1-registration-ends-next-week-nta-receives-over-6-7-lakh-application-forms/articleshow/135787617.cms",
-     "summary": "The National Testing Agency will conclude the registration process for JEE Main 2027 Session 1. Candidates must submit their application forms by November 22, 2026, to avoid delays. A total of 6,70,182 registration forms have been received, while 4,9",
-     "date": "2026-11-13T13:30:44+05:30",
-     "publisher": ""
-    },
-    {
-     "title": "Are wealthier parents pushing teens towards AI? RAND study finds a growing income gap in how American families use artificial intelligence",
-     "url": "https://timesofindia.indiatimes.com/education/news/are-wealthier-parents-pushing-teens-towards-ai-rand-study-finds-a-growing-income-gap-in-how-american-families-use-artificial-intelligence/articleshow/135790682.cms",
-     "summary": "A new RAND Corporation study has found that wealthier American parents are adopting AI tools faster and are more likely to encourage teenagers to use them for schoolwork. The income-based gap in parental AI use increased from 15 to 21 percentage poin",
-     "date": "2026-11-13T13:28:39+05:30",
-     "publisher": ""
-    },
-    {
-     "title": "CAT 2026: AI-based facial recognition to verify candidates at all exam centres, physical admit card checks to continue",
-     "url": "https://timesofindia.indiatimes.com/education/news/cat-2026-ai-based-facial-recognition-to-verify-candidates-at-all-exam-centres-physical-admit-card-checks-to-continue/articleshow/135793787.cms",
-     "summary": "CAT 2026 will introduce AI-based facial recognition at all examination centres to verify candidates' identities against their application photographs. IIM Indore Director Himanshu Rai confirmed that the technology will operate alongside physical admi",
-     "date": "2026-11-13T12:51:57+05:30",
-     "publisher": ""
     }
    ]
   },
@@ -4700,6 +5418,13 @@
    "status": 200,
    "error": null,
    "items": [
+    {
+     "title": "Children’s Day Special | Facing the differences",
+     "url": "https://www.thehindu.com/children/facing-the-differences/article71665340.ece",
+     "summary": "Gender discrimination is unfortunately not new, but even then, our society never fails to remind us that there is a difference in our abilities depending on our gender. But ever wondered when it all starts? Even before our thinking abilities are form",
+     "date": "14 Nov 2026 11:57",
+     "publisher": ""
+    },
     {
      "title": "JEE-Advanced 2027 to be held on May 23: IIT Delhi",
      "url": "https://www.thehindu.com/education/jee-advanced-2027-to-be-held-on-may-23-iit-delhi/article71698255.ece",
@@ -5112,13 +5837,6 @@
      "summary": "",
      "date": "01 Nov 2026 22:34",
      "publisher": ""
-    },
-    {
-     "title": "Will Delhi’s cash for school uniforms reach the child in time?",
-     "url": "https://www.thehindu.com/education/will-delhis-cash-for-school-uniforms-reach-the-child-in-time/article71644535.ece",
-     "summary": "Delhi’s choice sits within a wider central push towards direct transfers. The August 2021 revamp of Samagra Shiksha proposed the gradual delivery of child-centric interventions through cash transfers",
-     "date": "01 Nov 2026 14:15",
-     "publisher": ""
     }
    ]
   },
@@ -5267,11 +5985,11 @@
      "publisher": "medadmit.in"
     },
     {
-     "title": "NTA Releases ACC CEE January 2027 Application Form at exams.nta.nic.in; Register by November 30 - Jagran Josh",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNHlqUWNZeEVMemJQbWFUbnNBd1hvVmxXOXowZVBnQk5ZdkZjcjFYOE1MRzJfcER3eHRaeDJfQ0xKakRBem1DaS1mcnZlc1NrUm5SMzQyVmJoekxKUnljdk5DUGlGU3JMR3hVeXg1TDJDU2VSMnA4RnZqY0VPN1FxQjN3Zm1QRzBKZ1dUeWFkWHJDaTRwMy1LYTNvNFhfd3NkUEI5N0E4aVhQNC1ITUlaNUt4enphMkNOekY5eE85d3dMTGZpVVRrTEVlTW13d9IB1AFBVV95cUxQREcyYi1ydG12ODNDZWdvTFlFcmlvRHR5YkpmSjZwQ3FHUGJwUmpBT2NaaDFPUDlJaGoxaElNdkYtTkZYNlNrZXhjek1KeUhaNGFUaC1TdFFLUmRreHNGaUdfSlA1UWlZT3Q5RzZMNVAyOW5ZSXRuaXJsRDFmcVQwTEJzNGlmSUNLRXZoNmZVSjdMR2dkUU5HY0oxcklWN0hzaGFoWW9SQ1oxVnVaQTU0S2dQZXVod3BKaWwtanU0MlBQSEhHcWhJcUNneFJDX3d2WnUzdg?oc=5",
-     "summary": "NTA Releases ACC CEE January 2027 Application Form at exams.nta.nic.in; Register by November 30 &nbsp;&nbsp; Jagran Josh",
-     "date": "08 Nov 2026 15:22",
-     "publisher": "Jagran Josh"
+     "title": "How Many Days Left for NEET 2027? Check Exam Date, Eligibility & Preparation Tips - Shiksha.com",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTjdZWWxfU1FpOUFFT0FHc2hTeEpNWElkcDU0TzZFU1FIRTVXNTExOTg0bXZPX0gwaEdRRzQ0STE0bHpRejd1RG1uWnZJdXMzMEhuSDJFMkpLM0xtVGNJOW5wQnFJZVZfMkpPMzRxeFRWcWFTOE80ZHlHYlhmVncyT2J3TGhxZ0pBNmYxc2tIRVdycDV0UkdWb0ZtN1FNZjJFdlFTYU51bw?oc=5",
+     "summary": "How Many Days Left for NEET 2027? Check Exam Date, Eligibility & Preparation Tips &nbsp;&nbsp; Shiksha.com",
+     "date": "14 Nov 2026 07:13",
+     "publisher": "Shiksha.com"
     },
     {
      "title": "NEET, JEE Main, CUET Exams: NTA invites serving, retired officials 'to work as observers' - Careers360",
@@ -5288,17 +6006,10 @@
      "publisher": "Education Times"
     },
     {
-     "title": "BSc Nursing through NEET 2027: Admission Process, Eligibility, Participating Institutes and Seats - Shiksha.com",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUTBrZTJYbEVTX015aXUyZkpQdkM5X0dodkJ4akxYNmwwMWx2RG95SHd4RnlITjY1ek80aVNIbURtcmp4NDhtcllwTC1pWm5WSm9Zd19SUUd4WkFEMzNaVGdOc1dwSmlZVTE2dWpHRkd4al85QWpHWEFzZDZvQmZkUmZuRmY2R0dhNEZPSENzeWVfS1RLdjJYUTNaNW42YmNxdmRWWXZjbDBxVW5hMTZYUXZ6TElTOUhZRjVPOXBuNkFuZ1g3NGd5VFBFUENXdzhrYTdpX0lLdG1GYnc?oc=5",
-     "summary": "BSc Nursing through NEET 2027: Admission Process, Eligibility, Participating Institutes and Seats &nbsp;&nbsp; Shiksha.com",
-     "date": "13 Nov 2026 17:28",
-     "publisher": "Shiksha.com"
-    },
-    {
-     "title": "NTA Expands Exam Centres: Schools & Colleges Can Now Host NEET Tests - medadmit.in",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX2F5d3lKZDRDV2RGalI1eVpmNUNVbzl1eFpaWlFJc3B2NTF1cVlmSktVenZmLVg0ZHFxb0gxeEVKN2lEcWUtbzA2allmRG5QOHlIcmpxQ0R3dUFWUmlFMGZMUEl1NWx3NmNiM3Z1cnJUSjI4MjVKLU96bVhPZmtSRHVLTUZBRENhVWZHbk1OdVl4R0JGLUZV?oc=5",
-     "summary": "NTA Expands Exam Centres: Schools & Colleges Can Now Host NEET Tests &nbsp;&nbsp; medadmit.in",
-     "date": "09 Nov 2026 10:33",
+     "title": "NTA Observer Recruitment 2026: What NEET Aspirants Should Know - medadmit.in",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ3JFNkdvTFQxOXZ5UHhadDlCZ2ZoZHpNN041R18xb2FkMzdLdnhTRUxLSmVXaFd0d29QZ3FsdmxBYlhOWm5wTnh4RE1KcHNLZ2QzS0QtV1pvOHhpajlrdFR2MUY1WHdrajB2RFZNd3RqWW9jQ1VPSGJ3eXRjMVk3eklIaEg?oc=5",
+     "summary": "NTA Observer Recruitment 2026: What NEET Aspirants Should Know &nbsp;&nbsp; medadmit.in",
+     "date": "08 Nov 2026 02:31",
      "publisher": "medadmit.in"
     },
     {
@@ -5307,6 +6018,20 @@
      "summary": "NTA releases ACC CEE January 2027 application form at exams.nta.nic.in; register by November 30 &nbsp;&nbsp; Careers360",
      "date": "08 Nov 2026 14:15",
      "publisher": "Careers360"
+    },
+    {
+     "title": "BSc Nursing through NEET 2027: Admission Process, Eligibility, Participating Institutes and Seats - Shiksha.com",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUTBrZTJYbEVTX015aXUyZkpQdkM5X0dodkJ4akxYNmwwMWx2RG95SHd4RnlITjY1ek80aVNIbURtcmp4NDhtcllwTC1pWm5WSm9Zd19SUUd4WkFEMzNaVGdOc1dwSmlZVTE2dWpHRkd4al85QWpHWEFzZDZvQmZkUmZuRmY2R0dhNEZPSENzeWVfS1RLdjJYUTNaNW42YmNxdmRWWXZjbDBxVW5hMTZYUXZ6TElTOUhZRjVPOXBuNkFuZ1g3NGd5VFBFUENXdzhrYTdpX0lLdG1GYnc?oc=5",
+     "summary": "BSc Nursing through NEET 2027: Admission Process, Eligibility, Participating Institutes and Seats &nbsp;&nbsp; Shiksha.com",
+     "date": "12 Nov 2026 13:30",
+     "publisher": "Shiksha.com"
+    },
+    {
+     "title": "NTA Expands Exam Centres: Schools & Colleges Can Now Host NEET Tests - medadmit.in",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX2F5d3lKZDRDV2RGalI1eVpmNUNVbzl1eFpaWlFJc3B2NTF1cVlmSktVenZmLVg0ZHFxb0gxeEVKN2lEcWUtbzA2allmRG5QOHlIcmpxQ0R3dUFWUmlFMGZMUEl1NWx3NmNiM3Z1cnJUSjI4MjVKLU96bVhPZmtSRHVLTUZBRENhVWZHbk1OdVl4R0JGLUZV?oc=5",
+     "summary": "NTA Expands Exam Centres: Schools & Colleges Can Now Host NEET Tests &nbsp;&nbsp; medadmit.in",
+     "date": "09 Nov 2026 10:33",
+     "publisher": "medadmit.in"
     },
     {
      "title": "J-K Exam Reforms: Omar Abdullah cites NEET-UG cancellation, seeks changes in JKBOSE, JKPSC, JKSSB exams - Careers360",
@@ -5321,6 +6046,13 @@
      "summary": "Amid operational overhaul, NTA announces recruitment drive 2026 for 13 vacancies &nbsp;&nbsp; Careers360",
      "date": "12 Nov 2026 23:16",
      "publisher": "Careers360"
+    },
+    {
+     "title": "Prepzy.ai Launches CBT-First NEET-UG Preparation as the Exam Moves to Computer-Based Testing in 2027 - Hindustan Metro",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQUpZQ0Z4Wk95Y2h0RzhNT0RmYjlDN0MxMktHYVBhQldibjRRdmMySFhLYXhMeGV2Q0xNcnFKVDBfUkU1TW94NVdfb0pIOTV6OFRwazJNS2lwT1NWelJOc3ZxWnl2eFN6X0g1VVI4OEdFdG5XMENSbWdNZHdLOVVNdWhlUE94NXhELTRnNllDa3FKYTljcG1vWnUtWVZaTzJ6a0ttZTgzbFlRWi1lYmhsc3RVeDRGeGs3aFIxbVZDdGhSLW9Z?oc=5",
+     "summary": "Prepzy.ai Launches CBT-First NEET-UG Preparation as the Exam Moves to Computer-Based Testing in 2027 &nbsp;&nbsp; Hindustan Metro",
+     "date": "14 Nov 2026 10:04",
+     "publisher": "Hindustan Metro"
     }
    ]
   },
@@ -5341,7 +6073,7 @@
      "title": "SSC GD Physical Admit Card 2026 Out, Download GD Exam PET/PST Call Letter PDF - Adda247",
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NZmt2QWV5NjA3eFkza3JTOGhkVEJoOW1oR19DN2ljTzVXZjMtV1o3MVRHVy15cWtZUEhmeFVGU1QxZ1BaLWhWd3hZSEZjWDllcUxxeWp2aWhhV2syNVg4dG1DbFpUdEFsNkdiY0hUYllCbkREaTFoWVdSNA?oc=5",
      "summary": "SSC GD Physical Admit Card 2026 Out, Download GD Exam PET/PST Call Letter PDF &nbsp;&nbsp; Adda247",
-     "date": "14 Nov 2026 06:02",
+     "date": "14 Nov 2026 12:04",
      "publisher": "Adda247"
     },
     {
@@ -5352,18 +6084,11 @@
      "publisher": "Education Times"
     },
     {
-     "title": "SSC GD PET Admit Card 2026 OUT: Download Call Letter, Check PST/PET Schedule and Exam Details - PW",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mODBMbXZINTI0b2E0dVVRYVg5R3hkVS1mYm12X3Q0YkJIOUg3LUdVVW9EZ3JvNnhSd3lnUDAyLVpjX05VbzZfYldXYVF1c3JDZEVvRTgtdlFjRDFkS2c4YjNZQVJFZw?oc=5",
-     "summary": "SSC GD PET Admit Card 2026 OUT: Download Call Letter, Check PST/PET Schedule and Exam Details &nbsp;&nbsp; PW",
-     "date": "12 Nov 2026 19:48",
-     "publisher": "PW"
-    },
-    {
-     "title": "RRB Paramedical Exam City 2026 Out at rrb.indianrailways.gov.in Today, Download City Intimation Slip - Adda247",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CRXd5djl6S0FvLW1WakxpZGJCc2wxWmtEcjUzX3llVTg5UW9GNTFLVGY2T3V6NGliX0dBaUw5M0hST0FCbEMwTEM3RktRT1Nlbl96UDJUTVU2V0xYOUotblhFWVNZUzBDRVJLRk1JVFFyRno4QWtXTQ?oc=5",
-     "summary": "RRB Paramedical Exam City 2026 Out at rrb.indianrailways.gov.in Today, Download City Intimation Slip &nbsp;&nbsp; Adda247",
-     "date": "14 Nov 2026 07:51",
-     "publisher": "Adda247"
+     "title": "SSC GD PET Admit Card 2026 released at ssc.gov.in; check physical test dates and direct link here - Moneycontrol.com",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaVBzeGtRQXowQVhGZ3Z3NHNfR0dScmFmSTQ2RWY1bFh5ZDNTemtsdWFDMjc1bXJJczBULW9qQzBEeUdfenRzdllOeU5zN0I5cS1xcGVsWGhabjlfblllRlhhbF9nZGxfNDdZdklKZWNCaHV5amtNT2N5eHRMUkpabzJpUFZDbWdGRVVVcV9QZnZxY1hwRkZEVWxzd0FiWmhNcVlMRXRDcDN4MG9XdEZlYW9jbUJxS3NaMUZKRFRIUENRVVJ6MGpyWU5JcGk0UTIxWHR1N1d4eTlPS3dRZm9lb1gxUXFOa2tYN2cxWXRpTEllS2vSAfMBQVVfeXFMT2lQc3hrUUF6MEFYRmd2dzRzX0dHUnJhZkk0NkVmNWxYeWQzU3prbHVhQzI3NW1ySXMwVC1vakMwRHlHX3p0c3ZZTnlOczdCOXEtcXBlbFhoWm45X25ZZUZYYWxfZ2RsXzQ3WXZJSmVjQmh1eWprTU9jeXh0TFJKWm8yaVBWQ21nRkVVVXFfUGZ2cWNYcEZGRFVsc3dBYlpoTXFZTEV0Q3AzeDBvV3RGZWFvY21CcUtzWjFGSkRUSFBDUVVSejBqcllOSXBpNFEyMVh0dTdXeHk5T0t3UWZvZW9YMVFxTmtrWDdnMVl0aUxJZUtr?oc=5",
+     "summary": "SSC GD PET Admit Card 2026 released at ssc.gov.in; check physical test dates and direct link here &nbsp;&nbsp; Moneycontrol.com",
+     "date": "12 Nov 2026 16:26",
+     "publisher": "Moneycontrol.com"
     },
     {
      "title": "CSIR UGC NET December 2026: Application Correction Window Closing Today; Check Direct Link to Edit Form Here - Jagran Josh",
@@ -5371,69 +6096,6 @@
      "summary": "CSIR UGC NET December 2026: Application Correction Window Closing Today; Check Direct Link to Edit Form Here &nbsp;&nbsp; Jagran Josh",
      "date": "12 Nov 2026 14:45",
      "publisher": "Jagran Josh"
-    },
-    {
-     "title": "RRB Nursing Superintendent City Intimation Slip 2026 Out Today, Download Link & Steps - PW",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQV0tfM1YycVF3Z2VPNXBGbXQtOWNocWdlQzNwNDBqR2F6dE9YMDZ6U1htc0dGM0FEanZtZFhGMjBBalZFSE04NHdhZUE0UnhyVXdoaTFlaks5Qy1OVFpHbDVmODFHN29FZmduZFoyWlBpNnM0NDM3UnlGZEFtNml5Rg?oc=5",
-     "summary": "RRB Nursing Superintendent City Intimation Slip 2026 Out Today, Download Link & Steps &nbsp;&nbsp; PW",
-     "date": "13 Nov 2026 12:48",
-     "publisher": "PW"
-    },
-    {
-     "title": "CAPF SI LDCE Recruitment 2026 Notification Out for 1167 Posts, Check Eligibility Criteria and Apply Online - Adda247",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wenNzUkR2bVU4Ri1ENDZmQkZNTFlhTC1aVGxmRGl1QzlHbGtVYkNoSU9VUXhCS2NTOXV1V1o0anJuR3FTU05vSWNIMjNBUS1FdVlOQ3VWeGo3SmFKMW5GQTdCX1c4QkNmUVh4LWRZaUpSalpKcV9B?oc=5",
-     "summary": "CAPF SI LDCE Recruitment 2026 Notification Out for 1167 Posts, Check Eligibility Criteria and Apply Online &nbsp;&nbsp; Adda247",
-     "date": "11 Nov 2026 17:22",
-     "publisher": "Adda247"
-    },
-    {
-     "title": "BSSC Stenographer Exam Date 2026 Out, Check Official Exam Schedule - Adda247",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92VUI5ZUVabXBpcEw5SzYzZ1RSeVd3RDhJd1oxTFhDSDROVHVHeFFIOHk4UjdEckNRRmpLTGNSMFJOanJyT1FkMW5ZRUlsVnMwZ0xZMlJCUC1rdGNwNkJ0YjdwNWFFRVMzNTRzRUpaZ29zcE9KS2c?oc=5",
-     "summary": "BSSC Stenographer Exam Date 2026 Out, Check Official Exam Schedule &nbsp;&nbsp; Adda247",
-     "date": "10 Nov 2026 13:30",
-     "publisher": "Adda247"
-    },
-    {
-     "title": "APPSC Assistant Professor Exam Date 2026 Out, Check Official Schedule Here - Adda247",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdEd5aldNUXNBQ2x0RGRUcmRRMkJYMk1Jc3RZdnVDeWFoWjZfRzFIWWRSeGY1eUM1MmxGRjQ1NUxobjI5NGRkNEc4LUt3aDFwM2ZOX0FPN0JoYXUtUFBhY0ROWlBQVlRNczdnWFdXRGtySTVEajBLX3RVN2xzbnAwSlJWLWNnN2ZVVXRMeA?oc=5",
-     "summary": "APPSC Assistant Professor Exam Date 2026 Out, Check Official Schedule Here &nbsp;&nbsp; Adda247",
-     "date": "13 Nov 2026 17:52",
-     "publisher": "Adda247"
-    },
-    {
-     "title": "AEES Teacher Recruitment 2026 Out for 254 Posts, Apply Online - Adda247",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZVWNDV19VWjVzOGZFSmpuUHV3SVBaM01nRDV6TXE4d29QNG81Y2dlWjBPVHdrZVg5V051OHM2MUtFaE11ZHNfSXE5VUl3a3EzVnVPRkwyZDd5OTZGSXhjQUJOUzUwRC1GWG1wOVhpaENRMmp5bHJsVURCSGZIQQ?oc=5",
-     "summary": "AEES Teacher Recruitment 2026 Out for 254 Posts, Apply Online &nbsp;&nbsp; Adda247",
-     "date": "10 Nov 2026 13:30",
-     "publisher": "Adda247"
-    },
-    {
-     "title": "NICL AO Exam Date 2026 Out, PET Scheduled Starts From 9 Nov and Prelims on 17 November - Adda247",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Ua2lIUUlQMDM1RFJabXh2RkFUdWx0dWhmOWlVODFRMllQWjBtSzNXOEF6WmZuMTVzZXN0TGU3M0t4SEduNlI2VEJWV0xnbDdMRzJfWVREb2FjR0VnSThJNjZ1NHZNdWpsTkdJYXdLVk53T2cy?oc=5",
-     "summary": "NICL AO Exam Date 2026 Out, PET Scheduled Starts From 9 Nov and Prelims on 17 November &nbsp;&nbsp; Adda247",
-     "date": "07 Nov 2026 13:30",
-     "publisher": "Adda247"
-    },
-    {
-     "title": "DSSSB MTS Recruitment 2026 Notification Out for 1,075 Vacancies, Apply Online at dsssb.delhi.gov.in - Adda247",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KMGZPdmktTzBaRnhIQmNiVUg0QTN4cHZjYnY3cTdibUdPa1V5Wm5HSEs3WWM1OGVuRXhnN1Q4NTJyZHR0RjF0M3ZfSDF1Ukg2NTJhNHozTTR1eU00T01DRTZHSGxXa25xUlBpbXdlSkU?oc=5",
-     "summary": "DSSSB MTS Recruitment 2026 Notification Out for 1,075 Vacancies, Apply Online at dsssb.delhi.gov.in &nbsp;&nbsp; Adda247",
-     "date": "10 Nov 2026 13:30",
-     "publisher": "Adda247"
-    },
-    {
-     "title": "NTA opens application for empanelment of observers for conduct of CBT, PPT mode exams | Hindustan Times - Hindustan Times",
-     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNUnVHYTE0clFMSUhjTUk3cXdfNHFoR2RLZVZjd1pZU3BvbVEwelplaWNmcDBSc3ZYUlVUZVRpdXhMUHR3Yk4xeHBCNk5nbEZnMmpBQ2plSU5XdWx4NWR3Vmdsb2pSX2FFY1JrN2hBcDUxZ3hYT3lESVRlR3BmbE1rdnFqeC1VYzk5NmxuU2JpRjFPZW5WX19RZklwRHduZHlSekpIRkZ3Zzl1V2lVcUZvSWhOeHhTZXhzUUxvZjZvdlI5X25OaHBhbGtWX3pTR1BzeGpHZmRqVWRjTWNuQlJRaGEzSTA5LThrM3RBTFZsRkFiZjZm0gH6AUFVX3lxTE5WOHpJdmdPZ1lmdXNfaHNieVFRTUVidFhoZnYwTVFRTFJ2emhUdXc1dVVrenN4Nk0wbnltRVdvbjR6UWhGTkpVcTdXYTI3a0dvQzlfY2V5RWFmdEdXLUUwczI0dTM0X0dxcjB2VHJlNGtWR1JSbTF5Z3VzTTRkLUN1NElMU1FBR2NhcENoRDdwNEFoUDVEYjZmbGVLS1N3bDdBZTBkaGo1ZmQ3REhENW9oTHVkd1dKVng0VlNUX1FoNVBZT0daYUZEazA4eEtNZHU1dWZPYV83a2o1enVGaHRmQlZ0ekFaSGs1RTVLX2ZUZFBKTnEyUXV4N3c?oc=5",
-     "summary": "NTA opens application for empanelment of observers for conduct of CBT, PPT mode exams | Hindustan Times &nbsp;&nbsp; Hindustan Times",
-     "date": "09 Nov 2026 12:31",
-     "publisher": "Hindustan Times"
-    },
-    {
-     "title": "RRB Group D Exam Date 2025 Out: CBT City Slip and Admit Card Releasing soon at rrbcdg.gov.in - आठवडा विशेष",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DaWM5b1VIWldsTXZRbHN0UmdYR1FCTm1zTjNwbVRmT2poZ0pvdGlmYzBmN3FPOHZSV2U5c0FhTFdXOVUxUWVuOXdnU0laXzA?oc=5",
-     "summary": "RRB Group D Exam Date 2025 Out: CBT City Slip and Admit Card Releasing soon at rrbcdg.gov.in &nbsp;&nbsp; आठवडा विशेष",
-     "date": "12 Nov 2026 21:48",
-     "publisher": "आठवडा विशेष"
     }
    ]
   },
@@ -5560,10 +6222,17 @@
     },
     {
      "title": "Saudi Arabia’s year of AI: The real test begins with business - Gulf Business",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOa29fRDk1Z0J0WVNxRFBJSW9PN1JUdWFpS1I3RnRpdzNvLTU4c1dQWGZfWnA1OXlmQ2tpWGdNTmh2UHJqNHpDd29WUWNqOW03LXJmODdfYUtOa3ZkOXNzM1BRVDhzd0ZSOFNEenVyVVZtSnJFVVhERGQzXzd6TGJPeUZaY0lEUQ?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYTlVMUtGOVF5eHVRbkpHTjlHQmlkLW02V2x0czNEektJRXdvMFFvcjJzNTRSOC1pNDV6bi1XUE5jRnZFY1lGdGhCVmJuRzIzbGxMNW9NY1RkRnBtdzRmRjZ5WkdxdVRPa3RTX0tSSGo2Y1Q5UnZaTEtnT2VWV3pKYkdQWlo3V0E?oc=5",
      "summary": "Saudi Arabia’s year of AI: The real test begins with business &nbsp;&nbsp; Gulf Business",
-     "date": "09 Nov 2026 19:44",
+     "date": "09 Nov 2026 19:45",
      "publisher": "Gulf Business"
+    },
+    {
+     "title": "Saudi Arabia launches online medical exam booking for newly arrived domestic workers - Saudi Gazette",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQT2RMTUtBNEJFWm1IRjg3V1JSMmdPeHM1eFp1QkEyelduX21fMEhEeS02REFDNUxaclU5OFZzMHhwNXFZeXlrSGlJeGlnU2hGNjA1ZFlDaV9BTHNIZFhNZDZpZ2ZFM1F2ZzAyWUw3dzNVR0dTaEVqeENJSExYaWg4bE9BUHNwVVh6WE5nR3NRXzdxOHVUcXJJOUEyWmJHcDdaY2NPMEs3cDhkUlpEN0UwUjBXTTRuRWlmbTVMR21xXzlpdlNLVVJvZDhLd3Fub3BhcUhBZkFoMA?oc=5",
+     "summary": "Saudi Arabia launches online medical exam booking for newly arrived domestic workers &nbsp;&nbsp; Saudi Gazette",
+     "date": "09 Nov 2026 16:48",
+     "publisher": "Saudi Gazette"
     },
     {
      "title": "Primary care, virtual hospitals underpin 97% healthcare coverage in Saudi Arabia - Healthcare Asia Magazine",
@@ -5587,13 +6256,6 @@
      "publisher": "EdexLive"
     },
     {
-     "title": "Dubai Police is giving away Esaad privilege cards: Here’s how you can win one - Gulf Business",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTHZ3RTBsOFlBbF9JeGVaTndsd29xTnliTzZSTW5VdkRaUEtpelRzRHdBOUF2RkItRmI3dm1lWVFKYTE4RzNlb2VvMXN4bFVZc2twMFdxVmczV1o4ZkV0SEEyZmdBWV85ZlNxbVpubXV2T1o2Ym5iVGVVV0JFdlZiUlJzeXgxVUpHRjRLcnRWWGVrUG1BMVVyS2h6TFM4QUxyVjFqakxiVUx0ejlNTm9obUE5ekE1UQ?oc=5",
-     "summary": "Dubai Police is giving away Esaad privilege cards: Here’s how you can win one &nbsp;&nbsp; Gulf Business",
-     "date": "10 Nov 2026 14:21",
-     "publisher": "Gulf Business"
-    },
-    {
      "title": "Saudi Arabia digitizes medical appointment booking for new domestic workers - ARYnews.tv",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZVhNd183VXprSVl1QnBydmhoVkZ3TFFGNmNzYmNrZHdIYUU0aVE0ZUpJZ0pLWXpfaXZOTmlrc093WUxtNlREVnZHZUt6Q1VLdmRKZGppMVdlSXBFU0txZE5iYWwtbmJmaTVkM2tnRHVydnFoZTdIcmw3YV94OExqY1lyREdSd2hka043NllxbnNLR2s1ZjBOdU1R?oc=5",
      "summary": "Saudi Arabia digitizes medical appointment booking for new domestic workers &nbsp;&nbsp; ARYnews.tv",
@@ -5613,6 +6275,13 @@
      "summary": "Saudi Arabia Launches Digital Dictionary With 421,000 Entries &nbsp;&nbsp; Bloom Pakistan",
      "date": "13 Nov 2026 16:04",
      "publisher": "Bloom Pakistan"
+    },
+    {
+     "title": "Saudi Arabia Lists 14 Steps Foreigners Must Follow to Get an Umrah Permit and Visa - Legit News",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTjYwQ0RPRS0tOGptTlY1dThJOTFPUUtXY0RwNldnWVl3WGJrbDliVmExSi1qcHRjckk2dVBFYklTNjdqRS00NzJqZmZOVmlmQ19yT3U0MGdFUTd4bHVWYnlxY0FlaHdFcWRRVHh0STFZYnhHdnBRTkFWM2VIR1FhS2lnamE5TzlCdGNhd2NjQmk2VmdNanc4?oc=5",
+     "summary": "Saudi Arabia Lists 14 Steps Foreigners Must Follow to Get an Umrah Permit and Visa &nbsp;&nbsp; Legit News",
+     "date": "09 Nov 2026 13:39",
+     "publisher": "Legit News"
     }
    ]
   },
@@ -5663,15 +6332,8 @@
      "title": "Board Exam Time Table 2027 LIVE: Kerala SSLC dates out; Assam, Bihar, Gujarat Class 10, 12 schedules awaited - Careers360",
      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOVFvRzZhZC1TbG90NmUxQ0szeGRHSVhBQmtzS042ZHBFWnRubDczS1pxc1o1T0pqdmdCVVN1SzJmNnBYVk5CVVY4dE5FWUw0amFOalJHWnJSc21INDY5RUJyQ1BSS2dRNnctelduVEhhcFhhM3M2bkd5VUxLYWlFS1F4WVlmQ1dGNWUtMGpkcUZKY1dTQnllVFQ4TTlmSVpKU0ozNmFGMmFCZzlHZ2RUTk1tTzVfODFIYXdWb25zMUFmOWxYdnRXUFB3VXRaWlJ2Z3hsMlJyVUw1Q1J2dHA0eFN6QTh4WTNEYmU2WNIB8gFBVV95cUxOTzFEWGNNeDZZQ0NkZEEtb3FhZGFRV0pFbzJjbzFNRDR0b1U1VWt3Zi1mRGZsRF80ZVR0ZXA1cnJHR2NiaF82TW5ERExiOV8xM0xNQUxrMlAwMmtyQU5rZy00MVJfS0VndFlCNS16THJjX3VkTC1rTDltWTU4eGpoSjdKMVRLYzFVR3d4dDluQ1gzZUE2WEw0NVhVaDB3cmJMYzY2VlZySk4yWGtZVmo5RWpFU3p4TnFXc3RDeHRhODE1V3JCSmZOSWNTZ3lCTE0tSmVBS0tMZDJ0WDJHY21DTk44dnFDVkMxZEtYV3I5QWxidw?oc=5",
      "summary": "Board Exam Time Table 2027 LIVE: Kerala SSLC dates out; Assam, Bihar, Gujarat Class 10, 12 schedules awaited &nbsp;&nbsp; Careers360",
-     "date": "14 Nov 2026 08:56",
+     "date": "14 Nov 2026 09:51",
      "publisher": "Careers360"
-    },
-    {
-     "title": "Families warn of more deaths without MLD screening - BBC",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nMVg1ejFhUUV2ejRpSml5bHlaT1VJNlRJX204TWswVU9lcTlHZlJXSUI5aHo4Uk5zZTdhM2c5b1EwNFlCSGlvUFFKLXo3eEhRNWFiRzJQZXNVOFl3YkE?oc=5",
-     "summary": "Families warn of more deaths without MLD screening &nbsp;&nbsp; BBC",
-     "date": "10 Nov 2026 11:37",
-     "publisher": "BBC"
     },
     {
      "title": "EU Regulators Set 2027 GDPR Sweep to Test Human Review in Automated Candidate Screening - Tech Times",
@@ -5710,10 +6372,17 @@
      "publisher": "Jagran Josh"
     },
     {
-     "title": "JEE Advanced 2027: No Third Attempt Allowed, Check Exam Date, Eligibility and Important Dates - Jagran Josh",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObk1DeFY1aUxOTllWVEVQY1VrVjgzTGhMQndSOHYyV2dxVDN0TUJoZ0Z6VWZRLTZMUDByRU9sd2NvVWR1SnZhalJzS1lURHBHQi0wWE5ESE03MXItQU1BNWlmczhZcll0N0hXbnc1aHV2RERtX1JBQTFXanV1MkhUZ3MtY2hGVXNjd1JxTTJvenZwYU1PMVBZWUVqUXVGUjJkM3FjSEFyWEo4V1N1eDRaVkloLW5LbWs0Ul9ubjZuZGRKMlhVR21PUNIBzwFBVV95cUxPQmc3ZFVxNEtNbF9INkNfcWZXZ1k1T1pPcjY0Y01VNVRBTEplQmItUHFHMEctSjc2LU1MX1pRY1FXN1lGM2ZITlVrTnZnS2JwQ3hMeklsdXZNTFhrSzZORGtOTmlUeDh2Q2tZYlpxaVpnX0gzbEdJTGdhS3RvLUJZMkQ4RVhqb3JrVFprZDJlb3ZTTG45S21OY2pIeXhINVRaejlZMGlwUXJRdTBrWEFKWjR5Z3l1cTJwZmtSVFpNOXR4R29qWjcycFdNWnNoZEU?oc=5",
-     "summary": "JEE Advanced 2027: No Third Attempt Allowed, Check Exam Date, Eligibility and Important Dates &nbsp;&nbsp; Jagran Josh",
-     "date": "13 Nov 2026 19:38",
+     "title": "RESULTS: November 2026 Veterinarians Computer-Based Licensure Examination - Rappler",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWWxYTUtra3NncGtNa3hzUlRkLTZDMl9UWjVnVmhSVVp3Z2VhUk5ZVGNyN2hlbG1HRXhQdzFoUmJZRFB3cDBuLUc0SEl1TGtLaHhVN3ZoeFhuTl9aUjhUaklLLUN0VnBwRkRkdHFrMHMyU01JZWI0UndsWXFySzQ2MFB4Tkx5Nk1feElEa0lBWUFha0pxdVhGdVpvaFYwWGwtRkszQjFSR3lTZmVWbFQwYnRPVGV5UExhdDFvVWVDdUVsZw?oc=5",
+     "summary": "RESULTS: November 2026 Veterinarians Computer-Based Licensure Examination &nbsp;&nbsp; Rappler",
+     "date": "10 Nov 2026 10:01",
+     "publisher": "Rappler"
+    },
+    {
+     "title": "ISC Class 12 Computer Science Exam Pattern 2026-27: Marking Scheme and Topic-wise Weightage - Jagran Josh",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeEM3NTRueklLZ001aWNzMDRzdlo5R3lvNTJrdmM2Yzg2TEVLakI3RkUzVE1CcXZla01ELXVqVU9VQlIyQzlUN2NBTFRFSGhFaUFsaU5QcGZKclJtNGlEMlNkUlZwWFktalZCNkNzbjJsRlRaWFJSclZ0LXNqMGozdDNLdndlTGZZYklsVE4weFd0bkM1cGxMNTFuZjlDOEh5eDBaS1ZwVVV1SGhuMkRJVGVMMEJBWmM4VWVpeXJZOU12Ql9WMGVJUC1Ta0NER0o4RVBSYjRXONIB3gFBVV95cUxNbGtmYUNWR3dFVHdrbTRBT2xQRnRnbXhUMkN1VUczRG5xcms3NWlRdklQMlpXNEw5WmZDVnhDcVlnOVZ3RWl0X29iRGxMdnB6S2E1SzRWdWZJTFBKSXNXQTNjRWpNQVE1MFlDOGQxRjV5cXZGTFF0VFREajhOYS1RUzN3NVJfazVQSHI4Z3ViMDQ3dEZKajR4dDlHdWxaN1VNVlVMT25nYW1wOHcwQVhsSmNjQWpHVnpLR2NmX0NpOHhrSlhpVm9JV01Db29XUkQxbWV4X1hsN0VSWlkwcFE?oc=5",
+     "summary": "ISC Class 12 Computer Science Exam Pattern 2026-27: Marking Scheme and Topic-wise Weightage &nbsp;&nbsp; Jagran Josh",
+     "date": "14 Nov 2026 09:46",
      "publisher": "Jagran Josh"
     },
     {
@@ -5722,6 +6391,13 @@
      "summary": "Reps Query JAMB Over ₦3bn Staff Benefits, ₦710m Computer Expenditure &nbsp;&nbsp; Nigeria Education News",
      "date": "08 Nov 2026 17:42",
      "publisher": "Nigeria Education News"
+    },
+    {
+     "title": "JEE Advanced 2027: No Third Attempt Allowed, Check Exam Date, Eligibility and Important Dates - Jagran Josh",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObk1DeFY1aUxOTllWVEVQY1VrVjgzTGhMQndSOHYyV2dxVDN0TUJoZ0Z6VWZRLTZMUDByRU9sd2NvVWR1SnZhalJzS1lURHBHQi0wWE5ESE03MXItQU1BNWlmczhZcll0N0hXbnc1aHV2RERtX1JBQTFXanV1MkhUZ3MtY2hGVXNjd1JxTTJvenZwYU1PMVBZWUVqUXVGUjJkM3FjSEFyWEo4V1N1eDRaVkloLW5LbWs0Ul9ubjZuZGRKMlhVR21PUNIBzwFBVV95cUxPQmc3ZFVxNEtNbF9INkNfcWZXZ1k1T1pPcjY0Y01VNVRBTEplQmItUHFHMEctSjc2LU1MX1pRY1FXN1lGM2ZITlVrTnZnS2JwQ3hMeklsdXZNTFhrSzZORGtOTmlUeDh2Q2tZYlpxaVpnX0gzbEdJTGdhS3RvLUJZMkQ4RVhqb3JrVFprZDJlb3ZTTG45S21OY2pIeXhINVRaejlZMGlwUXJRdTBrWEFKWjR5Z3l1cTJwZmtSVFpNOXR4R29qWjcycFdNWnNoZEU?oc=5",
+     "summary": "JEE Advanced 2027: No Third Attempt Allowed, Check Exam Date, Eligibility and Important Dates &nbsp;&nbsp; Jagran Josh",
+     "date": "13 Nov 2026 19:38",
+     "publisher": "Jagran Josh"
     },
     {
      "title": "Bihar SLET 2026 Rescheduled: Check New Exam Date and Download Admit Card at sletregistration.cbrt.co.in - Jagran Josh",
@@ -5738,10 +6414,17 @@
      "publisher": "Jagran Josh"
     },
     {
+     "title": "SSC MTS Syllabus 2027: Check Complete Subject-Wise Topics, Exam Pattern and Selection Process - Jagran Josh",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUWExX1dXNkZvV0NPaTRtTDNUOGhpLTI3YXMzLXp2Z2ZjNHA0RnRMNmJlUk1UZWdfMUJsN2pDdEtqc1JacFhZbWJxUUxNdk1xTmNhS29GVFVIU09Jc2JwZkRfSk4xWnNxWTl3Zl96QTlvbkNINHpyOGNGOTNFNU1mbEpURmtFTHlpYUVPb2xfTnEzSHhJNVhIaHlyWWJyUExxaGZUNVpRUUZBVHEwQks4alN2Y1VWWHpubXlRYXFpS1JoWWNUQzh0bzJnQk9uVjFpZ0FpVzhmWdIB3gFBVV95cUxNU1hBbFdFY3NIVVhNTlAyeWQ1MG5ubDFsREZEcDUtQndkdFNBR0t4V1ZoRVVRQ0pPUTRlX1FIVmk0d3UyRkxROUdUYkhJNFBmM3E1MWZFRVRfaWVWV1RBc0RCZjJ2RGdudjM0S2RMdkY2NDh5WTB2UHlLbmt4ZFpIcGhQWUFQaU94Tld5elhFRXV6WEhtMTdtcXJNRDRuNHFLQ0dkV2ZyVDNURmRHazQtVWZJdjFQYzNXWlV5ZTFEY09ablA0SXNOZmIxUmg1eWpZaTRiY2d5cU9RSjJkZmc?oc=5",
+     "summary": "SSC MTS Syllabus 2027: Check Complete Subject-Wise Topics, Exam Pattern and Selection Process &nbsp;&nbsp; Jagran Josh",
+     "date": "14 Nov 2026 12:00",
+     "publisher": "Jagran Josh"
+    },
+    {
      "title": "RRB Group D Result 2026 (OUT): Direct Link to Download Zone-Wise CBT Merit List PDF Here - Jagran Josh",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMlRQcDJOUEFDZlJ0aGlBbm03RFNIZXVfbUlFQkJ2c2ZKc2ZIVjE5cFp4WDdPUFlkVm5ZUmlJZjNhOEZoM3RvVUlReTNBdGg1ZkxZQWFSOVJ3YzNxOFU4aXVTQ25JWGw4eVNKbnRvYUdRQ1h5aUVwdjhIdGtaYnpjbTc4UnpLSURPbGFyZEVNby1oTXhRVnl0d1cxdU9yR2N5NXdLb1d2LUlIcVFkOVVvUnMzYWZURXp3QzFWZU42MWNHZ9IByAFBVV95cUxNM2QwWW1pWjNwMVFsUFM1QU9GMzJEYXNsVXRpMEpXM0l0U0lRZ0NWOENpRFd4X21KODBPV29RUDlnY196SFhoZ04zNzdUSzNSVFc5T3NIVEt0OF9yZjdFel9qdGRzVzRpbEVnUFNUZDBReUtQZ3o3cHF3VTZ2R3M0VXlsakpNcldVcjhiSzRWUVJBT282eDlhV1Z0VnAyVTRuLUhyTnhzYkJCM285Vnc3SkR2YlljTXRMT1FYYXlkdjl1ZkVaTUJtZw?oc=5",
      "summary": "RRB Group D Result 2026 (OUT): Direct Link to Download Zone-Wise CBT Merit List PDF Here &nbsp;&nbsp; Jagran Josh",
-     "date": "12 Nov 2026 18:43",
+     "date": "14 Nov 2026 10:48",
      "publisher": "Jagran Josh"
     },
     {
@@ -5753,7 +6436,7 @@
     },
     {
      "title": "School Assembly News Headlines (November 9, 2026): Top National, World, Education, Business News - Jagran Josh",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQR0xVeUdzbFpGTGNlX25fc0RxVzV1MDl6d0ozSVNXZ3gwa3lkZ0xYR1Uxc1FLQm80YXY1SmxwWHM2bUtqYzVCdFBYSGZUaVBrdjJKeDE3N0tUdG9RMkpzaFFWSElrcXRIcE1wdXZyRW9RdVUwVjRqRkp6bGZoeW1COHJmcUVEaXU2LWpzdTRUeGxEcjByWVNjbGVOa1E1RHZRREJOWTA2YmtPNlYzSEZob0l6dnRQMm5vMVdGUDNHSk01UGVDMXhUU25tWDhPWlV3Q3hBadIB2wFBVV95cUxOamF6MFhGMU90Tl9mc18tWEx0Y3JYcnRfZVRhVkdQeXpacjNDUEVVZGxmLXZWbF8xV1doUUhsaFFTc1c0NlZLTU5FX2RidXlmUm5TZVpndV9rZHJkYkUxX3JMSjZYT2xwOVhpTThzV05sS1luY3V4LWw1alczSkFHU0JVX2FPX1FaNW5VN0M3c0hFOXlHTzNRMnlLMy0tUXNPaTV4MjRYQVR6MVMzalc4OTM4WHlRR01fQm1vTzVHbnZDNGRZbi0zRl9WenlMWHlxalEtS2liVFEtMTg?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQR0xVeUdzbFpGTGNlX25fc0RxVzV1MDl6d0ozSVNXZ3gwa3lkZ0xYR1Uxc1FLQm80YXY1SmxwWHM2bUtqYzVCdFBYSGZUaVBrdjJKeDE3N0tUdG9RMkpzaFFWSElrcXRIcE1wdXZyRW9RdVUwVjRqRkp6bGZoeW1COHJmcUVEaXU2LWpzdTRUeGxEcjByWVNjbGVOa1E1RHZRREJOWTA2YmtPNlYzSEZob0l6dnRQMm5vMVdGUDNHSk01UGVDMXhUU25tWDhPWlV3Q3hBaQ?oc=5",
      "summary": "School Assembly News Headlines (November 9, 2026): Top National, World, Education, Business News &nbsp;&nbsp; Jagran Josh",
      "date": "08 Nov 2026 19:28",
      "publisher": "Jagran Josh"
@@ -5770,13 +6453,6 @@
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMUJuMzV5d00xamxzX1pXeUIwTEg1Q0RMaEZkTEFLTERvQVBJM2YyamgtRXBXZDJNRFpRU3NBRkpDS2o2QjFtTTdqblhGTk93ck9sVVpZaEdjRWllTDlpMjJ2WkVvenFnck54MEs4UGVJMlJURUdRcm1nNXNfLTZiTWp1V2x6ZU1mZ2FlalgzZFV2Ri1YeEhKZ2xEX3JFdi1RbzZ0TmYtcEhlQm1kWW9feDNURW43V2tYbkgxa0p30gHEAUFVX3lxTE5HRURqM21mUmhrcEZ0Z3FLUDZrZjBQckpNanZpLUdzT2VXZTI0a0Z0dEFsUTNSMUk3NDZ4RzJxeFp4TG9ZRkdQM1B0MWF5U2FqdnlFeUhRTHllSEl5VXV5QkVGd1gyaHNlX1kyRlI3cmtsZVJVSkFjUXVLc2FpMEVUNGh5cjlaLWp2UVJHVWNtalQ0VGJIdWI4TXVydGEzWGRGeE9NWHJFZEtqWVcxcVI4Q1lLaTlLVk9YRVV3UnRZLXRVbGk?oc=5",
      "summary": "RRB Group D Cutoff 2026 OUT: Check Zone-Wise and Category-Wise Marks Here &nbsp;&nbsp; Jagran Josh",
      "date": "12 Nov 2026 19:04",
-     "publisher": "Jagran Josh"
-    },
-    {
-     "title": "JEE Main 2027: 60-Day Preparation Strategy to Score 99 Percentile in January Session - Jagran Josh",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQWMyQ2dLMU5icWFvdnZ3QU1YbnA5ZF8yMUpkVzhYYloyM25BV1hEUUtGX2xPRnZscnNPcC1oMGUwaDZhSGVNYW9qb191ODZ5ZFlGazRjZUFmUXZWMmU0Nmp5Qnc0b0lLOEhsY29XUWQ2eFBtSUZjLU1MaXlrZVFIOVdieUVLdWQ1eW5DSWpnNzdYZmdZS3hlb0YwdHJjalNYYS1lSzBJN2VMQTgxTVVqc1hZdHFPUkVxSjkybDY5OWl3SWhKaFpRUGZJdnrSAdMBQVVfeXFMUElJNG0xTnV1MWdlRVZWQll1NDVSTUNZUlFvWGJyeWNuOXZCUEhILWtrX1lZSjlxWEc5ck5MblF6QW44SEFGdzVFUl9VbW9YaDR0WDB4Z3B2N0ZYaTNqSHZvcXVSeEdUYWN4VUEwWlMyTGI2Z3J0bDVoQWZvenNnY1FFR3U1R2VYVzA2ZEZ4eFZ0VVJ6d0V5RThaWThWcnZXbE9weER5YmZTRlFaYjN6NnZJbUFNT3RLMjZEd0pXeENTRjZweVdIeUxlWVA1RFNjeW15Zw?oc=5",
-     "summary": "JEE Main 2027: 60-Day Preparation Strategy to Score 99 Percentile in January Session &nbsp;&nbsp; Jagran Josh",
-     "date": "09 Nov 2026 13:55",
      "publisher": "Jagran Josh"
     }
    ]
@@ -5837,6 +6513,13 @@
      "publisher": "Yahoo! Finance Canada"
     },
     {
+     "title": "Fifth Annual N.C. PSI Hackathon: Where Agriculture and Technology Connect - NC State University",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY0M2aWdmX0tkNDZKaXFNMEE4WllwcjJUcnBxMEtFZVk3bU5zUmdONUpQTUVtdVp1MUNncklELW5fWklSQmwweDRBR1lpTE5TN3U5VkNTQjRZbVhNb3pfUlFBdURZb0lUSl8wcWlPcG0wN0s1WWU1bHJkeEVIWVY3Y3Nybm5fRUpSMC1GaC1DSHVtNjVYWW92OFpqVVV5OEdsYWFBMFN3?oc=5",
+     "summary": "Fifth Annual N.C. PSI Hackathon: Where Agriculture and Technology Connect &nbsp;&nbsp; NC State University",
+     "date": "14 Nov 2026 06:35",
+     "publisher": "NC State University"
+    },
+    {
      "title": "PSI is trying to build a business around AI-driven scientific discovery - Mezha.net",
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43SHVzNHY2cGdlcUh0alVZblgxeExwQmhQcExIM193RzJCWktGOTd3bm9DV0Y1NGZudjduX0Y1NmpwLXRlSk01MzZVV0xET1A0V0ZqbjVWMzBtVGR4RUVBcHNMNURReTlSSFVTQ2RVQVljcjctWGpfWEVMcHA?oc=5",
      "summary": "PSI is trying to build a business around AI-driven scientific discovery &nbsp;&nbsp; Mezha.net",
@@ -5858,13 +6541,6 @@
      "publisher": "Brief IA"
     },
     {
-     "title": "Portugal shares higher at close of trade; PSI up 1.06% By Investing.com - Investing.com India",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVGZIT0V1bl9XdGpYRnUzZjBNNTZ1ZmRqWE8ycTcyUUJIb2pkT2RJanJOa2xkOXFUXzJicUgzS0doaWhoUHZkV2FnMmVhZmN6VWExb0doekJFU3J6ZXAtMVFJNHNnQVNlTXhqMjdfakJyYWRhT3JUak5OcnF4dld5Z1ZmWUJWei1hUXZ3U0VtVzd4dU1RYmlteDI5Y0hFeURreGZnalJNSkd4MjQ?oc=5",
-     "summary": "Portugal shares higher at close of trade; PSI up 1.06% By Investing.com &nbsp;&nbsp; Investing.com India",
-     "date": "13 Nov 2026 22:43",
-     "publisher": "Investing.com India"
-    },
-    {
      "title": "Portugal shares higher at close of trade; PSI up 0.02% By Investing.com - Investing.com India",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMUdxMWdYTHBleHgyWGdyV2JJSzFORFBMbFh6RzYwSEtZN3N0dXpueDMweXVHZ1JpbG1xWlVZelhGVGlSY09JYVFiUGNld2NoVTJOSG1GN0s2OFdpNl9TNGM5NUUxWVd3UFFXTTRGSVN1RXNCNTVmSmh1SURFQXBaaTZmcURxc2xRR214eF9qdV96WFJoYU5VN2lPZUI5QTV3SEdHM3hSU0R5YkU?oc=5",
      "summary": "Portugal shares higher at close of trade; PSI up 0.02% By Investing.com &nbsp;&nbsp; Investing.com India",
@@ -5879,18 +6555,18 @@
      "publisher": "Investing.com India"
     },
     {
+     "title": "Portugal shares higher at close of trade; PSI up 1.06% By Investing.com - Investing.com India",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVGZIT0V1bl9XdGpYRnUzZjBNNTZ1ZmRqWE8ycTcyUUJIb2pkT2RJanJOa2xkOXFUXzJicUgzS0doaWhoUHZkV2FnMmVhZmN6VWExb0doekJFU3J6ZXAtMVFJNHNnQVNlTXhqMjdfakJyYWRhT3JUak5OcnF4dld5Z1ZmWUJWei1hUXZ3U0VtVzd4dU1RYmlteDI5Y0hFeURreGZnalJNSkd4MjQ?oc=5",
+     "summary": "Portugal shares higher at close of trade; PSI up 1.06% By Investing.com &nbsp;&nbsp; Investing.com India",
+     "date": "13 Nov 2026 22:43",
+     "publisher": "Investing.com India"
+    },
+    {
      "title": "Portugal shares lower at close of trade; PSI down 0.07% By Investing.com - Investing.com India",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMjVjb2daN2p1RGEyZ0NLNmNtUEFRLUR0bjVOSzUxOGdtbDdjLWtJRnZ1eVNURW0tby1VZ1ZtX1JMaDNzRVNtbER1bEkwbE5mMFV1amt1UlRIZ09OSXhnSFdaM1hRaEFBZXpaZmVNYWVzVzZEbndlZl9rTnNjbXY2NjY5bFZiRkRXT18tTFNYSnRSRTlhWE9Wa1lFel9hdDRMVGk5UTRBM1Z1amRn?oc=5",
      "summary": "Portugal shares lower at close of trade; PSI down 0.07% By Investing.com &nbsp;&nbsp; Investing.com India",
      "date": "10 Nov 2026 22:48",
      "publisher": "Investing.com India"
-    },
-    {
-     "title": "Portugal stocks higher at close of trade; PSI up 1.06% - Investing.com",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSzBmU0tTRnpkLVVPXzBhMTB2cUJBdmFodnh0NkZ1RE44NkwwLUxzY184Q3JxdVA3bGd0M2FJRlh6OFJneEd2RFN6Um5XVXZJdWZJR0tDbldKOGpGNTBla2g4WTNMNGQ2cGRfSTEyY1lPalNmMmRhQmZDYnQxZlNhY2x0OXBGUUVPTWQ4bWFPSDBvQlBKOGw0d0RueWQwNlBVT3BCX0ZvTXJpMndn?oc=5",
-     "summary": "Portugal stocks higher at close of trade; PSI up 1.06% &nbsp;&nbsp; Investing.com",
-     "date": "13 Nov 2026 22:47",
-     "publisher": "Investing.com"
     }
    ]
   },
@@ -5992,18 +6668,18 @@
      "publisher": "AUTOJOSH"
     },
     {
-     "title": "CellTivity Scientific’s Van Gogh® Microscopy System Surpasses 10 - The National Law Review",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM3N1LWV6RXFYaU5UMWZqMDlsSzY5Qzl3cnI4OEdKWnY3WHFHUXZMcXh5VHBNZ0FDNWp3dU9YQ0xneW1nU2lHVVh0Y3hnbXFtaXpYUUdocmxRQWNNd1BVTmpKQ1VCUmRQaFB6OVhEMTQ1ejFKRFlRTGlSemQyYVNhVWZ4bXJrVnpEMlNfZ0g0X2RoQUlVN0ROcHNfLWJPMmV0Q3k2MEhOR3c0c1FXMkVmRVMzTTY?oc=5",
-     "summary": "CellTivity Scientific’s Van Gogh® Microscopy System Surpasses 10 &nbsp;&nbsp; The National Law Review",
-     "date": "11 Nov 2026 09:23",
-     "publisher": "The National Law Review"
-    },
-    {
      "title": "Haze costs Singapore $2.32b in 2026, surpassing 2015 despite fewer hazy days - AsiaOne.com",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS2dhcjYtUHBVQWdvMHprNjNXNDUwbS1rN0ExWHpQLUE5Nk9rTHBMMlNxVjlPZzRJVm1BSXhZaHh0alJnaHBqeFIteUFsNWNVaWp3UEVIdXJVZmZUaXNtdk5Pby1lbEhQdTJPUlZHSVlYckRDX01Jc09UM0YwaloybTZJc1hla25icV9aM0Y3Qi13bWpZR0JuY1pMQjNteDVhZEp3ajZwNA?oc=5",
      "summary": "Haze costs Singapore $2.32b in 2026, surpassing 2015 despite fewer hazy days &nbsp;&nbsp; AsiaOne.com",
      "date": "09 Nov 2026 05:18",
      "publisher": "AsiaOne.com"
+    },
+    {
+     "title": "CellTivity Scientific’s Van Gogh® Microscopy System Surpasses 10 - The National Law Review",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM3N1LWV6RXFYaU5UMWZqMDlsSzY5Qzl3cnI4OEdKWnY3WHFHUXZMcXh5VHBNZ0FDNWp3dU9YQ0xneW1nU2lHVVh0Y3hnbXFtaXpYUUdocmxRQWNNd1BVTmpKQ1VCUmRQaFB6OVhEMTQ1ejFKRFlRTGlSemQyYVNhVWZ4bXJrVnpEMlNfZ0g0X2RoQUlVN0ROcHNfLWJPMmV0Q3k2MEhOR3c0c1FXMkVmRVMzTTY?oc=5",
+     "summary": "CellTivity Scientific’s Van Gogh® Microscopy System Surpasses 10 &nbsp;&nbsp; The National Law Review",
+     "date": "11 Nov 2026 09:23",
+     "publisher": "The National Law Review"
     }
    ]
   },
@@ -6034,6 +6710,20 @@
    "status": 200,
    "error": null,
    "items": [
+    {
+     "title": "AAI Recruitment 2026 - Apply Online for 18 Junior Consultant, Consultant and More Posts - FreeJobAlert.Com",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb3gyUm5RTWhNd2VYWFJVekRYT1UwUkFSMDV5LU1oVXFoclZQcXQzX2h4RlgzZTdoX0dMNmJjZGFGdGQtbnNQRUhkY3VJS0RaZHBJMVVRSWV5TDJHU0xnTjRJM1RWVHJlTGQ4TGlZZzBUVklRNVRzMTVUejFqR0JlSzh0STc1c3lUX2NGNjRkU3E3NW9SN2cyV1VyUQ?oc=5",
+     "summary": "AAI Recruitment 2026 - Apply Online for 18 Junior Consultant, Consultant and More Posts &nbsp;&nbsp; FreeJobAlert.Com",
+     "date": "11 Nov 2026 12:45",
+     "publisher": "FreeJobAlert.Com"
+    },
+    {
+     "title": "RRB NTPC UG Recruitment Notification 2026 (CEN 07/2026) – Apply Online for 1,688 Undergraduate Posts - FreeJobAlert.Com",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMVBOeGpsYVpNMTUyeVI1Y3JSbHNrXzJoanBNSThIX3YxQnN1UWpEaHZMVDBuN3M2UGY2TmwzeHFLNUFBZGJIUGJkN3VTNUxGRlhEQnV1bkItYVZES003TXliNzlIYldSd2JSbFp6X3lnZ0w4bVZkYWpvTGRRV2E4RGJxVUkxaXAtQVdlSlJVdlZSYlhtd2xuZ0FwLXFOdw?oc=5",
+     "summary": "RRB NTPC UG Recruitment Notification 2026 (CEN 07/2026) – Apply Online for 1,688 Undergraduate Posts &nbsp;&nbsp; FreeJobAlert.Com",
+     "date": "14 Nov 2026 10:15",
+     "publisher": "FreeJobAlert.Com"
+    },
     {
      "title": "RRC North Central Railway GDCE Recruitment 2026 Notification Out - Apply Online for 656 JE, ALP, Clerk, Technicians and More Posts - FreeJobAlert.Com",
      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYXNhWTZ4TGNENVJpbm94UjY4dTNfVm95dmF4NVZPRE84bldSOWdtUHg1NlFyYUZfU3JabngtdmQwaERhNTF3ZFRrUWhkdnpCYWN6VWtMcUFqRTY3UzJ1aWFmcDlpejBOajhleWZ2Rm56c2pIM3dObzZMMXg2ejJSR0R3N3p2THFkVHAwR2pVYmNBYXkyT3lSSXFtdlFLTTQwbHgtd1UtQVlGaDF1ZDZjR2hrY3RNWEVld29Ydlgtc0FHeXhwR25MYVl2WFB2UTloU0VrZkUwNDhjRnI4NGpCZDBwOVl2eHROcEE?oc=5",
@@ -6085,25 +6775,46 @@
      "publisher": "The Statesman"
     },
     {
-     "title": "Kerala PSC Exam Row: Evaluation errors change candidates' ranks; chairman summoned again - Careers360",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVW1SbDBNaURaazJrdUVoVVdzQ0VDX1g2R2lEalBMQUp6RXgyb2xqVFBUTEYwRDZvX3BmcEhXUVFBT0l1LXNLZGxPQk9nWVFlblhvZlR4RDVRR2h5ODF4YnJpR25NRk9Ka242d0M3REhRSkxBSHFIRWhEcjNqU1JIRUhzdWlVU0JaMWxVR2xNWXoxaG1jWmhxQmxYcjRTVWttVkRuYlZ0dmtxbDlHV241VER30gG3AUFVX3lxTFBqbFNiV0lPUEw4cGxfZzBSTExubFNldXg5aElIeS1zT1M0UUFHR1J5RW1FNFhvcklQWnhSZW1GMWVra1BkeHdla0RYc29iTTJSSlQtVmptNm9RdXJJZ2pLdHVMb3M1ZlVzWmN2N2Qzc0o0dndGaWZkVFN5ak1NTzRhWVMxRE9jVkdLclZ1TFVTRE1IelJCREk4VjJDMWd2bGFmLUl1M1FqeF96SHhwYWlHNHhHYzFkQQ?oc=5",
-     "summary": "Kerala PSC Exam Row: Evaluation errors change candidates' ranks; chairman summoned again &nbsp;&nbsp; Careers360",
-     "date": "07 Nov 2026 11:25",
-     "publisher": "Careers360"
-    },
-    {
-     "title": "Kerala PSC Chairman Faces Fresh SIT Summons Over Alleged Exam Irregularities - The 420.in",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtLTdqU1ItQ1FuTkt5QTZZWlp4eEg0UV9ERUNzV0dRTVVHU3M1LTJxeGFyalFpZnY0aFJ5cmFZWldHQVQ2UXBwQmNGVTYxTEZvTkVfelJPSGlyVDA5YVZ4X0kwLU9CZw?oc=5",
-     "summary": "Kerala PSC Chairman Faces Fresh SIT Summons Over Alleged Exam Irregularities &nbsp;&nbsp; The 420.in",
-     "date": "07 Nov 2026 12:17",
-     "publisher": "The 420.in"
-    },
-    {
      "title": "Kerala PSC recruitment row: Chairman M R Baiju asked to appear before crime branch on November 10 - India Today",
      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdnFoMmJtMXF3NTY2X0xua1Vnd2lDZEZyRFFKR2hiem5jSk9oOXV3c0VENjNvTmdFRjg2dkpwdjZjcThZbVJhTVNKbFkzWXRTcTMzZ1NxOEVfaGdMRmVZRW5tOXBjZ296Y0JoQmtxUkpLdHlfcmk0YlgxMHRabHd2RFE2RDBSVlNOaXVtVDF2R0FObklIWF91V2dxX2hyRXFsMklLcHBQZTA1dlp5OFhJWU1qV3hVU0FKMEUzbEZUVGlCcGJlOWt1NDNKazZmZ05ESmFFMnp3ZTczYzNTSklva2hOaw?oc=5",
      "summary": "Kerala PSC recruitment row: Chairman M R Baiju asked to appear before crime branch on November 10 &nbsp;&nbsp; India Today",
      "date": "07 Nov 2026 17:53",
      "publisher": "India Today"
+    },
+    {
+     "title": "Kerala PSC chairperson M.R. Baiju refuses to appear before Crime Branch again - The Hindu",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNS2xsZGd0VEdmb2FDMS1OeElreUVqaDUwaWZXYWtkLUktcUJHcW1TZTU1WU5EaTZPbUM1Sl9JZWxFelcwX095ZlhFMzJpaTdPLWdwRFNhb0FCclExVlBwd21vVmxIdEhaNGdoOVBqY0hHcF9zRkVpSmNKekRGR001NjJsX2pfSTk4VC1CMTM1REdabkxKWGMtVnZaeU5yRWw1R2VXNC14ZDZpcUQ3QlppYmt6RDJoOGZXUE5zQ3ItOVBGR00xWEo0ZG9MOEFseEc2VDN0anpIZ0XSAd8BQVVfeXFMTkVXWFYtUVFlMDJuSG9xa19YbXpJalA3QVJ4LU5CTlBrOXhiX1BaTHNfSHJJNGl4dWU4Q2h6Qm13MlZpZm80RmwtS2RCRkFmbGRkSjIzZkZEV1pCaUxzSnVHbUFpWW9LNll2TTMxQTRET0FHdnNkeEVjcWFBR1o5UWVvZnV4S0UzT0toaHpsS0UzVmkxblhzOVFiNWlCa3NiNi1yclVOM19JTHlMTEdmek5TUFN6Tl9TU29vWmkyTHBZVkhQZDZfQ0RLalA5YkVjRHVWY2g3bXRiZmJiaHBkQQ?oc=5",
+     "summary": "Kerala PSC chairperson M.R. Baiju refuses to appear before Crime Branch again &nbsp;&nbsp; The Hindu",
+     "date": "10 Nov 2026 18:39",
+     "publisher": "The Hindu"
+    },
+    {
+     "title": "After last week's no-show, Kerala PSC chairman called for Crime Branch questioning on Tuesday - Onmanorama",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcGFPaFlTRGVveS16ZkRwY0w4c1hGVV81V0RieE1kTE5NeFJDMUU3ZzdzR0hBbkc5VTctME1FVFhjbENuSG4tZ296UDBmbFBHakJURkYzRTJxNEM3REVBZzRFQ1dpeGZjcTBaT1ZxMm5fLUdjelhDYmE1cGRQY29wTUt1MU9WNFAzRmM2VG9hVTBYeUNCMTZZaTB6Y3NjVkZ5UnU4RnpEZGZUS2pnM2NETWxqS3RNMkhwcGxwdVl5VXNqSGJxV1VkQWt5ZnlweTBmaHc?oc=5",
+     "summary": "After last week's no-show, Kerala PSC chairman called for Crime Branch questioning on Tuesday &nbsp;&nbsp; Onmanorama",
+     "date": "10 Nov 2026 06:45",
+     "publisher": "Onmanorama"
+    },
+    {
+     "title": "Kerala PSC scam: Chairman Baiju skips SIT questioning - tennews.in",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBSQXlKN05MbUpIQWRSN21xeFZWdGI3Mk5TMWRqQ1hMYU12VUQ2RTFOcmtFSXhUaHMwZTdaVlM4NDJzalZ0cWQtell2MlVYNm1OTXFBTUswNlhXMS1vbmVsODltREV6WURhZzJjWnNmVUlqN1duQ0lPMDhiT28?oc=5",
+     "summary": "Kerala PSC scam: Chairman Baiju skips SIT questioning &nbsp;&nbsp; tennews.in",
+     "date": "10 Nov 2026 14:27",
+     "publisher": "tennews.in"
+    },
+    {
+     "title": "Crime Branch notice to Keralam PSC chairperson to appear for questioning on Tuesday - The Hindu",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMU9IN25IV0JORjlMQy1PTXBycW1xYUp2VHhlZVN1NUR5QWJTVWhMUFZVM0tSd1ZhQ2RCVi1ERFVtbjdoUzBOTGlFRVRWLVdBMW9ZTk1oZEJ5ZmhKV3lSNzZyZUJ2M29xRWZNdUh4MVpGRnR2RHJNVUZQUmpyZncxamhLbmNVZmtGWWZubXhUUk5zOVhMWkRGYmlFbFRjLWRrNFZ0RWNGYWw1anZiMFhqT0lVdERLZHpIelRiRWhHOEdmMFhUWWM4blduXzVrWjBubVZZX3N1SmtpcTlGUE01czRjZ9IB6gFBVV95cUxNT3NESlJ3VXJlX0lIbUhoYktiN3FTdXUza1JJWl9zSV9pWDk2TFNUSXo5V21pQkNqUmRXc1dxYTQ4bVpLdGFKR3QtQlN4MUhTbmRKNno2SkhzdzdmUzJYZThJYVlIelZSQmE4S0t5enc5eWRWRU1XNzR0RGt5ODkxd3RTOW9NMndzYzk0SDR2amFPYVRyM2dtUERFMTBPN01tT285TVd0R2M3NWJmT1E1cGlLVDIxQ3VlWXZkQkpMdkx1azZmWFA1YUhGRDctdTBMOGZGUzBVeWZXaW5MSGNDbFpxOXVjM1NrRWc?oc=5",
+     "summary": "Crime Branch notice to Keralam PSC chairperson to appear for questioning on Tuesday &nbsp;&nbsp; The Hindu",
+     "date": "09 Nov 2026 20:06",
+     "publisher": "The Hindu"
+    },
+    {
+     "title": "Irregularities In Exams: CB Issues Fresh Summons To Kerala PSC Chairman - Outlook India",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZGNsTXhmRDJnb3pVR3JLbEhmaXJoWEgzOXBXYzQzUFpaNk5ScEt3cWpVX3JCanFwbEZWT3NSSUk4R215elI0Vlg3ZzRvSVZydjRLM1VzOWtUeWlNbEUxTWJ6ZlhNYnQ1NG5lRGFfX0xya1VETHhiWnhiT2ZRSllLOG1idEhzMjRiV04zaUtzLXJRamRtanM2UVdEbUI1QktMQktlRjlxRk5CRkd10gG6AUFVX3lxTE52WlFVVjZ1emhkcFBEY25ua3RDcVdVZVZHODNpdi1PV3BfUjd5Tml2eFhZVjRGd2hKUGg1c3VNRDVva0ZvSFFVSERfT1Q2dkQ5eHNsV0pMWllBaGZRejFtdEowbDRXMWp4QnJDSGQ4RjQwSURXSHlWTHNmVTBGczNUSjFJUlY4cUlSNHFnSEZrZjh4cXhNQzFYZkI2dTNaeWNTQ29ETHV0VDd0Nm45QVFENnNqQnByNEpBZw?oc=5",
+     "summary": "Irregularities In Exams: CB Issues Fresh Summons To Kerala PSC Chairman &nbsp;&nbsp; Outlook India",
+     "date": "07 Nov 2026 23:20",
+     "publisher": "Outlook India"
     },
     {
      "title": "Kerala PSC Chairman Gets Fresh Summons in Recruitment Irregularities Case After Skipping Interrogation - Times Now",
@@ -6113,11 +6824,11 @@
      "publisher": "Times Now"
     },
     {
-     "title": "Kerala PSC chairman Baiju summoned again in exam fraud probe - The Hawk",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV3NzWVhuLVpUU1lnMFNwNjh5bXlYUDRDNjJzRUlBTWsxSEJyWHZGYzVaUkhYNE5GT3JBYUpmLUxsSWhIS0VLcTBQYXVKT05IRjBEWnlFZ3JXdVRwYzZEaF9JSTRrRU5VRzhyU2NkRkVTalRVTXR2TDh6LUdQMjU3SHFTdWlrbGx2Z2VIbjBFXzBEN29HNTBoOFVB?oc=5",
-     "summary": "Kerala PSC chairman Baiju summoned again in exam fraud probe &nbsp;&nbsp; The Hawk",
-     "date": "07 Nov 2026 11:24",
-     "publisher": "The Hawk"
+     "title": "Messi visit fraud: Keralam governor clears prosecution of former minister V. Abdurahiman - The Statesman",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeWp5dnFHeFAtZ3ZCM2pvaUNUajVGQkhKV1R1WWJERjFFOFBfUnBMVEVZc0Q2dzRaTnAxdlQ4U19Ya0pSaUFfSmpyV0F2WUtCcHViRURIV0VvMXNfS1JyWGdQV250MG5oR1N1a1BweWV5ZHZzZmdQVFlsZUNSV2NjN2FHTXZUc3RBSldCb3lJLU1fWmRBeWhla0ozTF8tZElyZ01UZmVvaWlGOHAyY3hkc3hPV1BWQlpYWTd1S2ZaYU02NnhYX3ZFUzBVUUVPSWc5VEVrQU1Tc27SAdgBQVVfeXFMTnlqeXZxR3hQLWd2QjNqb2lDVGo1RkJISldUdVliREYxRThQX1JwTFRFWXNENnc0Wk5wMXZUOFNfWGtKUmlBX0pqcldBdllLQnB1YkVESFdFbzFzX0tSclhnUFdudDBuaEdTdWtQcHlleWR2c2ZnUFRZbGVDUldjYzdhR012VHN0QUpXQm95SS1NX1pkQXloZWtKM0xfLWRJcmdNVGZlb2lpRjhwMmN4ZHN4T1dQVkJaWFk3dUtmWmFNNjZ4WF92RVMwVVFFT0lnOVRFa0FNU3Nu?oc=5",
+     "summary": "Messi visit fraud: Keralam governor clears prosecution of former minister V. Abdurahiman &nbsp;&nbsp; The Statesman",
+     "date": "12 Nov 2026 21:14",
+     "publisher": "The Statesman"
     }
    ]
   },
@@ -6164,11 +6875,11 @@
      "publisher": "Mid-Day"
     },
     {
-     "title": "MPSC Malpractice Inquiry Extends Affidavit Deadline to November 23 - urbanacres.in",
+     "title": "MPSC Malpractice Inquiry Extends Affidavit Deadline to November 23 - Urban Acres",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcTdZUW5sM2kwdm9zZmZfNlJ4WUJjUFU3NGQwb2pXc0VWWVF4ZDV2dk5YeldoVEVCZHBrMXVqRTNvUHFBSHBCUG9nakotTkZDT3lMMk5IVVYwRFMtaEZLcnFkMm9Oc2VHOXZCcDdsXzQ4dm1nNUw3S1Z5TThvMU5adnJwTFNhdHBmNGxlUjk3bUZ1RlU?oc=5",
-     "summary": "MPSC Malpractice Inquiry Extends Affidavit Deadline to November 23 &nbsp;&nbsp; urbanacres.in",
+     "summary": "MPSC Malpractice Inquiry Extends Affidavit Deadline to November 23 &nbsp;&nbsp; Urban Acres",
      "date": "14 Nov 2026 03:09",
-     "publisher": "urbanacres.in"
+     "publisher": "Urban Acres"
     },
     {
      "title": "MPSC Exam Irregularities Probe Panel Extends Deadline For Submission Of Affidavits To November 23 - Free Press Journal",
@@ -6179,7 +6890,7 @@
     },
     {
      "title": "Maharashtra: Candidates get one more week to report alleged MPSC exam irregularities - Mid-Day",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcC11VzQ1eU12enFlRzc1d2dtZUNnenN0cmY1REo3TGtzc2JOSlF3U1E3NHh5RjU4aWQ1YmlKNV9EUDV6OWFlTndJenI1S0NEOHIxLVZkdzA4WDFNMDdZZGJid3VmT3o2NXdoR3N3ZXE2VWFYQ2Y4MUZaaFR3UEd6aDFxNkliMWlZYTdMX042Q0RaTFlLTENPanBaM05MOUpyV3dwU0taWW83a1p0a3UyQXY1LTlCaWlDU2g5ZC1waEtnRjBPSTQ3NXNiZDZVcHdNY2xJNmJ0TG5nY3M?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeldZbGx4NV9Tang3dWMwd29wX1RLX1lYak5YN2hlVGNCOGlCdnpXcENFXzZXbjRiY1Rmc0dubU1yNF9LNF9aSS12ZTFTYlhhaVpfWGwxQi0yRnFQRGR3Skh3aDdhRU1DeGQ5Q0JpWDM5MG1iZWdfaExaNGpGMlE0dFQ3dVBfejlKVmZzMzZkXzhmQkYzd25lM1FZNE9KTzlIZTNHTDF4dUJCenBwbDVwc2hScVd0aVE4YWlOd1p6ZVY1ZDAzT1ZaVm1TNUpVT2Y0ZXlJMTVOclFwckhDUjF3eVNQVlhrZEtyV3c?oc=5",
      "summary": "Maharashtra: Candidates get one more week to report alleged MPSC exam irregularities &nbsp;&nbsp; Mid-Day",
      "date": "14 Nov 2026 07:47",
      "publisher": "Mid-Day"
@@ -6196,13 +6907,6 @@
      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS0N3RHZDYndNcnltQVdPcnpLVGNGcHV1Zk1rY0VxMTlpalNEcDBfTEZybGdKZ19hUngyMVFyRFA2cHBlcnJZSVZ0Rmo2ZVRRTzhITVpGZ1AxckQ2dWMtN0V5R29yUHZOVFhoZ2VWdmxEVEFoNzJvZC1hQXRjRnVacWRWUml4Mnl4bXY2NW9VOWREZy1FX0JQT3B3d3lyTFNFT0V5YWtTdkJFaHdUbGFDVG4tdVRqYk0wZjdEUlFGMFRSMldxWm5CdW9oU21QR3FfZ05N?oc=5",
      "summary": "MPSC paper leak probe: Got evidence of paper leaks? Maharashtra panel sets November 16 deadline for submission &nbsp;&nbsp; Mid-Day",
      "date": "08 Nov 2026 17:25",
-     "publisher": "Mid-Day"
-    },
-    {
-     "title": "Mumbai News LIVE Updates: Wanted fraud accused arrested from Lonavala hotel after months on the run - Mid-Day",
-     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNQW94SnllQTF1V3d6TUJfLWw3WVVYYVNZWVp2dlRmblhSa3NLcnEzc0ZaQjdTcFBoQ3NNRVMyZWFjd1k5OTcwdWx2bjB1RXJxNjJVZGVPNXBCNWpZdm93eHRJaGR6UW8xM1J0ZmRnZGk1ZVZMdnMycDBEZ25DTGxmNFV5T3ByZnByT09BN1NiWENWaXdUYzRPWnlOazhsbVNtVFhjLU81QW42cXhGMGZZb0ZKaTV1SnpvYXVEVVhMMUxvaXFKUV9xZkRWSHIydjZ1TDBBQXozZmRhWFVON3lMNU51dU1WWUtHdUEyMHhFMThMV0NzWVg3czJJREJRajNid3R3?oc=5",
-     "summary": "Mumbai News LIVE Updates: Wanted fraud accused arrested from Lonavala hotel after months on the run &nbsp;&nbsp; Mid-Day",
-     "date": "13 Nov 2026 22:00",
      "publisher": "Mid-Day"
     }
    ]
@@ -6242,13 +6946,6 @@
    "status": 200,
    "error": null,
    "items": [
-    {
-     "title": "Scrap NEET, Use Class 12 Marks for Medical Admissions: Tamil Nadu asks Nandan Nilekani Panel - Medical Dialogues",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeHh3UzItcmF6amJqN04zNDB5bkZra3hMV09ta0ZOZ2RoWVRxZFBWY2ZjUjNzN0I5NlRsMUUxa2EyU25ZcTVmT2tmTkNrd0NvSktDS1pKdXlSc2N5ZHdYazBEalpFZmhEUVJPR0F4dVFCelh0czYwUFd6UHdaTnpwekJCa2NPdXJES1NoTVlFYUlxSTZtWGZ1c2hjUWRJamNTMXZmNTBhT2xCZWU5eldFRmM4YWJwSHhZdWp1OVFwV2RfS05xeWRzdHdGUDhKMXIxdXBqY2xtTWg2WU85N1pYWtIB5gFBVV95cUxPcnZfNE1tZjBibmY0UEp4LWIwcUVpUmxJeVYtSXVydEtDRkdmOWdhYWRFNzlYNmVDWXRHZVZQdVVHZTJBLXhKVjRIN2VMR0N0Yi0tOGdkTlVtMThjZ1c0VnZtZEpZNVhKaDFrSDZibExURHhHaWw3QmcxUnJLaHB6SFNuMGhVQWRRSmcyMWJ2cHFaZWlfUHRpbk1vNjBYVEt1UGcyWXBfNWNiLXRVM0JGX0ktbXh6Q2ppcXoteXdWOG5jaWhfUGsxQnFYTjZqRFpfS05FRXN5SnRackhvVnhXeTN4WnRQdw?oc=5",
-     "summary": "Scrap NEET, Use Class 12 Marks for Medical Admissions: Tamil Nadu asks Nandan Nilekani Panel &nbsp;&nbsp; Medical Dialogues",
-     "date": "07 Nov 2026 11:50",
-     "publisher": "Medical Dialogues"
-    },
     {
      "title": "NEET 2027 Exam Mode: Online or Offline? - Shiksha.com",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRVhMZmhXZGRCamk1OHlrUkdXZVpMcVJDRzc5X2JrMzlfOG5wYjdRTFhEVTRBU3dXWHNNY1pVRUtsSkpCSGNiSjhYVlFTSFpQUUx6UnY0WWp1al95YVR1S3Q5aVZxaG50cVh5cjFnVnd3WU5XUTB3akQ3am9jNWJpc3VHcmxZcDU5d1QtSWs0bU52bUNhT2dTRzM1TGdtOUJIQ0ZyZ1JBX1lLUXdiX2c?oc=5",
@@ -6343,13 +7040,6 @@
    "error": null,
    "items": [
     {
-     "title": "Kerala PSC Exam Row: Evaluation errors change candidates' ranks; chairman summoned again - Careers360",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVW1SbDBNaURaazJrdUVoVVdzQ0VDX1g2R2lEalBMQUp6RXgyb2xqVFBUTEYwRDZvX3BmcEhXUVFBT0l1LXNLZGxPQk9nWVFlblhvZlR4RDVRR2h5ODF4YnJpR25NRk9Ka242d0M3REhRSkxBSHFIRWhEcjNqU1JIRUhzdWlVU0JaMWxVR2xNWXoxaG1jWmhxQmxYcjRTVWttVkRuYlZ0dmtxbDlHV241VER30gG3AUFVX3lxTFBqbFNiV0lPUEw4cGxfZzBSTExubFNldXg5aElIeS1zT1M0UUFHR1J5RW1FNFhvcklQWnhSZW1GMWVra1BkeHdla0RYc29iTTJSSlQtVmptNm9RdXJJZ2pLdHVMb3M1ZlVzWmN2N2Qzc0o0dndGaWZkVFN5ak1NTzRhWVMxRE9jVkdLclZ1TFVTRE1IelJCREk4VjJDMWd2bGFmLUl1M1FqeF96SHhwYWlHNHhHYzFkQQ?oc=5",
-     "summary": "Kerala PSC Exam Row: Evaluation errors change candidates' ranks; chairman summoned again &nbsp;&nbsp; Careers360",
-     "date": "07 Nov 2026 11:25",
-     "publisher": "Careers360"
-    },
-    {
      "title": "Kerala PSC irregularities: Crime Branch summons chairman M R Baiju for questioning on November 10 - The Times of India",
      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOc2dmSFlhNHBNcER3anhkUlpNT1Bmb0VnSnNNdEtQb21ZZXJJQ2h0NExBZEdjeFEzdlMwM01HVzJEcml2QXJWUnJsQ1Vac2RoU1NhXzVWNEJvLU8tZkxnV2x6WTg3T2JWZ0hlSVdLQWdqUTVoR0ZwNXJwdERVV2ZUa3RNMWtUT0Z3aWJORUI3c1YtendWMmMyTHpXVllLazJiMm9VVUo5R0ozbmo3NzhDTkxMVFFCZlJQQUt4Sk5ZWlBwcko0dW9zcGRhdTg3TldwMmMxcnhKbDBuRGwyMHRTVVFnUWdaSktEZGM0UjZaY1hoRE9SdjRxb3gzMnFibS0xU0tJ0gGIAkFVX3lxTE5aMEJ3OFJfNFNzbmItYTd5Q1lRNUJvdzhrcDU3NmN1VGloSThGZ2wwdG9UZzQ2ckZqMElUdE1hTWNZckpCRklzTHV5eUJpYllDNUljUUNvT1k1MjQ5V2ZsNlk2cnpScmtpSkJwU0RxRVpUeDVKZlBPZE5uRC1rS0tVdzZoeWRKeERNM0U5bWhzNXJQS1lYRUp1eURDaHFMRndEa1EtUnBSODhHQjJIRkRsODVEQXhCSW1BSDFXQjdmZDUxazZHazhfeGJxY0J5RU8zVGdPcmducktnSnVaUDdPMUZJcUdjendUR2stZHVkV3RzOW80MkZKSjExTGtKemJaUzhVTkszRw?oc=5",
      "summary": "Kerala PSC irregularities: Crime Branch summons chairman M R Baiju for questioning on November 10 &nbsp;&nbsp; The Times of India",
@@ -6369,6 +7059,13 @@
      "summary": "Kerala PSC recruitment row: Chairman M R Baiju asked to appear before crime branch on November 10 &nbsp;&nbsp; India Today",
      "date": "07 Nov 2026 17:53",
      "publisher": "India Today"
+    },
+    {
+     "title": "Irregularities In Exams: CB Issues Fresh Summons To Kerala PSC Chairman - Outlook India",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZGNsTXhmRDJnb3pVR3JLbEhmaXJoWEgzOXBXYzQzUFpaNk5ScEt3cWpVX3JCanFwbEZWT3NSSUk4R215elI0Vlg3ZzRvSVZydjRLM1VzOWtUeWlNbEUxTWJ6ZlhNYnQ1NG5lRGFfX0xya1VETHhiWnhiT2ZRSllLOG1idEhzMjRiV04zaUtzLXJRamRtanM2UVdEbUI1QktMQktlRjlxRk5CRkd10gG6AUFVX3lxTE52WlFVVjZ1emhkcFBEY25ua3RDcVdVZVZHODNpdi1PV3BfUjd5Tml2eFhZVjRGd2hKUGg1c3VNRDVva0ZvSFFVSERfT1Q2dkQ5eHNsV0pMWllBaGZRejFtdEowbDRXMWp4QnJDSGQ4RjQwSURXSHlWTHNmVTBGczNUSjFJUlY4cUlSNHFnSEZrZjh4cXhNQzFYZkI2dTNaeWNTQ29ETHV0VDd0Nm45QVFENnNqQnByNEpBZw?oc=5",
+     "summary": "Irregularities In Exams: CB Issues Fresh Summons To Kerala PSC Chairman &nbsp;&nbsp; Outlook India",
+     "date": "07 Nov 2026 23:20",
+     "publisher": "Outlook India"
     },
     {
      "title": "Kerala PSC Chairman Gets Fresh Summons in Recruitment Irregularities Case After Skipping Interrogation - Times Now",
@@ -6431,21 +7128,23 @@
  ],
  "publishers": {
   "Jagran Josh": 15,
-  "Careers360": 9,
-  "Adda247": 8,
-  "PW": 5,
-  "medadmit.in": 5,
+  "Careers360": 7,
+  "medadmit.in": 6,
+  "Shiksha.com": 5,
   "Investing.com India": 5,
-  "Shiksha.com": 4,
   "Education Times": 4,
   "The Times of India": 4,
-  "Mid-Day": 4,
+  "PW": 3,
   "Inventiva": 3,
-  "Gulf Business": 3,
   "EdexLive": 3,
+  "Legit News": 3,
+  "FreeJobAlert.Com": 3,
+  "The Statesman": 3,
   "India Today": 3,
-  "Legit News": 2,
-  "The Statesman": 2,
+  "Mid-Day": 3,
+  "Gulf Business": 2,
+  "The Hindu": 2,
+  "Outlook India": 2,
   "Times Now": 2,
   "Free Press Journal": 2,
   "IMARC Group": 1,
@@ -6453,17 +7152,19 @@
   "https://www.indiagazette.com/": 1,
   "ABP Live English": 1,
   "Outlook Business": 1,
-  "Hindustan Times": 1,
-  "आठवडा विशेष": 1,
+  "Hindustan Metro": 1,
+  "Adda247": 1,
+  "Moneycontrol.com": 1,
   "YouTube": 1,
   "Sanskriti IAS": 1,
   "Gulf News": 1,
+  "Saudi Gazette": 1,
   "Healthcare Asia Magazine": 1,
   "ARYnews.tv": 1,
   "Bloom Pakistan": 1,
   "Daily Voice Of Asia": 1,
-  "BBC": 1,
   "Tech Times": 1,
+  "Rappler": 1,
   "Nigeria Education News": 1,
   "CERN Courier": 1,
   "Unite.AI": 1,
@@ -6471,10 +7172,10 @@
   "UA.NEWS": 1,
   "Public Services International": 1,
   "Yahoo! Finance Canada": 1,
+  "NC State University": 1,
   "Mezha.net": 1,
   "Traders Union": 1,
   "Brief IA": 1,
-  "Investing.com": 1,
   "AIBase": 1,
   "AIMultiple": 1,
   "Yahoo Finance": 1,
@@ -6487,13 +7188,11 @@
   "Bioengineer.org": 1,
   "The Sun Malaysia": 1,
   "AUTOJOSH": 1,
-  "The National Law Review": 1,
   "AsiaOne.com": 1,
-  "FreeJobAlert.Com": 1,
-  "The 420.in": 1,
-  "The Hawk": 1,
-  "urbanacres.in": 1,
-  "Medical Dialogues": 1,
+  "The National Law Review": 1,
+  "Onmanorama": 1,
+  "tennews.in": 1,
+  "Urban Acres": 1,
   "Telegraph India": 1,
   "The Assam Tribune": 1
  }
