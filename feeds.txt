@@ -3,7 +3,3 @@ Indian Express Education | https://indianexpress.com/section/education/feed/
 HT Education RSS | https://www.hindustantimes.com/feeds/rss/education/rssfeed.xml
 TOI Education | https://timesofindia.indiatimes.com/rssfeeds/913168846.cms
 The Hindu Education | https://www.thehindu.com/education/feeder/default.rss
-Reddit search: CBT exam vendor | https://www.reddit.com/search.rss?q=%22computer+based+test%22+exam+agency+OR+vendor&sort=new
-Reddit search: on-screen marking | https://www.reddit.com/search.rss?q=%22on-screen+marking%22+OR+%22digital+evaluation%22+India&sort=new
-Reddit search: NTA CBT | https://www.reddit.com/search.rss?q=NTA+CBT+centre+glitch&sort=new
-Reddit search: TCS iON exam centre | https://www.reddit.com/search.rss?q=%22TCS+iON%22+exam+centre&sort=new
