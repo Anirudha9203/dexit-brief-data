@@ -1,5 +1,5 @@
 {
- "scraped_at": "2026-11-16T17:21:05.167682+05:30",
+ "scraped_at": "2026-11-16T17:35:32.566731+05:30",
  "sources": [
   {
    "name": "ET Education News",
@@ -3140,6 +3140,11 @@
      "summary": "D2CX Foundations by Inc42 is a 6-week program, with recorded masterclasses and live Q&A, for founders launching a D2C brand. Learn from India's top 1% D2C founders and experts through hands-on insights, real case studies and proven execution frameworks, from GTM and brand strategy to marketing, mark"
     },
     {
+     "title": "Fake Allahabad HC Order Row: DoT Orders Unblocking Of 95 Websites",
+     "url": "https://inc42.com/buzz/fake-allahabad-hc-order-row-dot-orders-unblocking-of-95-websites/",
+     "summary": ""
+    },
+    {
      "title": "Jio Stops New Signups For Free Google AI Pro Subscription",
      "url": "https://inc42.com/buzz/jio-ends-new-sign-ups-for-free-google-ai-pro-subscription/",
      "summary": ""
@@ -3192,11 +3197,6 @@
     {
      "title": "The NVIDIA Fallout, Weekly Funding Rundown & More",
      "url": "https://inc42.com/buzz/the-nvidia-fallout-weekly-funding-rundown-more/",
-     "summary": ""
-    },
-    {
-     "title": "EaseMyTrip Q2: Loss Narrows 98% YoY To ₹57 Lakh, Revenue Up 34%",
-     "url": "https://inc42.com/buzz/easemytrip-q2-loss-narrows-98-yoy-to-%e2%82%b957-lakh-revenue-up-34/",
      "summary": ""
     },
     {
@@ -3714,64 +3714,54 @@
      "summary": "राष्ट्रीय"
     },
     {
-     "title": "निशा भगत की मौत की जांच सीबीआई ने संभाली, दो आरोपियों के खिलाफ एफआईआर दर्ज",
-     "url": "https://www.patrika.com/national-news/nisha-bhagat-death-case-cbi-takes-over-investigation-registers-fir-against-two-accused-21056451",
-     "summary": "राष्ट्रीय"
+     "title": "Sariska Tiger Reserve: सरिस्का बफर एरिया की 5 बीघा जमीन पर अवैध कब्जा, प्रशासन ने जारी किया नोटिस",
+     "url": "https://www.patrika.com/alwar-news/sariska-tiger-reserve-buffer-area-land-encroachment-notice-alwar-21055397",
+     "summary": "अलवर"
     },
     {
-     "title": "Rajasthan : रेलवे ट्रैक ब्लास्ट मामले के आरोपियों ने किया बड़ा खुलासा, रामसिंहपुर रेलवे ट्रैक के पास मिले 2 बम, एक था एक्टिव",
-     "url": "https://www.patrika.com/sri-ganganagar-news/sri-ganganagar-railway-track-blast-accused-big-revelation-2-bomb-discovered-21056512",
-     "summary": "श्री गंगानगर"
+     "title": "CG Nikay Chunav: 17 निकाय चुनाव में कांग्रेस कराएगी गोपनीय सर्वे, जीतने की क्षमता के आधार पर मिलेगा टिकट",
+     "url": "https://www.patrika.com/raipur-news/cg-nikay-chunav-congress-survey-ticket-21055389",
+     "summary": "रायपुर"
     },
     {
-     "title": "IND vs NZ: बदल गया भारत बनाम न्यूजीलैंड सीरीज का समय, जानें भारतीय फैंस कितने बजे से देख सकेंगे मैच",
-     "url": "https://www.patrika.com/cricket-news/india-vs-new-zealand-test-series-match-india-timing-21056252",
-     "summary": "क्रिकेट"
+     "title": "शादी की खबरों को नकारने के बाद समय रैना रूमर्ड गर्लफ्रेंड मेधा शंकर संग आए नजर",
+     "url": "https://www.patrika.com/ott-news/samay-raina-medha-shankr-cafe-date-video-mumbai-21055294",
+     "summary": "OTT"
     },
     {
-     "title": "शेयर मार्केट तेजी के साथ हरे निशान में बंद: सेंसेक्स 512 अंक चढ़ा, FMCG, बैंकिंग शेयरों ने मारी बाजी",
-     "url": "https://www.patrika.com/patrikaplus/indian-stock-market-closed-in-green-21056490",
+     "title": "भारतीय शेयर बाजार में तेजी: हरे निशान में खुला मार्केट, IT सेक्टर में खरीदारी",
+     "url": "https://www.patrika.com/patrikaplus/indian-stock-market-opened-in-the-green-21055362",
      "summary": "Patrika+"
     },
     {
-     "title": "च्युइंग गम चबाने से मजबूत हो सकता है दांतों का इनेमल, लेकिन ज्यादा इस्तेमाल से हो सकती हैं ये समस्याएं",
-     "url": "https://www.patrika.com/lifestyle-news/chewing-gum-benefits-and-side-effects-you-should-know-before-chewing-it-daily-21056445",
+     "title": "Beauty Tips:परमानेंट मेकअप करवाने से पहले जान लें फायदे और नुकसान, हटवाना नहीं है आसान",
+     "url": "https://www.patrika.com/lifestyle-news/what-to-know-before-getting-permanent-makeup-and-its-benefits-and-risks-21055255",
      "summary": "लाइफस्टाइल"
     },
     {
-     "title": "1 धौलपुर पंचायत चुनाव : युवक की हत्या के बाद शाम 4.30 बजे शुरू हुई वोटिंग, एसडीएम और पीड़ित परिवार के बीच हुई वार्ता",
-     "url": "https://www.patrika.com/dholpur-news/dholpur-barauli-panchayat-election-violence-youth-murder-voting-boycott-21055178",
+     "title": "1 राजस्थान का सबसे रोमांचक सरपंच चुनाव, एक ग्राम पंचायत में उतरे ‘रिकॉर्ड’ 43 प्रत्याशी- चुनाव चिन्ह ही पड़ गए कम, जानिए फिर क्या हुआ?",
+     "url": "https://www.patrika.com/sawai-madhopur-news/sawai-madhopur-soorwal-gram-panchayat-sarpanch-election-43-candidates-record-ballot-paper-21054558",
      "summary": "1"
     },
     {
-     "title": "2 यूपी: ईडी की रिमांड अर्जी खारिज, आजम खां को कोर्ट ने 10 दिन के लिए जेल भेजा; चार दिन तक हुई पूछताछ",
-     "url": "https://www.patrika.com/ghaziabad-news/azam-khan-ed-remand-plea-rejected-sent-to-judicial-custody-ghaziabad-court-21055429",
+     "title": "2 Gold Silver Price Today: टूट गए सोने के भाव, चांदी में जबरदस्त गिरावट, जानिए क्या रह गए हैं 24, 22, 18 कैरेट गोल्ड के रेट",
+     "url": "https://www.patrika.com/business-news/gold-rate-fall-today-silver-price-also-down-sharply-know-24-22-18-carat-rates-21054916",
      "summary": "1"
     },
     {
-     "title": "3 Gold Price Today: सोने-चांदी में आज बड़ी गिरावट, जानिए तनिष्क, मालाबार और जोयालुक्कास में क्या हैं गोल्ड के रेट्स",
-     "url": "https://www.patrika.com/business-news/significant-drop-in-gold-and-silver-prices-today-know-rates-in-tanishq-malabar-and-joyalukkas-21056002",
+     "title": "3 विधायक ने पूछा- इस्तीफा दे दूं? भीड़ ने बोला- हां, दे दो..’, रतलाम से वीडियो वायरल",
+     "url": "https://www.patrika.com/ratlam-news/mla-kamleshwar-dodiyar-video-viral-public-demands-resignation-21055090",
      "summary": "1"
     },
     {
-     "title": "4 Vidisha : ‘दुष्कर्मी का एनकाउंटर करो’… प्रदर्शन के 2 घंटे बाद मासूम से दरिंदगी के आरोपी के घर पर चला बुलडोजर",
-     "url": "https://www.patrika.com/vidisha-news/minor-girl-raped-accused-house-bulldozer-action-encounter-demand-21056389",
-     "summary": "1"
-    },
-    {
-     "title": "5 आखिर सोशल मीडिया इन्फ्लुएंसर मीनू राज पर क्यों हुआ हमला? 1 करोड़ से अधिक लोग करते हैं फॉलो",
+     "title": "4 आखिर सोशल मीडिया इन्फ्लुएंसर मीनू राज पर क्यों हुआ हमला? 1 करोड़ से अधिक लोग करते हैं फॉलो",
      "url": "https://www.patrika.com/alwar-news/why-social-media-influencer-meenu-raj-attacked-khairthal-tijara-21053696",
      "summary": "1"
     },
     {
-     "title": "Gold Mining : 1974 में शुरू हुई थी यहां स्वर्ण भंडार की खोज, दो माह में शुरू हो सकता है खनन",
-     "url": "https://www.patrika.com/patrika-special/madhya-pradesh-katni-imliya-gold-block-mining-project-21056120",
-     "summary": "Gold Mining : 1974 में शुरू हुई थी यहां स्वर्ण भंडार की खोज, दो माह में शुरू हो सकता है खनन"
-    },
-    {
-     "title": "Gulshan Nanda : गुलशन नंदा…स्मृतियों की धुंध में खोया एक सितारा, सुपरहिट फिल्मों के लिए थे गारंटी",
-     "url": "https://www.patrika.com/patrika-special/gulshan-nanda-novels-bollywood-classic-hit-films-21055548",
-     "summary": "Gulshan Nanda : गुलशन नंदा…स्मृतियों की धुंध में खोया एक सितारा, सुपरहिट फिल्मों के लिए थे गारंटी"
+     "title": "5 पुणे की एयर होस्टेस की मौत मामले में नया मोड़, दोस्त हिरासत में; ढाई साल की बेटी से उठा मां का साया",
+     "url": "https://www.patrika.com/mumbai-news/pune-air-hostess-varsha-turkar-murder-case-update-21054593",
+     "summary": "1"
     },
     {
      "title": "Tribal Society: जिसे शहरी कहते हैं क्राउडफंडिंग, दशकों से वागड़ के आदिवासी ऐसी परंपरा से बन रहे परस्पर मददगार",
@@ -3787,6 +3777,16 @@
      "title": "Rising Rajasthan Summit : 109 करोड़ खर्च, 35 लाख करोड़ के एमओयू; जमीन पर उतरा कितना निवेश?",
      "url": "https://www.patrika.com/patrika-special/rising-rajasthan-industrial-development-economic-growth-roadmap-21046549",
      "summary": "Rising Rajasthan Summit : 109 करोड़ खर्च, 35 लाख करोड़ के एमओयू; जमीन पर उतरा कितना निवेश?"
+    },
+    {
+     "title": "Water Conservation : बावड़ियां हो रही हैं खामोश, पानी सहेजने की 300 साल पुरानी इंजीनियरिंग की खत्म हो रही कहानी",
+     "url": "https://www.patrika.com/patrika-special/rajasthan-bundi-stepwells-300-year-old-water-heritage-restoration-neglect-21044766",
+     "summary": "Water Conservation : बावड़ियां हो रही हैं खामोश, पानी सहेजने की 300 साल पुरानी इंजीनियरिंग की खत्म हो रही कहानी"
+    },
+    {
+     "title": "Mini Japan : क्या आपने कभी देखा है राजस्थान का ‘मिनी जापान’, यहां 53 से अधिक जापानी कंपनियां, 88 हजार लोगों को मिला रोजगार",
+     "url": "https://www.patrika.com/patrika-special/rajasthan-mini-japan-neemrana-ghiloth-japanese-industrial-sceond-zone-developing-21043605",
+     "summary": "Mini Japan : क्या आपने कभी देखा है राजस्थान का ‘मिनी जापान’, यहां 53 से अधिक जापानी कंपनियां, 88 हजार लोगों को मिला रोजगार"
     },
     {
      "title": "Statutory provisions on reporting (sexual offenses)",
@@ -5006,34 +5006,6 @@
    ]
   },
   {
-   "name": "RSS: Reddit search: CBT exam vendor",
-   "url": "https://www.reddit.com/search.rss?q=%22computer+based+test%22+exam+agency+OR+vendor&sort=new",
-   "status": 403,
-   "error": null,
-   "items": []
-  },
-  {
-   "name": "RSS: Reddit search: on-screen marking",
-   "url": "https://www.reddit.com/search.rss?q=%22on-screen+marking%22+OR+%22digital+evaluation%22+India&sort=new",
-   "status": 429,
-   "error": null,
-   "items": []
-  },
-  {
-   "name": "RSS: Reddit search: NTA CBT",
-   "url": "https://www.reddit.com/search.rss?q=NTA+CBT+centre+glitch&sort=new",
-   "status": 429,
-   "error": null,
-   "items": []
-  },
-  {
-   "name": "RSS: Reddit search: TCS iON exam centre",
-   "url": "https://www.reddit.com/search.rss?q=%22TCS+iON%22+exam+centre&sort=new",
-   "status": 429,
-   "error": null,
-   "items": []
-  },
-  {
    "name": "News search: CBT exam agency contract India",
    "url": "https://news.google.com/rss/search?q=CBT%20exam%20agency%20contract%20India%20when%3A7d&hl=en-IN&gl=IN&ceid=IN:en",
    "status": 200,
@@ -5217,6 +5189,13 @@
      "summary": "SSC GD Constable PET and PST Admit Card Released &nbsp;&nbsp; Udaipur Kiran",
      "date": "14 Nov 2026 08:53",
      "publisher": "Udaipur Kiran"
+    },
+    {
+     "title": "Upcoming Sarkari Exams 2026 - List of All Sarkari Jobs, Govt Recruitment Exams - Careers360",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02Z2FDT0thcmtGVkIzNXNmbWhHTEJQZ1hBMkgtVkN5WklCRkIydUgya0EwM1pVbERNcWlrbDJyaFlHWHZUTUJmaWpaRURoV01RWUpoQWxYVVZjRWhnMDFLcHJRY3FnWXo0?oc=5",
+     "summary": "Upcoming Sarkari Exams 2026 - List of All Sarkari Jobs, Govt Recruitment Exams &nbsp;&nbsp; Careers360",
+     "date": "14 Nov 2026 13:30",
+     "publisher": "Careers360"
     }
    ]
   },
@@ -5354,13 +5333,6 @@
      "summary": "2027 global VAT changes &nbsp;&nbsp; vatcalc.com",
      "date": "11 Nov 2026 15:32",
      "publisher": "vatcalc.com"
-    },
-    {
-     "title": "Saudi Arabia launches online medical test booking for newly arrived domestic workers - Gulf News",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOejBaR3M4NDZEWFJ0OXFmVEFPNUdqX1huZEtYNFZORU1pRExEZ0pjeEhpNnlNMkdsdmdoWGFLd0JsWnRxM2xkelFiRk9JTURESDh2X2NFdVk2YTBiSE5PR0tvd2tid29ZbWQ3RWJwakQzTVJPaDdlVTFSQ2JiMGd4Y2dDaGJ0TkNnenRWdXd6WkZTSWV3T0lObHJYS1ZLOUZJU1NpZ2t3MHRkMzhZMkNkWV9MRHYwdTJBd3lRSFBPQ2VIbFdBaHZRVkZLSWsyaVXSAeQBQVVfeXFMTU5ubVNnQ0FSSnp5RGZPdEJvc0x5S0FRako0QVZ1MFEzdGpNck1OUG95MERFcXFEY25lZHJCOThLeWZBVW9SVS11X3lRMVhEdGJnN0pwSWtRNmtUQWFRd3RObDBMRVBhQzZsaVhtRVpKMWRyTjdCVzdNNVZUcmVrMXdYaXA4TURwTXhjVmFyTTdvY3ZJVFB0NVduRVVqNUhoQ1MxQXhtTl81VGtNZVN6YjE0MXVXSGFMeF9sRlNjUGFmTWhXREhsb2VPdzhrREIzMkUtTWlGdXdIUFA3NHZBTmJ3UTg1?oc=5",
-     "summary": "Saudi Arabia launches online medical test booking for newly arrived domestic workers &nbsp;&nbsp; Gulf News",
-     "date": "09 Nov 2026 17:30",
-     "publisher": "Gulf News"
     },
     {
      "title": "Saudi Arabia’s year of AI: The real test begins with business - Gulf Business",
@@ -5575,13 +5547,6 @@
      "publisher": "Jagran Josh"
     },
     {
-     "title": "RRB Group D Result 2026 Out For 22,195 Posts: What's Next? Check Physical Test Details - News18",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQlhvUktacG16eWZ5WFhIQzAwSUlremZNQWRETU94TlV5WHo2dmpldVNtMWQzVnZGYjdvSGdaeWVGcFRWcEs2R3Y4NlpZcC1NNkZxSndNSlh2MGRsenRFMkdQam5McG1wQ2tYTm10VU5lUHF5WjBqbWRyUXpLWGRfbUQxNTRWLVpHY3BEZE9ZTUVwNVR4OG1TUjVzaEZXbkl1WkVfNUw2dWx2akRKWmpGaEVvQktDd24wRk9uTlFCRVJSVkZOVE9vRWZEaHJTc0szOWfSAdcBQVVfeXFMTjZhdW9zRlZicWNoMjR5ekFFbUlDQjN6NHo3aFhudkwyeWNIellqcjlRUER0ZW14cFg2cVFUUWVVbGdyb3hqVTBsZ0RNdl9xcXpfdnZac25iQjVraGMyb2ltWTNBQkVld2FtZHZzaEx2MlpwbEJZdXFDaVo5UkF4R1E2cjZ4Zi1OM3cyY3pZSW1ydWEzWGVURDFzU05ITkh5MWdGaEJKV3NVNjg2S3EwdzRBTG1xZGN3N3BvSld0dGxXbzBIcVhERVFHZjBray1GaDZUTE0ybVU?oc=5",
-     "summary": "RRB Group D Result 2026 Out For 22,195 Posts: What's Next? Check Physical Test Details &nbsp;&nbsp; News18",
-     "date": "13 Nov 2026 13:58",
-     "publisher": "News18"
-    },
-    {
      "title": "MP Police Constable Exam Date 2026: Check MPESB Driver Exam Schedule at esb.mp.gov.in - Jagran Josh",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOd1hvVFdUcW4wMlBFV0hhMWRJZXFIZ3BaRFRmQVNxMS0yRnZfZEV3SVQwUjlLY3JIcnYwY0MxYnJTRjNhVFM2UkhqWGZ6SkJUdHp1MWV3dGVwVkhsaFJ4cFNjOTJxZTZRVHBKa01XaDlaTEJ4a01CX3NPTkhTRHFNNWs4NDFyZkdnWWU1bUtHYkFFRjlnZ2JEdnV0dnRCbWQtWFF6VjF4TVdJZ3JmSGhNOUxORzRHUko3Y1pvcW1GT2VQU0k2X1pXaXdzSGYwZ9IB1AFBVV95cUxQdW1mdGJHN1ZYVTU2bFp3WHplS3plMXlKdFdFU2tDcENUUEJsN3BkVHpHRVNqVEJRS3M5UGN4RGVVNVVxczNnMkNLVFcxdUduYWhrSUJXX3drVW15ZWhDZnFoWTB0M3ZXZjg0UU5uZ0RPd2x0X2EzSWUxRTdOVjZWeFZLeUQ2R2lUbmpOQWlZaDJGTEVHcEZfSlRkTlNSWWVmdEM5b3pFYlEwUS00R19yLUppT2wwa3JXSVcwdHQ3ZzZsZDJaV1RzTVBmdUZ1S0NGdUhsMg?oc=5",
      "summary": "MP Police Constable Exam Date 2026: Check MPESB Driver Exam Schedule at esb.mp.gov.in &nbsp;&nbsp; Jagran Josh",
@@ -5593,6 +5558,13 @@
      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uX05paFI0dnFidnE2b08zZHd3QzNUaVBRck53aGJHZTJiQzZPNnFTSTJtLUxXSlRzMkdNc3NkWXB6WDlnLW9UcXo2NVBiSE0?oc=5",
      "summary": "AFCAT 1 2027 Exam Date: Admit Card, Syllabus, Pattern, Question Paper &nbsp;&nbsp; Jagran Josh",
      "date": "13 Nov 2026 16:12",
+     "publisher": "Jagran Josh"
+    },
+    {
+     "title": "RRB Group D Result 2026 (OUT): Direct Link to Download Zone-Wise CBT Merit List PDF Here - Jagran Josh",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMlRQcDJOUEFDZlJ0aGlBbm03RFNIZXVfbUlFQkJ2c2ZKc2ZIVjE5cFp4WDdPUFlkVm5ZUmlJZjNhOEZoM3RvVUlReTNBdGg1ZkxZQWFSOVJ3YzNxOFU4aXVTQ25JWGw4eVNKbnRvYUdRQ1h5aUVwdjhIdGtaYnpjbTc4UnpLSURPbGFyZEVNby1oTXhRVnl0d1cxdU9yR2N5NXdLb1d2LUlIcVFkOVVvUnMzYWZURXp3QzFWZU42MWNHZ9IByAFBVV95cUxNM2QwWW1pWjNwMVFsUFM1QU9GMzJEYXNsVXRpMEpXM0l0U0lRZ0NWOENpRFd4X21KODBPV29RUDlnY196SFhoZ04zNzdUSzNSVFc5T3NIVEt0OF9yZjdFel9qdGRzVzRpbEVnUFNUZDBReUtQZ3o3cHF3VTZ2R3M0VXlsakpNcldVcjhiSzRWUVJBT282eDlhV1Z0VnAyVTRuLUhyTnhzYkJCM285Vnc3SkR2YlljTXRMT1FYYXlkdjl1ZkVaTUJtZw?oc=5",
+     "summary": "RRB Group D Result 2026 (OUT): Direct Link to Download Zone-Wise CBT Merit List PDF Here &nbsp;&nbsp; Jagran Josh",
+     "date": "12 Nov 2026 18:43",
      "publisher": "Jagran Josh"
     }
    ]
@@ -6058,6 +6030,13 @@
      "publisher": "The Hindu"
     },
     {
+     "title": "KPSC SCAM: ED provisionally attaches Rs 1.22cr of assets of accused - The New Indian Express",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQd2paM1ZyRVVrbWMzR3BzS2x4cVVkbV9LUW5zYkhURG1Ic293Y1REcUdWaU5OMEtVMktzX2JUeHdHVWdUSnY5UkExT3BiN0hMbVZUeXlCbFQ5dmd0NDhaWHNtSE1GVmFTYWhPQkpCMFkzYVZEdE5WLURzYUZ3STRqc21HLVpXSEZqM3RMU3Bha0N2SDBLNGtjSkU4OHlkTkZKeFRQY2pMYUVmWHRsb3VHamxLUzdQMzBNbG5jRUJQSkhhbzgwU0HSAdMBQVVfeXFMTWwxOTc4UTI4WGNjNjdxNDhMbmxGalZ1NURfc0FvQTRjWGFlazNWTEVsYnJja1Z5VU4weGM3aWQyX2N0My0xSTZGWllyTG9fekFJNzRHRUlYSTJuUUhBV0pkSlltOXFMZmNQeVpQWFFRSTRmbndYeTJYU1U5UE1FX29sR3hQcWhZdzBsaWR1bUpnZmVuaUZiY3dQUEloOTNMbHcyUEVlRmlZVWlKNjIxYWFJM1VuVU1FaG85N3JVbDI1THlIcEJnbWt3MnZGdzRpejRkQQ?oc=5",
+     "summary": "KPSC SCAM: ED provisionally attaches Rs 1.22cr of assets of accused &nbsp;&nbsp; The New Indian Express",
+     "date": "15 Nov 2026 07:10",
+     "publisher": "The New Indian Express"
+    },
+    {
      "title": "KPSC Veterinary Recruitment Scam: ED files 580 page chargesheet, exposes question paper leak & Rs 1.70 cr transactions - Organiser",
      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNcU9GVDhCMXpRc1hUb3VsSUJGQTd0MWxpNW9EcXVKbU5lNjNKSGI5WHZLOHNSeWk5bS1nZE94NzhtMm9mMVgxMkRma3ZKM3ZKLWVXaHc3M0wxQ2Rial8wcjBKRXJlVFlrM2VIbXhRbEhCTmd5LUFKRDR5WE44UlZxQlJDam9leXp1dmpZTjBrQndNdjdkeWF4YVZfdHRaMDR2NUl5OHprYnhhRW5WM21PT2VZYm1DUWhPLVM4Q3VFblI4cGtNY3JlNzhBeDA1eHRyTjQzNEp0YUpRaDZPSFg4VGM3NWtQM0dneUFOdVd5cUVDdlMzRWdVUmFGNHJQRlRFMlHSAYcCQVVfeXFMTUFKVnh5bWVHQzJCZ0l2YkIyaUd6SnZJQ0VfSVpLUlBab2w0TDFUbUYtRWVmU19ZelpIR2tqYjF6TzRxX0J2VW1TRHB2eEtBRDJEM2didmtYc0N2emo5N29vUklYQlhVamZNQjhhTUoxcFVJamhHYnZLSXdBYnZlT0UxMms0dTNmbF9wOTg4cXB3aUllRlBnN1hRUktrbkVHdFlXbDBoOE1Pb0xsZFNIZzBUYUd2d3dwbGYtOGxINUFVcnpuNkEwRXFEYTJXVzRoN21xLVFNMnlVdzJXNE1FQWVuQ09acVZuLXJmSjNoeXh1eFhBYklOd0I1aU91RVB3UmpUNmdKR2M?oc=5",
      "summary": "KPSC Veterinary Recruitment Scam: ED files 580 page chargesheet, exposes question paper leak & Rs 1.70 cr transactions &nbsp;&nbsp; Organiser",
@@ -6268,8 +6247,8 @@
   }
  ],
  "publishers": {
-  "Jagran Josh": 12,
-  "Careers360": 9,
+  "Jagran Josh": 13,
+  "Careers360": 10,
   "FreeJobAlert.Com": 5,
   "Shiksha.com": 4,
   "The Times of India": 4,
@@ -6281,6 +6260,7 @@
   "Gulf Business": 2,
   "Legit News": 2,
   "BBC": 2,
+  "The New Indian Express": 2,
   "TradingView": 2,
   "Onmanorama": 2,
   "Mid-Day": 2,
@@ -6294,7 +6274,6 @@
   "The Straits Times": 1,
   "MarketScale": 1,
   "vatcalc.com": 1,
-  "Gulf News": 1,
   "Healthcare Asia Magazine": 1,
   "UA.NEWS": 1,
   "WhaTech": 1,
@@ -6304,8 +6283,6 @@
   "GB News": 1,
   "Rising Kashmir": 1,
   "Rappler": 1,
-  "News18": 1,
-  "The New Indian Express": 1,
   "CERN Courier": 1,
   "TechCrunch": 1,
   "Yahoo Finance": 1,

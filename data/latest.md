@@ -1,4 +1,4 @@
-# Scrape 16 Nov 2026 17:21 IST
+# Scrape 16 Nov 2026 17:35 IST
 
 ## Fetch status
 - ET Education News: 200 (45 items)
@@ -40,10 +40,6 @@
 - RSS: HT Education RSS: 200 (12 items)
 - RSS: TOI Education: 200 (20 items)
 - RSS: The Hindu Education: 200 (60 items)
-- RSS: Reddit search: CBT exam vendor: 403 (0 items)
-- RSS: Reddit search: on-screen marking: 429 (0 items)
-- RSS: Reddit search: NTA CBT: 429 (0 items)
-- RSS: Reddit search: TCS iON exam centre: 429 (0 items)
 - News search: CBT exam agency contract India: 200 (0 items)
 - News search: computer based test vendor tender India: 200 (1 items)
 - News search: on-screen marking tender: 200 (0 items)
@@ -51,7 +47,7 @@
 - News search: remote proctoring exam India: 200 (1 items)
 - News search: exam agency blacklisted paper leak: 200 (0 items)
 - News search: NTA CBT NEET 2027: 200 (12 items)
-- News search: SSC exam agency CBT: 200 (3 items)
+- News search: SSC exam agency CBT: 200 (4 items)
 - News search: recruitment exam CBT centre glitch: 200 (0 items)
 - News search: TCS iON exam: 200 (0 items)
 - News search: Eduquity exam: 200 (0 items)
@@ -64,7 +60,7 @@
 - News search: BSSC CBT agency: 200 (0 items)
 - News search: state public service commission CBT agency selected: 200 (0 items)
 - News search: online exam proctoring Middle East ministry of education: 200 (1 items)
-- News search: Saudi Arabia digital exam platform: 200 (10 items)
+- News search: Saudi Arabia digital exam platform: 200 (9 items)
 - News search: UAE online assessment national exam: 200 (0 items)
 - News search: Singapore digital assessment exam: 200 (0 items)
 - News search: UK on-screen assessment exam board: 200 (7 items)
@@ -83,7 +79,7 @@
 - News search: Excelsoft Saras proctoring: 200 (0 items)
 - News search: Learning Spiral AI proctoring: 200 (0 items)
 - News search: MPSC commission of inquiry: 200 (6 items)
-- News search: ED attaches paper leak recruitment: 200 (5 items)
+- News search: ED attaches paper leak recruitment: 200 (6 items)
 - News search: Unstop PerspectAI acquisition: 200 (0 items)
 - News search: RM plc digital assessment Eduviva TTS: 200 (0 items)
 - News search: Nilekani task force extension: 200 (4 items)
@@ -101,8 +97,8 @@
 - News search: Naveen Jindal Foundation skill development digital MoU: 200 (0 items)
 
 ## Publishers seen in keyword search (candidates for new sources)
-- Jagran Josh: 12
-- Careers360: 9
+- Jagran Josh: 13
+- Careers360: 10
 - FreeJobAlert.Com: 5
 - Shiksha.com: 4
 - The Times of India: 4
@@ -114,6 +110,7 @@
 - Gulf Business: 2
 - Legit News: 2
 - BBC: 2
+- The New Indian Express: 2
 - TradingView: 2
 - Onmanorama: 2
 - Mid-Day: 2
@@ -127,7 +124,6 @@
 - The Straits Times: 1
 - MarketScale: 1
 - vatcalc.com: 1
-- Gulf News: 1
 - Healthcare Asia Magazine: 1
 - UA.NEWS: 1
 - WhaTech: 1
@@ -137,8 +133,6 @@
 - GB News: 1
 - Rising Kashmir: 1
 - Rappler: 1
-- News18: 1
-- The New Indian Express: 1
 - CERN Courier: 1
 - TechCrunch: 1
 - Yahoo Finance: 1
@@ -161,6 +155,8 @@
 - eNCA: 1
 - 파이낸셜뉴스: 1
 - Irish Examiner: 1
+- Oz Arab Media: 1
+- Nilepost: 1
 
 ## Carried over from scrapes of the previous 3 days (no longer on the pages today; covers weekends)
 - [0 9 CBSE clarifies Class 10 board exam pattern for 2028, skill subjects to continue](https://education.economictimes.indiatimes.com/news/school-education/cbse-clarifies-class-10-board-exam-pattern-for-2028-skill-subjects-to-continue/135318552) (2026-11-15, ET Education News)
@@ -339,8 +335,6 @@
 - [3 न्यूजीलैंड के खिलाफ 5वें वनडे में अर्शदीप सिंह ने रचा इतिहास, एक साथ अपने नाम दर्ज किए 2 बड़े रिकॉर्ड](https://www.patrika.com/cricket-news/ind-vs-nz-5th-odi-arshdeep-singh-odi-record-of-most-sixes-by-an-india-no-11-in-an-odi-21052779) (2026-11-15, Patrika Patna news)
 - [4 Exclusive: कौन हैं महिला TTE नाजू अरोड़ा? जिनसे ट्रेन में भिड़ गए थे अग्निवीर, अंतरराष्ट्रीय स्तर पर कर चुकी देश का नाम रोशन](https://www.patrika.com/sri-ganganagar-news/who-is-woman-tte-naju-arora-agniveers-clashed-with-her-on-a-train-she-has-won-international-sports-medals-21050809) (2026-11-15, Patrika Patna news)
 - [5 जब बागी हो गए थे माधव राव सिंधिया, मां से कहा था- अब मैं खुद ले सकता हूं अपने फैसले](https://www.patrika.com/national-news/scindia-khandan-ke-kisse-how-vijayaraje-scindia-madhavrao-joined-congress-20948255) (2026-11-15, Patrika Patna news)
-- [Water Conservation : बावड़ियां हो रही हैं खामोश, पानी सहेजने की 300 साल पुरानी इंजीनियरिंग की खत्म हो रही कहानी](https://www.patrika.com/patrika-special/rajasthan-bundi-stepwells-300-year-old-water-heritage-restoration-neglect-21044766) (2026-11-15, Patrika Patna news)
-- [Mini Japan : क्या आपने कभी देखा है राजस्थान का ‘मिनी जापान’, यहां 53 से अधिक जापानी कंपनियां, 88 हजार लोगों को मिला रोजगार](https://www.patrika.com/patrika-special/rajasthan-mini-japan-neemrana-ghiloth-japanese-industrial-sceond-zone-developing-21043605) (2026-11-15, Patrika Patna news)
 - [Ajab-Gajab : यहां कोर्ट में नहीं, भगवान के दरबार में लगती है दुखों से मुक्ति की पेशी](https://www.patrika.com/patrika-special/bhilwada-rajasthan-tilaswan-mahadev-temple-miraculous-healing-shrine-21040611) (2026-11-15, Patrika Patna news)
 - [JEE Advanced 2027 Set for May 23 With On-Screen Calculator](https://digitallearning.eletsonline.com/2026/11/jee-advanced-2027-date/) (2026-11-15, Elets digitalLEARNING)
 - [IIT Kharagpur Becomes First IIT to Offer NMC-Approved MD Courses](https://digitallearning.eletsonline.com/2026/11/iit-kharagpur-md-programmes/) (2026-11-15, Elets digitalLEARNING)
@@ -1408,6 +1402,7 @@ https://inc42.com/buzz/
 - [D2C founders scaling from ₹1 Cr to ₹10 Cr. Learn from India's top 1% D2C founders and experts through 40+ expert-led sessions, 1:1 mentorship and a personalised growth strategy. It closes with an in-person convocation and investor pitching. view](https://d2cx.co/?utm_medium=referral&utm_source=menu/) - D2C founders scaling from ₹1 Cr to ₹10 Cr. Learn from India's top 1% D2C founders and experts through 40+ expert-led sessions, 1:1 mentorship and a personalised growth strategy. It closes with an in-person convocation and investor pitching.
 - [RetailX by Inc42 is a 6-month, invite-only brand residency for the next generation of India's manufacturing, distribution and trading families. Across 25 weeks of live and hybrid learning, 21 days in person and 60+ mentors, you first strengthen your family business, then build a consumer brand on to](https://joinretailx.com/?utm_medium=referral&utm_source=menu/)
 - [D2CX Foundations by Inc42 is a 6-week program, with recorded masterclasses and live Q&A, for founders launching a D2C brand. Learn from India's top 1% D2C founders and experts through hands-on insights, real case studies and proven execution frameworks, from GTM and brand strategy to marketing, mark](https://foundations.d2cx.co/?utm_medium=referral&utm_source=inc42&utm_campaign=d2cx-foundation&utm_content=button-feb)
+- [Fake Allahabad HC Order Row: DoT Orders Unblocking Of 95 Websites](https://inc42.com/buzz/fake-allahabad-hc-order-row-dot-orders-unblocking-of-95-websites/)
 - [Jio Stops New Signups For Free Google AI Pro Subscription](https://inc42.com/buzz/jio-ends-new-sign-ups-for-free-google-ai-pro-subscription/)
 - [Raj Shamani Becomes World’s Most-Subscribed YouTube Podcaster](https://inc42.com/buzz/raj-shamani-becomes-worlds-most-subscribed-youtube-podcaster/)
 - [Eternal Rethinks 2030 Deadline For Fully Electric Delivery Fleet](https://inc42.com/buzz/eternal-rethinks-2030-deadline-for-fully-electric-delivery-fleet/)
@@ -1419,7 +1414,6 @@ https://inc42.com/buzz/
 - [[Update] Urban Company Shareholders Approve ₹2,500 Cr Fundraise](https://inc42.com/buzz/urban-company-board-clears-plans-to-raise-up-to-%e2%82%b92500-cr/)
 - [Bharat Semi Raises $24 Mn To Build Smart Sensors For Physical AI](https://inc42.com/buzz/bharat-semi-raises-24-mn-to-build-smart-sensors-for-physical-ai/)
 - [The NVIDIA Fallout, Weekly Funding Rundown & More](https://inc42.com/buzz/the-nvidia-fallout-weekly-funding-rundown-more/)
-- [EaseMyTrip Q2: Loss Narrows 98% YoY To ₹57 Lakh, Revenue Up 34%](https://inc42.com/buzz/easemytrip-q2-loss-narrows-98-yoy-to-%e2%82%b957-lakh-revenue-up-34/)
 - [Not Just About Temple: India’s Wearable Impasse](https://inc42.com/features/not-just-about-temple-indias-wearable-impasse/)
 - [Jensen Huang’s Exit: How Deep Does NVIDIA’s AI Ecosystem Run In India?...](https://inc42.com/features/jensen-huangs-exit-how-deep-does-nvidias-ai-ecosystem-run-in-india/)
 
@@ -1527,21 +1521,21 @@ https://www.patrika.com/patna-news
 - [नीतीश कुमार के नाम पर पुल के नामकरण से लालू यादव की आपत्ति पर JDU का पलटवार, कहा- बिहार का नाम ‘चारा-नगर’ रख दें](https://www.patrika.com/national-news/nitish-setu-bridge-naming-controversy-lalu-yadav-shyam-rajak-tejashwi-yadav-bihar-politics-21052808) - राष्ट्रीय
 - [राघोपुर-बिदुपुर पुल का नाम ‘नीतीश सेतु’ रखने पर चिराग पासवान की आई प्रतिक्रिया, जानें क्या कहा?](https://www.patrika.com/national-news/chirag-paswan-nitish-setu-raghopur-bidupur-bridge-statement-21050560) - राष्ट्रीय
 - [बिहार में नीतीश सेतु नाम पर सियासी घमासान, रोहिणी आचार्य बोलीं- लालू यादव के नाम पर हो पुल](https://www.patrika.com/national-news/kacchi-dargah-bidupur-bridge-naming-row-rohini-acharya-nitish-setu-lalu-yadav-21049679) - राष्ट्रीय
-- [निशा भगत की मौत की जांच सीबीआई ने संभाली, दो आरोपियों के खिलाफ एफआईआर दर्ज](https://www.patrika.com/national-news/nisha-bhagat-death-case-cbi-takes-over-investigation-registers-fir-against-two-accused-21056451) - राष्ट्रीय
-- [Rajasthan : रेलवे ट्रैक ब्लास्ट मामले के आरोपियों ने किया बड़ा खुलासा, रामसिंहपुर रेलवे ट्रैक के पास मिले 2 बम, एक था एक्टिव](https://www.patrika.com/sri-ganganagar-news/sri-ganganagar-railway-track-blast-accused-big-revelation-2-bomb-discovered-21056512) - श्री गंगानगर
-- [IND vs NZ: बदल गया भारत बनाम न्यूजीलैंड सीरीज का समय, जानें भारतीय फैंस कितने बजे से देख सकेंगे मैच](https://www.patrika.com/cricket-news/india-vs-new-zealand-test-series-match-india-timing-21056252) - क्रिकेट
-- [शेयर मार्केट तेजी के साथ हरे निशान में बंद: सेंसेक्स 512 अंक चढ़ा, FMCG, बैंकिंग शेयरों ने मारी बाजी](https://www.patrika.com/patrikaplus/indian-stock-market-closed-in-green-21056490) - Patrika+
-- [च्युइंग गम चबाने से मजबूत हो सकता है दांतों का इनेमल, लेकिन ज्यादा इस्तेमाल से हो सकती हैं ये समस्याएं](https://www.patrika.com/lifestyle-news/chewing-gum-benefits-and-side-effects-you-should-know-before-chewing-it-daily-21056445) - लाइफस्टाइल
-- [1 धौलपुर पंचायत चुनाव : युवक की हत्या के बाद शाम 4.30 बजे शुरू हुई वोटिंग, एसडीएम और पीड़ित परिवार के बीच हुई वार्ता](https://www.patrika.com/dholpur-news/dholpur-barauli-panchayat-election-violence-youth-murder-voting-boycott-21055178) - 1
-- [2 यूपी: ईडी की रिमांड अर्जी खारिज, आजम खां को कोर्ट ने 10 दिन के लिए जेल भेजा; चार दिन तक हुई पूछताछ](https://www.patrika.com/ghaziabad-news/azam-khan-ed-remand-plea-rejected-sent-to-judicial-custody-ghaziabad-court-21055429) - 1
-- [3 Gold Price Today: सोने-चांदी में आज बड़ी गिरावट, जानिए तनिष्क, मालाबार और जोयालुक्कास में क्या हैं गोल्ड के रेट्स](https://www.patrika.com/business-news/significant-drop-in-gold-and-silver-prices-today-know-rates-in-tanishq-malabar-and-joyalukkas-21056002) - 1
-- [4 Vidisha : ‘दुष्कर्मी का एनकाउंटर करो’… प्रदर्शन के 2 घंटे बाद मासूम से दरिंदगी के आरोपी के घर पर चला बुलडोजर](https://www.patrika.com/vidisha-news/minor-girl-raped-accused-house-bulldozer-action-encounter-demand-21056389) - 1
-- [5 आखिर सोशल मीडिया इन्फ्लुएंसर मीनू राज पर क्यों हुआ हमला? 1 करोड़ से अधिक लोग करते हैं फॉलो](https://www.patrika.com/alwar-news/why-social-media-influencer-meenu-raj-attacked-khairthal-tijara-21053696) - 1
-- [Gold Mining : 1974 में शुरू हुई थी यहां स्वर्ण भंडार की खोज, दो माह में शुरू हो सकता है खनन](https://www.patrika.com/patrika-special/madhya-pradesh-katni-imliya-gold-block-mining-project-21056120)
-- [Gulshan Nanda : गुलशन नंदा…स्मृतियों की धुंध में खोया एक सितारा, सुपरहिट फिल्मों के लिए थे गारंटी](https://www.patrika.com/patrika-special/gulshan-nanda-novels-bollywood-classic-hit-films-21055548)
+- [Sariska Tiger Reserve: सरिस्का बफर एरिया की 5 बीघा जमीन पर अवैध कब्जा, प्रशासन ने जारी किया नोटिस](https://www.patrika.com/alwar-news/sariska-tiger-reserve-buffer-area-land-encroachment-notice-alwar-21055397) - अलवर
+- [CG Nikay Chunav: 17 निकाय चुनाव में कांग्रेस कराएगी गोपनीय सर्वे, जीतने की क्षमता के आधार पर मिलेगा टिकट](https://www.patrika.com/raipur-news/cg-nikay-chunav-congress-survey-ticket-21055389) - रायपुर
+- [शादी की खबरों को नकारने के बाद समय रैना रूमर्ड गर्लफ्रेंड मेधा शंकर संग आए नजर](https://www.patrika.com/ott-news/samay-raina-medha-shankr-cafe-date-video-mumbai-21055294) - OTT
+- [भारतीय शेयर बाजार में तेजी: हरे निशान में खुला मार्केट, IT सेक्टर में खरीदारी](https://www.patrika.com/patrikaplus/indian-stock-market-opened-in-the-green-21055362) - Patrika+
+- [Beauty Tips:परमानेंट मेकअप करवाने से पहले जान लें फायदे और नुकसान, हटवाना नहीं है आसान](https://www.patrika.com/lifestyle-news/what-to-know-before-getting-permanent-makeup-and-its-benefits-and-risks-21055255) - लाइफस्टाइल
+- [1 राजस्थान का सबसे रोमांचक सरपंच चुनाव, एक ग्राम पंचायत में उतरे ‘रिकॉर्ड’ 43 प्रत्याशी- चुनाव चिन्ह ही पड़ गए कम, जानिए फिर क्या हुआ?](https://www.patrika.com/sawai-madhopur-news/sawai-madhopur-soorwal-gram-panchayat-sarpanch-election-43-candidates-record-ballot-paper-21054558) - 1
+- [2 Gold Silver Price Today: टूट गए सोने के भाव, चांदी में जबरदस्त गिरावट, जानिए क्या रह गए हैं 24, 22, 18 कैरेट गोल्ड के रेट](https://www.patrika.com/business-news/gold-rate-fall-today-silver-price-also-down-sharply-know-24-22-18-carat-rates-21054916) - 1
+- [3 विधायक ने पूछा- इस्तीफा दे दूं? भीड़ ने बोला- हां, दे दो..’, रतलाम से वीडियो वायरल](https://www.patrika.com/ratlam-news/mla-kamleshwar-dodiyar-video-viral-public-demands-resignation-21055090) - 1
+- [4 आखिर सोशल मीडिया इन्फ्लुएंसर मीनू राज पर क्यों हुआ हमला? 1 करोड़ से अधिक लोग करते हैं फॉलो](https://www.patrika.com/alwar-news/why-social-media-influencer-meenu-raj-attacked-khairthal-tijara-21053696) - 1
+- [5 पुणे की एयर होस्टेस की मौत मामले में नया मोड़, दोस्त हिरासत में; ढाई साल की बेटी से उठा मां का साया](https://www.patrika.com/mumbai-news/pune-air-hostess-varsha-turkar-murder-case-update-21054593) - 1
 - [Tribal Society: जिसे शहरी कहते हैं क्राउडफंडिंग, दशकों से वागड़ के आदिवासी ऐसी परंपरा से बन रहे परस्पर मददगार](https://www.patrika.com/patrika-special/rajasthan-vagad-tribal-customs-daughter-first-crop-share-21054940)
 - [Say No to Drugs : नशा करने वाला ही नहीं, पिलाने वाला भी बदले! बीकानेर से उठी ऐसी मुहिम, जो मेहमाननवाजी की परंपरा को दे रही नई चुनौती](https://www.patrika.com/patrika-special/rajasthan-bikaner-drug-free-campaign-community-participation-success-21047306)
 - [Rising Rajasthan Summit : 109 करोड़ खर्च, 35 लाख करोड़ के एमओयू; जमीन पर उतरा कितना निवेश?](https://www.patrika.com/patrika-special/rising-rajasthan-industrial-development-economic-growth-roadmap-21046549)
+- [Water Conservation : बावड़ियां हो रही हैं खामोश, पानी सहेजने की 300 साल पुरानी इंजीनियरिंग की खत्म हो रही कहानी](https://www.patrika.com/patrika-special/rajasthan-bundi-stepwells-300-year-old-water-heritage-restoration-neglect-21044766)
+- [Mini Japan : क्या आपने कभी देखा है राजस्थान का ‘मिनी जापान’, यहां 53 से अधिक जापानी कंपनियां, 88 हजार लोगों को मिला रोजगार](https://www.patrika.com/patrika-special/rajasthan-mini-japan-neemrana-ghiloth-japanese-industrial-sceond-zone-developing-21043605)
 - [Statutory provisions on reporting (sexual offenses)](https://www.patrika.com/statutory-provisions-on-reporting-sexual-offenses) - Legal
 - [This website follows the DNPA’s code of conduct](https://www.patrika.com/this-website-follows-the-dnpas-code-of-conduct) - Legal
 
@@ -1784,6 +1778,7 @@ https://news.google.com/rss/search?q=SSC%20exam%20agency%20CBT%20when%3A7d&hl=en
 - [SSC GD Physical Admit Card 2026 Out, Download GD Exam PET/PST Call Letter PDF - Adda247](https://news.google.com/rss/articles/CBMie0FVX3lxTE9NZmt2QWV5NjA3eFkza3JTOGhkVEJoOW1oR19DN2ljTzVXZjMtV1o3MVRHVy15cWtZUEhmeFVGU1QxZ1BaLWhWd3hZSEZjWDllcUxxeWp2aWhhV2syNVg4dG1DbFpUdEFsNkdiY0hUYllCbkREaTFoWVdSNA?oc=5) (13 Nov 2026 13:30, Adda247) - SSC GD Physical Admit Card 2026 Out, Download GD Exam PET/PST Call Letter PDF &nbsp;&nbsp; Adda247
 - [SSC GD PET Admit Card 2026 released at ssc.gov.in; check physical test dates and direct link here - Moneycontrol.com](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaVBzeGtRQXowQVhGZ3Z3NHNfR0dScmFmSTQ2RWY1bFh5ZDNTemtsdWFDMjc1bXJJczBULW9qQzBEeUdfenRzdllOeU5zN0I5cS1xcGVsWGhabjlfblllRlhhbF9nZGxfNDdZdklKZWNCaHV5amtNT2N5eHRMUkpabzJpUFZDbWdGRVVVcV9QZnZxY1hwRkZEVWxzd0FiWmhNcVlMRXRDcDN4MG9XdEZlYW9jbUJxS3NaMUZKRFRIUENRVVJ6MGpyWU5JcGk0UTIxWHR1N1d4eTlPS3dRZm9lb1gxUXFOa2tYN2cxWXRpTEllS2vSAfMBQVVfeXFMT2lQc3hrUUF6MEFYRmd2dzRzX0dHUnJhZkk0NkVmNWxYeWQzU3prbHVhQzI3NW1ySXMwVC1vakMwRHlHX3p0c3ZZTnlOczdCOXEtcXBlbFhoWm45X25ZZUZYYWxfZ2RsXzQ3WXZJSmVjQmh1eWprTU9jeXh0TFJKWm8yaVBWQ21nRkVVVXFfUGZ2cWNYcEZGRFVsc3dBYlpoTXFZTEV0Q3AzeDBvV3RGZWFvY21CcUtzWjFGSkRUSFBDUVVSejBqcllOSXBpNFEyMVh0dTdXeHk5T0t3UWZvZW9YMVFxTmtrWDdnMVl0aUxJZUtr?oc=5) (12 Nov 2026 16:26, Moneycontrol.com) - SSC GD PET Admit Card 2026 released at ssc.gov.in; check physical test dates and direct link here &nbsp;&nbsp; Moneycontrol.com
 - [SSC GD Constable PET and PST Admit Card Released - Udaipur Kiran](https://news.google.com/rss/articles/CBMif0FVX3lxTFBJZlcyWmpIaEtGdUp1MXR5a0RsMlRmc0xPNE14Y0dLYzJkNmNLMm9TcGF3bnc2eUtFTUloTzlCck5xV1Z4UnJZc3gwWkJNR25RVFBRRU85bFJrQmpLLWN2Zk83OWJ6NVBUczRuMXdKZlZMVzJxNGVBODZIUUdJVlk?oc=5) (14 Nov 2026 08:53, Udaipur Kiran) - SSC GD Constable PET and PST Admit Card Released &nbsp;&nbsp; Udaipur Kiran
+- [Upcoming Sarkari Exams 2026 - List of All Sarkari Jobs, Govt Recruitment Exams - Careers360](https://news.google.com/rss/articles/CBMiaEFVX3lxTE02Z2FDT0thcmtGVkIzNXNmbWhHTEJQZ1hBMkgtVkN5WklCRkIydUgya0EwM1pVbERNcWlrbDJyaFlHWHZUTUJmaWpaRURoV01RWUpoQWxYVVZjRWhnMDFLcHJRY3FnWXo0?oc=5) (14 Nov 2026 13:30, Careers360) - Upcoming Sarkari Exams 2026 - List of All Sarkari Jobs, Govt Recruitment Exams &nbsp;&nbsp; Careers360
 
 ## News search: Mettl assessment
 https://news.google.com/rss/search?q=Mettl%20assessment%20when%3A7d&hl=en-IN&gl=IN&ceid=IN:en
@@ -1802,7 +1797,6 @@ https://news.google.com/rss/search?q=online%20exam%20proctoring%20Middle%20East%
 https://news.google.com/rss/search?q=Saudi%20Arabia%20digital%20exam%20platform%20when%3A7d&hl=en-IN&gl=IN&ceid=IN:en
 - [SPL and JINGDONG Industrials plan a digital parts-buying platform for Saudi factories - MarketScale](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQjBIVDJDd2xoSzhvSDFPR3lHdDlVbWMzc0VNdWN6Y3hJNlYyN04tZnJmeENmTldibXUyVm83OEdySUVfNHBQOFpXZGY3eUktMG5ENkpMeng1MjRZcG1tY3dZd3A0UzRRNVBWLXhZalhTeXZmcXVNdnQ3QjZjd0txd09oazltZEhLZzNRWm5sdGhpNGdkcjI5X3lWUlN0TVFKRVAzckpNS0VvdC1BcjdocjZFV1gxZ2xXWmNaOEhTTjNELXRXLVVPR3dXRk1JX00teWhTMzdn?oc=5) (15 Nov 2026 17:06, MarketScale) - SPL and JINGDONG Industrials plan a digital parts-buying platform for Saudi factories &nbsp;&nbsp; MarketScale
 - [2027 global VAT changes - vatcalc.com](https://news.google.com/rss/articles/CBMia0FVX3lxTE5kNXJGSWE0QndhQ1NHdVkzTXB2Z1hlT3dFTTRQd1BkekpyYUFVNmZTa0NEWk9wa1J5bmRUcUl6cmZ4Tk5zUzlsRDlWaHhyRGtjVDFHVTdmR3RqT3ctNnF0UFBTXzktNUxDTFE0?oc=5) (11 Nov 2026 15:32, vatcalc.com) - 2027 global VAT changes &nbsp;&nbsp; vatcalc.com
-- [Saudi Arabia launches online medical test booking for newly arrived domestic workers - Gulf News](https://news.google.com/rss/articles/CBMizwFBVV95cUxOejBaR3M4NDZEWFJ0OXFmVEFPNUdqX1huZEtYNFZORU1pRExEZ0pjeEhpNnlNMkdsdmdoWGFLd0JsWnRxM2xkelFiRk9JTURESDh2X2NFdVk2YTBiSE5PR0tvd2tid29ZbWQ3RWJwakQzTVJPaDdlVTFSQ2JiMGd4Y2dDaGJ0TkNnenRWdXd6WkZTSWV3T0lObHJYS1ZLOUZJU1NpZ2t3MHRkMzhZMkNkWV9MRHYwdTJBd3lRSFBPQ2VIbFdBaHZRVkZLSWsyaVXSAeQBQVVfeXFMTU5ubVNnQ0FSSnp5RGZPdEJvc0x5S0FRako0QVZ1MFEzdGpNck1OUG95MERFcXFEY25lZHJCOThLeWZBVW9SVS11X3lRMVhEdGJnN0pwSWtRNmtUQWFRd3RObDBMRVBhQzZsaVhtRVpKMWRyTjdCVzdNNVZUcmVrMXdYaXA4TURwTXhjVmFyTTdvY3ZJVFB0NVduRVVqNUhoQ1MxQXhtTl81VGtNZVN6YjE0MXVXSGFMeF9sRlNjUGFmTWhXREhsb2VPdzhrREIzMkUtTWlGdXdIUFA3NHZBTmJ3UTg1?oc=5) (09 Nov 2026 17:30, Gulf News) - Saudi Arabia launches online medical test booking for newly arrived domestic workers &nbsp;&nbsp; Gulf News
 - [Saudi Arabia’s year of AI: The real test begins with business - Gulf Business](https://news.google.com/rss/articles/CBMihwFBVV95cUxNYTlVMUtGOVF5eHVRbkpHTjlHQmlkLW02V2x0czNEektJRXdvMFFvcjJzNTRSOC1pNDV6bi1XUE5jRnZFY1lGdGhCVmJuRzIzbGxMNW9NY1RkRnBtdzRmRjZ5WkdxdVRPa3RTX0tSSGo2Y1Q5UnZaTEtnT2VWV3pKYkdQWlo3V0E?oc=5) (09 Nov 2026 19:45, Gulf Business) - Saudi Arabia’s year of AI: The real test begins with business &nbsp;&nbsp; Gulf Business
 - [Primary care, virtual hospitals underpin 97% healthcare coverage in Saudi Arabia - Healthcare Asia Magazine](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWVI3dDRzV3EwSFg4dkhFamMwWTJsOXN2M3RyMFNTamZOZUFxT3Z5R1d3X1BFWlBuQmtTcW9BTzFuUDhWUVd6YTJlX3BHajE5azRRLTNySnpjd1FCN19uekxjSHNZdTdUbjhYY2xzT21jM1ZQS1EzaVAzek1yNnNWRFdpQ0dtUTU1cEY0N3UxRDBaOWJXd3NwQ3RRY0JVcVFEZllZZ1hXSWlOaUJSYnc1TVhSM3Q5NHZTV0RGM01FWXNWaDVrNUhRUw?oc=5) (12 Nov 2026 07:54, Healthcare Asia Magazine) - Primary care, virtual hospitals underpin 97% healthcare coverage in Saudi Arabia &nbsp;&nbsp; Healthcare Asia Magazine
 - [Glitch disrupts exams for hundreds of students in Melbourne — The Guardian - UA.NEWS](https://news.google.com/rss/articles/CBMinAFBVV95cUxOVk5RVTRsWV9iZjZ3RENqQmNLSFRlZEZwSWY2WjRTRklJWVZlUWpVemdyMDU0ME9tRFVqOEtXNjc4aGlxeEhxdG5DQnY4V0g2amtveVdIODNaTVhEVkp1eHI0U0haNnRxa2dfc0ExeV85OGdPWW5USDAySFlYaHlVYWlrSDRESElRc21YNVEyLTF4NzlrX1BzMl9EOWE?oc=5) (16 Nov 2026 09:42, UA.NEWS) - Glitch disrupts exams for hundreds of students in Melbourne — The Guardian &nbsp;&nbsp; UA.NEWS
@@ -1835,9 +1829,9 @@ https://news.google.com/rss/search?q=Africa%20computer%20based%20testing%20exam%
 - [AEEE 2027 Registration Begins at aeee.amrita.edu; Check How to Apply, Eligibility and Exam Dates - Jagran Josh](https://news.google.com/rss/articles/CBMiywFBVV95cUxORTRZSVVwU0ZQODlFaTlCbTNPODdYVGJ6bWJ5UjNDUHAxeHI3R3Z0bmdMVHVmcVFkZTFMVEJFWDNBQ29zLUVhMU5oMmlldExMVnlLWldGX0RMZmdQMDJHN3JrdC1kRmx3ek1IandCaVBuTkVya0plVHNiRnJJbmlEd2JZNE1QMUdTb21zSU9ZZWw0N0RSRDVyX1AxeFlrMFVBR0lKbFQ0WFJmZjR2eVBuUTQ0Ml9jOVJEOXJRVGdQa01DUUkwQmU2UWU2b9IB0gFBVV95cUxOZnAtWjNUOW9qbl9rQ3c4cnptUGo4SndtQUI4NUlZV3FsNGFiQVI5XzAwRHNadGdhbFdsSlBtdXJHaGhfR3Q2N1loRHdwOTYzUmFXYnJrLVdKbDYzRWhDdHhrNGllTVBzVG9abVRibm8zQktnYUJheExHTk9vT1FCYTZEakxSaE5aWjg2UkJGcGFKb285ckRpV3pmSmxocDJHbkJxTVdPaW5WYU42b1JSMXRiNHEtR21tMFA0VENQTUJnLU5la3kzQldDYzRvelltVlE?oc=5) (11 Nov 2026 12:40, Jagran Josh) - AEEE 2027 Registration Begins at aeee.amrita.edu; Check How to Apply, Eligibility and Exam Dates &nbsp;&nbsp; Jagran Josh
 - [RRB Paramedical City Intimation Slip 2026 Released: Direct Link to Download CEN 05/2026 City Details Here - Jagran Josh](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSTVObGFLUWw2WkFZLU15ZERhZEQ4XzJreTFMNDFNTVV6QmNoTGFKVmZWM1g2YTBuOXNPOXNPb1B3U1NSTVB6YXlWQlNJX0swMl9VWnFLcmZFYS1QTElkR1lCZ1hBUC13TGtJT0VPazRFSHNBc182Uy00OTNISk5fVnl0SXU4ZUY0TUg3QVd0bzljSDN5eEdzdTFfeGxHVFVuZmRCekMtdGNvWjJWZnQzaUZGZUw5emJ6UGtTNlFIaWZLVVNTTXlROXlJNHVkQ2plNTFucllvWnR3YkhQTS1teWg1SVNDN1Z00gHvAUFVX3lxTE9lVHNJLS1NZkc0d3RWWmtVb25lcVNOaGtFSjVHeWhKMFFRN3FEbFVpMmJjOEY0Qk85M0dXZ2swdmp3dW15NzRlalNXX24yTlNlZU51N3pid3pDVnRKTEt2TmMxUEl0MlhoSGhTNm01OUJuMmxMOVpjaEF2Q2hQRUJOZkFxR3JiMHMzUnpOTXN6ZFU4Z0hDRmUzdExlNGhzdkk5VmEwQ05OdllOZVNnRkR3ZWEzTGY3SGVGRE5BbDlCVEVMeWNfb1RiNXFNTmh4T1MzRENNbFUwbEgzYzhXZ25NdllFN0hGQ21lVUVnTXo4?oc=5) (14 Nov 2026 12:40, Jagran Josh) - RRB Paramedical City Intimation Slip 2026 Released: Direct Link to Download CEN 05/2026 City Details Here &nbsp;&nbsp; Jagran Josh
 - [JEE Main 2027 Paper 2 Syllabus: Check Subject-Wise Topics for B.Arch and B.Planning, Download PDF - Jagran Josh](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYVVGaFM5MGd6clBEMlk2M0pvbnVuOGNkNXg2VXU2Qno1SllWV0pHT091MDZoRUtLdDBVRVlNX19sNlM2ODM5YXVhNVNpSnAxZEUxa0xYNlBzam1rcF9QWjNKVGw1R0VfdnpXMU5PTExSZ2RFai0yM2Vydjc4M29vc2tqTzJ6SGQzODZqZEFyS2hhOE54NXNWYTFoM2ljbDF5bkItSDZKZEJMbU9EeHhucXh5bGpRblNqX2hIYWM2ZDROeFJFdlFJbzZJaXMzWkVYUVlsTWJoc0t1UdIB4AFBVV95cUxNZzcyTzdjQ1BJRHNSNW1tRmZkTnpsSk5XRWRuVDFvMFd1RFk1QzBlZGFTMV9hb2Y1RlcwbWxrNjJ3aVVKVGNYeXRRZEZwOHAyX2daZl83SmxUUi05S1BVRUE1aDlLYWF1Uk9HUDNkbUNvUlBaejdTbDdrS3BBYncyeExhLVRwOWs1WG9xeWZ2eTFEdHJnMURTQkNFeVhzWVJSNlhhRGJiaHJ2R08wS1FpTGVqQ3YxSTlhMUFKbm92anRUX2xkdW5nc2JDY2VEOE5hNjhYa2lPMXFneTNTSUMxYg?oc=5) (16 Nov 2026 13:40, Jagran Josh) - JEE Main 2027 Paper 2 Syllabus: Check Subject-Wise Topics for B.Arch and B.Planning, Download PDF &nbsp;&nbsp; Jagran Josh
-- [RRB Group D Result 2026 Out For 22,195 Posts: What's Next? Check Physical Test Details - News18](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQlhvUktacG16eWZ5WFhIQzAwSUlremZNQWRETU94TlV5WHo2dmpldVNtMWQzVnZGYjdvSGdaeWVGcFRWcEs2R3Y4NlpZcC1NNkZxSndNSlh2MGRsenRFMkdQam5McG1wQ2tYTm10VU5lUHF5WjBqbWRyUXpLWGRfbUQxNTRWLVpHY3BEZE9ZTUVwNVR4OG1TUjVzaEZXbkl1WkVfNUw2dWx2akRKWmpGaEVvQktDd24wRk9uTlFCRVJSVkZOVE9vRWZEaHJTc0szOWfSAdcBQVVfeXFMTjZhdW9zRlZicWNoMjR5ekFFbUlDQjN6NHo3aFhudkwyeWNIellqcjlRUER0ZW14cFg2cVFUUWVVbGdyb3hqVTBsZ0RNdl9xcXpfdnZac25iQjVraGMyb2ltWTNBQkVld2FtZHZzaEx2MlpwbEJZdXFDaVo5UkF4R1E2cjZ4Zi1OM3cyY3pZSW1ydWEzWGVURDFzU05ITkh5MWdGaEJKV3NVNjg2S3EwdzRBTG1xZGN3N3BvSld0dGxXbzBIcVhERVFHZjBray1GaDZUTE0ybVU?oc=5) (13 Nov 2026 13:58, News18) - RRB Group D Result 2026 Out For 22,195 Posts: What's Next? Check Physical Test Details &nbsp;&nbsp; News18
 - [MP Police Constable Exam Date 2026: Check MPESB Driver Exam Schedule at esb.mp.gov.in - Jagran Josh](https://news.google.com/rss/articles/CBMizgFBVV95cUxOd1hvVFdUcW4wMlBFV0hhMWRJZXFIZ3BaRFRmQVNxMS0yRnZfZEV3SVQwUjlLY3JIcnYwY0MxYnJTRjNhVFM2UkhqWGZ6SkJUdHp1MWV3dGVwVkhsaFJ4cFNjOTJxZTZRVHBKa01XaDlaTEJ4a01CX3NPTkhTRHFNNWs4NDFyZkdnWWU1bUtHYkFFRjlnZ2JEdnV0dnRCbWQtWFF6VjF4TVdJZ3JmSGhNOUxORzRHUko3Y1pvcW1GT2VQU0k2X1pXaXdzSGYwZ9IB1AFBVV95cUxQdW1mdGJHN1ZYVTU2bFp3WHplS3plMXlKdFdFU2tDcENUUEJsN3BkVHpHRVNqVEJRS3M5UGN4RGVVNVVxczNnMkNLVFcxdUduYWhrSUJXX3drVW15ZWhDZnFoWTB0M3ZXZjg0UU5uZ0RPd2x0X2EzSWUxRTdOVjZWeFZLeUQ2R2lUbmpOQWlZaDJGTEVHcEZfSlRkTlNSWWVmdEM5b3pFYlEwUS00R19yLUppT2wwa3JXSVcwdHQ3ZzZsZDJaV1RzTVBmdUZ1S0NGdUhsMg?oc=5) (16 Nov 2026 12:49, Jagran Josh) - MP Police Constable Exam Date 2026: Check MPESB Driver Exam Schedule at esb.mp.gov.in &nbsp;&nbsp; Jagran Josh
 - [AFCAT 1 2027 Exam Date: Admit Card, Syllabus, Pattern, Question Paper - Jagran Josh](https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uX05paFI0dnFidnE2b08zZHd3QzNUaVBRck53aGJHZTJiQzZPNnFTSTJtLUxXSlRzMkdNc3NkWXB6WDlnLW9UcXo2NVBiSE0?oc=5) (13 Nov 2026 16:12, Jagran Josh) - AFCAT 1 2027 Exam Date: Admit Card, Syllabus, Pattern, Question Paper &nbsp;&nbsp; Jagran Josh
+- [RRB Group D Result 2026 (OUT): Direct Link to Download Zone-Wise CBT Merit List PDF Here - Jagran Josh](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMlRQcDJOUEFDZlJ0aGlBbm03RFNIZXVfbUlFQkJ2c2ZKc2ZIVjE5cFp4WDdPUFlkVm5ZUmlJZjNhOEZoM3RvVUlReTNBdGg1ZkxZQWFSOVJ3YzNxOFU4aXVTQ25JWGw4eVNKbnRvYUdRQ1h5aUVwdjhIdGtaYnpjbTc4UnpLSURPbGFyZEVNby1oTXhRVnl0d1cxdU9yR2N5NXdLb1d2LUlIcVFkOVVvUnMzYWZURXp3QzFWZU42MWNHZ9IByAFBVV95cUxNM2QwWW1pWjNwMVFsUFM1QU9GMzJEYXNsVXRpMEpXM0l0U0lRZ0NWOENpRFd4X21KODBPV29RUDlnY196SFhoZ04zNzdUSzNSVFc5T3NIVEt0OF9yZjdFel9qdGRzVzRpbEVnUFNUZDBReUtQZ3o3cHF3VTZ2R3M0VXlsakpNcldVcjhiSzRWUVJBT282eDlhV1Z0VnAyVTRuLUhyTnhzYkJCM285Vnc3SkR2YlljTXRMT1FYYXlkdjl1ZkVaTUJtZw?oc=5) (12 Nov 2026 18:43, Jagran Josh) - RRB Group D Result 2026 (OUT): Direct Link to Download Zone-Wise CBT Merit List PDF Here &nbsp;&nbsp; Jagran Josh
 
 ## News search: Prometric OR "Pearson VUE" OR PSI OR Meazure
 https://news.google.com/rss/search?q=Prometric%20OR%20%22Pearson%20VUE%22%20OR%20PSI%20OR%20Meazure%20when%3A7d&hl=en-IN&gl=IN&ceid=IN:en
@@ -1909,6 +1903,7 @@ https://news.google.com/rss/search?q=MPSC%20commission%20of%20inquiry%20when%3A7
 ## News search: ED attaches paper leak recruitment
 https://news.google.com/rss/search?q=ED%20attaches%20paper%20leak%20recruitment%20when%3A7d&hl=en-IN&gl=IN&ceid=IN:en
 - [KPSC ‘recruitment scam’: ED attaches properties worth ₹1.22 crore belonging to former chairman, member and IAS officer - The Hindu](https://news.google.com/rss/articles/CBMijgJBVV95cUxNUnNodlFOYkFIRWE1V1puaXVGUFg0MXplSGNIeW9sb3phckw3OXVfS2V3eUlaRkd0ZUVZVVdWQ0lzTmxsd05WdkxzWGpGV1F2TFdrR3ZYNFRhdmpXOUFwZXBDVi0zS2I1WW9uanpHTDlrVWpRdzlrcVowTGwwRVhCdnU5RkdDVERaN0xYU0lZT2J0YXlOUjVOemRLc0RQZFN2VU52ZkZaTHZJOTIzY2oyQWd2eGIxdXVkMlR4MTBEWXdjZnFlM1JvZGg3aFhmV2ZBdTF4Wkd2QmhWdmg5d3c3NDE0UC1xbWp6MzF0V0lUTzgta29saHV1SFdjU3hXb2J4dkNrSEg3Vzctb0lESUHSAZQCQVVfeXFMUGZYdmp6bHFvT3dTYTc4T3NxTDhBS2lTTmZ0OGhQRG9KQVotMUk5TkFKZlBGNk9sRVRQUXU0S2phUHdiX3BiWXByRFNscDU0THduRGhyc3B1WW5XcWJxS0NLZnlEOWs2R1l3S214cHYtVWRGcFZES2k2M0J0VzBaeGVUcnVReUJHU3VqeGlRVGxtaXZHLUFtVmdQWGxKRXFYa3FLdFZHdFVpdE9ZNnZfcE94TTc4NXI5M3ZXWWNULVVTNzJXaHM3Mm0wR1phT2VEeFJpaWcxRVkwLUxSUkJVT3h6QTloQVpKeXZsTTA3WTVfTGlYNnR5QnVqenVZbTBKMk5QRHBIVDhhRC1fVGhBZ0dfckho?oc=5) (14 Nov 2026 17:18, The Hindu) - KPSC ‘recruitment scam’: ED attaches properties worth ₹1.22 crore belonging to former chairman, member and IAS officer &nbsp;&nbsp; The Hindu
+- [KPSC SCAM: ED provisionally attaches Rs 1.22cr of assets of accused - The New Indian Express](https://news.google.com/rss/articles/CBMixgFBVV95cUxQd2paM1ZyRVVrbWMzR3BzS2x4cVVkbV9LUW5zYkhURG1Ic293Y1REcUdWaU5OMEtVMktzX2JUeHdHVWdUSnY5UkExT3BiN0hMbVZUeXlCbFQ5dmd0NDhaWHNtSE1GVmFTYWhPQkpCMFkzYVZEdE5WLURzYUZ3STRqc21HLVpXSEZqM3RMU3Bha0N2SDBLNGtjSkU4OHlkTkZKeFRQY2pMYUVmWHRsb3VHamxLUzdQMzBNbG5jRUJQSkhhbzgwU0HSAdMBQVVfeXFMTWwxOTc4UTI4WGNjNjdxNDhMbmxGalZ1NURfc0FvQTRjWGFlazNWTEVsYnJja1Z5VU4weGM3aWQyX2N0My0xSTZGWllyTG9fekFJNzRHRUlYSTJuUUhBV0pkSlltOXFMZmNQeVpQWFFRSTRmbndYeTJYU1U5UE1FX29sR3hQcWhZdzBsaWR1bUpnZmVuaUZiY3dQUEloOTNMbHcyUEVlRmlZVWlKNjIxYWFJM1VuVU1FaG85N3JVbDI1THlIcEJnbWt3MnZGdzRpejRkQQ?oc=5) (15 Nov 2026 07:10, The New Indian Express) - KPSC SCAM: ED provisionally attaches Rs 1.22cr of assets of accused &nbsp;&nbsp; The New Indian Express
 - [KPSC Veterinary Recruitment Scam: ED files 580 page chargesheet, exposes question paper leak & Rs 1.70 cr transactions - Organiser](https://news.google.com/rss/articles/CBMiggJBVV95cUxNcU9GVDhCMXpRc1hUb3VsSUJGQTd0MWxpNW9EcXVKbU5lNjNKSGI5WHZLOHNSeWk5bS1nZE94NzhtMm9mMVgxMkRma3ZKM3ZKLWVXaHc3M0wxQ2Rial8wcjBKRXJlVFlrM2VIbXhRbEhCTmd5LUFKRDR5WE44UlZxQlJDam9leXp1dmpZTjBrQndNdjdkeWF4YVZfdHRaMDR2NUl5OHprYnhhRW5WM21PT2VZYm1DUWhPLVM4Q3VFblI4cGtNY3JlNzhBeDA1eHRyTjQzNEp0YUpRaDZPSFg4VGM3NWtQM0dneUFOdVd5cUVDdlMzRWdVUmFGNHJQRlRFMlHSAYcCQVVfeXFMTUFKVnh5bWVHQzJCZ0l2YkIyaUd6SnZJQ0VfSVpLUlBab2w0TDFUbUYtRWVmU19ZelpIR2tqYjF6TzRxX0J2VW1TRHB2eEtBRDJEM2didmtYc0N2emo5N29vUklYQlhVamZNQjhhTUoxcFVJamhHYnZLSXdBYnZlT0UxMms0dTNmbF9wOTg4cXB3aUllRlBnN1hRUktrbkVHdFlXbDBoOE1Pb0xsZFNIZzBUYUd2d3dwbGYtOGxINUFVcnpuNkEwRXFEYTJXVzRoN21xLVFNMnlVdzJXNE1FQWVuQ09acVZuLXJmSjNoeXh1eFhBYklOd0I1aU91RVB3UmpUNmdKR2M?oc=5) (14 Nov 2026 17:05, Organiser) - KPSC Veterinary Recruitment Scam: ED files 580 page chargesheet, exposes question paper leak & Rs 1.70 cr transactions &nbsp;&nbsp; Organiser
 - [KPSC recruitment scam:ED attaches properties worth Rs.1.22 Crore belonging to former chairman,member and IAS officer - Country and Politics](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQS1N5RlVpNlE2UGNBeExka1F0bG9XNWQxVHhMYm5KQnZibldUT3ItT09oVjRSSFlnZnNNYVdoOE5tWHVfVFVjRDAwN1JZRXhORHZEaDM3ZnN2bzRvbkZDZFlvTzBWS25XMG40TmxvVzRRdWZtUlVlZEFGRk53WmdLQ2t6STVJb00tY0dzdVEzbDlIeldqNmIwV3dTRXdRaUNjN05tOF9LMUM1eHJqRVE5alk4elEyQV9mOGVKMVVHcWl5S0hBeVZuTkluZEtwdTZ0Z19KU3lJcmFhN2JqMjBxRjdCWnpaeTBDRGFnS3g2MUlYQQ?oc=5) (14 Nov 2026 17:44, Country and Politics) - KPSC recruitment scam:ED attaches properties worth Rs.1.22 Crore belonging to former chairman,member and IAS officer &nbsp;&nbsp; Country and Politics
 - [Karnataka ED Attaches Rs 1.22 Crore Properties Linked To KPSC Recruitment Scam - Ommcom News](https://news.google.com/rss/articles/CBMiswFBVV95cUxNRXo1TlhsZ3kwdFhuSWw1RGtWbG9nY05abjJUMXh4VThIdFotS0xOSmJuWVU5dFFvdXJwa1g5NFFjVEUzV0ZzQjhVVS1id24wZTJCTENwTkhnYXF4UC1EcGhvY2lfZlBLMmVpb3E3aUdEUVZzWnZIZGlnQUtBSlk4RXd6djBYdzFWWDI3LXphTk9uWU94cUR4eHJhdVR1SGhWZlg4RXZzMUNMNW53VVBDYjVFWQ?oc=5) (14 Nov 2026 17:21, Ommcom News) - Karnataka ED Attaches Rs 1.22 Crore Properties Linked To KPSC Recruitment Scam &nbsp;&nbsp; Ommcom News

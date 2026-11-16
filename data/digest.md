@@ -1,4 +1,4 @@
-# Scrape 16 Nov 2026 17:21 IST
+# Scrape 16 Nov 2026 17:35 IST
  (compact digest; full file: data/latest.md)
 
 ## Fetch status
@@ -41,10 +41,6 @@
 - RSS: HT Education RSS: 200 (12 items)
 - RSS: TOI Education: 200 (20 items)
 - RSS: The Hindu Education: 200 (60 items)
-- RSS: Reddit search: CBT exam vendor: 403 (0 items)
-- RSS: Reddit search: on-screen marking: 429 (0 items)
-- RSS: Reddit search: NTA CBT: 429 (0 items)
-- RSS: Reddit search: TCS iON exam centre: 429 (0 items)
 - News search: CBT exam agency contract India: 200 (0 items)
 - News search: computer based test vendor tender India: 200 (1 items)
 - News search: on-screen marking tender: 200 (0 items)
@@ -52,7 +48,7 @@
 - News search: remote proctoring exam India: 200 (1 items)
 - News search: exam agency blacklisted paper leak: 200 (0 items)
 - News search: NTA CBT NEET 2027: 200 (12 items)
-- News search: SSC exam agency CBT: 200 (3 items)
+- News search: SSC exam agency CBT: 200 (4 items)
 - News search: recruitment exam CBT centre glitch: 200 (0 items)
 - News search: TCS iON exam: 200 (0 items)
 - News search: Eduquity exam: 200 (0 items)
@@ -65,7 +61,7 @@
 - News search: BSSC CBT agency: 200 (0 items)
 - News search: state public service commission CBT agency selected: 200 (0 items)
 - News search: online exam proctoring Middle East ministry of education: 200 (1 items)
-- News search: Saudi Arabia digital exam platform: 200 (10 items)
+- News search: Saudi Arabia digital exam platform: 200 (9 items)
 - News search: UAE online assessment national exam: 200 (0 items)
 - News search: Singapore digital assessment exam: 200 (0 items)
 - News search: UK on-screen assessment exam board: 200 (7 items)
@@ -84,7 +80,7 @@
 - News search: Excelsoft Saras proctoring: 200 (0 items)
 - News search: Learning Spiral AI proctoring: 200 (0 items)
 - News search: MPSC commission of inquiry: 200 (6 items)
-- News search: ED attaches paper leak recruitment: 200 (5 items)
+- News search: ED attaches paper leak recruitment: 200 (6 items)
 - News search: Unstop PerspectAI acquisition: 200 (0 items)
 - News search: RM plc digital assessment Eduviva TTS: 200 (0 items)
 - News search: Nilekani task force extension: 200 (4 items)
@@ -103,8 +99,8 @@
 
 
 ## Publishers seen in keyword search (candidates for new sources)
-- Jagran Josh: 12
-- Careers360: 9
+- Jagran Josh: 13
+- Careers360: 10
 - FreeJobAlert.Com: 5
 - Shiksha.com: 4
 - The Times of India: 4
@@ -116,6 +112,7 @@
 - Gulf Business: 2
 - Legit News: 2
 - BBC: 2
+- The New Indian Express: 2
 - TradingView: 2
 - Onmanorama: 2
 - Mid-Day: 2
@@ -129,7 +126,6 @@
 - The Straits Times: 1
 - MarketScale: 1
 - vatcalc.com: 1
-- Gulf News: 1
 - Healthcare Asia Magazine: 1
 - UA.NEWS: 1
 - WhaTech: 1
@@ -139,8 +135,6 @@
 - GB News: 1
 - Rising Kashmir: 1
 - Rappler: 1
-- News18: 1
-- The New Indian Express: 1
 - CERN Courier: 1
 - TechCrunch: 1
 - Yahoo Finance: 1
@@ -163,6 +157,8 @@
 - eNCA: 1
 - 파이낸셜뉴스: 1
 - Irish Examiner: 1
+- Oz Arab Media: 1
+- Nilepost: 1
 
 
 ## Carried over from scrapes of the previous 3 days (no longer on the pages today; covers weekends)
@@ -600,7 +596,7 @@ https://www.seab.gov.sg/seab-link-issue-2-2026/sharing-knowledge-shaping-assessm
 - [AEEE 2027 Registration Begins at aeee.amrita.edu; Check How to Apply, Eligibility and Exam Dates - Jagran Josh] (11 Nov 2026 12:40, Jagran Josh) - AEEE 2027 Registration Begins at aeee.amrita.edu; Check How to Apply, Eligibility and Exam Dates &nbsp;&nbsp; Jagran Josh
 - [RRB Paramedical City Intimation Slip 2026 Released: Direct Link to Download CEN 05/2026 City Details Here - Jagran Josh] (14 Nov 2026 12:40, Jagran Josh) - RRB Paramedical City Intimation Slip 2026 Released: Direct Link to Download CEN 05/2026 City Details Here &nbsp;&nbsp; Jagran Josh
 - [JEE Main 2027 Paper 2 Syllabus: Check Subject-Wise Topics for B.Arch and B.Planning, Download PDF - Jagran Josh] (16 Nov 2026 13:40, Jagran Josh) - JEE Main 2027 Paper 2 Syllabus: Check Subject-Wise Topics for B.Arch and B.Planning, Download PDF &nbsp;&nbsp; Jagran Josh
-- [RRB Group D Result 2026 Out For 22,195 Posts: What's Next? Check Physical Test Details - News18] (13 Nov 2026 13:58, News18) - RRB Group D Result 2026 Out For 22,195 Posts: What's Next? Check Physical Test Details &nbsp;&nbsp; News18
+- [RRB Group D Result 2026 (OUT): Direct Link to Download Zone-Wise CBT Merit List PDF Here - Jagran Josh] (12 Nov 2026 18:43, Jagran Josh) - RRB Group D Result 2026 (OUT): Direct Link to Download Zone-Wise CBT Merit List PDF Here &nbsp;&nbsp; Jagran Josh
 
 ## News search: Prometric OR "Pearson VUE" OR PSI OR Meazure
 - [Prometric Unveils ProGuardian(TM) to Expand Global Exam Security with Over 26,000 Additional Cameras and Expert-Led Review - Yahoo Finance] (12 Nov 2026 18:30, Yahoo Finance) - Prometric Unveils ProGuardian(TM) to Expand Global Exam Security with Over 26,000 Additional Cameras and Expert-Led Revi
@@ -623,6 +619,7 @@ https://www.seab.gov.sg/seab-link-issue-2-2026/sharing-knowledge-shaping-assessm
 
 ## News search: ED attaches paper leak recruitment
 - [KPSC ‘recruitment scam’: ED attaches properties worth ₹1.22 crore belonging to former chairman, member and IAS officer - The Hindu] (14 Nov 2026 17:18, The Hindu) - KPSC ‘recruitment scam’: ED attaches properties worth ₹1.22 crore belonging to former chairman, member and IAS officer &nbsp;&nbsp; 
+- [KPSC SCAM: ED provisionally attaches Rs 1.22cr of assets of accused - The New Indian Express] (15 Nov 2026 07:10, The New Indian Express) - KPSC SCAM: ED provisionally attaches Rs 1.22cr of assets of accused &nbsp;&nbsp; The New Indian Express
 - [KPSC Veterinary Recruitment Scam: ED files 580 page chargesheet, exposes question paper leak & Rs 1.70 cr transactions - Organiser] (14 Nov 2026 17:05, Organiser) - KPSC Veterinary Recruitment Scam: ED files 580 page chargesheet, exposes question paper leak & Rs 1.70 cr transactions &nbsp;&nbsp; 
 - [KPSC recruitment scam:ED attaches properties worth Rs.1.22 Crore belonging to former chairman,member and IAS officer - Country and Politics] (14 Nov 2026 17:44, Country and Politics) - KPSC recruitment scam:ED attaches properties worth Rs.1.22 Crore belonging to former chairman,member and IAS off
 - [Karnataka ED Attaches Rs 1.22 Crore Properties Linked To KPSC Recruitment Scam - Ommcom News] (14 Nov 2026 17:21, Ommcom News) - Karnataka ED Attaches Rs 1.22 Crore Properties Linked To KPSC Recruitment Scam &nbsp;&nbsp; Ommcom News
