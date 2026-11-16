@@ -1,13 +1,13 @@
-# Scrape 16 Nov 2026 08:25 IST
+# Scrape 16 Nov 2026 12:49 IST
  (compact digest; full file: data/latest.md)
 
 ## Fetch status
-- ET Education News: 200 (43 items)
+- ET Education News: 200 (45 items)
 - ET Government Policies: 200 (36 items)
 - ET Edutech: 200 (36 items)
 - ET Industry: 200 (36 items)
 - ET Partnerships: 200 (36 items)
-- ET International: 200 (29 items)
+- ET International: 200 (30 items)
 - ET Emerging Tech: 200 (24 items)
 - HT Education: 200 (60 items)
 - HT Competitive Exams: 200 (30 items)
@@ -28,7 +28,7 @@
 - Inc42 buzz: 200 (17 items)
 - e-Assessment Association news: 200 (32 items)
 - The South First Keralam: 200 (46 items)
-- The Hans India Mumbai: 200 (11 items)
+- The Hans India Mumbai: 200 (15 items)
 - ThePrint India: 200 (0 items)
 - Patrika Patna news: 200 (21 items)
 - World Assessment Council M&A: 200 (25 items)
@@ -38,16 +38,16 @@
 - Edtech Innovation Hub news: 200 (31 items)
 - IT Brief UK: 406 (0 items)
 - RSS: Indian Express Education: 403 (0 items)
-- RSS: HT Education RSS: 200 (4 items)
+- RSS: HT Education RSS: 406 (0 items)
 - RSS: TOI Education: 200 (20 items)
 - RSS: The Hindu Education: 200 (60 items)
 - News search: CBT exam agency contract India: 200 (0 items)
 - News search: computer based test vendor tender India: 200 (1 items)
 - News search: on-screen marking tender: 200 (0 items)
-- News search: digital evaluation answer sheets university India: 200 (1 items)
-- News search: remote proctoring exam India: 200 (1 items)
+- News search: digital evaluation answer sheets university India: 200 (0 items)
+- News search: remote proctoring exam India: 200 (3 items)
 - News search: exam agency blacklisted paper leak: 200 (0 items)
-- News search: NTA CBT NEET 2027: 200 (9 items)
+- News search: NTA CBT NEET 2027: 200 (11 items)
 - News search: SSC exam agency CBT: 200 (4 items)
 - News search: recruitment exam CBT centre glitch: 200 (0 items)
 - News search: TCS iON exam: 200 (0 items)
@@ -61,10 +61,10 @@
 - News search: BSSC CBT agency: 200 (0 items)
 - News search: state public service commission CBT agency selected: 200 (0 items)
 - News search: online exam proctoring Middle East ministry of education: 200 (0 items)
-- News search: Saudi Arabia digital exam platform: 200 (11 items)
+- News search: Saudi Arabia digital exam platform: 200 (10 items)
 - News search: UAE online assessment national exam: 200 (1 items)
 - News search: Singapore digital assessment exam: 200 (1 items)
-- News search: UK on-screen assessment exam board: 200 (3 items)
+- News search: UK on-screen assessment exam board: 200 (4 items)
 - News search: Africa computer based testing exam board: 200 (15 items)
 - News search: Prometric OR "Pearson VUE" OR PSI OR Meazure: 200 (15 items)
 - News search: Inspera OR Cirrus OR Surpass assessment: 200 (15 items)
@@ -84,7 +84,7 @@
 - News search: Unstop PerspectAI acquisition: 200 (0 items)
 - News search: RM plc digital assessment Eduviva TTS: 200 (0 items)
 - News search: Nilekani task force extension: 200 (4 items)
-- News search: National CBT centre network NEET: 200 (7 items)
+- News search: National CBT centre network NEET: 200 (4 items)
 - News search: Kerala PSC onscreen marking SIT: 200 (0 items)
 - News search: NBEMS answer key disclosure Supreme Court: 200 (0 items)
 - News search: Jharkhand pre-examination IT services tender: 200 (0 items)
@@ -96,8 +96,9 @@
 
 
 ## Publishers seen in keyword search (candidates for new sources)
-- Jagran Josh: 9
-- Careers360: 6
+- Jagran Josh: 10
+- Careers360: 8
+- Inventiva: 4
 - Education Times: 4
 - Shiksha.com: 3
 - EdexLive: 3
@@ -105,7 +106,6 @@
 - FreeJobAlert.Com: 3
 - The Hindu: 3
 - Moneycontrol.com: 2
-- Inventiva: 2
 - Gulf Business: 2
 - Legit News: 2
 - PW: 2
@@ -115,7 +115,6 @@
 - Mid-Day: 2
 - Free Press Journal: 2
 - IMARC Group: 1
-- ABP Live English: 1
 - Outlook Business: 1
 - Hindustan Metro: 1
 - Adda247: 1
@@ -127,47 +126,57 @@
 - Saudi Gazette: 1
 - Healthcare Asia Magazine: 1
 - WhaTech: 1
-- Bloom Pakistan: 1
+- GB News: 1
 - Rising Kashmir: 1
 - Rappler: 1
+- News18: 1
 - Career Power: 1
-- the authority news: 1
-- Head Topics: 1
 - CERN Courier: 1
 - TechCrunch: 1
 - Investing.com: 1
 - Public Services International: 1
-- Mezha.net: 1
-- Traders Union: 1
-- Brief IA: 1
 - investingLive: 1
+- Mezha.net: 1
 - Jakarta Globe: 1
 - | Eurodressage: 1
 - Bennett College: 1
 - Simply Wall St: 1
 - CNA: 1
 - Yahoo! Finance Canada: 1
-- AIBase: 1
+- Tuskegee University: 1
+- WAND: 1
 - AIMultiple: 1
-- Fortune India: 1
 - South China Morning Post: 1
 - ColombiaOne.com: 1
 - Bhaskar English: 1
 - ForkLog: 1
 - Bioengineer.org: 1
+- The Sun Malaysia: 1
+- Foreign Policy Journal: 1
 - AUTOJOSH: 1
+- The National Law Review: 1
+- eNCA: 1
 
 
 ## Carried over from scrapes of the previous 3 days (no longer on the pages today; covers weekends)
 - [Mysuru gets 50 new Karnataka public schools, plans AI-based education, modern facilities Karnataka has upgraded 50 more government schools in Mysuru as Karnataka Public Schools, taking the district's total to 62. The institutions will offer pre-primary to II PU education with modern facilities, A
+- [From selling vegetables with his mother to becoming an IPS officer: Sharan Kamble’s UPSC journey](https://www.hindustantimes.com/education/success-stories/from-selling-vegetables-with-his-mother-to-becoming-an-ips-officer-sharan-kamble-s-inspiring-upsc-journey-101794558565492.html) (2026-11-15, H
+- [JEE (Advanced) 2026: How IITs’ women-only seats scheme is bridging gender gap](https://www.hindustantimes.com/india-news/jee-advanced-2026-how-iits-women-only-seats-scheme-is-bridging-gender-gap-101791430137945.html) (2026-11-15, HT Education)
+- [JEE Advanced 2026: More qualifiers despite slower seat growth; CSE dominates](https://www.hindustantimes.com/india-news/jee-advanced-2026-more-qualifiers-despite-slower-seat-growth-cse-dominates-101791342451032.html) (2026-11-15, HT Education)
+- [UGC NET December 2026: Registration date extended to October 31, apply at ugcnet.nta.nic.in](https://www.hindustantimes.com/education/competitive-exams/ugc-net-december-2026-registration-date-extended-to-october-31-apply-at-ugcnetntanicin-101793247623545.html) (2026-11-15, HT Competitive Exams)
+- [BPSC TRE 4.0: Vacancies increased to 33,320, apply till October 26 at bpsc.bih.nic.in](https://www.hindustantimes.com/education/employment-news/bpsc-tre-4-0-vacancies-increased-to-33-320-apply-till-october-26-at-bpscbihnicin-101791349262532.html) (2026-11-15, HT Employment News)
 - [JEE Advanced 2027 to be held on May 23: IIT Delhi announces](https://indianexpress.com/article/education/jee-advanced-2027-exam-date-out-iit-delhi-eligibility-criteria-registration-link-cut-offs-jeeadv-ac-in-10961863/) (2026-11-15, Indian Express Education)
 - [In a first, Keralam allows extra time for type-1 diabetes candidates in KEAM, goes beyond JEE, CBSE norms](https://indianexpress.com/article/education/kerala-keam-2027-extra-time-type-1-diabetes-rules-compared-nta-jee-main-neet-ug-cbse-board-exam-rules-10961305/) (2026-11-15, Indian Express Educa
 - [AICTE Industry Fellowship 2027: Phase 2 applications open; Rs 1 lakh stipend on offer](https://indianexpress.com/article/education/aicte-industry-fellowship-programme-2027-phase-2-eligibility-stipend-apply-ifp-aicte-gov-in-10962946/) (2026-11-15, Indian Express Education)
+- [Jagan Mohan blames CM Naidu, Lokesh for Chittoor student suicide bid](https://inshorts.com/en/news/jagan-blames-naidu--lokesh-for-chittoor-student-suicide-bid-1794640306897) (2026-11-15, Inshorts Education)
 - [JEE Advanced 2027 on May 23; calculator allowed for first time](https://inshorts.com/en/news/jee-advanced-2027-on-may-23--calculator-allowed-for-first-time-1794639149389) (2026-11-15, Inshorts Education)
+- [PMK demands NEET review after first-attempt MBBS admissions drop under 7.5 per cent quota Tamil Nadu NEET: 617 of 650 students under 7.5% quota needed multiple attempts for MBBS admission.](https://news.careers360.com/tamil-nadu-neet-pmk-demands-review-after-first-attempt-mbbs-admissions-drop-und
 - [Live RRB Group D Result 2026 (Out) LIVE: Railway board scorecard at indianrailways.gov.in; merit list, cut-offs Railway Recruitment Board has announced Group D results 2026 on its official website; candidates can check updates related to the scorecard PDF, merit list, qualifying status and cut-of
+- [MCC revises NEET PG 2026 round 2 counselling seat matrix, adds 178, removes 6](https://medicaldialogues.in/news/education/medical-admissions/mcc-revises-neet-pg-2026-round-2-counselling-seat-matrix-adds-178-removes-6-183175) (2026-11-15, Medical Dialogues Admissions)
 - [Gujarat NEET PG counselling 2026 round 2 registrations open till November 15](https://medicaldialogues.in/news/education/medical-admissions/gujarat-neet-pg-counselling-2026-round-2-registrations-open-till-november-15-183160) (2026-11-15, Medical Dialogues Admissions)
 - [NEET PG: 6,419 MD Anaesthesiology seats in India for 2026-27](https://medicaldialogues.in/news/education/neet-pg-6419-md-anaesthesiology-seats-in-india-for-2026-27-183090) (2026-11-15, Medical Dialogues Admissions)
 - [Want to Pursue DM Onco-Pathology? Check Out NEET SS Feeder Qualification](https://medicaldialogues.in/news/education/medical-admissions/want-to-pursue-dm-onco-pathology-check-out-neet-ss-feeder-qualification-183101) (2026-11-15, Medical Dialogues Admissions)
+- [JEE Advanced 2027 Set for May 23 With On-Screen Calculator](https://digitallearning.eletsonline.com/2026/11/jee-advanced-2027-date/) (2026-11-15, Elets digitalLEARNING)
 - [Technical glitch in Kerala Kaumudi mobile app resolved THIRUVANANTHAPURAM: The technical issues affecting the 'Kaumudi E-Paper' mobile app—which allows users to read all editions of the Kerala Kaumudi newspaper, including its digital and weekend editions have been resolved. November 15, 2026](htt
 - [Memrise creators raise £2.5m for Mindmax’s conversational AI tutor](https://www.edtechinnovationhub.com/news/memrise-creators-raise-25m-for-mindmaxs-conversational-ai-tutor) (2026-11-15, Edtech Innovation Hub news)
 - [Google cuts Gemini Omni’s 720p video price by 30% and adds 15-second clips](https://www.edtechinnovationhub.com/news/google-cuts-gemini-omnis-720p-video-price-by-30-and-adds-15-second-clips) (2026-11-15, Edtech Innovation Hub news)
@@ -183,6 +192,10 @@
 - [Maharashtra Board SSC, HSC Exam Dates 2027 Out: Check MSBSHSE schedule for Class 10, 12](https://indianexpress.com/article/education/maharashtra-board-ssc-hsc-exam-dates-2027-out-check-msbshse-schedule-class-10th-12th-shift-timings-10954630/) (2026-11-15, RSS: Indian Express Education)
 - [1,000 Punjab students to get free UPSC, PCS coaching: Which other states offer similar schemes?](https://indianexpress.com/article/education/upsc-civil-services-exam-free-coaching-scheme-punjab-state-wise-list-10953383/) (2026-11-15, RSS: Indian Express Education)
 - [How to balance PCM preparation for JEE Main 2027](https://indianexpress.com/article/education/how-to-balance-pcm-preparation-for-jee-main-2027-10953196/) (2026-11-15, RSS: Indian Express Education)
+- [PMK demands NEET review after first-attempt MBBS admissions drop under 7.5 per cent quota](https://www.hindustantimes.com/education/news/pmk-demands-neet-review-after-first-attempt-mbbs-admissions-drop-under-7-5-per-cent-quota-101794640299010.html) (2026-11-15, RSS: HT Education RSS)
+- [JEE Advanced 2027 to be held on May 23; IIT Delhi releases eligibility criteria at jeeadv.ac.in](https://timesofindia.indiatimes.com/education/news/jee-advanced-2027-to-be-held-on-may-23-iit-delhi-releases-eligibility-criteria-at-jeeadv-ac-in/articleshow/135822667.cms) (2026-11-15, RSS: TOI Educa
+- [JEE Main 2027: NTA clarifies category selection for Indian nationals, NRIs and OCI candidates](https://timesofindia.indiatimes.com/education/news/jee-main-2027-nta-clarifies-category-selection-for-indian-nationals-nris-and-oci-candidates/articleshow/135821226.cms) (2026-11-15, RSS: TOI Education)
+- [Kerala PSC under the scanner: How allegations of examination irregularities have triggered multiple Crime Branch probes](https://www.thehindu.com/news/national/kerala/kerala-psc-under-the-scanner-how-allegations-of-examination-irregularities-have-triggered-multiple-crime-branch-probes/article7165
 - [Not every university needs to become a research institution: Vineet Gupta](https://education.economictimes.indiatimes.com/news/higher-education/not-every-university-needs-to-become-a-research-institution-vineet-gupta/135226283?utm_source=latest_news&utm_medium=latestNews) (2026-11-14, ET Educatio
 - [Omar Abdullah calls for examination reforms in J&K, pushes computer-based testing Jammu and Kashmir Chief Minister Omar Abdullah has called for comprehensive examination reforms, including secure computer-based testing, transparent evaluation and normalisation mechanisms across JKBOSE, CBSE and I
 - [IIT Kharagpur to introduce six PG medical courses; gets NMC nod IIT Kharagpur has announced to introduce NMC-accredited postgraduate medical programmes. Starting in 2026-27, the institute will offer 12 MD seats across six disciplines, with admissions through the NEET-PG counselling process.](http
@@ -248,8 +261,8 @@
 - [72 Former Bureaucrats Urge Vijay to Restore Kurian Joseph Panel That Recommended NEET Abolition, NTA Disbandment](https://education.economictimes.indiatimes.com/news/government-policies/72-former-bureaucrats-urge-vijay-to-restore-kurian-joseph-panel-that-recommended-neet-abolition-nta-disbandment
 - [Omar Abdullah calls for examination reforms in J&K, pushes computer-based testing](https://education.economictimes.indiatimes.com/news/government-policies/omar-abdullah-calls-for-examination-reforms-in-jk-pushes-computer-based-testing/135790928?utm_source=latest_news&utm_medium=sectionListing)
 - [0 2 72 Former Bureaucrats Urge Vijay to Restore Kurian Joseph Panel That Recommended NEET Abolition, NTA Disbandment](https://education.economictimes.indiatimes.com/news/government-policies/72-former-bureaucrats-urge-vijay-to-restore-kurian-joseph-panel-that-recommended-neet-abolition-nta-disband
-- [0 5 UGC seeks governors’ intervention over fee refunds by 82 Tamil Nadu institutions](https://education.economictimes.indiatimes.com/news/government-policies/ugc-seeks-governors-intervention-over-fee-refunds-by-82-tamil-nadu-institutions/135043696)
-- [0 7 Omar Abdullah calls for examination reforms in J&K, pushes computer-based testing](https://education.economictimes.indiatimes.com/news/government-policies/omar-abdullah-calls-for-examination-reforms-in-jk-pushes-computer-based-testing/135790928)
+- [0 6 UGC seeks governors’ intervention over fee refunds by 82 Tamil Nadu institutions](https://education.economictimes.indiatimes.com/news/government-policies/ugc-seeks-governors-intervention-over-fee-refunds-by-82-tamil-nadu-institutions/135043696)
+- [0 8 Omar Abdullah calls for examination reforms in J&K, pushes computer-based testing](https://education.economictimes.indiatimes.com/news/government-policies/omar-abdullah-calls-for-examination-reforms-in-jk-pushes-computer-based-testing/135790928)
 - [Centre to form special committee to address concerns in UGC equity guidelines The Centre will constitute a special committee to re-examine the UGC Equity Regulations 2026, as informed by the Solicitor General during court proceedings. The court had stayed the guidelines over vague provisions and 
 - [NMC to introduce rank-based system for NEET-PG counselling The National Medical Commission (NMC) has given in-principle approval to replace percentile-based NEET-PG and NEET-SS counselling with a rank-based merit system. Under the proposed regulation, results would declare candidates’ ranks witho
 
@@ -261,8 +274,8 @@
 - [PhysicsWallah surges on scrapping direct lending for student financing](https://education.economictimes.indiatimes.com/news/edutech/physicswallah-surges-on-scrapping-direct-lending-for-student-financing/131507265?utm_source=latest_news&utm_medium=sectionListing)
 - [CCPA fines PhysicsWallah Rs 5 lakh for dark pattern practices, McAfee penalised Rs 1 lakh](https://education.economictimes.indiatimes.com/news/edutech/ccpa-fines-physicswallah-rs-5-lakh-for-dark-pattern-practices-mcafee-penalised-rs-1-lakh/131484702?utm_source=latest_news&utm_medium=sectionListin
 - [0 2 'Built for parents, not students': Ankur Warikoo's take on why most Indian EdTech companies struggled](https://education.economictimes.indiatimes.com/news/edutech/built-for-parents-not-students-ankur-warikoos-take-on-why-most-indian-edtech-companies-struggled/132115448)
-- [0 3 Edtech Major UNIVO Appoints Nitin Golani as Chief Executive Officer](https://education.economictimes.indiatimes.com/news/edutech/univo-elevates-nitin-golani-to-ceo-amid-online-education-expansion/131757876)
-- [0 5 Byju’s tablets, laptops gather dust in warehouse as insolvency drags on](https://education.economictimes.indiatimes.com/news/edutech/byjus-tablets-laptops-gather-dust-in-warehouse-as-insolvency-drags-on/132115324)
+- [0 3 Byju’s tablets, laptops gather dust in warehouse as insolvency drags on](https://education.economictimes.indiatimes.com/news/edutech/byjus-tablets-laptops-gather-dust-in-warehouse-as-insolvency-drags-on/132115324)
+- [0 4 Edtech Major UNIVO Appoints Nitin Golani as Chief Executive Officer](https://education.economictimes.indiatimes.com/news/edutech/univo-elevates-nitin-golani-to-ceo-amid-online-education-expansion/131757876)
 - [0 7 Coempt breaks silence on CBSE-OSM controversy, says its records open for scrutiny](https://education.economictimes.indiatimes.com/news/edutech/coempt-eduteck-addresses-cbse-on-screen-marking-controversy/131841750)
 - [PhysicsWallah dials down schools push after investor unease PhysicsWallah is shifting its K-12 expansion strategy to an asset-light, online-led model, moving away from capital-intensive school operations. This pivot aims to reassure investors by focusing on school partnerships and online platform
 - [CERT-In warned CBSE over flaws in online evaluation portal in February and May India's cyber security watchdog, CERT-In, has detected critical vulnerabilities in the online assessment system of CBSE. Despite numerous alerts about these shortcomings, one portal was flagged as not fit for live oper
@@ -279,22 +292,21 @@
 - [Unacademy co-founder Gaurav Munjal steps down as CEO; Akhilendra Kumar takes charge Unacademy co-founder Gaurav Munjal has stepped down as CEO and become Executive Chairman, with Akhilendra Kumar taking over the role. The leadership transition comes over two months after upGrad completed its acqu
 
 ## HT Education
+- [JEE Advanced 2027: IIT JEE exam date announced, check eligibility criteria here](https://www.hindustantimes.com/education/competitive-exams/jee-advanced-2027-iit-jee-exam-date-announced-check-eligibility-criteria-here-101794803660055.html)
 - [JEE Mains Exam 2027: NTA issues advisory on selecting correct category during registration](https://www.hindustantimes.com/education/competitive-exams/jee-mains-exam-2027-nta-issues-advisory-on-selecting-correct-category-during-registration-101794568320096.html)
-- [From selling vegetables with his mother to becoming an IPS officer: Sharan Kamble’s UPSC journey](https://www.hindustantimes.com/education/success-stories/from-selling-vegetables-with-his-mother-to-becoming-an-ips-officer-sharan-kamble-s-inspiring-upsc-journey-101794558565492.html)
-- [RRB Group D Result 2026 for CBT declared, direct link to check roll numbers here](https://www.hindustantimes.com/education/exam-results/rrb-group-d-result-2026-for-cbt-declared-direct-link-to-check-roll-numbers-here-101794553835414.html)
-- [NTA to recruit Group A and B posts, apply for Director and other posts at nta.ac.in](https://www.hindustantimes.com/education/employment-news/nta-to-recruit-group-a-and-b-posts-apply-for-director-and-other-posts-at-ntaacin-101794548024754.html)
 - [RRB ALP CBT 1 Answer Key 2026 out, raise objection till November 19 at rrb.indianrailways.gov.in](https://www.hindustantimes.com/education/competitive-exams/rrb-alp-cbt-1-answer-key-2026-released-raise-objection-till-november-19-at-rrbindianrailwaysgovin-101794545165062.html)
 - [IBPS RRB PO PET Admit Card 2026 released at ibps.in, download link here](https://www.hindustantimes.com/education/competitive-exams/ibps-rrb-po-pet-admit-card-2026-released-at-ibps-in-download-link-here-101794460129547.html)
 - [CSIR UGC NET Exam 2026: Correction window opens at csirnet.nta.nic.in, check what can be modified](https://www.hindustantimes.com/education/competitive-exams/csir-ugc-net-exam-2026-correction-window-opens-at-csirnet-nta-nic-in-check-what-can-be-modified-101794377047682.html)
 - [UPSC ESE Prelims Exam 2027 dates announced at upsc.gov.in, check exam schedule here](https://www.hindustantimes.com/education/competitive-exams/upsc-ese-prelims-exam-2027-dates-announced-at-upsc-gov-in-check-exam-schedule-here-101794374269164.html)
+- [RRB Group D Result 2026 for CBT declared, direct link to check roll numbers here](https://www.hindustantimes.com/education/exam-results/rrb-group-d-result-2026-for-cbt-declared-direct-link-to-check-roll-numbers-here-101794553835414.html)
 - [UPSC CSE Mains Result 2026 declared at upsc.gov.in, direct link, how to check roll numbers here](https://www.hindustantimes.com/education/exam-results/upsc-cse-mains-result-2026-declared-at-upsc-gov-in-direct-link-how-to-check-roll-numbers-here-101793957816231.html)
 - [MCC NEET PG Counselling 2026: Round 2 registration begins today at mcc.nic.in, check steps to apply](https://www.hindustantimes.com/education/admissions/mcc-neet-pg-counselling-2026-round-2-registration-begins-today-at-mcc-nic-in-check-steps-to-apply-101793955855867.html)
 - [IMA welcomes rank-based NEET-PG, NEET-SS system; seeks safeguards to protect merit](https://www.hindustantimes.com/education/admissions/ima-welcomes-rank-based-neet-pg-neet-ss-system-seeks-safeguards-to-protect-merit-101793785564419.html)
 - [MCC NEET UG Counselling 2026: Special stray vacancy round dates announced, registration begins today](https://www.hindustantimes.com/education/admissions/mcc-neet-ug-counselling-2026-special-stray-vacancy-round-dates-announced-registration-begins-today-at-mccnicin-101793604972683.html)
+- [UPSC Recruitment 2026: Apply for Dental Surgeon and other posts at upsc.gov.in, details here](https://www.hindustantimes.com/education/employment-news/upsc-recruitment-2026-apply-for-dental-surgeon-and-other-posts-at-upsc-gov-in-details-here-101794807962341.html)
+- [NTA to recruit Group A and B posts, apply for Director and other posts at nta.ac.in](https://www.hindustantimes.com/education/employment-news/nta-to-recruit-group-a-and-b-posts-apply-for-director-and-other-posts-at-ntaacin-101794548024754.html)
 - [JEE Failure to ₹9 Crore Funding: IIT Madras student Kuldeep Rathore’s remarkable startup journey](https://www.hindustantimes.com/education/success-stories/jee-advanced-failure-to-9-crore-funding-iit-madras-student-kuldeep-rathore-s-remarkable-startup-journey-101793013338460.html)
 - [JEE Advanced aspirants seek increase in number of attempts from 2 to 3](https://www.hindustantimes.com/cities/mumbai-news/increase-no-of-attempts-for-jee-advanced-from-2-to-3-iit-aspirants-101791917084744.html)
-- [JEE (Advanced) 2026: How IITs’ women-only seats scheme is bridging gender gap](https://www.hindustantimes.com/india-news/jee-advanced-2026-how-iits-women-only-seats-scheme-is-bridging-gender-gap-101791430137945.html)
-- [JEE Advanced 2026: More qualifiers despite slower seat growth; CSE dominates](https://www.hindustantimes.com/india-news/jee-advanced-2026-more-qualifiers-despite-slower-seat-growth-cse-dominates-101791342451032.html)
 
 ## HT Competitive Exams
 - [JEE Main Exam 2027: NTA issues important notice for NRI candidates application process, check here](https://www.hindustantimes.com/education/competitive-exams/jee-main-exam-2027-nta-issues-important-notice-for-nri-candidates-application-process-check-here-101794291041567.html)
@@ -310,7 +322,6 @@
 - [JEE Mains Exam 2027: NTA permits fresh application for Session 1 under specific conditions](https://www.hindustantimes.com/education/competitive-exams/jee-mains-exam-2027-nta-permits-fresh-application-for-session-1-under-specific-conditions-check-here-101793419199013.html)
 - [NEET SS Exam 2026: Registration begins at natboard.edu.in, direct link to apply here](https://www.hindustantimes.com/education/competitive-exams/neet-ss-exam-2026-registration-begins-at-natboard-edu-in-direct-link-to-apply-here-101793335172669.html)
 - [JEE Main Exam 2027 Session 1: Account in Meri Pehchaan portal, re-KYC and other advisories issued](https://www.hindustantimes.com/education/competitive-exams/jee-main-exam-2027-session-1-account-in-meri-pehchaan-portal-re-kyc-and-other-advisories-issued-for-registration-process-101793251705229.ht
-- [UGC NET December 2026: Registration date extended to October 31, apply at ugcnet.nta.nic.in](https://www.hindustantimes.com/education/competitive-exams/ugc-net-december-2026-registration-date-extended-to-october-31-apply-at-ugcnetntanicin-101793247623545.html)
 
 ## HT Employment News
 - [NTA opens application for empanelment of observers for conduct of CBT, PPT mode exams](https://www.hindustantimes.com/education/employment-news/nta-opens-application-for-empanelment-of-observers-for-conduct-of-cbt-ppt-mode-exams-101794207416193.html)
@@ -323,7 +334,6 @@
 - [BPSC TRE 4.0 Recruitment 2026: Last date today to apply for 33320 posts, direct link here](https://www.hindustantimes.com/education/employment-news/bpsc-tre-4-0-recruitment-2026-last-date-today-to-apply-for-33320-posts-at-bpsc-bih-gov-in-direct-link-here-101792996279648.html)
 - [RRB NTPC Graduate Recruitment 2026: Apply for 3548 posts at rrbapply.gov.in, direct link here](https://www.hindustantimes.com/education/employment-news/rrb-ntpc-graduate-recruitment-2026-apply-for-3548-posts-at-rrbapply-gov-in-direct-link-here-101791800192383.html)
 - [TNPSC Group 4 Recruitment 2026: Registration begins for CCSE, direct link to apply for 6574 posts](https://www.hindustantimes.com/education/employment-news/tnpsc-group-4-recruitment-2026-registration-begins-for-ccse-at-tnpsc-gov-in-direct-link-here-to-apply-for-6574-posts-101791522204722.html)
-- [BPSC TRE 4.0: Vacancies increased to 33,320, apply till October 26 at bpsc.bih.nic.in](https://www.hindustantimes.com/education/employment-news/bpsc-tre-4-0-vacancies-increased-to-33-320-apply-till-october-26-at-bpscbihnicin-101791349262532.html)
 
 ## HT Board Exams
 - [Maharashtra Board Exam 2027 Datesheet: MSBSHSE SSC, HSC exam timetable released, check here](https://www.hindustantimes.com/education/board-exams/maharashtra-board-exam-2027-datesheet-msbshse-ssc-hsc-exam-timetable-released-at-mahahsscboard-in-check-here-101794205360421.html)
@@ -346,15 +356,12 @@
 - [UGC NET 2026 Result, Final Answer Key releasing this week: NTA](https://www.hindustantimes.com/education/exam-results/ugc-net-2026-result-final-answer-key-releasing-this-week-at-ugcnet-nta-nic-in-nta-101787729103610.html)
 - [UPSC CAPF Result 2026 for written test declared, direct link here](https://www.hindustantimes.com/education/exam-results/upsc-capf-result-2026-for-written-test-declared-direct-link-to-check-roll-numbers-here-101787717344251.html)
 
-## Inshorts Education
-- [Jagan Mohan blames CM Naidu, Lokesh for Chittoor student suicide bid](https://inshorts.com/en/news/jagan-blames-naidu--lokesh-for-chittoor-student-suicide-bid-1794640306897)
-
 ## Careers360 Exam News
-- [Live NEET PG Seat Allotment 2026 LIVE: Round 2 result tomorrow for MD, MS admissions; reporting dates, cut-offs Candidates who will be allotted medical seats through NEET PG 2026 round 2 seat allotment, will have to report to the allotted colleges between November 18 and 24. Updates on participat
+- [Live NEET PG Seat Allotment 2026 LIVE: Round 2 provisional seat allotment result today; medical colleges, cut-offs The MCC will announce the NEET PG provisional seat allotment result 2026 for admission to MD, MS and PG diploma courses today. Updates on participating colleges, subsequent counselli
 - [Live JEE Main 2027 Registration LIVE: NTA records 7.86 lakh applications; 1.92 lakh forms await fee payment NTA has introduced changes to JEE Main 2027 application process, including mandatory Meri Pehchaan login through DigiLocker, e-Pramaan or JanParichay. Now NRI candidates without Aadhaar can
+- [Kerala PSC LPST Exam: Rank holders welcome govt's move to hold talks, leader continues hunger strike Lower Primary School Teacher rank holders have been protesting outside the Secretariat for over 130 days, demanding appointments from the Kerala PSC rank list before it expires.](https://news.care
 - [Maharashtra NEET UG Counselling 2026: CET Cell adds new college to seat matrix at final stage Maharashtra NEET UG Counselling 2026: The third special stray vacancy round marks the ninth admission round, with 80 MBBS and 23 BDS seats listed as vacant.](https://news.careers360.com/maharashtra-neet-
 - [NIFT 2027 registration deadline extended to November 24; apply at exams.nta.nic.in NIFTEE Registration 2027: Candidates seeking admission to NIFT programmes can now apply until November 24, with a late fee option available until November 29.](https://news.careers360.com/niftee-2027-registration-l
-- [PMK demands NEET review after first-attempt MBBS admissions drop under 7.5 per cent quota Tamil Nadu NEET: 617 of 650 students under 7.5% quota needed multiple attempts for MBBS admission.](https://news.careers360.com/tamil-nadu-neet-pmk-demands-review-after-first-attempt-mbbs-admissions-drop-und
 
 ## Free Press Journal Education
 - [MPSC Exam Irregularities Probe Panel Extends Deadline For Submission Of Affidavits To November 23 13 November 2026, 10:45 PM](https://www.freepressjournal.in/education/mpsc-exam-irregularities-probe-panel-extends-deadline-for-submission-of-affidavits-to-november-23)
@@ -367,7 +374,6 @@
 - [NEET PG: 4,893 MD Paediatrics seats in India in 2026-27](https://medicaldialogues.in/news/education/neet-pg-4893-md-paediatrics-seats-in-india-in-2026-27-183223)
 - [NEET PG: Telangana retains existing PG medical fee structure for 2026-29, restricts fee collection to 60-70 percent pending HC decision](https://medicaldialogues.in/news/education/medical-admissions/neet-pg-telangana-retains-existing-pg-medical-fee-structure-for-2026-29-restricts-fee-collection-t
 - [MCC NEET PG counselling 2026 seat matrix revised, check updated clear, virtual vacancies here!](https://medicaldialogues.in/news/education/medical-admissions/mcc-neet-pg-counselling-2026-seat-matrix-revised-check-updated-clear-virtual-vacancies-here-183176)
-- [MCC revises NEET PG 2026 round 2 counselling seat matrix, adds 178, removes 6](https://medicaldialogues.in/news/education/medical-admissions/mcc-revises-neet-pg-2026-round-2-counselling-seat-matrix-adds-178-removes-6-183175)
 
 ## TenderDetail CBT Delhi
 https://www.tenderdetail.com/State-tenders/delhi-tenders/cbt-tenders
@@ -482,7 +488,6 @@ https://www.seab.gov.sg/seab-link-issue-2-2026/sharing-knowledge-shaping-assessm
 
 ## Elets digitalLEARNING
 - [AICTE Industry Fellowship Phase 2 Opens for Faculty Till Dec 15](https://digitallearning.eletsonline.com/2026/11/aicte-industry-fellowship-phase-2/)
-- [JEE Advanced 2027 Set for May 23 With On-Screen Calculator](https://digitallearning.eletsonline.com/2026/11/jee-advanced-2027-date/)
 - [Arunachal Pradesh opens upgraded Government School facilities in siang](https://digitallearning.eletsonline.com/2026/09/arunachal-pradesh-opens-upgraded-government-school-facilities-in-siang/)
 - [UNIVO becomes first major Indian EdTech brand to advertise on ChatGPT](https://digitallearning.eletsonline.com/2026/09/univo-becomes-first-major-indian-edtech-brand-to-advertise-on-chatgpt/)
 - [Anand P joins upGrad as CEO of learning centres and AI partnerships](https://digitallearning.eletsonline.com/2026/07/anand-p-joins-upgrad-as-ceo-of-learning-centres-and-ai-partnerships/)
@@ -520,23 +525,22 @@ https://www.seab.gov.sg/seab-link-issue-2-2026/sharing-knowledge-shaping-assessm
 - [Clément Brenot joins McGill to lead new Growth Lab focused on Canada and Québec](https://www.edtechinnovationhub.com/news/clment-brenot-joins-mcgill-to-lead-new-growth-lab-focused-on-canada-and-qubec)
 - [Ralf Herbrich joins Tübingen AI Center as Honorary Professor for AI and Energy](https://www.edtechinnovationhub.com/news/ralf-herbrich-joins-tbingen-ai-center-as-honorary-professor-for-ai-and-energy)
 
-## RSS: HT Education RSS
-- [PMK demands NEET review after first-attempt MBBS admissions drop under 7.5 per cent quota](https://www.hindustantimes.com/education/news/pmk-demands-neet-review-after-first-attempt-mbbs-admissions-drop-under-7-5-per-cent-quota-101794640299010.html) (14 Nov 2026 12:41)
-
 ## RSS: TOI Education
+- [CBSE OSM Evaluation 2026: Board sets November 26 deadline for verification of Class 10, 12 teachers’ payment details, here's what students need to know](https://timesofindia.indiatimes.com/education/news/cbse-osm-evaluation-2026-board-sets-november-26-deadline-for-verification-of-class-10-12-teac
+- [NEET PG counselling 2026: MCC to release round 2 provisional seat allotment result today; check steps to download](https://timesofindia.indiatimes.com/education/news/neet-pg-counselling-2026-mcc-to-release-round-2-provisional-seat-allotment-result-today-check-steps-to-download/articleshow/1358699
 - [SSC releases SI CPO 2026 exam city details at ssc.gov.in; admit card to be released soon: Check direct link](https://timesofindia.indiatimes.com/education/news/ssc-releases-si-cpo-2026-exam-city-details-at-ssc-gov-in-admit-card-to-be-released-soon-check-direct-link/articleshow/135852835.cms) (202
 - [AICTE invites applications for Industry Fellowship Programme 2027; Rs 1 lakh monthly stipend offered](https://timesofindia.indiatimes.com/education/news/aicte-invites-applications-for-industry-fellowship-programme-2027-rs-1-lakh-monthly-stipend-offered/articleshow/135850767.cms) (2026-11-15T13:35
 - [NTA invites applications for SHRESHTA NETS 2027; check eligibility, key dates and direct link to apply](https://timesofindia.indiatimes.com/education/news/nta-invites-applications-for-shreshta-nets-2027-check-eligibility-key-dates-and-direct-link-to-apply/articleshow/135849511.cms) (2026-11-15T12
 - [NIFTEE 2027 registration deadline extended to November 24;  check revised schedule and direct link to apply](https://timesofindia.indiatimes.com/education/news/niftee-2027-registration-deadline-extended-to-november-24-check-revised-schedule-and-direct-link-to-apply/articleshow/135847439.cms) (202
-- [JEE Advanced 2027 to be held on May 23; IIT Delhi releases eligibility criteria at jeeadv.ac.in](https://timesofindia.indiatimes.com/education/news/jee-advanced-2027-to-be-held-on-may-23-iit-delhi-releases-eligibility-criteria-at-jeeadv-ac-in/articleshow/135822667.cms) (2026-11-14T10:10:09+05:30)
-- [JEE Main 2027: NTA clarifies category selection for Indian nationals, NRIs and OCI candidates](https://timesofindia.indiatimes.com/education/news/jee-main-2027-nta-clarifies-category-selection-for-indian-nationals-nris-and-oci-candidates/articleshow/135821226.cms) (2026-11-14T08:42:06+05:30) - Th
 
 ## RSS: The Hindu Education
 - [JEE-Advanced 2027 to be held on May 23: IIT Delhi](https://www.thehindu.com/education/jee-advanced-2027-to-be-held-on-may-23-iit-delhi/article71698255.ece) (13 Nov 2026 19:39) - "The candidates appearing for JEE-Advanced will have the provision to use an on-screen basic (non-scientific) calculato
 - [Should Indian B-schools get serious about management research at all?](https://www.thehindu.com/education/research-excellence-in-indias-b-schools-requires-sustained-investment-and-institutional-maturity/article71673470.ece) (10 Nov 2026 13:08) - Research cannot be an occasional activity that facu
 - [UPSC Mains Result 2026 declared: Here’s how to check](https://www.thehindu.com/news/national/upsc-cse-mains-result-2026-how-to-check/article71673065.ece) (06 Nov 2026 14:41) - The Civil Services exam is conducted annually in three stages - preliminary, main, and interview - to select candidates f
 - [Centre tells Supreme Court it may set up a panel to review UGC equity on campus regulations](https://www.thehindu.com/news/national/centre-tells-supreme-court-about-setting-up-of-special-committee-to-re-examine-ugcs-2026-equity-regulations/article71670397.ece) (06 Nov 2026 00:02) - The Centre sai
-- [Kerala PSC under the scanner: How allegations of examination irregularities have triggered multiple Crime Branch probes](https://www.thehindu.com/news/national/kerala/kerala-psc-under-the-scanner-how-allegations-of-examination-irregularities-have-triggered-multiple-crime-branch-probes/article7165
+
+## News search: remote proctoring exam India
+- [Top 10 Best Coding Assessment Platforms In India In 2027 - Inventiva] (15 Nov 2026 13:10, Inventiva) - Top 10 Best Coding Assessment Platforms In India In 2027 &nbsp;&nbsp; Inventiva
 
 ## News search: NTA CBT NEET 2027
 - [NEET 2027 Exam Mode: Online or Offline? - Shiksha.com] (13 Nov 2026 15:08, Shiksha.com) - NEET 2027 Exam Mode: Online or Offline? &nbsp;&nbsp; Shiksha.com
@@ -545,6 +549,8 @@ https://www.seab.gov.sg/seab-link-issue-2-2026/sharing-knowledge-shaping-assessm
 - [Bihar Board invites applications for free JEE, NEET 2027 residential coaching - Education Times] (11 Nov 2026 14:03, Education Times) - Bihar Board invites applications for free JEE, NEET 2027 residential coaching &nbsp;&nbsp; Education Times
 - [NEET 2027 Exam Date: Expected Date, Registration, Application Form Fill Up Date - Careers360] (12 Nov 2026 13:30, Careers360) - NEET 2027 Exam Date: Expected Date, Registration, Application Form Fill Up Date &nbsp;&nbsp; Careers360
 - [BSc Nursing through NEET 2027: Admission Process, Eligibility, Participating Institutes and Seats - Shiksha.com] (12 Nov 2026 13:30, Shiksha.com) - BSc Nursing through NEET 2027: Admission Process, Eligibility, Participating Institutes and Seats &nbsp;&nbsp; Shiksha.com
+- [J-K Exam Reforms: Omar Abdullah cites NEET-UG cancellation, seeks changes in JKBOSE, JKPSC, JKSSB exams - Careers360] (12 Nov 2026 22:50, Careers360) - J-K Exam Reforms: Omar Abdullah cites NEET-UG cancellation, seeks changes in JKBOSE, JKPSC, JKSSB exams &nbsp;&nbsp; Careers360
+- [NEET 2027 Advisory by NTA: Registration Guidelines & Important Updates - Careers360] (13 Nov 2026 13:30, Careers360) - NEET 2027 Advisory by NTA: Registration Guidelines & Important Updates &nbsp;&nbsp; Careers360
 - [NEET Attempt Limit 2027 by NTA: How Many Attempts for NEET - Careers360] (13 Nov 2026 13:30, Careers360) - NEET Attempt Limit 2027 by NTA: How Many Attempts for NEET &nbsp;&nbsp; Careers360
 - [NEET Rank Predictor 2027 - Predict your NEET Rank, NEET Percentile Calculator - Careers360] (13 Nov 2026 13:30, Careers360) - NEET Rank Predictor 2027 - Predict your NEET Rank, NEET Percentile Calculator &nbsp;&nbsp; Careers360
 - [Prepzy.ai Launches CBT-First NEET-UG Preparation as the Exam Moves to Computer-Based Testing in 2027 - Hindustan Metro] (14 Nov 2026 10:04, Hindustan Metro) - Prepzy.ai Launches CBT-First NEET-UG Preparation as the Exam Moves to Computer-Based Testing in 2027 &nbsp;&nbsp; Hindustan Metro
@@ -555,9 +561,6 @@ https://www.seab.gov.sg/seab-link-issue-2-2026/sharing-knowledge-shaping-assessm
 - [SSC GD PET Admit Card 2026 released at ssc.gov.in; check physical test dates and direct link here - Moneycontrol.com] (12 Nov 2026 16:26, Moneycontrol.com) - SSC GD PET Admit Card 2026 released at ssc.gov.in; check physical test dates and direct link here &nbsp;&nbsp; Moneycontrol.com
 - [SSC GD Constable PET and PST Admit Card Released - Udaipur Kiran] (14 Nov 2026 08:53, Udaipur Kiran) - SSC GD Constable PET and PST Admit Card Released &nbsp;&nbsp; Udaipur Kiran
 
-## News search: Mettl assessment
-- [Top 10 Best Coding Assessment Platforms In India In 2027 - Inventiva] (15 Nov 2026 13:10, Inventiva) - Top 10 Best Coding Assessment Platforms In India In 2027 &nbsp;&nbsp; Inventiva
-
 ## News search: Sanskriti Enterprises exam
 - [Cabinet Approves Continuation of Stand-Up India Scheme till 2031 - Sanskriti IAS] (11 Nov 2026 13:30, Sanskriti IAS) - Cabinet Approves Continuation of Stand-Up India Scheme till 2031 &nbsp;&nbsp; Sanskriti IAS
 
@@ -567,10 +570,12 @@ https://www.seab.gov.sg/seab-link-issue-2-2026/sharing-knowledge-shaping-assessm
 - [RESULTS: November 2026 Veterinarians Computer-Based Licensure Examination - Rappler] (10 Nov 2026 10:01, Rappler) - RESULTS: November 2026 Veterinarians Computer-Based Licensure Examination &nbsp;&nbsp; Rappler
 - [JEE Advanced 2027: No Third Attempt Allowed, Check Exam Date, Eligibility and Important Dates - Jagran Josh] (13 Nov 2026 19:38, Jagran Josh) - JEE Advanced 2027: No Third Attempt Allowed, Check Exam Date, Eligibility and Important Dates &nbsp;&nbsp; Jagran Josh
 - [AEEE 2027 Registration Begins at aeee.amrita.edu; Check How to Apply, Eligibility and Exam Dates - Jagran Josh] (11 Nov 2026 12:40, Jagran Josh) - AEEE 2027 Registration Begins at aeee.amrita.edu; Check How to Apply, Eligibility and Exam Dates &nbsp;&nbsp; Jagran Josh
+- [JEE Main 2027: 60-Day Preparation Strategy to Score 99 Percentile in January Session - Jagran Josh] (09 Nov 2026 13:55, Jagran Josh) - JEE Main 2027: 60-Day Preparation Strategy to Score 99 Percentile in January Session &nbsp;&nbsp; Jagran Josh
 - [SSC MTS Syllabus 2027: Check Complete Subject-Wise Topics, Exam Pattern and Selection Process - Jagran Josh] (14 Nov 2026 12:00, Jagran Josh) - SSC MTS Syllabus 2027: Check Complete Subject-Wise Topics, Exam Pattern and Selection Process &nbsp;&nbsp; Jagran Josh
 - [RRB Paramedical City Intimation Slip 2026 Released: Direct Link to Download CEN 05/2026 City Details Here - Jagran Josh] (14 Nov 2026 12:40, Jagran Josh) - RRB Paramedical City Intimation Slip 2026 Released: Direct Link to Download CEN 05/2026 City Details Here &nbsp;&nbsp; Jagran Josh
-- [RRB Group D Result 2026 (OUT): Direct Link to Download Zone-Wise CBT Merit List PDF Here - Jagran Josh] (12 Nov 2026 18:43, Jagran Josh) - RRB Group D Result 2026 (OUT): Direct Link to Download Zone-Wise CBT Merit List PDF Here &nbsp;&nbsp; Jagran Josh
+- [RRB Group D Result 2026 Out For 22,195 Posts: What's Next? Check Physical Test Details - News18] (13 Nov 2026 13:58, News18) - RRB Group D Result 2026 Out For 22,195 Posts: What's Next? Check Physical Test Details &nbsp;&nbsp; News18
 - [RRB Group D 2026-27 Notification Soon for 30000 Vacancies, Check Eligibility & Details - Career Power] (12 Nov 2026 13:30, Career Power) - RRB Group D 2026-27 Notification Soon for 30000 Vacancies, Check Eligibility & Details &nbsp;&nbsp; Career Power
+- [RRB Group D Result 2026 (OUT): Direct Link to Download Zone-Wise CBT Merit List PDF Here - Jagran Josh] (12 Nov 2026 18:43, Jagran Josh) - RRB Group D Result 2026 (OUT): Direct Link to Download Zone-Wise CBT Merit List PDF Here &nbsp;&nbsp; Jagran Josh
 
 ## News search: Kerala PSC exam irregularities Crime Branch
 - [Kerala PSC chairperson M.R. Baiju refuses to appear before Crime Branch again - The Hindu] (10 Nov 2026 18:39, The Hindu) - Kerala PSC chairperson M.R. Baiju refuses to appear before Crime Branch again &nbsp;&nbsp; The Hindu
@@ -578,6 +583,7 @@ https://www.seab.gov.sg/seab-link-issue-2-2026/sharing-knowledge-shaping-assessm
 - [Kerala PSC scam: Chairman Baiju skips SIT questioning - tennews.in] (10 Nov 2026 14:27, tennews.in) - Kerala PSC scam: Chairman Baiju skips SIT questioning &nbsp;&nbsp; tennews.in
 - [Crime Branch notice to Keralam PSC chairperson to appear for questioning on Tuesday - The Hindu] (09 Nov 2026 20:06, The Hindu) - Crime Branch notice to Keralam PSC chairperson to appear for questioning on Tuesday &nbsp;&nbsp; The Hindu
 - [After KUFOS, whistleblower group alleges insiders rigged PSC exam to favour Sanskrit University alumni - Onmanorama] (12 Nov 2026 21:22, Onmanorama) - After KUFOS, whistleblower group alleges insiders rigged PSC exam to favour Sanskrit University alumni &nbsp;&nbsp; Onmanorama
+- [SIT prepares questionnaire for PSC Chairman; Dr MR Baiju asked to appear at Crime Branch headquarters today - Kerala Kaumudi] (10 Nov 2026 00:12, Kerala Kaumudi) - SIT prepares questionnaire for PSC Chairman; Dr MR Baiju asked to appear at Crime Branch headquarters today &nbsp;&nbsp; Kerala Kaumu
 
 ## News search: MPSC commission of inquiry
 - [Maharashtra: Candidates get one more week to report alleged MPSC exam irregularities - Mid-Day] (14 Nov 2026 07:47, Mid-Day) - Maharashtra: Candidates get one more week to report alleged MPSC exam irregularities &nbsp;&nbsp; Mid-Day
@@ -595,10 +601,7 @@ https://www.seab.gov.sg/seab-link-issue-2-2026/sharing-knowledge-shaping-assessm
 - [ED attaches Rs 1.22 crore in assets in KPSC recruitment scam; Ex-Chairman, member, IAS officer under scanner - Big News Network.com] (14 Nov 2026 22:37, Big News Network.com) - ED attaches Rs 1.22 crore in assets in KPSC recruitment scam; Ex-Chairman, member, IAS officer under scanner &nbsp;&nbsp
 
 ## News search: National CBT centre network NEET
-- [NTA Exam Centre Application 2026 Begins: Check Eligibility and Infrastructure Criteria - Telegraph India] (09 Nov 2026 12:21, Telegraph India) - NTA Exam Centre Application 2026 Begins: Check Eligibility and Infrastructure Criteria &nbsp;&nbsp; Telegraph India
 - [NTA plans exam centres in every district under 'One District, One Hub' initiative - EdexLive] (13 Nov 2026 10:00, EdexLive) - NTA plans exam centres in every district under 'One District, One Hub' initiative &nbsp;&nbsp; EdexLive
-- [NTA invites institutions to host exams; 285 workstations required for CBT - India Today] (09 Nov 2026 08:38, India Today) - NTA invites institutions to host exams; 285 workstations required for CBT &nbsp;&nbsp; India Today
-- [NTA Expands Exam Centres: Schools & Colleges Can Now Host NEET Tests - medadmit.in] (09 Nov 2026 10:33, medadmit.in) - NTA Expands Exam Centres: Schools & Colleges Can Now Host NEET Tests &nbsp;&nbsp; medadmit.in
 - [Education Ministry plans standardised exam centres in every district; NTA to create pool of independent... - Moneycontrol.com] (12 Nov 2026 15:26, Moneycontrol.com) - Education Ministry plans standardised exam centres in every district; NTA to create pool of independent... &nbsp;&nbsp; Moneycontr
 - [After NEET-UG row, NTA taps retired armed forces officers as exam observers - The Assam Tribune] (12 Nov 2026 15:11, The Assam Tribune) - After NEET-UG row, NTA taps retired armed forces officers as exam observers &nbsp;&nbsp; The Assam Tribune
 
