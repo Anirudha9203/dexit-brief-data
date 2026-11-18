@@ -1,4 +1,4 @@
-# Scrape 18 Nov 2026 09:48 IST
+# Scrape 18 Nov 2026 09:50 IST
  (compact digest; full file: data/latest.md)
 
 ## Fetch status
@@ -14,7 +14,7 @@
 - HT Employment News: 200 (30 items)
 - HT Board Exams: 200 (28 items)
 - HT Exam Results: 200 (30 items)
-- Indian Express Education: 403 (0 items)
+- Indian Express Education: 200 (52 items)
 - Inshorts Education: 200 (10 items)
 - Careers360 Exam News: 200 (10 items)
 - Free Press Journal Education: 200 (20 items)
@@ -33,13 +33,12 @@
 - Patrika Patna news: 200 (21 items)
 - World Assessment Council M&A: 200 (25 items)
 - Elets digitalLEARNING: 200 (41 items)
-- Kerala Kaumudi Kerala general: 403 (0 items)
+- Kerala Kaumudi Kerala general: 500 (0 items)
 - Inspera press releases: 403 (0 items)
 - Edtech Innovation Hub news: 200 (29 items)
 - IT Brief UK: 406 (0 items)
-- Bidvane UK education tenders: 403 (0 items)
-- RSS: Indian Express Education: 403 (0 items)
-- RSS: HT Education RSS: 406 (0 items)
+- RSS: Indian Express Education: 200 (60 items)
+- RSS: HT Education RSS: 200 (23 items)
 - RSS: TOI Education: 200 (20 items)
 - RSS: The Hindu Education: 200 (60 items)
 - News search: CBT exam agency contract India: 200 (0 items)
@@ -57,12 +56,12 @@
 - News search: Aptech order CBT: 200 (0 items)
 - News search: Sify exam CBT: 200 (0 items)
 - News search: MeritTrac: 200 (0 items)
-- News search: Mettl assessment: 200 (2 items)
+- News search: Mettl assessment: 200 (3 items)
 - News search: Sanskriti Enterprises exam: 200 (0 items)
 - News search: BSSC CBT agency: 200 (0 items)
 - News search: state public service commission CBT agency selected: 200 (0 items)
 - News search: online exam proctoring Middle East ministry of education: 200 (2 items)
-- News search: Saudi Arabia digital exam platform: 200 (8 items)
+- News search: Saudi Arabia digital exam platform: 200 (9 items)
 - News search: UAE online assessment national exam: 200 (0 items)
 - News search: Singapore digital assessment exam: 200 (2 items)
 - News search: UK on-screen assessment exam board: 200 (11 items)
@@ -75,7 +74,7 @@
 - News search: Hiring of technology consultants for CBT exams: 200 (6 items)
 - News search: SEAB e-Examinations: 200 (0 items)
 - News search: CBSE on-screen marking Coempt penalty: 200 (0 items)
-- News search: Bihar daroga exam leak EOU: 429 (0 items)
+- News search: Bihar daroga exam leak EOU: 200 (0 items)
 - News search: Kerala PSC exam irregularities Crime Branch: 200 (4 items)
 - News search: WAEC computer-based testing: 200 (1 items)
 - News search: Excelsoft Saras proctoring: 200 (0 items)
@@ -107,18 +106,18 @@
 - Jagran Josh: 7
 - The Times of India: 5
 - FreeJobAlert.Com: 5
+- Investing.com: 4
 - 아시아경제: 3
+- Inventiva: 3
 - The Indian Express: 3
 - Yahoo Finance: 3
-- Investing.com: 3
 - Moneycontrol.com: 2
-- Inventiva: 2
 - The Straits Times: 2
 - 재경일보: 2
 - TradingView: 2
 - News18: 2
-- Investing.com India: 2
 - The New Indian Express: 2
+- Investing.com India: 2
 - Onmanorama: 2
 - Mid-Day: 2
 - Free Press Journal: 2
@@ -133,6 +132,7 @@
 - MarketScale: 1
 - vatcalc.com: 1
 - Gulf Business: 1
+- KrASIA: 1
 - Healthcare Asia Magazine: 1
 - entARABI: 1
 - Gulf Daily News (Bahrain): 1
@@ -150,7 +150,6 @@
 - Tori News: 1
 - Daily Post Nigeria: 1
 - CERN Courier: 1
-- IMDb: 1
 - audioXpress: 1
 - The Jakarta Post: 1
 - The Korea Times: 1
@@ -167,7 +166,6 @@
 ## Carried over from scrapes of the previous 3 days (no longer on the pages today; covers weekends)
 - [Singapore-India Hackathon 2026 begins with 120 students tackling real-world challenges The Singapore-India Hackathon 2026 has brought together 120 students from 55 institutions to develop solutions to real-world challenges. Organised by SMU, AICTE and India's Ministry of Education, the three-day 
 - [NMC to introduce rank-based system for NEET-PG counselling The National Medical Commission (NMC) has given in-principle approval to replace percentile-based NEET-PG and NEET-SS counselling with a rank-based merit system. Under the proposed regulation, results would declare candidates’ ranks witho
-- [Brother-Sister duo cracks UPSC: Father’s sacrifice helps siblings become IAS and IPS officers](https://www.hindustantimes.com/education/success-stories/brothersister-duo-cracks-upsc-father-s-25-year-sacrifice-helps-siblings-become-ias-and-ips-officers-know-their-journey-101794903257584.html) (202
 - [JEE Failure to ₹9 Crore Funding: IIT Madras student Kuldeep Rathore’s remarkable startup journey](https://www.hindustantimes.com/education/success-stories/jee-advanced-failure-to-9-crore-funding-iit-madras-student-kuldeep-rathore-s-remarkable-startup-journey-101793013338460.html) (2026-11-17, HT 
 - [JEE Advanced aspirants seek increase in number of attempts from 2 to 3](https://www.hindustantimes.com/cities/mumbai-news/increase-no-of-attempts-for-jee-advanced-from-2-to-3-iit-aspirants-101791917084744.html) (2026-11-17, HT Education)
 - [TNPSC Group 4 Recruitment 2026: Registration begins for CCSE, direct link to apply for 6574 posts](https://www.hindustantimes.com/education/employment-news/tnpsc-group-4-recruitment-2026-registration-begins-for-ccse-at-tnpsc-gov-in-direct-link-here-to-apply-for-6574-posts-101791522204722.html) (2
@@ -262,9 +260,6 @@
 - [From selling vegetables with his mother to becoming an IPS officer: Sharan Kamble’s UPSC journey](https://www.hindustantimes.com/education/success-stories/from-selling-vegetables-with-his-mother-to-becoming-an-ips-officer-sharan-kamble-s-inspiring-upsc-journey-101794558565492.html) (2026-11-15, H
 - [UGC NET December 2026: Registration date extended to October 31, apply at ugcnet.nta.nic.in](https://www.hindustantimes.com/education/competitive-exams/ugc-net-december-2026-registration-date-extended-to-october-31-apply-at-ugcnetntanicin-101793247623545.html) (2026-11-15, HT Competitive Exams)
 - [BPSC TRE 4.0: Vacancies increased to 33,320, apply till October 26 at bpsc.bih.nic.in](https://www.hindustantimes.com/education/employment-news/bpsc-tre-4-0-vacancies-increased-to-33-320-apply-till-october-26-at-bpscbihnicin-101791349262532.html) (2026-11-15, HT Employment News)
-- [JEE Advanced 2027 to be held on May 23: IIT Delhi announces](https://indianexpress.com/article/education/jee-advanced-2027-exam-date-out-iit-delhi-eligibility-criteria-registration-link-cut-offs-jeeadv-ac-in-10961863/) (2026-11-15, Indian Express Education)
-- [In a first, Keralam allows extra time for type-1 diabetes candidates in KEAM, goes beyond JEE, CBSE norms](https://indianexpress.com/article/education/kerala-keam-2027-extra-time-type-1-diabetes-rules-compared-nta-jee-main-neet-ug-cbse-board-exam-rules-10961305/) (2026-11-15, Indian Express Educa
-- [AICTE Industry Fellowship 2027: Phase 2 applications open; Rs 1 lakh stipend on offer](https://indianexpress.com/article/education/aicte-industry-fellowship-programme-2027-phase-2-eligibility-stipend-apply-ifp-aicte-gov-in-10962946/) (2026-11-15, Indian Express Education)
 - [Jagan Mohan blames CM Naidu, Lokesh for Chittoor student suicide bid](https://inshorts.com/en/news/jagan-blames-naidu--lokesh-for-chittoor-student-suicide-bid-1794640306897) (2026-11-15, Inshorts Education)
 - [JEE Advanced 2027 on May 23; calculator allowed for first time](https://inshorts.com/en/news/jee-advanced-2027-on-may-23--calculator-allowed-for-first-time-1794639149389) (2026-11-15, Inshorts Education)
 - [NIFT 2027 registration deadline extended to November 24; apply at exams.nta.nic.in NIFTEE Registration 2027: Candidates seeking admission to NIFT programmes can now apply until November 24, with a late fee option available until November 29.](https://news.careers360.com/niftee-2027-registration-l
@@ -285,9 +280,6 @@
 - [McGraw Hill promotes Robin Lucas to President of Higher Education](https://www.edtechinnovationhub.com/news/mcgraw-hill-promotes-robin-lucas-to-president-of-higher-education) (2026-11-15, Edtech Innovation Hub news)
 - [MIT uses AI to rate harm across 1,500-plus reported AI incidents](https://www.edtechinnovationhub.com/news/mit-uses-ai-to-rate-harm-across-1500-plus-reported-ai-incidents) (2026-11-15, Edtech Innovation Hub news)
 - [Handshake expands AI push with StudentBench GRE tutor and three senior hires](https://www.edtechinnovationhub.com/news/handshake-expands-ai-push-with-studentbench-gre-tutor-and-three-senior-hires) (2026-11-15, Edtech Innovation Hub news)
-- [India wins five medals including two gold at International Astronomy Olympiad](https://indianexpress.com/article/education/india-wins-five-medals-international-astronomy-astrophysics-olympiad-junior-2026-jee-main-advanced-10957213/) (2026-11-15, RSS: Indian Express Education)
-- [AP SSC exam March 2027: Fee payment without fine closing this week](https://indianexpress.com/article/education/andhra-pradesh-ap-ssc-exam-march-2027-fee-payment-schedule-late-fine-important-schedule-10956253/) (2026-11-15, RSS: Indian Express Education)
-- [400 marks for research: Why DU teachers want fresh evaluation guidelines](https://indianexpress.com/article/education/delhi-university-fyup-du-4-year-ug-course-nep-2020-research-component-credit-sharing-campus-seat-10956051/) (2026-11-15, RSS: Indian Express Education)
 - [NTA invites schools, colleges to set up CBT, PPT exam centres; need 285 workstations](https://indianexpress.com/article/education/nta-invites-schools-colleges-set-up-cbt-ppt-exam-centres-jee-main-cuet-ugc-net-need-285-workstations-10955345/) (2026-11-15, RSS: Indian Express Education)
 - [‘I was the only student from my town to get an IIT seat’ | Life in an IIT](https://indianexpress.com/article/education/life-in-an-iit-hyderabad-celebrating-diwali-home-away-ek-bhaarat-club-jee-main-advanced-journey-10953461/) (2026-11-15, RSS: Indian Express Education)
 - [Maharashtra Board SSC, HSC Exam Dates 2027 Out: Check MSBSHSE schedule for Class 10, 12](https://indianexpress.com/article/education/maharashtra-board-ssc-hsc-exam-dates-2027-out-check-msbshse-schedule-class-10th-12th-shift-timings-10954630/) (2026-11-15, RSS: Indian Express Education)
@@ -396,6 +388,14 @@
 - [UGC NET Result 2026 LIVE: NTA to declare UGC NET June results to be out soon](https://www.hindustantimes.com/education/exam-results/nta-ugc-net-result-2026-live-updates-student-june-session-student-scorecard-final-key-direct-link-ugcnet-nta-nic-in-101787810167918.html)
 - [UGC NET 2026 Result, Final Answer Key releasing this week: NTA](https://www.hindustantimes.com/education/exam-results/ugc-net-2026-result-final-answer-key-releasing-this-week-at-ugcnet-nta-nic-in-nta-101787729103610.html)
 - [UPSC CAPF Result 2026 for written test declared, direct link here](https://www.hindustantimes.com/education/exam-results/upsc-capf-result-2026-for-written-test-declared-direct-link-to-check-roll-numbers-here-101787717344251.html)
+
+## Indian Express Education
+- [States to Nandan Nilekani task force: Give weightage to Class 12 board exam scores in NEET](https://indianexpress.com/article/education/nandan-nilekani-task-force-neet-exam-reforms-class-12-board-marks-weightage-10965928/)
+- [NEET PG 2026 round 2 seat allotment result on Nov 17](https://indianexpress.com/article/education/neet-pg-counselling-2026-round-2-seat-allotment-result-declared-direct-link-check-mcc-nic-in-10964895/)
+- [UPSC pushes AI-driven exam security, seeks uniform recruitment standards across states](https://indianexpress.com/article/education/upsc-civil-services-exam-ai-authentication-government-jobs-recruitment-reforms-10966223/) - UPSC chairperson outlined recent initiatives of the Commission, including
+- [BSE Odisha Class 10th board exam 2027 dates out; first exam on March 12](https://indianexpress.com/article/education/odisha-class-10th-board-exam-2027-dates-out-march-12-bseodisha-nic-in-subject-wise-exam-schedule-download-pdf-10963702/) - BSE conducts the Odisha Class 10th board exams 2027 for a
+- [AICTE Industry Fellowship 2027: Phase 2 applications open; Rs 1 lakh stipend on offer](https://indianexpress.com/article/education/aicte-industry-fellowship-programme-2027-phase-2-eligibility-stipend-apply-ifp-aicte-gov-in-10962946/) - AICTE Industry Fellowship 2026-27: The screening and selectio
+- [Four calculations behind Putin’s bid for a table for three in Shenzhen](https://indianexpress.com/article/opinion/columns/c-raja-mohan-putin-bid-for-a-table-for-three-xi-trump-shenzhen-10966949/)
 
 ## Inshorts Education
 - [Delhi court to rule on charges in NEET-UG paper leak case](https://inshorts.com/en/news/delhi-court-to-rule-on-charges-in-neet-ug-paper-leak-case-1794971107899)
@@ -538,6 +538,16 @@ https://www.seab.gov.sg/seab-link-issue-2-2026/sharing-knowledge-shaping-assessm
 - [Google appoints Anne Claire Grammer to senior Gemini mental health safety role](https://www.edtechinnovationhub.com/news/google-appoints-anne-claire-grammer-to-senior-gemini-mental-health-safety-role)
 - [Clément Brenot joins McGill to lead new Growth Lab focused on Canada and Québec](https://www.edtechinnovationhub.com/news/clment-brenot-joins-mcgill-to-lead-new-growth-lab-focused-on-canada-and-qubec)
 
+## RSS: Indian Express Education
+- [IIT Delhi to hold JEE Advanced 2027 on May 23; candidates to get on-screen calculator](https://indianexpress.com/article/education/jee-advanced-2027-exam-date-out-iit-delhi-eligibility-criteria-registration-link-cut-offs-jeeadv-ac-in-10961863/) (13 Nov 2026 17:22)
+- [Keralam allows extra time for type-1 diabetes candidates in KEAM, goes beyond JEE, CBSE norms](https://indianexpress.com/article/education/kerala-keam-2027-extra-time-type-1-diabetes-rules-compared-nta-jee-main-neet-ug-cbse-board-exam-rules-10961305/) (13 Nov 2026 13:59)
+- [India wins five medals including two gold at International Astronomy Olympiad](https://indianexpress.com/article/education/india-wins-five-medals-international-astronomy-astrophysics-olympiad-junior-2026-jee-main-advanced-10957213/) (10 Nov 2026 10:48)
+- [AP SSC exam March 2027: Fee payment without fine closing this week](https://indianexpress.com/article/education/andhra-pradesh-ap-ssc-exam-march-2027-fee-payment-schedule-late-fine-important-schedule-10956253/) (09 Nov 2026 13:50)
+- [400 marks for research: Why DU teachers want fresh evaluation guidelines](https://indianexpress.com/article/education/delhi-university-fyup-du-4-year-ug-course-nep-2020-research-component-credit-sharing-campus-seat-10956051/) (09 Nov 2026 13:00)
+
+## RSS: HT Education RSS
+- [Brother-Sister duo cracks UPSC: Father’s 25-year sacrifice helps siblings become IAS and IPS officers- know their journey](https://www.hindustantimes.com/education/success-stories/brothersister-duo-cracks-upsc-father-s-25-year-sacrifice-helps-siblings-become-ias-and-ips-officers-know-their-journe
+
 ## RSS: TOI Education
 - [RIMCEE 2026 city intimation slip released for Class 8 admissions; direct link to download here](https://timesofindia.indiatimes.com/education/news/rimcee-2026-city-intimation-slip-released-for-class-8-admissions-direct-link-to-download-here/articleshow/135946451.cms) (2026-11-18T08:37:26+05:30) -
 - [SSC CHSL Final Answer Key 2026 released: Tier-II response sheet and marks available at ssc.gov.in](https://timesofindia.indiatimes.com/education/news/ssc-chsl-final-answer-key-2026-released-tier-ii-response-sheet-and-marks-available-at-ssc-gov-in/articleshow/135945690.cms) (2026-11-18T07:52:44+05
@@ -593,7 +603,6 @@ https://www.seab.gov.sg/seab-link-issue-2-2026/sharing-knowledge-shaping-assessm
 
 ## News search: Prometric OR "Pearson VUE" OR PSI OR Meazure
 - [Prometric Unveils ProGuardian(TM) to Expand Global Exam Security with Over 26,000 Additional Cameras and Expert-Led Review - Yahoo Finance] (12 Nov 2026 18:30, Yahoo Finance) - Prometric Unveils ProGuardian(TM) to Expand Global Exam Security with Over 26,000 Additional Cameras and Expert-Led Revi
-- [Psi (2014) - IMDb] (17 Nov 2026 21:57, IMDb) - Psi (2014) &nbsp;&nbsp; IMDb
 - [PSI Audio Introduces AVAA C225 High-Power Active Bass Trap for Home Cinemas and High-End Listening Rooms - audioXpress] (16 Nov 2026 14:05, audioXpress) - PSI Audio Introduces AVAA C225 High-Power Active Bass Trap for Home Cinemas and High-End Listening Rooms &nbsp;&nbsp; audioXpress
 
 ## News search: Inspera OR Cirrus OR Surpass assessment
